@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:53:52Z",
+  "generated_at": "2026-10-24T14:55:43Z",
   "edition": "24 octobre 2026",
   "categories": [
     {
@@ -8,7 +8,7 @@
       "topics": [
         {
           "headline": "Brésil : duel serré Lula-Bolsonaro avant le second tour",
-          "summary": "Le second tour de la présidentielle brésilienne oppose Luiz Inacio Lula da Silva et Flavio Bolsonaro, fils de l’ancien président, dimanche 25 octobre. Après deux débats télévisés, le premier marqué par des tensions, le second plus policé, les deux candidats restent au coude à coude dans les sondages. Les enjeux portent sur l’économie, la santé et les retraites, tandis que Flavio Bolsonaro est critiqué pour ses liens présumés avec des milices violentes à Rio. Les réseaux sociaux amplifient l’influence de nouveaux profils politiques, souvent issus de la jeunesse conservatrice.",
+          "summary": "Le second tour de la présidentielle brésilienne oppose Luiz Inacio Lula da Silva et Flavio Bolsonaro, fils de l’ex-président, dimanche 25 octobre. Leur dernier débat, marqué par des tensions et des attaques personnelles, a montré un Lula plus offensif et un Flavio Bolsonaro plus policé. Les sondages restent indécis, avec des enjeux économiques et sécuritaires majeurs. Flavio Bolsonaro, critiqué pour ses liens avec des milices, tente de rassurer sur sa gestion future. Le scrutin s’annonce comme un choix entre stabilité et héritage politique controversé.",
           "sources": [
             "France 24",
             "RFI",
@@ -40,11 +40,12 @@
           ]
         },
         {
-          "headline": "Effondrement d’un immeuble au Kenya : 18 étages s’écroulent à Nairobi",
-          "summary": "Un immeuble en construction de 16 à 18 étages s’est effondré vendredi à Nairobi, dans le quartier dense d’Eastleigh. Les opérations de sauvetage se poursuivent, avec des craintes pour les personnes potentiellement coincées sous les décombres. L’événement soulève des questions sur les normes de construction dans la capitale kényane, où les projets immobiliers se multiplient sans toujours respecter les règles de sécurité.",
+          "headline": "Kenya : effondrement d’un immeuble à Nairobi fait des disparus",
+          "summary": "Un immeuble de 18 étages en construction s’est effondré vendredi à Nairobi, dans le quartier dense d’Eastleigh, laissant craindre de nombreuses victimes sous les décombres. Les secours mobilisés peinent à localiser les personnes coincées. L’événement survient dans un contexte de précarité urbaine et de risques liés aux constructions informelles. Le bilan humain reste incertain, mais les opérations de sauvetage se poursuivent.",
           "sources": [
             "France 24",
-            "RFI"
+            "RFI",
+            "BBC"
           ],
           "links": [
             {
@@ -54,12 +55,59 @@
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/afrique/20261023-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-%C3%A0-nairobi"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "headline": "Yémen : frappes saoudiennes à Sanaa font quatre morts",
-          "summary": "Des frappes menées par la coalition militaire dirigée par l’Arabie saoudite ont tué au moins quatre personnes à Sanaa, capitale contrôlée par les houthis. Ces attaques surviennent après l’interception de trois missiles houthis tirés vers des villes saoudiennes, dont Riyad. Le conflit au Yémen, entré dans sa dixième année, s’intensifie malgré les appels internationaux à un cessez-le-feu.",
+          "headline": "Cisjordanie : expulsions palestiniennes et tensions avant les législatives israéliennes",
+          "summary": "L’armée israélienne a déplacé entre 150 et 250 familles palestiniennes à Hébron, en Cisjordanie, après une attaque meurtrière ayant fait cinq blessés israéliens et deux morts palestiniens. Ces expulsions, ordonnées par Benjamin Netanyahu, s’inscrivent dans un contexte de montée des violences et à quelques jours des élections législatives israéliennes du 27 octobre. L’Autorité palestinienne demande une intervention internationale, tandis que des destructions de constructions palestiniennes jugées illégales sont signalées.",
+          "sources": [
+            "20 Minutes",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/israel/4257205-20261024-cisjordanie-armee-israelienne-deplace-palestiniens-autorite-palestinienne-demande-action-internationale-urgente?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-occup%C3%A9e-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque"
+            }
+          ],
+          "angles": "20 Minutes et France 24 insistent sur l’urgence humanitaire et la réaction internationale, tandis que France 24 met en avant le contexte sécuritaire et électoral israélien."
+        },
+        {
+          "headline": "États-Unis : enjeux électoraux des midterms et soutien à Israël",
+          "summary": "À l’approche des élections de mi-mandat du 3 novembre, le redécoupage électoral (gerrymandering) et le soutien à Israël deviennent des sujets clés. Les démocrates et républicains divergent sur la position de Washington envers le gouvernement israélien, un thème qui influence les indécis. Parallèlement, Donald Trump tente de mobiliser ses soutiens via des stratégies partisanes, tandis que des débats sur l’immigration et l’économie animent la campagne. Les midterms pourraient redessiner l’équilibre au Congrès.",
+          "sources": [
+            "RFI",
+            "Libération",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/culture-et-idees/241026/aux-etats-unis-comment-la-religion-accompagne-l-extractivisme"
+            }
+          ],
+          "angles": "RFI met l’accent sur les manipulations électorales, tandis que Libération souligne la polarisation autour de la question israélienne et son impact sur les électeurs."
+        },
+        {
+          "headline": "Yémen : frappes saoudiennes à Sanaa font des morts",
+          "summary": "Des frappes menées par la coalition militaire dirigée par l’Arabie saoudite ont fait au moins quatre morts à Sanaa, capitale contrôlée par les houthis. Ces attaques surviennent après l’interception de missiles houthis visant des villes saoudiennes, dont Riyad. Le conflit au Yémen, entré dans sa huitième année, s’intensifie malgré les appels à un cessez-le-feu. Les tensions régionales persistent, avec des risques d’escalade.",
           "sources": [
             "Le Monde"
           ],
@@ -71,8 +119,8 @@
           ]
         },
         {
-          "headline": "Taïwan : typhon Champi fait un mort et 5 000 évacuations",
-          "summary": "Le super-typhon Champi a frappé Taïwan vendredi, causant un mort et provoquant l’évacuation de près de 5 000 personnes. Plus de 56 000 foyers restent sans électricité. Affaibli, le typhon se dirige désormais vers la Chine et le Japon, après avoir atteint une intensité exceptionnelle, potentiellement aggravée par le réchauffement climatique.",
+          "headline": "Taïwan : typhon Champi provoque mort et évacuations massives",
+          "summary": "Le typhon Champi, affaibli après avoir frappé Taïwan, a causé un mort et entraîné l’évacuation de près de 5 000 personnes. Plus de 56 000 foyers restent sans électricité, tandis que le phénomène météorologique se dirige vers la Chine et le Japon. Son intensité exceptionnelle a été favorisée par des conditions climatiques particulières. Les autorités taïwanaises maintiennent une vigilance accrue.",
           "sources": [
             "France 24"
           ],
@@ -90,13 +138,98 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Cessez-le-feu à Olechky sous médiation américaine",
-          "summary": "La Première dame américaine Melania Trump annonce un cessez-le-feu dans la ville ukrainienne d'Olechky, occupée par la Russie depuis 2022 et en crise humanitaire. Moscou et Kiev confirment l'accord. La situation critique des vivres et médicaments a poussé à cette initiative diplomatique.",
+          "headline": "Incendie criminel du Nid d'Aigle en Bavière",
+          "summary": "Un incendie a ravagé le Kehlsteinhaus, ancien refuge d'Adolf Hitler en Allemagne, vendredi 23 octobre. Un suspect a été arrêté. Environ 200 pompiers ont été mobilisés pour éteindre le feu, déclenché peu avant 22 heures. La piste d'un acte criminel est examinée.",
           "sources": [
+            "Euronews",
+            "RFI",
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/un-incendie-ravage-lancien-refuge-du-nid-daigle-dhitler-en-allemagne"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261024-allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aigle-un-suspect-arr%C3%AAt%C3%A9"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/allemagne/la-residence-de-villegiature-d-adolphe-hitler-le-nid-d-aigle-incendiee-en-baviere-un-suspect-arrete_8251921.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine : rétablissement partiel de Starlink",
+          "summary": "L'Ukraine affirme avoir retrouvé une connexion stable au système Starlink, essentielle pour ses opérations militaires et logistiques. La vitesse de connexion dépasserait 400 km/h, selon Kiev. Des tensions récentes entre Volodymyr Zelensky et les États-Unis avaient perturbé l'accès. Les autorités américaines et Elon Musk évoquent des restrictions persistantes.",
+          "sources": [
+            "20 Minutes",
+            "France Info",
+            "France 24",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4257204-20261024-guerre-ukraine-kiev-dit-avoir-nouveau-connexion-stable-systeme-starlink?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "France Info et 20 Minutes soulignent le rétablissement comme une victoire stratégique, tandis que la BBC et France 24 questionnent le contrôle réel du système par les États-Unis et Musk."
+        },
+        {
+          "headline": "Hongrie : commémoration des 70 ans de la révolution de 1956",
+          "summary": "Le Premier ministre Péter Magyar a célébré les 70 ans du soulèvement hongrois contre l'URSS, marquant une « Europe libre et démocratique ». Les cérémonies à Budapest ont réuni drapeaux et hommages, malgré des divisions persistantes dans la population. Ursula von der Leyen a défendu les valeurs démocratiques lors d'une intervention au Parlement.",
+          "sources": [
+            "Le Monde",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-hongrie-lors-des-ceremonies-des-70-ans-de-la-revolution-de-1956-peter-magyar-celebre-une-nouvelle-ere-pour-le-pays_6799667_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/hongrie-70-ans-apres-la-repression-sovietique-les-dirigeants-honorent-les-victimes"
+            }
+          ]
+        },
+        {
+          "headline": "Cessez-le-feu à Olechky : rôle controversé de Melania Trump",
+          "summary": "Un cessez-le-feu est prévu le 29 octobre à Olechky, ville ukrainienne occupée par la Russie et en crise humanitaire. Melania Trump a annoncé l'accord, salué par le Kremlin. Les médias divergent sur son implication réelle, certains soulignant son rôle diplomatique informel, d'autres son manque de crédibilité après des déclarations antérieures.",
+          "sources": [
+            "France Info",
+            "Libération",
             "RFI",
             "France 24"
           ],
           "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM/"
+            },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky"
@@ -105,83 +238,56 @@
               "source": "France 24",
               "url": "https://www.france24.com/fr/europe/20261023-melania-trump-dit-avoir-obtenu-cessez-feu-dans-ville-ukrainienne-pleine-crise-humanitaire"
             }
-          ]
+          ],
+          "angles": "France Info et Libération mettent en avant l'annonce de Melania Trump comme fait central, tandis que RFI et France 24 ajoutent une confirmation des parties ukrainienne et russe, nuancant son impact."
         },
         {
-          "headline": "Manifestations en Europe : tensions et répression",
-          "summary": "Des rassemblements sont dispersés à Lyon et Milan sous haute surveillance policière, avec gaz lacrymogène et déploiement militaire. En Italie, des manifestations contre la vie chère et l'austérité sont prévues samedi, après des pillages et heurts violents la semaine dernière. En France, les syndicats dénoncent un itinéraire imposé pour la manifestation parisienne.",
+          "headline": "Serbie : mobilisation étudiante avant les législatives",
+          "summary": "Les élections législatives anticipées du 25 octobre en Serbie opposent le régime d'Aleksandar Vučić à un mouvement étudiant anticorruption. Né après l'effondrement d'une structure à Novi Sad en 2024, ce mouvement dépose sa propre liste et craint des fraudes. Les manifestants dénoncent un système autoritaire et réclament des réformes structurelles.",
+          "sources": [
+            "Le Figaro",
+            "France Info",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/les-etudiants-veulent-faire-la-revolution-en-serbie-la-gen-z-en-marche-contre-aleksandar-vucic-avant-les-legislatives-20261024"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261024-l%C3%A9gislatives-anticip%C3%A9es-en-serbie-les-%C3%A9tudiants-redoutent-la-fraude-%C3%A9lectorale-et-se-pr%C3%A9parent-aux-contr%C3%B4les"
+            }
+          ],
+          "angles": "Le Figaro et France Info insistent sur la dimension révolutionnaire du mouvement, tandis que RFI met en avant le contexte des fraudes électorales passées et la préparation aux contrôles."
+        },
+        {
+          "headline": "Manifestations en Italie : colère sociale et répression",
+          "summary": "L'Italie connaît une vague de protestations contre la vie chère et les politiques d'austérité, avec des manifestations prévues samedi 24 octobre à Milan, Rome et autres villes. Les autorités anticipent des heurts, déployant soldats, drones et hélicoptères après des pillages la semaine précédente. Les motifs incluent le pouvoir d'achat, le réarmement et l'abandon de la jeunesse.",
           "sources": [
             "Euronews",
-            "France 24",
-            "Toute l'Europe"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/24/lyon-la-police-disperse-des-manifestants-au-gaz-lacrymogene-devant-luniversite-jean-moulin"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/economie-et-social/de-nouvelles-manifestations-attendues-dans-plusieurs-pays-europeens-samedi/"
-            }
-          ],
-          "angles": "Euronews met l'accent sur la dimension sécuritaire et les mesures préventives (bloc 3, 8), tandis que France 24 et Toute l'Europe soulignent la colère sociale et les réactions politiques (blocs 7, 24, 25)."
-        },
-        {
-          "headline": "Attaque ukrainienne en Russie : trois morts dans une usine",
-          "summary": "Une frappe ukrainienne sur une usine dans la région russe d'Oriol a fait trois morts et cinq blessés graves, selon les autorités locales. L'attaque survient dans un contexte de guerre prolongée et de tensions accrues entre Kiev et Moscou.",
-          "sources": [
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/24/des-images-montrent-des-colonnes-de-fumee-apres-une-frappe-meurtriere-sur-une-usine-russe"
-            }
-          ]
-        },
-        {
-          "headline": "Budget européen 2028-2034 : blocages entre États membres",
-          "summary": "Les Vingt-Sept ne parviennent pas à s'accorder sur le budget à long terme de l'UE, proposé à 2 000 milliards d'euros (1,26 % du PIB européen). Les désaccords portent sur les recettes et les priorités de dépenses, avec des tensions entre frugalité et ambition stratégique.",
-          "sources": [
+            "RFI",
             "France 24"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261023-la-bataille-pour-le-budget-%C3%A0-long-terme-de-l-ue-vers-une-europe-frugale-ou-ambitieuse"
-            }
-          ]
-        },
-        {
-          "headline": "Roumanie : deux attaques au couteau dans des écoles",
-          "summary": "Deux agressions à l’arme blanche ont eu lieu en moins d’une semaine dans des établissements scolaires roumains, faisant quatre blessés. L’une des attaques serait liée à la mouvance True Crime Community, déjà suspectée dans une fusillade à Aubagne (France) le 12 octobre.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/23/roumanie-deux-attaques-au-couteau-dont-l-une-en-lien-avec-la-mouvance-true-crime-community-ont-fait-quatre-blesses-dans-des-ecoles_6799140_3210.html"
-            }
-          ]
-        },
-        {
-          "headline": "UE cherche à élargir son rôle dans les pourparlers Ukraine-Russie",
-          "summary": "Bruxelles souhaite intégrer l’UE aux prochains cycles de pourparlers de paix entre l’Ukraine, la Russie et les États-Unis, afin d’accroître son influence et peser sur la position américaine. Cette initiative vise à multilatéraliser les négociations.",
-          "sources": [
-            "Euronews"
-          ],
-          "links": [
-            {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/23/ukraine-russie-lue-veut-elargir-son-role-dans-les-pourparlers-de-paix-pour-peser-sur-washi"
+              "url": "https://fr.euronews.com/video/2026/10/24/des-soldats-patrouillent-milan-les-commerces-se-barricadent-avant-les-protestations"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261024-italie-les-%C3%A9tudiants-routiers-et-agriculteurs-poursuivent-les-manifestations-contre-la-hausse-du-co%C3%BBt-de-la-vie"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance"
             }
-          ]
+          ],
+          "angles": "Euronews et France 24 soulignent la dimension sécuritaire et les mesures répressives, tandis que RFI ajoute une analyse des causes structurelles (coût de la vie, politique de Meloni)."
         }
       ]
     },
@@ -191,7 +297,7 @@
       "topics": [
         {
           "headline": "Réélection de Bardella à la tête du RN",
-          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, sans opposition. L’événement marque une étape clé pour le parti en vue de l’élection présidentielle. Des manifestations anti-RN ont eu lieu en parallèle, avec des tensions et des incidents de sécurité. Le congrès a aussi été marqué par l’expulsion temporaire de journalistes de Mediapart.",
+          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, sans opposition. L’événement marque une étape clé pour le parti en vue de l’élection présidentielle. Des manifestations anti-RN ont eu lieu en parallèle, avec des tensions et des expulsions de journalistes. Le meeting de Marine Le Pen, prévu dimanche, clôture ce rassemblement. La sécurité a été renforcée pour éviter toute perturbation.",
           "sources": [
             "Euronews",
             "Le Figaro",
@@ -224,7 +330,7 @@
         },
         {
           "headline": "Attaque raciste dans les Yvelines : bilan et enquête",
-          "summary": "Un homme de 39 ans a tué une personne et blessé cinq autres, dont une fillette de 12 ans, lors d’une fusillade qualifiée d’« attentat terroriste raciste » à Trappes et La Verrière. Le suspect, connu des services de police, a été placé en garde à vue prolongée. Il aurait ciblé des personnes selon leur couleur de peau et évoqué une vengeance liée aux pillages du 17 octobre. Un exemplaire de Mein Kampf a été retrouvé chez lui.",
+          "summary": "Un homme de 39 ans, connu des services de police, a tué une personne et blessé cinq autres, dont une fillette de 12 ans, lors d’une fusillade qualifiée de terroriste et raciste à Trappes et La Verrière. Le suspect, en garde à vue prolongée, aurait ciblé des personnes selon leur couleur de peau et évoqué une vengeance liée aux pillages du 17 octobre. Une enquête pour « assassinat en relation avec une entreprise terroriste » est en cours. Un exemplaire de Mein Kampf a été retrouvé chez lui.",
           "sources": [
             "Le Figaro",
             "France Info",
@@ -256,8 +362,8 @@
           ]
         },
         {
-          "headline": "Mobilisations sociales : manifestations et répression",
-          "summary": "Une nouvelle journée de mobilisation a eu lieu samedi 24 octobre, une semaine après les violences du 17 octobre. Des heurts ont été signalés à Lyon, Nantes et Marseille, avec des tirs de gaz lacrymogène. À Paris, le cortège a suivi un parcours modifié pour éviter les dégradations. Les Gilets jaunes appellent à une nouvelle mobilisation le 31 octobre, dénonçant une « dérive autoritaire » du gouvernement.",
+          "headline": "Mobilisations du 24 octobre : calme relatif et tensions",
+          "summary": "Une semaine après les violences du 17 octobre, des manifestations ont eu lieu dans plusieurs villes, avec un dispositif policier massif (70 000 forces mobilisées). À Paris, le cortège a défilé sur un parcours modifié, sans incident majeur, tandis que des heurts ont éclaté à Lyon, Nantes et Marseille. Les commerçants craignent des dégradations, et des appels à la mobilisation d’extrême droite ont été signalés. Les Gilets jaunes appellent à une nouvelle journée de protestation le 31 octobre.",
           "sources": [
             "Le Figaro",
             "France 24",
@@ -280,18 +386,17 @@
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/economie/greve/enquete-defendre-les-commercants-derriere-les-appels-a-la-mobilisation-de-l-ultradroite-le-24-octobre-la-menace-de-violences_8251288.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/24/france-acte-ii-de-la-colere-sociale-la-manifestation-contre-le-congres-du-rn-debute-a-orle"
+              "url": "https://fr.euronews.com/video/2026/10/24/lyon-la-police-disperse-des-manifestants-au-gaz-lacrymogene-devant-luniversite-jean-moulin"
             }
-          ],
-          "angles": "Libération et France 24 insistent sur les tensions et la répression policière, tandis que Le Figaro analyse les stratégies du gouvernement pour éviter une répétition des violences du 17 octobre."
+          ]
         },
         {
-          "headline": "Dette française : Moody’s maintient la note Aa3 avec perspective négative",
-          "summary": "L’agence Moody’s a surpris en maintenant la note souveraine de la France à Aa3, malgré les attentes d’une dégradation. La perspective reste négative, reflétant les incertitudes budgétaires et politiques. Le gouvernement y voit un signal positif, mais les économistes alertent sur une « bombe à retardement » liée à la dette publique, désormais à 119,1 % du PIB.",
+          "headline": "Dette française : Moody’s maintient la note Aa3",
+          "summary": "L’agence Moody’s a maintenu la note souveraine de la France à Aa3, avec une perspective négative, contre les attentes d’une dégradation. Le gouvernement y voit un signal positif, malgré un contexte budgétaire tendu et des incertitudes persistantes. Les économistes estiment que cette décision ne résout pas les problèmes structurels de la dette, estimée à 119,1 % du PIB. Le ministre de l’Économie, Sébastien Lecornu, salue un « léger répit ».",
           "sources": [
             "Euronews",
             "Le Figaro",
@@ -323,8 +428,8 @@
           ]
         },
         {
-          "headline": "Libération de stocks de gazole pour baisser les prix",
-          "summary": "Un décret autorise la vente de 1,6 million de mètres cubes de gazole stratégique pour réduire les prix à la pompe de 12 à 18 centimes par litre. Les distributeurs doivent répercuter cette baisse dès le 1ᵉʳ novembre. Cette mesure vise à atténuer la hausse des coûts pour les ménages et les professionnels.",
+          "headline": "Mesures gouvernementales : baisse des prix du gazole",
+          "summary": "Un décret publié autorise la libération de 1,6 million de mètres cubes de stocks stratégiques de gazole pour réduire son prix de 12 à 18 centimes par litre à partir du 1er novembre. Les distributeurs doivent répercuter cette baisse immédiatement. Cette mesure vise à soulager les ménages face à la hausse des coûts énergétiques, dans un contexte de tensions sociales persistantes.",
           "sources": [
             "France Info",
             "Le Monde",
@@ -346,8 +451,8 @@
           ]
         },
         {
-          "headline": "Pénurie médicale : le gouvernement limite la pratique esthétique des médecins",
-          "summary": "Le gouvernement prépare un décret plafonnant à 30 % du temps de travail des médecins l’activité esthétique, le reste devant être consacré à leur spécialité d’origine. Cette mesure vise à lutter contre les déserts médicaux en incitant les praticiens à se consacrer davantage aux soins essentiels. Le secteur esthétique critique cette décision, craignant des pertes financières.",
+          "headline": "Réforme médicale : plafonnement des activités esthétiques",
+          "summary": "Le gouvernement prépare un décret limitant à 30 % du temps de travail des médecins la pratique d’actes esthétiques, le reste devant être consacré à leur spécialité d’origine. Cette mesure vise à lutter contre les déserts médicaux en incitant les praticiens à se consacrer davantage aux soins essentiels. Le projet suscite des critiques dans le secteur privé.",
           "sources": [
             "20 Minutes",
             "Libération"
