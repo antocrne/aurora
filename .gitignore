@@ -5,3 +5,4 @@ __pycache__/
 ios/build/
 xcuserdata/
 *.tmp
+ios/build-device/
