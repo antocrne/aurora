@@ -17,10 +17,11 @@ import requests
 BASE_URL = "https://api.mistral.ai/v1"
 CANDIDATES = [
     "ministral-14b-latest",
+    "magistral-small-latest",
+    "magistral-medium-latest",
+    "mistral-medium-3-5",
+    "mistral-medium-2604",
     "mistral-small-latest",
-    "ministral-8b-latest",
-    "ministral-3b-latest",
-    "open-mistral-nemo",
     "mistral-medium-latest",
     "mistral-large-latest",
 ]
