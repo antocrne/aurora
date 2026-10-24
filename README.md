@@ -14,6 +14,7 @@ flux RSS ──► backend Python ──► Mistral ──► docs/summaries.jso
 | `sources.py` | Flux RSS par catégorie, avec URLs de secours |
 | `fetcher.py` | Téléchargement parallèle et parsing des flux (retries, timeouts) |
 | `classifier.py` | Fenêtre de 24 h, regroupement des articles par sujet, choix de la catégorie |
+| `geography.py` | Contrôle du classement Monde / Europe / France d'après les lieux cités (Mistral départage les cas ambigus) |
 | `summarizer.py` | Prompt et appel de l'API Mistral (REST), validation du JSON renvoyé |
 | `main.py` | Orchestration et écriture de `docs/summaries.json` |
 

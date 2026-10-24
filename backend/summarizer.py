@@ -16,6 +16,7 @@ from typing import Dict, List, Sequence
 
 import requests
 
+import geography
 from classifier import Story
 from fetcher import Article
 from sources import all_source_names
@@ -315,12 +316,8 @@ Réponds au format JSON suivant, avec une entrée par sujet ("category" vaut "mo
 _PREFIXES = {"monde": "M", "europe": "E", "france": "F"}
 
 
-def check_placements(written: Dict[str, List[Dict[str, object]]], model: str = "") -> int:
-    """Relit le classement de tous les sujets et déplace ceux qui sont mal rangés.
-
-    Un sujet déplacé vers une rubrique déjà pleine est retiré ; une rubrique
-    n'est jamais vidée. Renvoie le nombre de sujets déplacés ou retirés.
-    """
+def _model_placements(written: Dict[str, List[Dict[str, object]]], model: str) -> Dict[str, str]:
+    """Avis de Mistral sur la rubrique de chaque sujet, indexé par « M1 », « E2 »…"""
     lines = []
     for category, topics in written.items():
         for index, topic in enumerate(topics, start=1):
@@ -332,37 +329,56 @@ def check_placements(written: Dict[str, List[Dict[str, object]]], model: str = "
         placements = json.loads(content).get("placements", [])
     except (json.JSONDecodeError, AttributeError) as exc:
         raise SummarizerError(f"Réponse de vérification invalide : {exc}") from exc
-
-    targets = {
+    return {
         str(p.get("id", "")).strip().upper(): str(p.get("category", "")).strip().lower()
         for p in placements
         if isinstance(p, dict)
     }
+
+
+def check_placements(
+    written: Dict[str, List[Dict[str, object]]], model: str = "", ask_model: bool = True
+) -> int:
+    """Vérifie la rubrique de chaque sujet et déplace ceux qui sont mal rangés.
+
+    Le contrôle géographique (geography.py) fait foi quand il est net ; Mistral
+    ne départage que les cas ambigus. Un sujet déplacé vers une rubrique déjà
+    pleine est retiré, et une rubrique n'est jamais vidée. Renvoie le nombre
+    de sujets déplacés ou retirés.
+    """
+    model_views: Dict[str, str] = {}
+    if ask_model:
+        try:
+            model_views = _model_placements(written, model)
+        except SummarizerError as exc:
+            log.warning("Vérification par Mistral impossible, contrôle géographique seul : %s", exc)
+
     moves = []
     for category, topics in written.items():
         for index, topic in enumerate(topics, start=1):
-            target = targets.get(f"{_PREFIXES[category]}{index}")
-            if target in written and target != category:
-                moves.append((category, topic, target))
-    log.info(
-        "Vérification : %d avis reçus pour %d sujets, %d à déplacer (%s)",
-        len(targets),
-        len(lines),
-        len(moves),
-        ", ".join(f"{k}→{v}" for k, v in sorted(targets.items())),
-    )
+            verdict = geography.locate(str(topic["headline"]), str(topic["summary"]))
+            origin = "géographie"
+            if verdict is None:
+                verdict = model_views.get(f"{_PREFIXES[category]}{index}")
+                origin = "Mistral"
+            if verdict in written and verdict != category:
+                moves.append((category, topic, verdict, origin))
 
     changed = 0
-    for source, topic, target in moves:
+    for source, topic, target, origin in moves:
         if len(written[source]) <= 1:
             continue
         written[source].remove(topic)
         changed += 1
         if len(written[target]) < MAX_TOPICS:
             written[target].append(topic)
-            log.info("Vérification : « %s » déplacé de %s vers %s", topic["headline"], source, target)
+            log.info("Vérification (%s) : « %s » déplacé de %s vers %s", origin, topic["headline"], source, target)
         else:
-            log.info("Vérification : « %s » retiré de %s (rubrique %s pleine)", topic["headline"], source, target)
+            log.info(
+                "Vérification (%s) : « %s » retiré de %s (rubrique %s pleine)",
+                origin, topic["headline"], source, target,
+            )
+    log.info("Vérification du classement : %d sujet(s) déplacé(s) ou retiré(s)", changed)
     return changed
 
 

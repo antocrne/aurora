@@ -98,15 +98,12 @@ def run(dry_run: bool, output: Path, model: str, angles: bool = True) -> int:
         covered.extend(str(topic["headline"]) for topic in topics)
         written[category] = topics
 
-    # Contrôle : un second appel relit le classement de tous les sujets (un
-    # article de « Toute l'Europe » sur Israël, par exemple, relève de Monde).
-    # Un échec de ce contrôle ne bloque pas l'édition.
+    # Contrôle du classement (un article de « Toute l'Europe » sur Israël
+    # relève de Monde) : géographie d'abord, Mistral pour les cas ambigus.
+    # Un échec de Mistral ici ne bloque pas l'édition.
     if not dry_run:
         time.sleep(PAUSE_BETWEEN_CALLS)
-        try:
-            check_placements(written, model)
-        except SummarizerError as exc:
-            log.warning("Vérification du classement impossible : %s", exc)
+    check_placements(written, model, ask_model=not dry_run)
     categories = [
         {"id": c, "label": CATEGORY_LABELS[c], "topics": written[c]} for c in CATEGORY_ORDER
     ]
