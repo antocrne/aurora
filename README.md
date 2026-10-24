@@ -44,7 +44,7 @@ France 24 Europe/France, RFI Europe et Le Figaro Politique ont été ajoutés po
 
 ## Publication (GitHub Actions + Pages)
 
-1. Dans *Settings → Secrets and variables → Actions*, ajouter le secret `MISTRAL_API_KEY`. Facultatif : une variable `MISTRAL_MODEL`.
+1. Dans *Settings → Secrets and variables → Actions*, ajouter le secret `AURORA_KEY` (clé d'API Mistral). Facultatif : une variable `MISTRAL_MODEL`.
 2. Dans *Settings → Pages*, servir la branche `main`, dossier `/docs`.
 3. Le workflow [`.github/workflows/daily.yml`](.github/workflows/daily.yml) tourne chaque jour à 6 h UTC (et à la demande depuis l'onglet *Actions*).
 
