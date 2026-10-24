@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:28:55Z",
+  "generated_at": "2026-10-24T14:45:45Z",
   "edition": "24 octobre 2026",
   "categories": [
     {
@@ -7,54 +7,131 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Brésil : duel serré Lula-Bolsonaro avant second tour",
-          "summary": "Le second débat télévisé entre Luiz Inacio Lula da Silva et Flavio Bolsonaro, à égalité dans les sondages, a révélé un Lula plus offensif et un Bolsonaro plus policé mais maladroit sur une attaque personnelle. Le scrutin du 25 octobre pourrait basculer en faveur de l’un ou l’autre. Les réseaux sociaux jouent un rôle clé, avec l’ascension de jeunes candidats influents, notamment chez les conservateurs. Les enjeux économiques et sociaux dominent la campagne.",
+          "headline": "Brésil : duel serré Lula-Bolsonaro avant le second tour",
+          "summary": "Le second tour de la présidentielle brésilienne oppose dimanche 25 octobre Luiz Inacio Lula da Silva et Flavio Bolsonaro, fils de l’ancien président. Leur dernier débat, marqué par des tensions et des attaques personnelles, a montré un Lula plus offensif et un Bolsonaro plus policé. Les sondages donnent les deux candidats à égalité, avec des enjeux économiques et sécuritaires majeurs. Flavio Bolsonaro est critiqué pour ses liens présumés avec des milices violentes à Rio. Les réseaux sociaux jouent un rôle croissant dans cette élection.",
           "sources": [
-            "Le Monde",
-            "Libération",
+            "France 24",
             "RFI",
             "Le Figaro",
-            "France Info"
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-br%C3%A9sil-lula-et-bolsonaro-s-affrontent-dans-un-ultime-d%C3%A9bat-tendu-%C3%A0-la-veille-du-scrutin"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/presidentielle-au-bresil-duel-plus-serre-que-prevu-entre-lula-et-flavio-bolsonaro-20261023"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/bresil/le-bresil-va-t-il-elire-flavio-bolsonaro-candidat-a-la-presidentielle-considere-comme-proche-des-milices-ultra-violentes-de-rio-de-janeiro_8250889.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/presidentielle-au-bresil-flavio-bolsonaro-plus-police-lula-plus-offensif-lors-d-un-second-debat-crucial_6799678_3210.html"
+            }
           ]
         },
         {
-          "headline": "Incendie criminel au Nid d’Aigle d’Hitler en Bavière",
-          "summary": "Un incendie a ravagé l’ancien refuge d’Adolf Hitler, le Nid d’Aigle, en Bavière, jeudi soir. Un suspect a été arrêté, et les autorités enquêtent sur une possible origine criminelle. Les pompiers n’ont trouvé personne sur place, et le bâtiment a été entièrement détruit par les flammes. L’événement relance les débats sur la mémoire historique allemande.",
+          "headline": "Incendie criminel du 'Nid d’Aigle' en Allemagne",
+          "summary": "Le refuge d’Adolf Hitler, le Kehlsteinhaus ou 'Nid d’Aigle', a été ravagé par un incendie vendredi 23 octobre en Bavière. Un suspect a été arrêté, et les autorités examinent la piste d’un acte criminel. Environ 200 pompiers ont été mobilisés pour éteindre le feu, sans faire de victime. Ce bâtiment, symbole du régime nazi, était peu fréquenté et servait surtout de lieu de représentation.",
           "sources": [
             "Euronews",
             "RFI",
             "France Info",
             "Le Monde",
             "BBC"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/un-incendie-ravage-lancien-refuge-du-nid-daigle-dhitler-en-allemagne"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261024-allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aigle-un-suspect-arr%C3%AAt%C3%A9"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/allemagne/la-residence-de-villegiature-d-adolphe-hitler-le-nid-d-aigle-incendiee-en-baviere-un-suspect-arrete_8251921.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+            }
           ]
         },
         {
-          "headline": "Hongrie : 70 ans de la révolution de 1956, entre mémoire et divisions",
-          "summary": "Le Premier ministre Péter Magyar a célébré les 70 ans du soulèvement anti-soviétique à Budapest, marquant un retour à une « Europe libre et démocratique ». Six mois après la défaite de Viktor Orbán, la population reste divisée sur l’héritage politique du régime. Les cérémonies ont mis en avant des symboles nationaux, mais les tensions persistent entre réformistes et conservateurs.",
+          "headline": "Effondrement d’un immeuble au Kenya : 18 étages s’écroulent à Nairobi",
+          "summary": "Un immeuble de 18 étages en construction s’est effondré vendredi à Nairobi, dans le quartier dense d’Eastleigh. Les opérations de sauvetage se poursuivent, avec des craintes pour les personnes potentiellement coincées sous les décombres. L’événement survient dans un contexte de précarité urbaine et de risques liés aux constructions informelles. Aucune victime n’a été confirmée pour l’instant.",
+          "sources": [
+            "France 24",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-au-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-les-secours-mobilis%C3%A9s"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique/20261023-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-%C3%A0-nairobi"
+            }
+          ]
+        },
+        {
+          "headline": "Hongrie : commémoration des 70 ans de la révolution de 1956",
+          "summary": "Le Premier ministre Péter Magyar a célébré les 70 ans du soulèvement hongrois contre l’URSS, marquant un retour à une 'Europe libre et démocratique'. Les cérémonies à Budapest ont réuni des hommages aux victimes, tandis que la présidente de la Commission européenne, Ursula von der Leyen, a défendu les valeurs démocratiques. La population reste divisée, six mois après la défaite électorale de Viktor Orbán.",
           "sources": [
             "Le Monde",
             "Euronews"
-          ]
-        },
-        {
-          "headline": "Cisjordanie : opération israélienne après mort de soldats",
-          "summary": "Deux soldats israéliens tués vendredi en Cisjordanie ont déclenché une vaste opération militaire, incluant la destruction de constructions palestiniennes jugées illégales. Les tensions persistent dans une région déjà marquée par des violences récurrentes. Les autorités israéliennes justifient ces mesures par des raisons de sécurité, tandis que les Palestiniens dénoncent une escalade.",
-          "sources": [
-            "France 24"
-          ]
-        },
-        {
-          "headline": "Yémen : frappes saoudiennes à Sanaa font des morts",
-          "summary": "Des frappes saoudiennes ont tué au moins quatre civils à Sanaa, contrôlée par les houthis, alors que la coalition a intercepté trois missiles houthis visant des villes saoudiennes. Les tensions persistent dans un conflit qui s’enlise depuis des années. Les États-Unis, alliés de l’Arabie saoudite, n’ont pas réagi officiellement à ces frappes.",
-          "sources": [
-            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-hongrie-lors-des-ceremonies-des-70-ans-de-la-revolution-de-1956-peter-magyar-celebre-une-nouvelle-ere-pour-le-pays_6799667_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/hongrie-70-ans-apres-la-repression-sovietique-les-dirigeants-honorent-les-victimes"
+            }
           ]
         },
         {
           "headline": "Taïwan : typhon Champi fait un mort et des dégâts majeurs",
-          "summary": "Le typhon Champi, affaibli après avoir frappé Taïwan, a causé un mort et provoqué l’évacuation de 5 000 personnes. Plus de 56 000 foyers restent sans électricité. Le phénomène, renforcé par El Niño, se dirige désormais vers la Chine et le Japon. Les autorités taïwanaises ont mobilisé des moyens d’urgence pour limiter les conséquences.",
+          "summary": "Le typhon Champi, affaibli après avoir frappé Taïwan, a causé un mort et provoqué l’évacuation de près de 5 000 personnes. Plus de 56 000 foyers restent sans électricité. Le phénomène météorologique, initialement classé super-typhon, se dirige désormais vers la Chine et le Japon. Son intensité exceptionnelle a été favorisée par des conditions climatiques particulières.",
           "sources": [
             "France 24"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-ta%C3%AFwan-le-typhon-champi-fait-un-mort-et-provoque-pr%C3%A8s-de-5-000-%C3%A9vacuations"
+            }
+          ]
+        },
+        {
+          "headline": "Cisjordanie : opération israélienne après la mort de deux soldats",
+          "summary": "Deux soldats israéliens ont été tués vendredi dans une attaque en Cisjordanie, déclenchant une vaste opération militaire. Des bulldozers ont détruit des constructions palestiniennes jugées illégales par Israël. Les tensions persistent dans une région marquée par des violences récurrentes et un contexte politique explosif. Les expatriés israéliens, contraints de rentrer pour voter, suivent de près les législatives anticipées du 27 octobre.",
+          "sources": [
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-l-arm%C3%A9e-isra%C3%A9lienne-m%C3%A8ne-une-vaste-op%C3%A9ration-en-cisjordanie-apr%C3%A8s-la-mort-de-deux-soldats"
+            }
           ]
         }
       ]
@@ -65,49 +142,106 @@
       "topics": [
         {
           "headline": "Ukraine : rétablissement de Starlink et cessez-le-feu à Olechky",
-          "summary": "L'Ukraine a annoncé une connexion stable au système militaire Starshield (version de Starlink) avec des vitesses dépassant 400 km/h, après des déclarations de Donald Trump. Parallèlement, un cessez-le-feu a été obtenu à Olechky, ville ukrainienne occupée depuis 2022, où la crise humanitaire est critique. Moscou et Kiev ont confirmé l'accord, obtenu via Melania Trump. Une attaque ukrainienne sur une usine russe a fait trois morts et cinq blessés à Oriol.",
+          "summary": "L'Ukraine annonce une connexion stable au système Starshield (version militaire de Starlink), malgré des tensions passées avec Elon Musk. Parallèlement, un cessez-le-feu a été obtenu à Olechky, ville ukrainienne occupée par la Russie et en crise humanitaire, grâce à l'intervention de Melania Trump. Moscou et Kiev ont confirmé l'accord. Les États-Unis restent impliqués dans les négociations indirectes.",
           "sources": [
             "France Info",
             "France 24",
             "RFI"
-          ]
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky"
+            }
+          ],
+          "angles": "France Info et France 24 soulignent tous deux le rétablissement technique de Starlink/Starshield, mais France 24 lie explicitement cette annonce à la déclaration de Donald Trump sur la restauration de l'accès, tandis que France Info évite cette référence directe."
         },
         {
-          "headline": "Manifestations en Europe : tensions et répression",
-          "summary": "Des manifestations contre la vie chère et les politiques d'austérité ont lieu en France, Italie et Albanie, avec des dispositifs policiers renforcés. À Lyon, des manifestants ont été dispersés au gaz lacrymogène, tandis qu'à Milan, des soldats patrouillent et des commerces se barricadent après des pillages. En Italie, huit villes, dont Rome, sont sous haute surveillance avec drones et hélicoptères. Les syndicats français dénoncent un changement de parcours imposé à une manifestation parisienne.",
+          "headline": "Manifestations en Europe : tensions et répression en France et en Italie",
+          "summary": "En France, des manifestations contre la réforme des retraites et la vie chère sont dispersées à Lyon et Paris, avec des changements de parcours critiqués par les syndicats. En Italie, des rassemblements contre l'austérité et la hausse des prix sont prévus sous haute surveillance, avec déploiement de drones et soldats après des violences récentes. Les autorités anticipent des heurts similaires à ceux du 17 octobre en France.",
           "sources": [
             "Euronews",
             "France 24",
             "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/lyon-la-police-disperse-des-manifestants-au-gaz-lacrymogene-devant-luniversite-jean-moulin"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/de-nouvelles-manifestations-attendues-dans-plusieurs-pays-europeens-samedi/"
+            }
           ]
         },
         {
-          "headline": "Crise diplomatique France-États-Unis résolue",
-          "summary": "Aurélien Lechevallier a pris ses fonctions d'ambassadeur de France aux États-Unis après des semaines de blocage lié à un différend sur un vote à l'ONU. Cette crise diplomatique inédite entre alliés a été surmontée, permettant la reprise des relations officielles.",
+          "headline": "Crise diplomatique France-États-Unis résolue avec nouvel ambassadeur",
+          "summary": "Aurélien Lechevallier a pris ses fonctions d'ambassadeur de France aux États-Unis, mettant fin à une crise diplomatique liée à un différend sur un vote à l'ONU. Ce blocage avait retardé sa nomination pendant plusieurs semaines, illustrant les tensions récentes entre Paris et Washington, notamment sur les questions liées à l'Ukraine et à la politique internationale.",
           "sources": [
             "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/un-message-a-nos-amis-americains-lambassadeur-francais-prend-son-poste-apres-une-brouille-"
+            }
           ]
         },
         {
-          "headline": "Élections législatives en Israël : scrutin sous tension",
-          "summary": "Les Israéliens votent le 27 octobre pour des élections législatives perçues comme un référendum sur le leadership de Benyamin Netanyahou, trois ans après les attaques du Hamas du 7 octobre 2023. Le scrutin s'annonce disputé et pourrait redéfinir la trajectoire politique du pays.",
-          "sources": [
-            "Toute l'Europe"
-          ]
-        },
-        {
-          "headline": "Vague de violences et radicalisation en Europe",
-          "summary": "Deux attaques au couteau dans des écoles roumaines ont fait quatre blessés, dont une liée à la mouvance True Crime Community, un réseau en ligne glorifiant la violence extrême. En France, un adolescent a tiré à Aubagne sous l'influence présumée de ce même réseau. Ces événements soulèvent des questions sur la radicalisation en ligne et ses conséquences.",
+          "headline": "Attaques en Roumanie : deux agressions au couteau dans des écoles",
+          "summary": "Deux attaques au couteau ont eu lieu en moins d’une semaine dans des établissements scolaires roumains, faisant quatre blessés. L’une des agressions serait liée à la communauté en ligne True Crime Community, connue pour glorifier la violence extrême. Ces événements s’inscrivent dans une série de crises similaires en Europe, comme les tirs à Aubagne (France) le 12 octobre.",
           "sources": [
             "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/23/roumanie-deux-attaques-au-couteau-dont-l-une-en-lien-avec-la-mouvance-true-crime-community-ont-fait-quatre-blesses-dans-des-ecoles_6799140_3210.html"
+            }
           ]
         },
         {
-          "headline": "Débats sur le budget européen et la pauvreté",
-          "summary": "L'Union européenne peine à s'accorder sur son budget à long terme (2028-2034), avec des propositions autour de 2 000 milliards d'euros (1,26 % du PNB). La Commission européenne et le Comité économique et social européen (CESE) renforcent parallèlement leur coopération pour éradiquer la pauvreté d'ici 2050.",
+          "headline": "UE : budget à long terme et rôle accru dans les pourparlers de paix",
+          "summary": "Les États membres de l’UE peinent à s’accorder sur le budget 2028-2034, proposé à 2 000 milliards d’euros (1,26 % du PIB). Parallèlement, Bruxelles souhaite élargir son rôle dans les pourparlers de paix Ukraine-Russie pour peser sur les positions américaines et promouvoir une approche multilatérale. Les divisions persistent sur les priorités et les financements.",
           "sources": [
             "France 24",
-            "Toute l'Europe"
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261023-la-bataille-pour-le-budget-%C3%A0-long-terme-de-l-ue-vers-une-europe-frugale-ou-ambitieuse"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/23/ukraine-russie-lue-veut-elargir-son-role-dans-les-pourparlers-de-paix-pour-peser-sur-washi"
+            }
+          ]
+        },
+        {
+          "headline": "Italie : Meloni renforce ses liens avec l’internationale réactionnaire",
+          "summary": "Giorgia Meloni, présidente du Conseil italien, consolide ses alliances avec des dirigeants conservateurs comme Donald Trump, Javier Milei et Viktor Orbán. Son action en Europe vise à durcir les politiques migratoires et sécuritaires, dans un contexte de montée des tensions sociales et économiques. Cette stratégie s’inscrit dans une dynamique transnationale de l’extrême droite.",
+          "sources": [
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html"
+            }
           ]
         }
       ]
@@ -117,63 +251,187 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Congrès du RN : Bardella réélu sans opposition",
-          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors d’un congrès à Orléans, sans opposition. Des manifestations antifascistes ont eu lieu en parallèle, sous haute surveillance policière. Le maire de Trappes a dénoncé des « discours de haine » lors d’une prise de parole. Deux périmètres de sécurité distincts ont été mis en place pour séparer les rassemblements. Le congrès s’est déroulé dans un contexte de tensions sociales accrues en France.",
+          "headline": "Congrès du RN : réélection de Bardella à Orléans",
+          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, samedi 24 octobre. Seul candidat, il a recueilli 75 497 suffrages sur plus de 76 000 militants présents. Des manifestations anti-RN ont eu lieu en parallèle, rassemblant entre 11 000 et 26 000 personnes. La sécurité a été renforcée pour éviter des perturbations, avec des tensions signalées localement.",
           "sources": [
             "France 24",
             "France Info",
             "20 Minutes",
             "Libération",
             "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-une-forte-mobilisation-anti-rassemblement-national-%C3%A0-orl%C3%A9ans-en-marge-du-congr%C3%A8s-du-parti"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4257206-20261024-congres-rn-seul-candidat-bardella-reelu-president-98-98-voix?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/congres-du-rn-a-orleans-le-parti-et-la-prefecture-mettent-les-bouchees-doubles-sur-la-securite-20261023_2WMNCZRPDBCUNGPJBLCEMVLYYA/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/seul-candidat-jordan-bardella-reelu-president-du-rn-avec-98-98-des-voix-20261024"
+            }
           ]
         },
         {
-          "headline": "Attentat raciste dans les Yvelines : un mort et cinq blessés",
-          "summary": "Un homme de 39 ans a ouvert le feu à Trappes et La Verrière vendredi, faisant un mort et cinq blessés, dont une enfant de 12 ans en « urgence absolue ». Le suspect, placé en garde à vue prolongée, aurait ciblé des personnes selon leur couleur de peau, évoquant une vengeance pour des pillages du 17 octobre. Un exemplaire de Mein Kampf a été retrouvé à son domicile. Emmanuel Macron a qualifié l’attaque de « terroriste et raciste », tandis que quatre proches du suspect sont également en garde à vue.",
+          "headline": "Attaque raciste dans les Yvelines : bilan et enquête",
+          "summary": "Une fusillade dans les Yvelines, vendredi 23 octobre, a fait un mort (Pengo Bossio Wangi, 26 ans) et cinq blessés, dont une fillette de 12 ans en urgence absolue. Le suspect, Kevin T. (39 ans), connu des services de police, a été placé en garde à vue prolongée. Il aurait ciblé des personnes selon leur couleur de peau, évoquant une vengeance pour les pillages du 17 octobre. Une enquête pour terrorisme raciste est en cours, avec des proches du suspect également interrogés.",
           "sources": [
+            "Le Figaro",
             "France Info",
             "France 24",
-            "RFI",
             "20 Minutes",
-            "Le Monde"
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-trois-membres-de-l-entourage-familial-et-amical-du-tireur-places-en-garde-a-vue-20261024"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4257184-20261024-attaque-trappes-verriere-garde-vue-prolongee-suspect-trois-membres-entourage-interpelles?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261024-%C3%A0-la-une-un-attentat-terroriste-et-raciste-en-banlieue-parisienne"
+            }
           ]
         },
         {
-          "headline": "Mobilisations sociales : 135 interpellations et tensions en France",
-          "summary": "Une nouvelle journée de manifestations contre la vie chère a lieu samedi 24 octobre, avec des rassemblements dans plusieurs villes. À Paris, 135 interpellations ont été recensées à midi, et des tirs de lacrymogènes ont dispersé des manifestants à Lyon. Les forces de l’ordre, au nombre de 70 000, ont été massivement déployées après les violences du 17 octobre. Jean-Luc Mélenchon a exhorté Emmanuel Macron à « céder » face aux revendications, tandis que les commerçants parisiens restent inquiets.",
+          "headline": "Mobilisations du 24 octobre : manifestations et répression",
+          "summary": "Des manifestations ont eu lieu dans toute la France, une semaine après les violences du 17 octobre. À Paris, le cortège a démarré sur un parcours alternatif après des restrictions préfectorales, tandis que des tensions et des tirs de lacrymogène ont été signalés à Lyon, Lille, Nantes et Toulouse. Les commerces parisiens craignent des dégradations, et des groupes identitaires se mobilisent pour contrer l’ultragauche. Les Gilets jaunes appellent à une nouvelle mobilisation le 31 octobre.",
           "sources": [
-            "France Info",
-            "Euronews",
-            "RFI",
-            "20 Minutes",
-            "Le Figaro"
-          ]
-        },
-        {
-          "headline": "Note de la dette : Moody’s maintient la France à Aa3, perspective négative",
-          "summary": "L’agence Moody’s a maintenu la note de la dette française à Aa3, mais avec une perspective négative, malgré les violences récentes et les incertitudes budgétaires. Cette décision, surprise par certains économistes, repose sur l’hypothèse d’un adoption du budget 2027. Le ministre de l’Économie a salué un signal « qui déjoue les pronostics déclinistes », tandis que la dette publique atteint 119,1 % du PIB (3 600 milliards d’euros).",
-          "sources": [
+            "Le Figaro",
+            "France 24",
             "Libération",
-            "Mediapart",
-            "France 24",
             "France Info",
-            "Le Figaro"
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisation-du-24-octobre-le-cort%C3%A8ge-parisien-change-de-parcours"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/greve/enquete-defendre-les-commercants-derriere-les-appels-a-la-mobilisation-de-l-ultradroite-le-24-octobre-la-menace-de-violences_8251288.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/france-acte-ii-de-la-colere-sociale-la-manifestation-contre-le-congres-du-rn-debute-a-orle"
+            }
           ]
         },
         {
-          "headline": "Gazole : décret pour libérer des stocks et baisser les prix",
-          "summary": "Un décret publié au Journal officiel oblige les distributeurs à répercuter une baisse des prix du gazole, avec une réduction attendue de 12 à 18 centimes par litre à partir du 1ᵉʳ novembre. Cette mesure vise à atténuer la hausse des coûts pour les ménages et les professionnels, dans un contexte de mobilisations sociales liées à la vie chère. Le gouvernement espère une application rapide par les stations-service.",
+          "headline": "Baisse des prix du gazole : décret gouvernemental publié",
+          "summary": "Un décret autorise la libération de 1,6 million de m³ de stocks stratégiques de gazole pour réduire son prix de 12 à 18 centimes par litre. Les distributeurs doivent répercuter cette baisse dès le 1er novembre. Cette mesure vise à soulager les ménages face à la hausse des carburants, dans un contexte de tensions sociales accrues.",
           "sources": [
+            "France Info",
             "Le Monde",
-            "20 Minutes"
+            "20 Minutes",
+            "Euronews",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/economie/4257172-20261024-gazole-decret-publie-vue-liberation-stocks-strategiques-diminuer-prix-pompe?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/dette-moodys-epargne-la-france-un-leger-repit-pas-un-vote-de-confiance"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/dette-a-la-surprise-generale-moody-s-ne-degrade-pas-la-france-20261023"
+            }
           ]
         },
         {
-          "headline": "Déserts médicaux : le gouvernement limite la pratique esthétique des médecins",
-          "summary": "Un projet de décret prévoit de plafonner à 30 % du temps de travail l’activité esthétique des médecins, le reste devant être consacré à leur spécialité d’origine. Cette mesure vise à combler les déserts médicaux en incitant les praticiens à se consacrer davantage aux soins essentiels. Le secteur de l’esthétique critique cette décision, estimant qu’elle pourrait réduire l’accès à certains soins non urgents.",
+          "headline": "Note de la dette française maintenue par Moody’s",
+          "summary": "Moody’s a maintenu la note souveraine de la France à Aa3, avec une perspective négative, malgré les attentes d’une dégradation. Cette décision est perçue comme un répit temporaire, les économistes alertant sur la dette publique (119,1 % du PIB) et les incertitudes politiques. Le gouvernement y voit un signal positif pour son projet de budget 2027.",
+          "sources": [
+            "Euronews",
+            "Le Figaro",
+            "Libération",
+            "Toute l'Europe",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/dette-moodys-epargne-la-france-un-leger-repit-pas-un-vote-de-confiance"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/dette-a-la-surprise-generale-moody-s-ne-degrade-pas-la-france-20261023"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/l-agence-moody-s-maintient-la-note-de-la-france-aa3-mais-avec-perspective-negative/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/budget/un-avertissement-pour-ceux-qui-jouent-la-pagaille-reagit-le-ministre-de-l-economie-roland-lescure-apres-le-maintien-de-la-note-de-la-france-par-l-agence-moody-s_8251963.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Le Figaro et Libération soulignent l’aspect surprenant de la décision et ses implications politiques ([8, 9, 27]), tandis que Euronews met l’accent sur les risques à long terme et le climat social ([8])."
+        },
+        {
+          "headline": "Pénurie médicale : le gouvernement limite les activités esthétiques",
+          "summary": "Le gouvernement prépare un décret plafonnant à 30 % du temps de travail des médecins la pratique esthétique, pour les inciter à se consacrer davantage aux déserts médicaux. Cette mesure, critiquée par le secteur, vise à améliorer l’accès aux soins dans les zones sous-dotées.",
           "sources": [
             "20 Minutes",
             "Libération"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sante/4257167-20261024-penurie-medecins-gouvernement-veut-plafonner-pratique-esthetique-praticiens?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/sante/pour-combler-les-deserts-medicaux-le-gouvernement-veut-plafonner-la-pratique-esthetique-des-medecins-20261024_VKJUSI67KFDC5IMXBP7EFAJA74/"
+            }
           ]
         }
       ]
