@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:20:12Z",
+  "generated_at": "2026-10-24T19:10:28Z",
   "edition": "24 octobre 2026",
   "categories": [
     {
@@ -8,22 +8,18 @@
       "topics": [
         {
           "headline": "Brésil : duel serré Lula-Bolsonaro avant le second tour",
-          "summary": "À une journée du second tour de la présidentielle brésilienne, les candidats Luiz Inacio Lula da Silva et Flavio Bolsonaro se sont affrontés lors d’un débat tendu, marqué par des attaques personnelles et des propositions économiques. Les sondages montrent une égalité entre les deux hommes, avec des enjeux majeurs sur la santé, l’économie et les retraites. Flavio Bolsonaro, fils de l’ancien président Jair Bolsonaro, est critiqué pour ses liens présumés avec des milices violentes à Rio. Le scrutin du 25 octobre pourrait déterminer l’avenir politique du pays.",
+          "summary": "Le second tour de la présidentielle brésilienne oppose Luiz Inacio Lula da Silva (sortant) et Flavio Bolsonaro (fils de l’ex-président Jair Bolsonaro), à égalité dans les sondages. Leur dernier débat, marqué par des attaques personnelles et des propositions économiques, n’a pas tranché l’incertitude. Les deux candidats mobilisent leurs partisans à la veille du scrutin du 25 octobre, dans un climat tendu. Les enjeux judiciaires pèsent sur Flavio Bolsonaro, visé par des affaires. L’abstention, élevée au premier tour, pourrait influencer l’issue.",
           "sources": [
-            "France 24",
-            "RFI",
+            "France Info",
             "Le Monde",
             "Libération",
-            "Mediapart"
+            "RFI",
+            "Euronews"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-br%C3%A9sil-lula-et-bolsonaro-s-affrontent-dans-un-ultime-d%C3%A9bat-tendu-%C3%A0-la-veille-du-scrutin"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/bresil/au-bresil-lula-et-bolsonaro-mobilisent-des-milliers-de-partisans-a-la-veille-du-second-tour-de-la-presidentielle_8252503.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
               "source": "Le Monde",
@@ -34,18 +30,75 @@
               "url": "https://www.liberation.fr/international/amerique/presidentielle-au-bresil-face-a-flavio-bolsonaro-lula-retrouve-du-repondant-20261024_45EGC64Y4BCP7CC4TP6YT7LVCM/"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/241026/au-bresil-c-est-le-plus-compromis-du-clan-bolsonaro-qui-veut-reconquerir-la-presidence"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/meetings-sondages-et-ultime-debat-le-bresil-sapprete-a-un-scrutin-serre-dimanche"
             }
           ],
-          "angles": "France 24 et RFI soulignent les tensions et les attaques personnelles lors des débats, tandis que Le Monde et Libération mettent en avant le ton plus policé du second débat et l’égalité dans les sondages. Mediapart insiste sur les enjeux d’impunité judiciaire pour Flavio Bolsonaro."
+          "angles": "Libération et Le Monde soulignent le regain de combativité de Lula et les faiblesses de Flavio Bolsonaro lors du débat, tandis que France Info et RFI insistent sur le ton plus policé et l’égalité persistante dans les intentions de vote. Euronews met en avant les meetings de dernière minute et l’incertitude des sondages."
         },
         {
-          "headline": "Cisjordanie : opération israélienne et déplacements forcés de Palestiniens",
-          "summary": "Après la mort de deux soldats israéliens dans une attaque près d’Hébron, l’armée israélienne a lancé une opération militaire majeure en Cisjordanie, incluant la destruction de constructions palestiniennes jugées illégales et le déplacement de centaines de Palestiniens. L’Autorité palestinienne a demandé une intervention internationale urgente. Les colons israéliens, présents dans la zone, sont également mentionnés comme acteurs du conflit. Ces mesures s’inscrivent dans un contexte de tensions croissantes entre Israël et la Palestine.",
+          "headline": "Yémen : escalade des attaques houthis contre l’Arabie saoudite",
+          "summary": "Les rebelles houthis, soutenus par l’Iran, ont revendiqué des frappes contre des aéroports et installations pétrolières en Arabie saoudite, ainsi qu’une attaque à Aden (sud du Yémen). Riyad accuse les Houthis d’avoir tué 16 civils dans des frappes récentes. La coalition saoudienne affirme avoir intercepté des missiles houthis dirigés vers des villes saoudiennes. Les tensions s’aggravent dans un contexte de guerre prolongée depuis 2014.",
+          "sources": [
+            "France Info",
+            "France 24",
+            "RFI",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-du-yemen-disent-avoir-cible-trois-aeroports-et-des-installations-petrolieres-en-arabie-saoudite_8252248.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque-meurtri%C3%A8re"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261024-y%C3%A9men-les-combattants-houthis-revendiquent-une-nouvelle-attaque-%C3%A0-aden"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Jordanie : attaque meurtrière contre une église orthodoxe",
+          "summary": "Une fusillade dans une église jordanienne a fait neuf morts et 25 blessés, un événement rarissime dans le royaume. Les autorités craignent des répercussions sur la stabilité, déjà fragilisée par les conflits régionaux. Trois attaquants ont ouvert le feu dans un village du sud, à 100 km d’Amman. Les motivations de l’attaque restent à éclaircir, mais le contexte sécuritaire local est évoqué.",
+          "sources": [
+            "RFI",
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261024-jordanie-attaque-meurtri%C3%A8re-contre-une-%C3%A9glise-dans-le-sud-du-pays"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/moyen-orient/le-bilan-de-l-attaque-contre-une-eglise-en-jordanie-s-alourdit-a-neuf-morts_8252329.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-jordanie-le-choc-et-l-unite-apres-une-attaque-meurtriere-contre-une-eglise-orthodoxe_6799670_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Israël-Palestine : opération militaire israélienne en Cisjordanie",
+          "summary": "Après la mort de deux soldats israéliens dans une attaque près d’Hébron, l’armée israélienne a lancé une vaste opération en Cisjordanie, déplaçant des centaines de Palestiniens et détruisant des constructions jugées illégales. Benyamin Nétanyahou a annoncé une escalade sécuritaire à quelques jours des législatives du 27 octobre. L’Autorité palestinienne demande une intervention internationale. Les colons israéliens et les habitants palestiniens d’Hébron sont directement affectés.",
           "sources": [
             "Le Monde",
             "France 24",
+            "BBC",
+            "Euronews",
             "20 Minutes"
           ],
           "links": [
@@ -58,87 +111,47 @@
               "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-l-arm%C3%A9e-isra%C3%A9lienne-m%C3%A8ne-une-vaste-op%C3%A9ration-en-cisjordanie-apr%C3%A8s-la-mort-de-deux-soldats"
             },
             {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/israel-evacue-environ-250-familles-palestiniennes-a-hebron-apres-la-mort-de-soldats"
+            },
+            {
               "source": "20 Minutes",
               "url": "https://www.20minutes.fr/monde/israel/4257205-20261024-cisjordanie-armee-israelienne-deplace-palestiniens-autorite-palestinienne-demande-action-internationale-urgente?at_medium=display&at_campaign=149"
             }
-          ],
-          "angles": "Le Monde et France 24 décrivent les opérations militaires et les déplacements forcés, tandis que 20 Minutes met l’accent sur le témoignage d’un Palestinien vivant parmi les colons, soulignant la menace permanente."
+          ]
         },
         {
-          "headline": "Kenya : effondrement d’un immeuble en construction à Nairobi",
-          "summary": "Un immeuble de 18 étages en construction s’est effondré vendredi à Nairobi, dans le quartier dense d’Eastleigh, provoquant des craintes pour les vies humaines. Les secours sont mobilisés pour les opérations de sauvetage, avec plusieurs personnes potentiellement coincées sous les décombres. L’événement survient dans un contexte de précarité urbaine et de risques liés aux constructions informelles. Le bilan humain reste incertain.",
+          "headline": "Épidémie d’Ebola au Kenya et au Nigeria : lien génétique confirmé",
+          "summary": "Deux décès liés à Ebola ont été confirmés au Kenya, dont un lien génétique avec le cas nigérian récent. Une enquête est en cours pour déterminer si les patients se sont croisés en Ouganda. Le Nigeria, pays considéré comme libre d’Ebola depuis 2019, fait face à une résurgence inquiétante. Les autorités sanitaires renforcent les mesures de surveillance et de traçage.",
           "sources": [
-            "France 24",
             "RFI",
             "BBC"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-au-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-les-secours-mobilis%C3%A9s"
-            },
-            {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261023-kenya-un-immeuble-de-18-%C3%A9tages-en-construction-s-effondre-%C3%A0-nairobi"
+              "url": "https://www.rfi.fr/fr/afrique/20261024-ebola-au-nigeria-et-au-kenya-les-deux-patients-se-sont-ils-crois%C3%A9s-en-ouganda"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "headline": "États-Unis : enjeux électoraux des midterms et soutien à Israël",
-          "summary": "À l’approche des élections de mi-mandat du 3 novembre, le redécoupage électoral (gerrymandering) et le soutien américain à Israël deviennent des sujets clés. Les démocrates et républicains divergent sur la position à adopter envers le gouvernement israélien, un sujet sensible pour de nombreux électeurs. Parallèlement, des questions sur l’ingérence étrangère et les stratégies partisanes alimentent le débat. Ces élections pourraient influencer la politique étrangère et intérieure des États-Unis.",
+          "headline": "ONU : candidature émiratie controversée pour le poste de secrétaire général",
+          "summary": "Les Émirats arabes unis ont proposé Lana Nusseibeh, diplomate, pour succéder à Antonio Guterres à la tête de l’ONU. Cette candidature suscite des critiques en raison du rôle présumé des Émirats dans la guerre civile soudanaise et de leur politique étrangère perçue comme ambiguë. Le processus de sélection, déjà engagé, pourrait être influencé par ces controverses.",
           "sources": [
-            "RFI",
-            "Libération",
-            "Mediapart"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/culture-et-idees/241026/aux-etats-unis-comment-la-religion-accompagne-l-extractivisme"
-            }
-          ],
-          "angles": "RFI aborde le redécoupage électoral comme un outil partisan, tandis que Libération met l’accent sur le clivage autour du soutien à Israël, devenu un enjeu polarisant."
-        },
-        {
-          "headline": "Yémen : frappes saoudiennes à Sanaa et tensions régionales",
-          "summary": "Des frappes saoudiennes ont fait au moins quatre morts à Sanaa, capitale contrôlée par les houthistes, alors que la coalition dirigée par l’Arabie saoudite affirme avoir intercepté des missiles houthistes visant des villes saoudiennes. Ces échanges s’inscrivent dans un conflit prolongé au Yémen, marqué par des violences persistantes et une instabilité régionale. Les tensions risquent de s’étendre à la Corne de l’Afrique, selon des avertissements récents de la Chine et de Djibouti.",
-          "sources": [
-            "Le Monde",
-            "RFI"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261024-la-chine-et-djibouti-appellent-%C3%A0-rouvrir-la-navigation-dans-la-mer-rouge-face-aux-tensions-r%C3%A9gionales"
-            }
-          ]
-        },
-        {
-          "headline": "Taïwan : typhon Champi fait un mort et des dégâts majeurs",
-          "summary": "Le typhon Champi, affaibli après avoir frappé Taïwan, a causé un mort et entraîné l’évacuation de 5 000 personnes, ainsi que des coupures d’électricité pour 56 000 foyers. Le phénomène météorologique, classé super-typhon, se dirige désormais vers la Chine et le Japon. Son intensité exceptionnelle a été attribuée à des conditions climatiques favorables. Les autorités locales restent en alerte pour les conséquences à venir.",
-          "sources": [
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-ta%C3%AFwan-le-typhon-champi-fait-un-mort-et-provoque-pr%C3%A8s-de-5-000-%C3%A9vacuations"
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/la-candidature-emiratie-au-poste-de-secretaire-general-de-l-onu-fait-polemique_6799695_3210.html"
             }
           ]
         }
@@ -149,47 +162,19 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Ukraine : Starlink rétabli mais tensions persistantes",
-          "summary": "L'Ukraine affirme avoir retrouvé une connexion stable au système Starlink/Starshield, cruciale pour ses opérations militaires et drones, avec une vitesse supérieure à 400 km/h. Les déclarations de Melania Trump et Donald Trump sur le rétablissement de l'accès alimentent les débats sur les responsabilités. Les restrictions avaient perturbé les forces ukrainiennes depuis une semaine. La Russie et l'Ukraine ont confirmé un cessez-le-feu à Olechky, ville occupée, à partir du 29 octobre, obtenu selon Melania Trump.",
+          "headline": "Incendie criminel du Nid d'Aigle en Bavière",
+          "summary": "Un incendie a ravagé le Kehlsteinhaus, ancien refuge d'Adolf Hitler en Bavière, vendredi 23 octobre. Un suspect a été arrêté, et les pompiers ont maîtrisé les flammes sans faire de victime. La piste d'un acte criminel est examinée. Le bâtiment, symbole du régime nazi, était peu fréquenté depuis la fin de la Seconde Guerre mondiale.",
           "sources": [
-            "20 Minutes",
-            "France Info",
-            "France 24",
-            "Libération",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4257204-20261024-guerre-ukraine-kiev-dit-avoir-nouveau-connexion-stable-systeme-starlink?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky"
-            }
-          ]
-        },
-        {
-          "headline": "Incendie criminel du « Nid d’Aigle » en Bavière",
-          "summary": "Le Kehlsteinhaus, ancien refuge d’Adolf Hitler en Bavière, a été entièrement détruit par un incendie vendredi 23 octobre. Un suspect a été arrêté. Les pompiers n’ont trouvé personne sur place, et la piste d’un acte criminel est examinée. Le bâtiment, symbole du régime nazi, était peu fréquenté et en ruine depuis des décennies.",
-          "sources": [
+            "Euronews",
             "RFI",
             "France Info",
             "Le Monde"
           ],
           "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/un-incendie-ravage-lancien-refuge-du-nid-daigle-dhitler-en-allemagne"
+            },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261024-allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aigle-un-suspect-arr%C3%AAt%C3%A9"
@@ -205,36 +190,75 @@
           ]
         },
         {
-          "headline": "Albanie : manifestations massives contre Rama et la corruption",
-          "summary": "Des milliers de manifestants ont défilé à Tirana samedi 24 octobre pour dénoncer la corruption et les conditions d’études, exigeant la démission du Premier ministre Edi Rama. Le mouvement, initialement lié à un projet touristique controversé, s’est élargi. Une nouvelle journée de mobilisation est prévue dimanche. Les étudiants et citoyens dénoncent aussi un manque de perspectives économiques.",
+          "headline": "Ukraine rétablit sa connexion Starlink cruciale",
+          "summary": "L'Ukraine affirme avoir retrouvé une connexion stable au système Starlink, essentiel pour ses opérations militaires et drones, avec une vitesse supérieure à 400 km/h. Les tensions entre Kiev et Washington avaient perturbé l'accès. La Russie promet une réponse après l'expulsion d'un diplomate par la Moldavie, liée à un drone russe intercepté en Lettonie.",
+          "sources": [
+            "20 Minutes",
+            "France Info",
+            "Le Monde",
+            "BBC",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4257204-20261024-guerre-ukraine-kiev-dit-avoir-nouveau-connexion-stable-systeme-starlink?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-un-drone-a-l-origine-inconnue-retrouve-en-lettonie_6796922_3210.html"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield"
+            }
+          ],
+          "angles": "«20 Minutes» et «France Info» insistent sur le rétablissement opérationnel pour l'armée ukrainienne, tandis que la BBC et «Le Monde» soulignent les contradictions entre les déclarations de Zelensky et celles des autorités américaines sur le contrôle du système."
+        },
+        {
+          "headline": "Hongrie : 70 ans de la révolution de 1956 célébrés",
+          "summary": "Le Premier ministre Péter Magyar a commémoré les 70 ans de la révolution hongroise de 1956 contre l'URSS, marquant un retour à une «Europe libre et démocratique». Six mois après sa défaite électorale, Viktor Orbán reste une figure controversée. Ursula von der Leyen a défendu la démocratie lors de cette cérémonie à Budapest.",
+          "sources": [
+            "Le Monde",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-hongrie-lors-des-ceremonies-des-70-ans-de-la-revolution-de-1956-peter-magyar-celebre-une-nouvelle-ere-pour-le-pays_6799667_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/hongrie-70-ans-apres-la-repression-sovietique-les-dirigeants-honorent-les-victimes"
+            }
+          ]
+        },
+        {
+          "headline": "Manifestations en Europe : tensions et répression",
+          "summary": "L'Italie et la Serbie connaissent des mobilisations massives. À Milan, des parachutistes et blindés ont été déployés pour éviter des heurts similaires à ceux du week-end précédent. En Serbie, les étudiants contestent le régime de Vučić avant des législatives anticipées, craignant des fraudes. En Albanie, des milliers de manifestants réclament la démission du Premier ministre Edi Rama.",
           "sources": [
             "Le Figaro",
+            "Euronews",
+            "France Info",
+            "RFI",
             "Le Monde"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/en-albanie-des-milliers-de-manifestants-contre-la-corruption-et-une-pluie-de-lacrymogenes-20261024"
+              "url": "https://www.lefigaro.fr/international/on-n-avait-pas-fait-dix-metres-qu-on-nous-demandait-deja-de-degager-a-milan-les-jeunes-face-au-verrouillage-du-centre-ville-20261024"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-albanie-nouvelle-journee-de-mobilisation-pour-reclamer-la-demission-du-premier-ministre-edi-rama_6799688_3210.html"
-            }
-          ],
-          "angles": "Le Figaro met l’accent sur l’aspect révolutionnaire des étudiants et leur radicalisation, tandis que Le Monde élargit le contexte aux conditions socio-économiques et à la légitimité du gouvernement."
-        },
-        {
-          "headline": "Serbie : étudiants défient Vucic avant législatives anticipées",
-          "summary": "Les élections législatives anticipées du 25 octobre en Serbie opposent le régime d’Aleksandar Vucic, en place depuis 14 ans, à une coalition citoyenne portée par les étudiants, née après l’effondrement d’une structure à Novi Sad en 2024. Les manifestants craignent des fraudes et multiplient les contrôles. Le mouvement, initialement anticorruption, s’impose comme principal rival du pouvoir.",
-          "sources": [
-            "Le Figaro",
-            "France Info",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/les-etudiants-veulent-faire-la-revolution-en-serbie-la-gen-z-en-marche-contre-aleksandar-vucic-avant-les-legislatives-20261024"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/24/des-soldats-patrouillent-milan-les-commerces-se-barricadent-avant-les-protestations"
             },
             {
               "source": "France Info",
@@ -242,14 +266,31 @@
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261024-l%C3%A9gislatives-anticip%C3%A9es-en-serbie-les-%C3%A9tudiants-redoutent-la-fraude-%C3%A9lectorale-et-se-pr%C3%A9parent-aux-contr%C3%B4les"
+              "url": "https://www.rfi.fr/fr/europe/20261024-italie-les-%C3%A9tudiants-routiers-et-agriculteurs-poursuivent-les-manifestations-contre-la-hausse-du-co%C3%BBt-de-la-vie"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-albanie-nouvelle-journee-de-mobilisation-pour-reclamer-la-demission-du-premier-ministre-edi-rama_6799688_3210.html"
             }
           ],
-          "angles": "Le Figaro et France Info soulignent le potentiel révolutionnaire du mouvement étudiant, tandis que RFI insiste sur les craintes de fraude et la préparation des électeurs à des irrégularités."
+          "angles": "«Le Figaro» et «France Info» mettent en avant le déploiement militaire italien comme réponse à la crise sociale, tandis que «RFI» et «Euronews» insistent sur le contexte politique serbe et albanais, avec des risques de fraude électorale et de crise institutionnelle."
         },
         {
-          "headline": "Espagne : 25 000 manifestants défendent les retraites avant élections",
-          "summary": "À Madrid, 25 000 personnes ont manifesté samedi pour préserver le système de retraites, à un mois des législatives. Le parti d’opposition de droite, le PP, promet une revalorisation conforme à la loi, tandis que le gouvernement socialiste accuse ses adversaires de vouloir privatiser partiellement le système. Le débat sur les retraites domine la campagne électorale.",
+          "headline": "Fuite massive de documents embarrassants pour l'AfD",
+          "summary": "Plus de 420 000 courriels et documents internes de l'AfD, parti d'extrême droite allemand, ont fuité, révélant des messages racistes et antisémites. La coprésidente Alice Weidel est mise en difficulté dans une affaire de financement illégal. Cette révélation pourrait affaiblir le parti avant les prochaines élections.",
+          "sources": [
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-allemagne-une-fuite-massive-de-documents-internes-a-l-afd-embarrasse-le-parti-d-extreme-droite_6799718_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Espagne : 25 000 manifestants défendent les retraites",
+          "summary": "À Madrid, 25 000 personnes ont manifesté pour préserver le système de retraites, à un mois des élections législatives. Le parti d'opposition de droite, dirigé par Alberto Núñez Feijoo, promet de revaloriser les pensions selon la loi, tandis que le gouvernement socialiste accuse son adversaire de vouloir privatiser partiellement le système.",
           "sources": [
             "Le Monde"
           ],
@@ -257,34 +298,6 @@
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/10/24/espagne-a-madrid-25-000-manifestants-pour-defendre-les-retraites-a-un-mois-des-elections-legislatives_6799702_3210.html"
-            }
-          ]
-        },
-        {
-          "headline": "Europe : manifestations contre vie chère et austérité sous haute surveillance",
-          "summary": "L’Italie, l’Allemagne et d’autres pays européens connaissent des mobilisations massives contre le coût de la vie et les politiques d’austérité. En Italie, les étudiants, routiers et agriculteurs manifestent samedi 24 octobre, tandis que les autorités prévoient un dispositif sécuritaire renforcé après des violences récentes. En Allemagne, la police mise sur la communication pour éviter les débordements, contrairement à la France.",
-          "sources": [
-            "RFI",
-            "France Info",
-            "France 24",
-            "Toute l'Europe"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261024-italie-les-%C3%A9tudiants-routiers-et-agriculteurs-poursuivent-les-manifestations-contre-la-hausse-du-co%C3%BBt-de-la-vie"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/economie-et-social/de-nouvelles-manifestations-attendues-dans-plusieurs-pays-europeens-samedi/"
             }
           ]
         }
@@ -295,148 +308,115 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Bardella réélu sans opposition à la tête du RN",
-          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, sans opposition. Le meeting a rassemblé plus de 76 000 militants. Des manifestations anti-RN ont eu lieu en parallèle, avec des tensions mineures. Le congrès précède le premier meeting de campagne de Marine Le Pen. Des journalistes de Mediapart ont été brièvement expulsés par la sécurité du parti.",
+          "headline": "Manifestations massives en France : 1 000 interpellations",
+          "summary": "Près de 410 000 à 800 000 manifestants ont défilé samedi 24 octobre en France pour le pouvoir d’achat et les services publics, selon les estimations du ministère de l’Intérieur et de la CGT. Laurent Nuñez a recensé 1 000 interpellations, un chiffre en hausse par rapport au 17 octobre. Des heurts ont éclaté en fin de cortège à Paris, Marseille, Strasbourg et d’autres villes, malgré un dispositif sécuritaire renforcé. Le parcours parisien, modifié pour des raisons de sécurité, a suscité des critiques. Les syndicats appellent à amplifier la mobilisation.",
           "sources": [
             "Le Figaro",
             "France 24",
-            "France Info",
-            "Libération",
-            "Le Monde"
+            "Le Monde",
+            "Euronews",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/seul-candidat-jordan-bardella-reelu-president-du-rn-avec-98-98-des-voix-20261024"
+              "url": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/congres-du-rn-a-orleans-le-parti-et-la-prefecture-mettent-les-bouchees-doubles-sur-la-securite-20261023_2WMNCZRPDBCUNGPJBLCEMVLYYA/"
+              "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html"
-            }
-          ],
-          "angles": "Libération et France Info soulignent les manifestations anti-RN et les tensions sécuritaires, tandis que Le Figaro et France 24 insistent sur la réélection sans opposition et le contexte pré-électoral."
-        },
-        {
-          "headline": "Attaque raciste dans les Yvelines : un mort et cinq blessés",
-          "summary": "Un homme de 39 ans, connu des services de police, a ouvert le feu vendredi à Trappes et La Verrière, faisant un mort et cinq blessés, dont une fillette de 12 ans en urgence absolue. Le suspect, en garde à vue prolongée, aurait ciblé des personnes selon leur couleur de peau pour « venger les commerçants pillés le 17 octobre ». Un exemplaire de Mein Kampf a été retrouvé à son domicile. Quatre proches, dont sa mère, sont aussi placés en garde à vue. Le Parquet national antiterroriste enquête pour « assassinat terroriste raciste ».",
-          "sources": [
-            "Le Figaro",
-            "France Info",
-            "20 Minutes",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-trois-membres-de-l-entourage-familial-et-amical-du-tireur-places-en-garde-a-vue-20261024"
+              "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html#xtor=RSS-3-[lestitres]"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/france-acte-ii-de-la-colere-sociale-la-manifestation-contre-le-congres-du-rn-debute-a-orle"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/4257184-20261024-attaque-trappes-verriere-garde-vue-prolongee-suspect-trois-membres-entourage-interpelles?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/societe/4257140-20261024-direct-manifestation-24-octobre-gouvernement-deploie-70-000-policiers-macron-promet-reforme-parcoursup?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "Attentat raciste à Trappes : un mort, cinq blessés",
+          "summary": "Un homme de 39 ans, Kévin T., a ouvert le feu vendredi 23 octobre à Trappes et La Verrière (Yvelines), tuant Pengo Bossio Wangi, 26 ans, et blessant cinq personnes, dont une enfant de 12 ans. Le suspect, en garde à vue prolongée, a avoué avoir ciblé des personnes selon leur couleur de peau et avoir voulu « venger les commerçants » du 17 octobre. Un exemplaire de Mein Kampf a été retrouvé à son domicile. Une marche blanche est prévue dimanche à Aubervilliers. Emmanuel Macron a qualifié l’attaque de « terroriste raciste » et appelé à l’unité nationale.",
+          "sources": [
+            "Libération",
+            "France Info",
+            "20 Minutes",
+            "Le Monde",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4257217-20261024-attaque-trappes-verriere-cagnotte-ouverte-pengo-bossio-wangi-club-mma?at_medium=display&at_campaign=149"
             },
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e"
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/241026/avant-c-etait-une-haine-virtuelle-la-c-est-reel-recueillement-et-colere-apres-l-attentat-trappes"
             }
           ],
-          "angles": "France Info et Le Monde détaillent les mobiles racistes et le profil du suspect, tandis que 20 Minutes et Le Figaro mettent en avant l'état des victimes et les réactions locales, notamment à Trappes."
+          "angles": "Libération et Le Monde détaillent les motivations racistes du suspect et son profil, tandis que France Info et 20 Minutes insistent sur les réactions politiques et les hommages à la victime. Mediapart et Libération soulignent la colère locale et la responsabilité des médias dans la diffusion de discours racistes."
         },
         {
-          "headline": "Mobilisations sociales : calme relatif malgré des tensions localisées",
-          "summary": "Une nouvelle journée de manifestations contre la vie chère a rassemblé des dizaines de milliers de personnes en France, sous haute surveillance policière (70 000 forces mobilisées). À Paris, 110 000 manifestants ont défilé dans le calme, mais des heurts ont éclaté à Lyon, Marseille et Nantes. Le gouvernement tente d’éviter une répétition des violences du 17 octobre, avec des parcours restreints et des interdictions dans plusieurs villes. Les commerçants parisiens, inquiets, ont ouvert malgré les risques.",
+          "headline": "Congrès du RN : Bardella réélu sans opposition",
+          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, sans opposition. Le parti affiche son unité à six mois de l’élection présidentielle, avec Bardella présenté comme un futur Premier ministre en cas de victoire de Marine Le Pen. Des manifestations anti-RN ont eu lieu en parallèle, réunissant des milliers de personnes dans le calme. Le congrès a renouvelé le conseil national, avec Jean-Philippe Tanguy en tête.",
           "sources": [
-            "France 24",
-            "Le Figaro",
             "Libération",
+            "Le Figaro",
             "France Info",
-            "RFI"
+            "Euronews",
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/a-orleans-jordan-bardella-reelu-lors-dun-congres-sans-surprise-mais-sous-tension-20261024_NJWZPLV77VGYHL4ZZMFRDUW3PI/"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/"
+              "url": "https://www.lefigaro.fr/politique/seul-candidat-jordan-bardella-reelu-president-du-rn-avec-98-98-des-voix-20261024"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261024-direct-manifestations-en-france-des-nombreux-d%C3%A9fil%C3%A9s-attendus-dans-un-contexte-de-fortes-tensions-s%C3%A9curitaires"
-            }
-          ]
-        },
-        {
-          "headline": "Gouvernement : libération de stocks de gazole pour baisser les prix",
-          "summary": "Un décret publié autorise la vente de 1,6 million de mètres cubes de gazole stratégique, visant une baisse de 12 à 18 centimes par litre. Les distributeurs doivent répercuter cette baisse dès le 1er novembre. Cette mesure s’inscrit dans un contexte de grogne sociale sur le pouvoir d’achat. Le ministre de l’Économie, Roland Lescure, évoque aussi une possible hausse anticipée du Smic.",
-          "sources": [
-            "France Info",
-            "Le Monde",
-            "20 Minutes",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-[lestitres]"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/24/congres-du-rn-un-plebiscite-pour-jordan-bardella-reelu-a-la-tete-du-parti-avec-9898-des-vo"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/economie/4257172-20261024-gazole-decret-publie-vue-liberation-stocks-strategiques-diminuer-prix-pompe?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/une-hausse-anticipee-du-smic-avant-le-1er-janvier-fait-partie-des-debats-assure-roland-lescure-20261024"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html"
             }
           ]
         },
         {
-          "headline": "Note de la France maintenue par Moody’s, mais perspective négative",
-          "summary": "L’agence Moody’s a maintenu la note souveraine de la France à Aa3, avec une perspective négative, malgré les violences du 17 octobre et les incertitudes budgétaires. Cette décision surprend les économistes, qui tablaient sur une dégradation. Le gouvernement espère que l’adoption du budget 2027 évitera une baisse de notation. La dette publique française atteint 119,1 % du PIB.",
+          "headline": "Dette publique : Moody’s maintient la note Aa3, perspective négative",
+          "summary": "L’agence Moody’s a confirmé la note souveraine de la France à Aa3, avec une perspective négative, malgré les violences du 17 octobre et les incertitudes budgétaires. Le ministre de l’Économie, Roland Lescure, y voit un avertissement pour les « joueurs de la pagaille ». La dette publique atteint 119,1 % du PIB (3 600 milliards d’euros). Moody’s table sur l’adoption du budget 2027 pour éviter une dégradation.",
           "sources": [
-            "Toute l'Europe",
             "France Info",
             "Libération",
-            "Le Figaro"
+            "Toute l'Europe",
+            "Le Monde"
           ],
           "links": [
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/economie-et-social/l-agence-moody-s-maintient-la-note-de-la-france-aa3-mais-avec-perspective-negative/"
-            },
             {
               "source": "France Info",
               "url": "https://www.franceinfo.fr/economie/budget/un-avertissement-pour-ceux-qui-jouent-la-pagaille-reagit-le-ministre-de-l-economie-roland-lescure-apres-le-maintien-de-la-note-de-la-france-par-l-agence-moody-s_8251963.html#xtor=RSS-3-[lestitres]"
@@ -446,21 +426,44 @@
               "url": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/pourquoi-moody-s-a-maintenu-la-note-francaise-malgre-le-derapage-budgetaire-20261024"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/l-agence-moody-s-maintient-la-note-de-la-france-aa3-mais-avec-perspective-negative/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/sport/article/2026/10/24/avant-le-match-de-nfl-au-stade-de-france-la-tournee-qui-voulait-introduire-le-football-americain-en-france-en-1938_6799721_3242.html"
             }
-          ]
+          ],
+          "angles": "Libération et France Info relaient l’annonce avec des nuances sur les risques politiques, tandis que Toute l’Europe met en avant les chiffres économiques sans analyse approfondie."
         },
         {
-          "headline": "Réunion : éruption probable du Piton de la Fournaise dans les heures à venir",
-          "summary": "Une crise sismique a été enregistrée samedi après-midi sur l’île de La Réunion, annonçant une éruption probable du Piton de la Fournaise « dans les prochaines minutes ou heures ». La préfecture surveille la propagation du magma vers la surface. Aucune alerte n’a été émise pour l’instant, mais les autorités restent en vigilance.",
+          "headline": "Prix du gazole : libération de stocks stratégiques pour baisser les tarifs",
+          "summary": "Un décret autorise la vente de 1,6 million de mètres cubes de gazole stratégique pour réduire son prix de 12 à 18 centimes par litre. Mesure phare du gouvernement pour répondre aux revendications des manifestants sur le pouvoir d’achat, elle vise à soulager les automobilistes et les professionnels.",
           "sources": [
-            "France Info"
+            "France Info",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/france/la-reunion/une-probable-eruption-du-piton-de-la-fournaise-sur-l-ile-de-la-reunion-attendue-dans-les-prochaines-minutes-ou-heures-alerte-la-prefecture_8252317.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/economie/4257172-20261024-gazole-decret-publie-vue-liberation-stocks-strategiques-diminuer-prix-pompe?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "SMIC : une hausse avant janvier en discussion",
+          "summary": "Le ministre de l’Économie, Roland Lescure, évoque une possible revalorisation anticipée du SMIC avant le 1er janvier 2027, pour répondre aux colères sociales. Cette piste fait partie des solutions étudiées pour apaiser les tensions liées au pouvoir d’achat, au cœur des mobilisations actuelles.",
+          "sources": [
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/une-hausse-du-smic-avant-le-1er-janvier-en-discussion-selon-le-ministre-de-leconomie-20261024_JAOBZ6WO2FCJFMXFPC4F74NIAE/"
             }
           ]
         }
