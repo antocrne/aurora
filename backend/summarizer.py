@@ -12,7 +12,7 @@ import os
 import re
 import time
 import unicodedata
-from typing import Dict, List, Sequence
+from typing import Dict, List, Optional, Sequence
 
 import requests
 
@@ -189,25 +189,34 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
     raise SummarizerError(f"Échec de l'appel Mistral : {last_error}")
 
 
-def topic_links(story_ids: object, stories: List[Story]) -> List[Dict[str, str]]:
-    """Un lien par média (au plus MAX_SOURCES), tiré des blocs [S…] cités par le modèle."""
+def _referenced_stories(story_ids: object, stories: List[Story]) -> List[Story]:
+    """Les blocs [S…] cités par le modèle, dans l'ordre, en ignorant les numéros invalides."""
     if not isinstance(story_ids, list):
         return []
-    links: List[Dict[str, str]] = []
+    result: List[Story] = []
     for raw in story_ids:
         try:
             index = int(str(raw).lstrip("Ss")) - 1
         except ValueError:
             continue
-        if not 0 <= index < len(stories):
-            continue
-        for article in _one_per_source(stories[index]):
+        if 0 <= index < len(stories) and stories[index] not in result:
+            result.append(stories[index])
+    return result
+
+
+def topic_links(
+    story_ids: object, stories: List[Story], limit: Optional[int] = MAX_SOURCES
+) -> List[Dict[str, str]]:
+    """Un lien par média (au plus `limit`), tiré des blocs [S…] cités par le modèle."""
+    links: List[Dict[str, str]] = []
+    for story in _referenced_stories(story_ids, stories):
+        for article in _one_per_source(story):
             if not article.link.startswith(("https://", "http://")):
                 continue
             if any(_source_key(l["source"]) == _source_key(article.source) for l in links):
                 continue
             links.append({"source": article.source, "url": article.link})
-    return links[:MAX_SOURCES]
+    return links[:limit]
 
 
 def _source_key(name: str) -> str:
@@ -243,11 +252,16 @@ def check_angles(raw: object, topic_sources: object) -> str:
     if not text or text.lower() in ("null", "none"):
         return ""
     allowed = {_source_key(s) for s in topic_sources}
-    lowered = _source_key(text)
-    cited = {name for name in all_source_names() if _source_key(name) in lowered}
+    cited = _cited_sources(text)
     if len(cited) < 2 or any(_source_key(name) not in allowed for name in cited):
         return ""
     return text
+
+
+def _cited_sources(text: str) -> set:
+    """Noms des médias Aurora mentionnés dans un texte."""
+    lowered = _source_key(text)
+    return {name for name in all_source_names() if _source_key(name) in lowered}
 
 
 def parse_topics(
@@ -276,9 +290,23 @@ def parse_topics(
             "links": links,
         }
         if angles:
-            checked = check_angles(item.get("angles"), topic["sources"])
+            # Le modèle a vu tous les médias des blocs cités, pas seulement les
+            # MAX_SOURCES affichés : ce sont eux qu'il a le droit de nommer.
+            seen = [src for story in _referenced_stories(item.get("stories"), stories) for src in story.sources]
+            checked = check_angles(item.get("angles"), seen)
             if checked:
                 topic["angles"] = checked
+                # Les médias nommés dans la lecture croisée passent en tête des
+                # sources affichées, pour que le lecteur puisse les ouvrir.
+                cited = _cited_sources(checked)
+                every = topic_links(item.get("stories"), stories, limit=None)
+                ordered = [l for l in every if l["source"] in cited] + [
+                    l for l in every if l["source"] not in cited
+                ]
+                topic["links"] = ordered[:MAX_SOURCES]
+                topic["sources"] = [l["source"] for l in topic["links"]]
+            elif isinstance(item.get("angles"), str) and item["angles"].strip().lower() not in ("", "null", "none"):
+                log.info("Lecture croisée écartée pour « %s » : %s", headline, clean_markdown(item["angles"])[:200])
         topics.append(topic)
     if not topics:
         raise SummarizerError("Aucun sujet exploitable dans la réponse")
