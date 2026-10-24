@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:51:16Z",
+  "generated_at": "2026-10-24T14:26:25Z",
   "edition": "24 octobre 2026",
   "categories": [
     {
@@ -7,48 +7,53 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Présidentielle au Brésil : Flavio Bolsonaro plus policé, Lula plus offensif lors d’un second débat crucial",
-          "summary": "Alors que les deux candidats sont à égalité dans les sondages, le dernier débat télévisé pouvait faire basculer les indécis avant le second tour, dimanche 25 octobre. Si Flavio Bolsonaro a pu développer ses propositions économiques, il a aussi trébuché sur une attaque personnelle contre Luiz Inacio Lula da Silva.",
+          "headline": "Brésil : duel serré Lula-Bolsonaro avant le second tour",
+          "summary": "Le second débat télévisé entre Luiz Inacio Lula da Silva et Flavio Bolsonaro, fils de l’ex-président, a confirmé l’égalité dans les sondages avant le second tour présidentiel du 25 octobre. Flavio Bolsonaro a développé ses propositions économiques mais a trébuché sur une attaque personnelle contre Lula. Les indécis restent une clé du scrutin, avec des enjeux économiques et politiques majeurs. Les réseaux sociaux jouent un rôle croissant dans cette campagne, notamment pour les jeunes candidats conservateurs. La Chine observe aussi ce scrutin comme un test pour ses relations avec l’Amérique latine.",
           "sources": [
-            "Le Monde",
-            "Libération",
-            "RFI",
-            "Le Figaro",
-            "France Info"
+            "Le Monde, Libération, RFI, Le Figaro, France Info",
+            "Euronews, RFI, France Info, Le Monde",
+            "France 24, Libération",
+            "Courrier International"
           ]
         },
         {
-          "headline": "Le nid d’aigle d’Hitler en Bavière incendié, un suspect arrêté",
-          "summary": "Les pompiers, alertés par l’alarme incendie peu avant 22 heures, n’ont trouvé personne à l’intérieur du bâtiment, complètement en feu à leur arrivée. La piste d’un acte criminel est examinée.",
+          "headline": "Incendie criminel présumé au Nid d’Aigle d’Hitler",
+          "summary": "Un incendie a ravagé le refuge d’Adolf Hitler en Bavière, surnommé le *Nid d’Aigle*, jeudi soir. Un suspect a été arrêté, et les autorités examinent la piste d’un acte criminel. Les pompiers n’ont trouvé personne sur place, et le bâtiment a été entièrement détruit par les flammes. L’événement survient dans un contexte de vigilance accrue autour des symboles nazis en Allemagne.",
           "sources": [
-            "RFI",
-            "Euronews",
-            "France Info",
+            "Euronews, RFI, France Info, Le Monde",
+            "BBC"
+          ]
+        },
+        {
+          "headline": "Hongrie : 70 ans de la révolution de 1956, entre mémoire et divisions",
+          "summary": "Le Premier ministre Péter Magyar a célébré les 70 ans du soulèvement hongrois contre l’URSS, marquant un retour à une « Europe libre et démocratique ». Les cérémonies à Budapest ont réuni drapeaux et hommages, mais la population reste profondément divisée, six mois après la défaite électorale de Viktor Orbán. L’événement souligne les tensions persistantes entre mémoire historique et enjeux politiques actuels.",
+          "sources": [
+            "Le Monde, Euronews"
+          ]
+        },
+        {
+          "headline": "Ukraine : cessez-le-feu à Olechky et tensions sur Starlink",
+          "summary": "Un cessez-le-feu est entré en vigueur le 29 octobre à Olechky, près du Dniepr, après des négociations impliquant la Première dame américaine, Melania Trump. Le Kremlin a salué son rôle. Parallèlement, l’Ukraine a annoncé la stabilisation des connexions Starlink, cruciales pour ses opérations militaires, après une semaine de perturbations. La guerre en Ukraine se poursuit avec des frappes houthises interceptées par l’Arabie saoudite et des attaques ciblées en Cisjordanie.",
+          "sources": [
+            "France Info, Libération",
+            "BBC",
             "Le Monde"
           ]
         },
         {
-          "headline": "Mobilisation du 24 octobre : le cortège parisien défile sur un parcours qui fait débat",
-          "summary": "Parti de la porte d’Italie à l’appel de l’intersyndicale, le cortège parisien avance dans une ambiance bon enfant, sans incident signalé. Mais le parcours, proche du périphérique et différent de celui demandé par les syndicats pour des raisons de sécurité, suscite des réactions parmi les manifestants. Ludovic de Foucaud, envoyé spécial de France 24, décrit l’ambiance sur place.",
+          "headline": "Cisjordanie : opération israélienne après des attaques mortelles",
+          "summary": "Deux soldats israéliens ont été tués vendredi en Cisjordanie, déclenchant une vaste opération militaire. L’armée israélienne a détruit des constructions palestiniennes jugées illégales, tandis que les tensions persistent entre colonies et populations locales. Les élections législatives anticipées du 27 octobre en Israël pourraient voir la sécurité et le coût de la vie devenir des enjeux centraux, bien que le Premier ministre Netanyahu mise sur la première thématique.",
           "sources": [
             "France 24",
-            "Libération"
-          ]
-        },
-        {
-          "headline": "L'Ukraine dit de nouveau bénéficier d'une \"connexion stable\" au système Starlink, crucial pour son armée",
-          "summary": "Le réseau de satellites avait connu des difficultés dans le pays après un pic de tensions entre le président ukrainien Volodymyr et son homologue américain.",
-          "sources": [
-            "France Info",
-            "France 24"
-          ]
-        },
-        {
-          "headline": "En Hongrie, lors des cérémonies des 70 ans de la révolution de 1956, Péter Magyar célèbre une nouvelle ère pour le pays",
-          "summary": "A Budapest, le premier ministre a célébré en grande pompe l’anniversaire du soulèvement contre l’URSS, pour marquer le retour de la Hongrie du côté d’une « Europe libre et démocratique ». Six mois après la défaite de Viktor Orban dans les urnes, la population reste toutefois profondément divisée.",
-          "sources": [
             "Le Monde",
-            "Euronews"
+            "RFI"
+          ]
+        },
+        {
+          "headline": "Yémen : frappes saoudiennes à Sanaa et escalade régionale",
+          "summary": "Des frappes saoudiennes ont fait au moins quatre morts à Sanaa, capitale contrôlée par les houthis. La coalition dirigée par Riyad a intercepté trois missiles houthis visant des villes saoudiennes, aggravant les tensions dans une région déjà instable. Les Emirats arabes unis, candidats au poste de secrétaire général de l’ONU, font face à des critiques pour leur rôle présumé dans la guerre civile soudanaise.",
+          "sources": [
+            "Le Monde"
           ]
         }
       ]
@@ -58,41 +63,51 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Melania Trump annonce un cessez-le-feu dans une ville ukrainienne en pleine crise humanitaire",
-          "summary": "La Première dame des États-Unis, Melania Trump, a affirmé vendredi avoir obtenu un cessez-le-feu à Olechky, une ville du front ukrainien occupée par les forces russes depuis 2022, et où la situation humanitaire est critique. Moscou et Kiev ont confirmé l'annonce.",
+          "headline": "Ukraine : Starlink rétabli et cessez-le-feu à Olechky",
+          "summary": "L'Ukraine a retrouvé une connexion stable au système militaire Starlink, essentiel pour ses opérations, après des perturbations. Parallèlement, un cessez-le-feu a été négocié à Olechky, ville ukrainienne occupée depuis 2022, où la crise humanitaire est critique. Melania Trump a annoncé l'accord, confirmé par Moscou et Kiev. Les autorités ukrainiennes évoquent une vitesse de transmission supérieure à 400 km/h, après des déclarations de Donald Trump sur le rétablissement du réseau par Elon Musk.",
           "sources": [
-            "RFI",
+            "France Info",
             "France 24",
+            "RFI"
+          ]
+        },
+        {
+          "headline": "Manifestations en Europe : tensions et répression",
+          "summary": "Des manifestations contre la vie chère et l'austérité ont lieu en Europe, avec des dispositifs de sécurité renforcés. En Italie, Milan et Rome sont sous haute surveillance après des pillages et heurts violents la semaine dernière. À Lyon, la police a dispersé des manifestants au gaz lacrymogène. Les mobilisations, notamment de la jeunesse, s’étendent en France, Grèce, Belgique et Albanie, avec des accusations de manipulation des parcours par les autorités.",
+          "sources": [
+            "Euronews",
+            "France 24",
+            "Toute l'Europe"
+          ]
+        },
+        {
+          "headline": "Crise énergétique et dépendances européennes",
+          "summary": "L’Europe fait face à des tensions sur les ressources stratégiques, comme l’hélium, classé comme matériau critique aux États-Unis. Les restrictions russes et chinoises, combinées à la guerre au Moyen-Orient, réduisent l’offre mondiale. Parallèlement, la Chine exerce une pression économique croissante sur l’industrie européenne, selon Clément Beaune, Haut-commissaire à la Stratégie et au Plan en France.",
+          "sources": [
+            "Euronews",
+            "France 24"
+          ]
+        },
+        {
+          "headline": "Élections en Israël et enjeux géopolitiques",
+          "summary": "Israël organise des élections législatives le 27 octobre, perçues comme un référendum sur le leadership de Benyamin Netanyahou, trois ans après les attaques du Hamas du 7 octobre 2023. L’UE cherche à élargir son rôle dans les pourparlers de paix Ukraine-Russie pour peser sur les négociations, actuellement dominées par Washington. Ces scrutins et tensions reflètent les divisions géopolitiques en Europe.",
+          "sources": [
+            "Toute l'Europe",
             "Euronews"
           ]
         },
         {
-          "headline": "Kenya: un immeuble de 18 étages en construction s'effondre à Nairobi",
-          "summary": "Au Kenya, inquiétudes après l’effondrement d’un immeuble en construction à Nairobi, la capitale. L’immeuble faisait environ 16 étages selon les autorités et s’est effondré dans le quartier populaire et très dense d’Eastleigh, dans l’est de Nairobi aux alentours de 13h40 heure locale. Le bilan humain n’est pas encore connu, mais sept personnes sont portées disparues et deux blessés ont déjà été secourus selon la Croix-Rouge kényane. Les autorités craignent que plusieurs personnes soient coincées sous les gravats.",
+          "headline": "Violences et radicalisation en Europe",
+          "summary": "Deux attaques au couteau ont eu lieu en Roumanie dans des écoles, dont une liée à la mouvance *True Crime Community*, un réseau en ligne glorifiant la violence extrême. Ces incidents s’inscrivent dans une tendance croissante de radicalisation, notamment chez les jeunes, et rappellent les récents tirs à Aubagne en France. Les autorités européennes surveillent de près ces phénomènes.",
           "sources": [
-            "RFI",
-            "Euronews"
+            "Le Monde"
           ]
         },
         {
-          "headline": "Lyon : la police disperse des manifestants au gaz lacrymogène devant l'université Jean-Moulin",
-          "summary": "À Lyon, les forces de l'ordre dispersent un rassemblement à la limite du périmètre d'interdiction, à coups de grenades lacrymogènes.",
+          "headline": "Budget européen 2028-2034 : blocages et négociations",
+          "summary": "Les États membres de l’UE peinent à s’accorder sur le budget à long terme, proposé à 2 000 milliards d’euros (1,26 % du PNB). Les désaccords portent sur les recettes et les priorités, entre une Europe frugale et une vision plus ambitieuse. Ce dossier sera central lors des prochains sommets européens, reflétant les divisions sur les investissements futurs.",
           "sources": [
-            "Euronews"
-          ]
-        },
-        {
-          "headline": "Des soldats patrouillent Milan, les commerces se barricadent avant les protestations",
-          "summary": "Milan est en alerte avant les manifestations attendues : des soldats supplémentaires sont déployés et les magasins barricadent leurs vitrines, une semaine après des pillages et des heurts avec la police.",
-          "sources": [
-            "Euronews"
-          ]
-        },
-        {
-          "headline": "Des images montrent des colonnes de fumée après une frappe meurtrière sur une usine russe",
-          "summary": "Trois personnes ont été tuées et cinq autres grièvement blessées lors d'une attaque ukrainienne contre une usine dans la région russe d'Oriol, selon les autorités locales.",
-          "sources": [
-            "Euronews"
+            "France 24"
           ]
         }
       ]
@@ -102,51 +117,69 @@
       "label": "France",
       "topics": [
         {
-          "headline": "En France, une attaque à Trappes fait un mort et cinq blessés",
-          "summary": "Un homme de 39 ans est soupçonné d’avoir ouvert le feu à l’arme automatique vendredi à Trappes, notamment devant une station-service. Le bilan fait état d’un mort et de cinq blessés, dont une enfant de 12 ans. Arrivé sur place en fin de journée, Emmanuel Macron a dénoncé un \"acte terroriste et raciste\". Récit de David Gilberg.",
+          "headline": "Congrès du RN : Bardella réélu sans opposition à Orléans",
+          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec **98,98 % des voix** lors d’un congrès à Orléans, sans opposition. Des manifestations anti-extrême droite ont eu lieu en parallèle, avec un **village antifasciste** sous haute surveillance. Deux périmètres de sécurité distincts ont été mis en place pour séparer les rassemblements. Le maire de Trappes, David Kimelfeld, a dénoncé des « discours de haine » lors d’une prise de parole publique.",
+          "sources": [
+            "France 24",
+            "France Info",
+            "20 Minutes",
+            "Libération",
+            "Le Figaro",
+            "Le Monde"
+          ]
+        },
+        {
+          "headline": "Attaque raciste dans les Yvelines : un mort, cinq blessés",
+          "summary": "Un homme de **39 ans** a ouvert le feu vendredi à Trappes et La Verrière, faisant **un mort (Pengo Bossio Wangi, combattant de MMA) et cinq blessés**, dont une fillette de 12 ans en « urgence absolue ». Le suspect, **Kévin T.**, a été arrêté et sa garde à vue prolongée. Il aurait ciblé des personnes **« selon leur couleur de peau »**, évoquant une vengeance contre les pillages du 17 octobre. Un exemplaire de *Mein Kampf* a été retrouvé chez lui. Emmanuel Macron a qualifié l’acte de **« terroriste et raciste »**, mais des doutes persistent sur la qualification juridique.",
           "sources": [
             "France Info",
             "France 24",
             "RFI",
             "20 Minutes",
+            "Le Monde",
+            "Libération",
             "Le Figaro"
           ]
         },
         {
-          "headline": "Fusillade meurtrière dans les Yvelines : la garde à vue du suspect prolongée",
-          "summary": "Après une première audition, la garde à vue du suspect qui a tué une personne et en a blessé cinq dans les Yvelines a été prolongée samedi matin. Quatre personnes de son entourage sont également entendues. Selon les informations du Monde, l'homme a dit avoir voulu venger les commerçants pillés le 17 octobre et avoir ciblé des personnes de couleur.",
+          "headline": "Mobilisations sociales : 135 interpellations et tensions lors du 24 octobre",
+          "summary": "Une **nouvelle journée de manifestations** contre la vie chère a rassemblé des milliers de personnes samedi, sous une **forte présence policière (70 000 forces mobilisées)**. À Paris, le cortège a été dispersé par **lacrymogènes**, tandis que **135 interpellations** ont été recensées à midi. Des violences ont éclaté à Lyon, Nice et Nantes. Jean-Luc Mélenchon a exhorté Emmanuel Macron à **« céder »** face aux revendications, dans un contexte marqué par des **interdictions de manifester** dans plusieurs villes. Les commerces parisiens, inquiets, ont majoritairement ouvert malgré les risques.",
           "sources": [
             "France Info",
+            "France 24",
+            "Euronews",
+            "20 Minutes",
             "Le Figaro",
-            "France 24",
-            "20 Minutes"
-          ]
-        },
-        {
-          "headline": "À Orléans, le congrès du Rassemblement National face à la mobilisation anti-RN",
-          "summary": "Le Rassemblement national tient son congrès à Orléans pour lancer sa campagne vers l’Élysée. En parallèle, 30 000 manifestants anti-RN sont attendus, parmi lesquels Bally Bagayoko, maire de Saint-Denis. Un village antifasciste est installé dans le centre-ville, tandis que 3 000 membres des forces de l’ordre sont déployés pour sécuriser les rassemblements et éviter que leurs participants se croisent. Elena Volochine, envoyée spéciale de France 24, détaille ce dispositif inédit.",
-          "sources": [
-            "France Info",
-            "France 24",
             "Libération"
           ]
         },
         {
-          "headline": "Circonstances, suspect, mobile... ce que l'on sait sur l'attaque \"terroriste raciste\" à Trappes",
-          "summary": "À Trappes puis à La Verrière, dans les Yvelines, un homme a tiré en rafales sur la voie publique depuis son véhicule, tuant une personne et faisant cinq blessés, vendredi. Pour le ministre de l'Intérieur, intervenu sur place, il s'agit d'une attaque terroriste. Que sait-on sur les circonstances de la fusillade et le profil du suspect ? France 24 fait le point.",
+          "headline": "Note de la dette : Moody’s maintient la France à Aa3, mais perspective négative",
+          "summary": "L’agence **Moody’s a conservé la note souveraine de la France à Aa3**, malgré les **scènes de violence du 17 octobre** et les incertitudes budgétaires. La perspective reste **« négative »**, reflétant des risques à moyen terme. Le gouvernement y voit un **« léger répit »**, mais des économistes, comme ceux de Carmignac, jugent cette décision **« difficile à comprendre »**. La dette publique française atteint **119,1 % du PIB** (3 600 milliards d’euros).",
           "sources": [
             "Libération",
             "Mediapart",
-            "France 24"
+            "France 24",
+            "France Info",
+            "Toute l'Europe",
+            "Le Figaro",
+            "Le Monde"
           ]
         },
         {
-          "headline": "DIRECT - Mobilisation en France: Jean-Luc Mélenchon exhorte Emmanuel Macron à «céder» face aux revendications",
-          "summary": "La France vit samedi 24 octobre une nouvelle journée de mobilisations sociales, avec plusieurs manifestations attendues. Le gouvernement a fortement musclé le dispositif sécuritaire après les destructions et les pillages de la semaine passée, dont les images ont fait le tour du monde. Des violences policières avaient également émaillé la journée du 17 octobre et soulevé de nombreuses questions sur le maintien de l'ordre.",
+          "headline": "Déserts médicaux : le gouvernement limite la pratique esthétique des médecins",
+          "summary": "Un **décret en projet** impose aux médecins de limiter leur activité esthétique à **30 % de leur temps de travail**, le reste devant être consacré à leur spécialité d’origine. Cette mesure vise à **combler les déserts médicaux**, mais suscite une **forte opposition** dans le secteur. Le texte doit être publié prochainement, dans un contexte de **pénurie de praticiens** en zones rurales.",
           "sources": [
-            "France Info",
-            "Euronews",
-            "RFI"
+            "20 Minutes",
+            "Libération"
+          ]
+        },
+        {
+          "headline": "Gazole : baisse des prix annoncée via la libération des stocks stratégiques",
+          "summary": "Un **décret publié au Journal officiel** oblige les distributeurs à répercuter la baisse des prix du gazole, avec une **réduction attendue de 12 à 18 centimes par litre** à partir du **1ᵉʳ novembre**. Cette mesure s’inscrit dans la lutte contre la **vie chère**, après des semaines de tensions sociales. Les stocks stratégiques seront mobilisés pour soutenir l’offre.",
+          "sources": [
+            "Le Monde",
+            "20 Minutes"
           ]
         }
       ]
