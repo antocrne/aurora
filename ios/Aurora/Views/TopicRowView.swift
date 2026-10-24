@@ -62,20 +62,40 @@ struct TopicRowView: View {
     }
 }
 
-/// « Lecture croisée » : comment les médias traitent le sujet, sous un filet vertical.
+/// « Lecture croisée » : comment les médias traitent le sujet, sous un filet
+/// vertical. Repliée par défaut : le lecteur la déroule s'il le souhaite.
 private struct AnglesView: View {
     let text: String
+    @State private var isExpanded = false
 
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
-            Text("LECTURE CROISÉE")
-                .font(AuroraTheme.anglesLabel)
-                .tracking(1.8)
-                .foregroundStyle(AuroraTheme.secondaryText)
-            Text(text)
-                .font(AuroraTheme.angles)
-                .lineSpacing(3)
-                .foregroundStyle(AuroraTheme.primaryText)
+            Button {
+                withAnimation(.easeInOut(duration: 0.2)) {
+                    isExpanded.toggle()
+                }
+            } label: {
+                // Un triangle typographique plutôt qu'une icône, dans l'esprit du journal.
+                Text("LECTURE CROISÉE  \(isExpanded ? "▾" : "▸")")
+                    .font(AuroraTheme.anglesLabel)
+                    .tracking(1.8)
+                    .foregroundStyle(AuroraTheme.secondaryText)
+                    .frame(maxWidth: .infinity, minHeight: 28, alignment: .leading)
+                    .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .accessibilityLabel("Lecture croisée")
+            .accessibilityValue(isExpanded ? "dépliée" : "repliée")
+            .accessibilityHint("Compare le traitement du sujet par les différents médias")
+
+            if isExpanded {
+                Text(text)
+                    .font(AuroraTheme.angles)
+                    .lineSpacing(3)
+                    .foregroundStyle(AuroraTheme.primaryText)
+                    .padding(.bottom, 2)
+                    .transition(.opacity)
+            }
         }
         .padding(.leading, 12)
         .overlay(alignment: .leading) {
@@ -83,7 +103,6 @@ private struct AnglesView: View {
                 .fill(AuroraTheme.rule)
                 .frame(width: 2)
         }
-        .accessibilityElement(children: .combine)
     }
 }
 

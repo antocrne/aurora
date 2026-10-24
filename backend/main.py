@@ -53,7 +53,7 @@ def write_atomic(path: Path, data: dict) -> None:
     os.replace(tmp, path)
 
 
-def run(dry_run: bool, output: Path, model: str, angles: bool = False) -> int:
+def run(dry_run: bool, output: Path, model: str, angles: bool = True) -> int:
     now = datetime.now(timezone.utc)
 
     articles, failures = fetch_all(FEEDS)
@@ -116,13 +116,13 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true", help="ne pas appeler Mistral")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument(
-        "--angles", action="store_true", help="comparer le traitement entre médias (expérimental)"
+        "--no-angles", action="store_true", help="ne pas rédiger la « lecture croisée » entre médias"
     )
     parser.add_argument("--model", default="", help="modèle Mistral (défaut : ministral-14b-latest, avec repli)")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)-7s %(message)s")
-    return run(args.dry_run, args.output, args.model, args.angles)
+    return run(args.dry_run, args.output, args.model, not args.no_angles)
 
 
 if __name__ == "__main__":

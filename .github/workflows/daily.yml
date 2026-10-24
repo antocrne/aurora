@@ -7,11 +7,6 @@ on:
     - cron: '0 6 * * *'   # Matin : 6h UTC (8h Paris en été, 7h en hiver)
     - cron: '0 17 * * *'  # Soir : 17h UTC (19h Paris en été, 18h en hiver)
   workflow_dispatch: # Permet de lancer manuellement
-    inputs:
-      demo_angles:
-        description: "Démo : comparer le traitement entre médias, écrit dans docs/demo.json"
-        type: boolean
-        default: false
 
 permissions:
   contents: write  # nécessaire pour pousser docs/summaries.json
@@ -40,23 +35,14 @@ jobs:
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           MISTRAL_MODEL: ${{ vars.MISTRAL_MODEL }}  # optionnel, modèle à essayer en premier
-          DEMO_ANGLES: ${{ inputs.demo_angles }}
-        run: |
-          if [ "$DEMO_ANGLES" = "true" ]; then
-            python backend/main.py --angles --output docs/demo.json
-          else
-            python backend/main.py
-          fi
+        run: python backend/main.py
 
       - name: Commit and push
-        env:
-          DEMO_ANGLES: ${{ inputs.demo_angles }}
         run: |
           git config user.name "Aurora Bot"
           git config user.email "bot@aurora.app"
-          git add docs/*.json
+          git add docs/summaries.json
           git diff --staged --quiet && exit 0
-          if [ "$DEMO_ANGLES" = "true" ]; then MSG="🧪 Démo angles"; else MSG="📰 Édition"; fi
-          git commit -m "$MSG du $(TZ=Europe/Paris date +'%d/%m/%Y')"
+          git commit -m "📰 Édition du $(TZ=Europe/Paris date +'%d/%m/%Y')"
           git pull --rebase
           git push
