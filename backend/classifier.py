@@ -15,6 +15,7 @@ from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from typing import Dict, FrozenSet, List, Optional
 
+import geography
 from fetcher import Article
 from sources import CATEGORY_ORDER
 
@@ -143,8 +144,18 @@ def cluster(articles: List[Article]) -> List[Story]:
         story.tokens.append(tokens)
 
     for story in stories:
-        story.category = _vote_category(story)
+        story.category = _story_location(story) or _vote_category(story)
     return stories
+
+
+def _story_location(story: Story) -> Optional[str]:
+    """Rubrique d'après les lieux cités, quand elle est nette.
+
+    Le flux d'origine ne suffit pas : Le Monde International couvre l'Allemagne,
+    Toute l'Europe couvre les élections israéliennes.
+    """
+    titles = " ; ".join(dict.fromkeys(a.title for a in story.articles))
+    return geography.locate(titles, story.lead.description)
 
 
 def _vote_category(story: Story) -> str:

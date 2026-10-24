@@ -326,9 +326,13 @@ def _model_placements(written: Dict[str, List[Dict[str, object]]], model: str) -
     content = _complete(CHECK_TEMPLATE.format(definitions=CATEGORY_DEFINITIONS, topics="\n".join(lines)), model)
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
     try:
-        placements = json.loads(content).get("placements", [])
-    except (json.JSONDecodeError, AttributeError) as exc:
+        data = json.loads(content)
+    except json.JSONDecodeError as exc:
         raise SummarizerError(f"Réponse de vérification invalide : {exc}") from exc
+    # Le modèle renvoie tantôt {"placements": [...]}, tantôt directement la liste.
+    placements = data.get("placements", []) if isinstance(data, dict) else data
+    if not isinstance(placements, list):
+        raise SummarizerError("Réponse de vérification sans liste de placements")
     return {
         str(p.get("id", "")).strip().upper(): str(p.get("category", "")).strip().lower()
         for p in placements
