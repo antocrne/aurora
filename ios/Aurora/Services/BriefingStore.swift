@@ -5,6 +5,9 @@ import Observation
 @MainActor
 @Observable
 final class BriefingStore {
+    /// Heures UTC des éditions, alignées sur le cron de `.github/workflows/daily.yml`.
+    static let editionHoursUTC = [6, 17]
+
     private(set) var summary: Summary?
     private(set) var isLoading = false
     private(set) var errorMessage: String?
@@ -17,17 +20,23 @@ final class BriefingStore {
         self.summary = summary
     }
 
-    /// Affiche tout de suite l'édition en cache, puis va chercher la plus récente.
+    /// Affiche tout de suite l'édition en cache, et ne va chercher la suivante
+    /// que si elle a pu paraître depuis.
     func load() async {
         if summary == nil {
             summary = service.cached()
         }
-        await refresh()
+        if summary == nil || newEditionDue() {
+            await refresh()
+        }
     }
 
-    /// Recharge au retour au premier plan, au plus une fois toutes les 15 minutes.
+    /// Au retour au premier plan : recharge seulement si une édition est
+    /// attendue, et au plus une fois toutes les 15 minutes (le cron GitHub
+    /// peut publier avec du retard).
     func refreshIfStale() async {
-        guard let lastRefresh, Date().timeIntervalSince(lastRefresh) > 15 * 60 else { return }
+        guard newEditionDue() else { return }
+        if let lastRefresh, Date().timeIntervalSince(lastRefresh) < 15 * 60 { return }
         await refresh()
     }
 
@@ -35,14 +44,32 @@ final class BriefingStore {
         guard !isLoading else { return }
         isLoading = true
         defer { isLoading = false }
+        lastRefresh = Date()
         do {
             summary = try await service.fetch()
             errorMessage = nil
-            lastRefresh = Date()
         } catch {
             errorMessage = summary == nil
                 ? "L'édition du jour n'a pas pu être chargée."
                 : "Hors ligne : édition précédente affichée."
         }
+    }
+
+    /// Vrai si une heure d'édition est passée depuis la génération de l'édition affichée.
+    private func newEditionDue(now: Date = Date()) -> Bool {
+        guard let generatedAt = summary?.generatedAt else { return true }
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = .gmt
+        let nextEdition = Self.editionHoursUTC
+            .compactMap {
+                calendar.nextDate(
+                    after: generatedAt,
+                    matching: DateComponents(hour: $0, minute: 0),
+                    matchingPolicy: .nextTime
+                )
+            }
+            .min()
+        guard let nextEdition else { return true }
+        return now >= nextEdition
     }
 }

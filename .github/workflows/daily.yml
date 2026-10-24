@@ -2,7 +2,10 @@ name: Aurora Daily Brief
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Tous les jours à 6h UTC (8h Paris en été, 7h en hiver)
+    # Deux éditions par jour. L'app iOS cale ses rechargements sur ces heures
+    # (BriefingStore.editionHoursUTC) : les modifier ensemble.
+    - cron: '0 6 * * *'   # Matin : 6h UTC (8h Paris en été, 7h en hiver)
+    - cron: '0 17 * * *'  # Soir : 17h UTC (19h Paris en été, 18h en hiver)
   workflow_dispatch: # Permet de lancer manuellement
 
 permissions:
