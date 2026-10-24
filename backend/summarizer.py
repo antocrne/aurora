@@ -17,6 +17,7 @@ from typing import Dict, List, Sequence
 import requests
 
 from classifier import Story
+from fetcher import Article
 
 log = logging.getLogger(__name__)
 
@@ -26,14 +27,15 @@ API_URL = "https://api.mistral.ai/v1/chat/completions"
 DEFAULT_MODELS = ["ministral-14b-latest", "ministral-8b-latest", "open-mistral-nemo"]
 MAX_TOPICS = 6
 MAX_SOURCES = 5
-MAX_PROMPT_CHARS = 24_000
+MAX_PROMPT_CHARS = 30_000
+MAX_EXCERPT_CHARS = 300  # longueur max d'un chapô par média dans le prompt
 MAX_ATTEMPTS = 6  # jusqu'à ~4 min d'attente cumulée en cas de 429
 
 PROMPT_TEMPLATE = """Tu es un rédacteur en chef d'un journal de qualité. Tu rédiges un briefing quotidien factuel et concis.
 
 Nous sommes le {today}.
 
-Voici les articles récents pour la catégorie "{category}" :
+Voici les articles récents pour la catégorie "{category}". Chaque bloc [S…] regroupe les articles de plusieurs médias sur un même événement :
 
 ---
 {articles}
@@ -41,12 +43,12 @@ Voici les articles récents pour la catégorie "{category}" :
 
 À partir de ces articles :
 
-1. Identifie les 3 à 6 sujets principaux (regroupe les articles qui parlent du même événement)
+1. Identifie les 3 à 6 sujets principaux (un sujet peut regrouper plusieurs blocs qui parlent du même événement)
 2. Pour chaque sujet, rédige :
    - Un titre court et informatif (style manchette de journal, max 10 mots)
    - Un résumé factuel de 3 à 5 phrases qui couvre l'essentiel : quoi, qui, où, quand, pourquoi
-   - La liste des sources utilisées
-
+   - La liste des numéros des blocs utilisés (ex. [3, 7] pour S3 et S7)
+{angles_step}
 Règles :
 - Langue : français
 - Ton : neutre, factuel, sans opinion ni éditorialisation
@@ -56,7 +58,6 @@ Règles :
 - Ne dépasse pas 6 sujets par catégorie
 - Ignore les articles qui ne relèvent pas de la catégorie "{category}"
 - Privilégie les sujets couverts par plusieurs sources
-- Pour les sources, reprends exactement les noms indiqués dans les lignes "Sources :", un nom par élément de la liste
 - N'invente aucune date, aucun chiffre ni aucun nom absent des articles
 - Texte brut uniquement : pas de Markdown (ni gras, ni italique, ni astérisques)
 {covered}
@@ -66,10 +67,13 @@ Réponds au format JSON suivant :
     {{
       "headline": "...",
       "summary": "...",
-      "sources": ["source1", "source2"]
+      "stories": [1, 2]{angles_field}
     }}
   ]
 }}"""
+
+ANGLES_STEP = """3. Pour chaque sujet couvert par au moins deux médias, compare leur traitement à partir de leurs titres et chapôs : faits mis en avant, cadrage, ton. Rédige "angles" en une ou deux phrases qui nomment les médias (ex. « Libération met l'accent sur …, Le Figaro insiste sur … »). Si les traitements ne diffèrent pas vraiment, ou si un seul média couvre le sujet, mets "angles": null. N'attribue jamais à un média un point de vue absent de son texte.
+"""
 
 
 class SummarizerError(RuntimeError):
@@ -84,18 +88,25 @@ class ModelUnavailable(SummarizerError):
 _unavailable_models: set = set()
 
 
+def _one_per_source(story: Story) -> List[Article]:
+    """Le premier article de chaque média, dans l'ordre du sujet."""
+    seen: Dict[str, Article] = {}
+    for article in story.articles:
+        seen.setdefault(article.source, article)
+    return list(seen.values())
+
+
 def format_stories(stories: List[Story], limit: int = MAX_PROMPT_CHARS) -> str:
-    """Un bloc par sujet dédoublonné, séparés par ---, dans la limite de `limit` caractères."""
+    """Un bloc numéroté [S1], [S2]… par sujet, avec le titre et le chapô de chaque média."""
     blocks: List[str] = []
     total = 0
-    for story in stories:
-        lead = story.lead
-        lines = [f"Sources : {', '.join(story.sources)}", f"Titre : {lead.title}"]
-        other_titles = [a.title for a in story.articles if a.title != lead.title]
-        for title in other_titles[:3]:
-            lines.append(f"Autre titre : {title}")
-        if lead.description:
-            lines.append(f"Contenu : {lead.description}")
+    for number, story in enumerate(stories, start=1):
+        lines = [f"[S{number}] Sources : {', '.join(story.sources)}"]
+        for article in _one_per_source(story)[:MAX_SOURCES]:
+            text = article.title
+            if article.description:
+                text += f" — {article.description[:MAX_EXCERPT_CHARS]}"
+            lines.append(f"- {article.source} : {text}")
         block = "\n".join(lines)
         if total + len(block) > limit and blocks:
             break
@@ -105,7 +116,11 @@ def format_stories(stories: List[Story], limit: int = MAX_PROMPT_CHARS) -> str:
 
 
 def build_prompt(
-    label: str, stories: List[Story], today: str = "", covered: Sequence[str] = ()
+    label: str,
+    stories: List[Story],
+    today: str = "",
+    covered: Sequence[str] = (),
+    angles: bool = False,
 ) -> str:
     covered_rule = ""
     if covered:
@@ -119,6 +134,8 @@ def build_prompt(
         category=label,
         articles=format_stories(stories),
         covered=covered_rule,
+        angles_step=ANGLES_STEP if angles else "",
+        angles_field=',\n      "angles": "..." ou null' if angles else "",
     )
 
 
@@ -162,20 +179,25 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
     raise SummarizerError(f"Échec de l'appel Mistral : {last_error}")
 
 
-def _canonical_sources(raw: object, known: List[str]) -> List[str]:
-    if not isinstance(raw, list):
+def topic_links(story_ids: object, stories: List[Story]) -> List[Dict[str, str]]:
+    """Un lien par média (au plus MAX_SOURCES), tiré des blocs [S…] cités par le modèle."""
+    if not isinstance(story_ids, list):
         return []
-    by_key = {_source_key(k): k for k in known}
-    result: List[str] = []
-    for item in raw:
-        if not isinstance(item, str):
+    links: List[Dict[str, str]] = []
+    for raw in story_ids:
+        try:
+            index = int(str(raw).lstrip("Ss")) - 1
+        except ValueError:
             continue
-        # Le modèle recopie parfois une ligne « Sources : A, B, C » en un seul élément.
-        for part in re.split(r"[,;]", item):
-            name = by_key.get(_source_key(part), part.strip())
-            if name and _source_key(name) not in {_source_key(r) for r in result}:
-                result.append(name)
-    return result[:MAX_SOURCES]
+        if not 0 <= index < len(stories):
+            continue
+        for article in _one_per_source(stories[index]):
+            if not article.link.startswith(("https://", "http://")):
+                continue
+            if any(_source_key(l["source"]) == _source_key(article.source) for l in links):
+                continue
+            links.append({"source": article.source, "url": article.link})
+    return links[:MAX_SOURCES]
 
 
 def _source_key(name: str) -> str:
@@ -190,7 +212,9 @@ def clean_markdown(text: str) -> str:
     return re.sub(r"\s+", " ", _MARKDOWN_RE.sub("", text)).strip()
 
 
-def parse_topics(content: str, known_sources: List[str]) -> List[Dict[str, object]]:
+def parse_topics(
+    content: str, stories: List[Story], angles: bool = False
+) -> List[Dict[str, object]]:
     # Mistral renvoie parfois le JSON entouré d'un bloc ```json.
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
     try:
@@ -206,13 +230,19 @@ def parse_topics(content: str, known_sources: List[str]) -> List[Dict[str, objec
         summary = clean_markdown(str(item.get("summary", "")))
         if not headline or not summary:
             continue
-        topics.append(
-            {
-                "headline": headline,
-                "summary": summary,
-                "sources": _canonical_sources(item.get("sources"), known_sources),
-            }
-        )
+        links = topic_links(item.get("stories"), stories)
+        topic: Dict[str, object] = {
+            "headline": headline,
+            "summary": summary,
+            "sources": [link["source"] for link in links],
+            "links": links,
+        }
+        raw_angles = item.get("angles")
+        if angles and isinstance(raw_angles, str) and len(links) >= 2:
+            cleaned = clean_markdown(raw_angles)
+            if cleaned and cleaned.lower() not in ("null", "none"):
+                topic["angles"] = cleaned
+        topics.append(topic)
     if not topics:
         raise SummarizerError("Aucun sujet exploitable dans la réponse")
     return topics[:MAX_TOPICS]
@@ -224,21 +254,22 @@ def summarize(
     model: str = "",
     today: str = "",
     covered: Sequence[str] = (),
+    angles: bool = False,
 ) -> List[Dict[str, object]]:
-    """`covered` : manchettes déjà rédigées pour d'autres rubriques, à ne pas reprendre."""
+    """`covered` : manchettes déjà rédigées pour d'autres rubriques, à ne pas reprendre.
+    `angles` : demander en plus une comparaison du traitement entre médias."""
     api_key = os.environ.get("MISTRAL_API_KEY", "")
     if not api_key:
         raise SummarizerError("MISTRAL_API_KEY n'est pas défini")
     preferred = model or os.environ.get("MISTRAL_MODEL") or ""
     candidates = [m for m in dict.fromkeys([preferred, *DEFAULT_MODELS]) if m]
-    known = sorted({src for story in stories for src in story.sources})
-    prompt = build_prompt(label, stories, today, covered)
+    prompt = build_prompt(label, stories, today, covered, angles)
     for candidate in candidates:
         if candidate in _unavailable_models:
             continue
         log.info("%s : %d sujets envoyés à %s (%d caractères)", label, len(stories), candidate, len(prompt))
         try:
-            return _summarize_with(candidate, prompt, api_key, known, label)
+            return _summarize_with(candidate, prompt, api_key, stories, angles, label)
         except ModelUnavailable as exc:
             log.warning("%s — modèle suivant", exc)
             _unavailable_models.add(candidate)
@@ -246,12 +277,12 @@ def summarize(
 
 
 def _summarize_with(
-    model: str, prompt: str, api_key: str, known: List[str], label: str
+    model: str, prompt: str, api_key: str, stories: List[Story], angles: bool, label: str
 ) -> List[Dict[str, object]]:
     for attempt in range(2):
         content = _call_mistral(prompt, api_key, model)
         try:
-            return parse_topics(content, known)
+            return parse_topics(content, stories, angles)
         except SummarizerError as exc:
             if attempt == 1:
                 raise
@@ -267,11 +298,13 @@ def summarize_offline(stories: List[Story]) -> List[Dict[str, object]]:
         if lead.lang != "fr" or not lead.description:
             continue
         sentences = re.split(r"(?<=[.!?])\s+", lead.description)
+        links = topic_links([1], [story])
         topics.append(
             {
                 "headline": lead.title,
                 "summary": " ".join(sentences[:4]),
-                "sources": story.sources,
+                "sources": [link["source"] for link in links],
+                "links": links,
             }
         )
         if len(topics) == 5:

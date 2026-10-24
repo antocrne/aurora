@@ -53,7 +53,7 @@ def write_atomic(path: Path, data: dict) -> None:
     os.replace(tmp, path)
 
 
-def run(dry_run: bool, output: Path, model: str) -> int:
+def run(dry_run: bool, output: Path, model: str, angles: bool = False) -> int:
     now = datetime.now(timezone.utc)
 
     articles, failures = fetch_all(FEEDS)
@@ -90,7 +90,7 @@ def run(dry_run: bool, output: Path, model: str) -> int:
             if dry_run:
                 topics = summarize_offline(items)
             else:
-                topics = summarize(label, items, model, edition_label(now), covered)
+                topics = summarize(label, items, model, edition_label(now), covered, angles)
         except SummarizerError as exc:
             log.error("%s : %s", label, exc)
             return 1
@@ -115,11 +115,14 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Génère le briefing Aurora")
     parser.add_argument("--dry-run", action="store_true", help="ne pas appeler Mistral")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument(
+        "--angles", action="store_true", help="comparer le traitement entre médias (expérimental)"
+    )
     parser.add_argument("--model", default="", help="modèle Mistral (défaut : ministral-14b-latest, avec repli)")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)-7s %(message)s")
-    return run(args.dry_run, args.output, args.model)
+    return run(args.dry_run, args.output, args.model, args.angles)
 
 
 if __name__ == "__main__":
