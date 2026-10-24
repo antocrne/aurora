@@ -31,6 +31,7 @@ DEFAULT_OUTPUT = ROOT / "docs" / "summaries.json"
 PARIS = ZoneInfo("Europe/Paris")
 # Espace les appels Mistral pour rester sous les limites de débit de l'offre gratuite.
 PAUSE_BETWEEN_CALLS = 5
+WRITING_ORDER = ["europe", "france", "monde"]
 MONTHS = [
     "janvier", "février", "mars", "avril", "mai", "juin",
     "juillet", "août", "septembre", "octobre", "novembre", "décembre",
@@ -72,8 +73,12 @@ def run(dry_run: bool, output: Path, model: str) -> int:
         ", ".join(f"{c}: {len(grouped[c])}" for c in CATEGORY_ORDER),
     )
 
-    categories = []
-    for index, category in enumerate(CATEGORY_ORDER):
+    # Les rubriques les plus spécifiques passent d'abord ; leurs manchettes sont
+    # transmises aux suivantes pour qu'un même sujet (ex. l'Ukraine) ne figure
+    # pas à la fois dans Europe et dans Monde.
+    written: dict = {}
+    covered: list = []
+    for index, category in enumerate(WRITING_ORDER):
         if index and not dry_run:
             time.sleep(PAUSE_BETWEEN_CALLS)
         label = CATEGORY_LABELS[category]
@@ -82,12 +87,17 @@ def run(dry_run: bool, output: Path, model: str) -> int:
             log.error("Aucun article pour %s, abandon", label)
             return 1
         try:
-            topics = summarize_offline(items) if dry_run else summarize(label, items, model)
+            if dry_run:
+                topics = summarize_offline(items)
+            else:
+                topics = summarize(label, items, model, edition_label(now), covered)
         except SummarizerError as exc:
             log.error("%s : %s", label, exc)
             return 1
         log.info("%s : %d sujets rédigés", label, len(topics))
-        categories.append({"id": category, "label": label, "topics": topics})
+        covered.extend(str(topic["headline"]) for topic in topics)
+        written[category] = {"id": category, "label": label, "topics": topics}
+    categories = [written[category] for category in CATEGORY_ORDER]
 
     write_atomic(
         output,

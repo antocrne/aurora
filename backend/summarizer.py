@@ -11,7 +11,8 @@ import logging
 import os
 import re
 import time
-from typing import Dict, List
+import unicodedata
+from typing import Dict, List, Sequence
 
 import requests
 
@@ -24,10 +25,13 @@ API_URL = "https://api.mistral.ai/v1/chat/completions"
 # les Ministral et Nemo restent accessibles. On essaie ces modèles dans l'ordre.
 DEFAULT_MODELS = ["ministral-14b-latest", "ministral-8b-latest", "open-mistral-nemo"]
 MAX_TOPICS = 6
+MAX_SOURCES = 5
 MAX_PROMPT_CHARS = 24_000
 MAX_ATTEMPTS = 6  # jusqu'à ~4 min d'attente cumulée en cas de 429
 
 PROMPT_TEMPLATE = """Tu es un rédacteur en chef d'un journal de qualité. Tu rédiges un briefing quotidien factuel et concis.
+
+Nous sommes le {today}.
 
 Voici les articles récents pour la catégorie "{category}" :
 
@@ -52,8 +56,10 @@ Règles :
 - Ne dépasse pas 6 sujets par catégorie
 - Ignore les articles qui ne relèvent pas de la catégorie "{category}"
 - Privilégie les sujets couverts par plusieurs sources
-- Pour les sources, reprends exactement les noms indiqués dans les lignes "Sources :"
-
+- Pour les sources, reprends exactement les noms indiqués dans les lignes "Sources :", un nom par élément de la liste
+- N'invente aucune date, aucun chiffre ni aucun nom absent des articles
+- Texte brut uniquement : pas de Markdown (ni gras, ni italique, ni astérisques)
+{covered}
 Réponds au format JSON suivant :
 {{
   "topics": [
@@ -98,8 +104,22 @@ def format_stories(stories: List[Story], limit: int = MAX_PROMPT_CHARS) -> str:
     return "\n---\n".join(blocks)
 
 
-def build_prompt(label: str, stories: List[Story]) -> str:
-    return PROMPT_TEMPLATE.format(category=label, articles=format_stories(stories))
+def build_prompt(
+    label: str, stories: List[Story], today: str = "", covered: Sequence[str] = ()
+) -> str:
+    covered_rule = ""
+    if covered:
+        headlines = "; ".join(covered)
+        covered_rule = (
+            "- Ces sujets sont déjà traités dans d'autres rubriques, ne les reprends pas : "
+            f"{headlines}\n"
+        )
+    return PROMPT_TEMPLATE.format(
+        today=today,
+        category=label,
+        articles=format_stories(stories),
+        covered=covered_rule,
+    )
 
 
 def _call_mistral(prompt: str, api_key: str, model: str) -> str:
@@ -145,15 +165,29 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
 def _canonical_sources(raw: object, known: List[str]) -> List[str]:
     if not isinstance(raw, list):
         return []
-    by_key = {k.casefold(): k for k in known}
+    by_key = {_source_key(k): k for k in known}
     result: List[str] = []
     for item in raw:
         if not isinstance(item, str):
             continue
-        name = by_key.get(item.strip().casefold(), item.strip())
-        if name and name not in result:
-            result.append(name)
-    return result
+        # Le modèle recopie parfois une ligne « Sources : A, B, C » en un seul élément.
+        for part in re.split(r"[,;]", item):
+            name = by_key.get(_source_key(part), part.strip())
+            if name and _source_key(name) not in {_source_key(r) for r in result}:
+                result.append(name)
+    return result[:MAX_SOURCES]
+
+
+def _source_key(name: str) -> str:
+    return unicodedata.normalize("NFC", name).strip().casefold()
+
+
+_MARKDOWN_RE = re.compile(r"(\*\*|__|\*|`)")
+
+
+def clean_markdown(text: str) -> str:
+    """L'app affiche du texte brut : on retire gras, italique et code Markdown."""
+    return re.sub(r"\s+", " ", _MARKDOWN_RE.sub("", text)).strip()
 
 
 def parse_topics(content: str, known_sources: List[str]) -> List[Dict[str, object]]:
@@ -168,8 +202,8 @@ def parse_topics(content: str, known_sources: List[str]) -> List[Dict[str, objec
     for item in data.get("topics", []) if isinstance(data, dict) else []:
         if not isinstance(item, dict):
             continue
-        headline = str(item.get("headline", "")).strip()
-        summary = str(item.get("summary", "")).strip()
+        headline = clean_markdown(str(item.get("headline", ""))).rstrip(".")
+        summary = clean_markdown(str(item.get("summary", "")))
         if not headline or not summary:
             continue
         topics.append(
@@ -184,14 +218,21 @@ def parse_topics(content: str, known_sources: List[str]) -> List[Dict[str, objec
     return topics[:MAX_TOPICS]
 
 
-def summarize(label: str, stories: List[Story], model: str = "") -> List[Dict[str, object]]:
+def summarize(
+    label: str,
+    stories: List[Story],
+    model: str = "",
+    today: str = "",
+    covered: Sequence[str] = (),
+) -> List[Dict[str, object]]:
+    """`covered` : manchettes déjà rédigées pour d'autres rubriques, à ne pas reprendre."""
     api_key = os.environ.get("MISTRAL_API_KEY", "")
     if not api_key:
         raise SummarizerError("MISTRAL_API_KEY n'est pas défini")
     preferred = model or os.environ.get("MISTRAL_MODEL") or ""
     candidates = [m for m in dict.fromkeys([preferred, *DEFAULT_MODELS]) if m]
     known = sorted({src for story in stories for src in story.sources})
-    prompt = build_prompt(label, stories)
+    prompt = build_prompt(label, stories, today, covered)
     for candidate in candidates:
         if candidate in _unavailable_models:
             continue
