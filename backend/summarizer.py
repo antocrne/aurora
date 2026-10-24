@@ -119,6 +119,11 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
                 limits = {k: v for k, v in response.headers.items() if "ratelimit" in k.lower()}
                 if limits:
                     log.warning("Mistral : quotas %s", limits)
+                if response.headers.get("x-ratelimit-limit-req-minute") == "0":
+                    raise SummarizerError(
+                        "Quota Mistral à 0 requête/minute : aucune offre active sur ce "
+                        "workspace (activer l'offre Experiment ou Scale sur admin.mistral.ai)"
+                    )
                 retry_after = response.headers.get("Retry-After", "")
                 if retry_after.isdigit():
                     wait = max(wait, int(retry_after))
