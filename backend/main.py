@@ -100,7 +100,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Génère le briefing Aurora")
     parser.add_argument("--dry-run", action="store_true", help="ne pas appeler Mistral")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    parser.add_argument("--model", default="", help="modèle Mistral (défaut : mistral-large-latest)")
+    parser.add_argument("--model", default="", help="modèle Mistral (défaut : mistral-small-latest)")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)-7s %(message)s")

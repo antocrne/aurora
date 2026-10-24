@@ -25,7 +25,7 @@ python3 -m venv .venv && .venv/bin/pip install -r backend/requirements.txt
 MISTRAL_API_KEY=... .venv/bin/python backend/main.py  # édition réelle
 ```
 
-Options : `--model mistral-small-latest` (ou variable `MISTRAL_MODEL`) pour réduire les coûts, `--output chemin.json`.
+Modèle par défaut : `mistral-small-latest`. Options : `--model mistral-large-latest` (ou variable `MISTRAL_MODEL`) si ton offre Mistral y donne accès, `--output chemin.json`.
 
 ### Robustesse
 

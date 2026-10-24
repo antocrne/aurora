@@ -20,7 +20,7 @@ from classifier import Story
 log = logging.getLogger(__name__)
 
 API_URL = "https://api.mistral.ai/v1/chat/completions"
-DEFAULT_MODEL = "mistral-large-latest"
+DEFAULT_MODEL = "mistral-small-latest"
 MAX_TOPICS = 6
 MAX_PROMPT_CHARS = 24_000
 

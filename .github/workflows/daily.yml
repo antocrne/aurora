@@ -31,7 +31,7 @@ jobs:
       - name: Generate summaries
         env:
           MISTRAL_API_KEY: ${{ secrets.AURORA_KEY }}
-          MISTRAL_MODEL: ${{ vars.MISTRAL_MODEL }}  # optionnel, ex. mistral-small-latest
+          MISTRAL_MODEL: ${{ vars.MISTRAL_MODEL }}  # optionnel, ex. mistral-large-latest
         run: python backend/main.py
 
       - name: Commit and push
