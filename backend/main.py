@@ -16,6 +16,7 @@ import json
 import logging
 import os
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -28,6 +29,8 @@ from summarizer import SummarizerError, summarize, summarize_offline
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = ROOT / "docs" / "summaries.json"
 PARIS = ZoneInfo("Europe/Paris")
+# Espace les appels Mistral pour rester sous les limites de débit de l'offre gratuite.
+PAUSE_BETWEEN_CALLS = 5
 MONTHS = [
     "janvier", "février", "mars", "avril", "mai", "juin",
     "juillet", "août", "septembre", "octobre", "novembre", "décembre",
@@ -70,7 +73,9 @@ def run(dry_run: bool, output: Path, model: str) -> int:
     )
 
     categories = []
-    for category in CATEGORY_ORDER:
+    for index, category in enumerate(CATEGORY_ORDER):
+        if index and not dry_run:
+            time.sleep(PAUSE_BETWEEN_CALLS)
         label = CATEGORY_LABELS[category]
         items = grouped[category]
         if not items:

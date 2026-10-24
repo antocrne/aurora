@@ -23,6 +23,7 @@ API_URL = "https://api.mistral.ai/v1/chat/completions"
 DEFAULT_MODEL = "mistral-small-latest"
 MAX_TOPICS = 6
 MAX_PROMPT_CHARS = 24_000
+MAX_ATTEMPTS = 6  # jusqu'à ~4 min d'attente cumulée en cas de 429
 
 PROMPT_TEMPLATE = """Tu es un rédacteur en chef d'un journal de qualité. Tu rédiges un briefing quotidien factuel et concis.
 
@@ -100,7 +101,8 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
     }
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     last_error = ""
-    for attempt in range(4):
+    for attempt in range(MAX_ATTEMPTS):
+        wait = 15 * (attempt + 1)
         try:
             response = requests.post(API_URL, json=payload, headers=headers, timeout=180)
         except requests.RequestException as exc:
@@ -111,7 +113,17 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
             last_error = f"HTTP {response.status_code}: {response.text[:300]}"
             if response.status_code not in (429, 500, 502, 503, 504):
                 break
-        wait = 5 * 2**attempt
+            if response.status_code == 429:
+                # L'offre gratuite de Mistral limite fortement le débit : on
+                # respecte Retry-After et on journalise les quotas annoncés.
+                limits = {k: v for k, v in response.headers.items() if "ratelimit" in k.lower()}
+                if limits:
+                    log.warning("Mistral : quotas %s", limits)
+                retry_after = response.headers.get("Retry-After", "")
+                if retry_after.isdigit():
+                    wait = max(wait, int(retry_after))
+        if attempt == MAX_ATTEMPTS - 1:
+            break
         log.warning("Mistral : %s — nouvel essai dans %ss", last_error, wait)
         time.sleep(wait)
     raise SummarizerError(f"Échec de l'appel Mistral : {last_error}")
