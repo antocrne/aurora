@@ -344,6 +344,13 @@ def check_placements(written: Dict[str, List[Dict[str, object]]], model: str = "
             target = targets.get(f"{_PREFIXES[category]}{index}")
             if target in written and target != category:
                 moves.append((category, topic, target))
+    log.info(
+        "Vérification : %d avis reçus pour %d sujets, %d à déplacer (%s)",
+        len(targets),
+        len(lines),
+        len(moves),
+        ", ".join(f"{k}→{v}" for k, v in sorted(targets.items())),
+    )
 
     changed = 0
     for source, topic, target in moves:
