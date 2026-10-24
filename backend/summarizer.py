@@ -36,6 +36,7 @@ PROMPT_TEMPLATE = """Tu es un rédacteur en chef d'un journal de qualité. Tu r�
 
 Nous sommes le {today}.
 
+{definitions}
 Voici les articles récents pour la catégorie "{category}". Chaque bloc [S…] regroupe les articles de plusieurs médias sur un même événement :
 
 ---
@@ -57,7 +58,7 @@ Règles :
 - Va droit au fait
 - Si un sujet est couvert par plusieurs sources avec des infos contradictoires, mentionne-le
 - Ne dépasse pas 6 sujets par catégorie
-- Ignore les articles qui ne relèvent pas de la catégorie "{category}"
+- Ignore les articles qui ne relèvent pas de la catégorie "{category}" selon les définitions ci-dessus
 - Privilégie les sujets couverts par plusieurs sources
 - N'invente aucune date, aucun chiffre ni aucun nom absent des articles
 - Texte brut uniquement : pas de Markdown (ni gras, ni italique, ni astérisques)
@@ -72,6 +73,12 @@ Réponds au format JSON suivant :
     }}
   ]
 }}"""
+
+CATEGORY_DEFINITIONS = """Définition des rubriques :
+- Monde : événements hors d'Europe (Amériques, Asie, Afrique, Océanie, Moyen-Orient dont Israël, la Palestine, l'Iran et les pays du Golfe), et organisations internationales
+- Europe : pays européens autres que la France (dont Royaume-Uni, Suisse, Ukraine, Russie, Balkans), Union européenne et ses institutions
+- France : politique, société, économie, justice et faits divers en France, y compris la diplomatie française
+"""
 
 ANGLES_STEP = """3. Pour chaque sujet couvert par au moins deux médias, compare leur traitement à partir de leurs titres et chapôs : faits mis en avant, cadrage, ton. Rédige "angles" en une ou deux phrases qui nomment les médias (ex. « Libération met l'accent sur …, Le Figaro insiste sur … »). Si les traitements ne diffèrent pas vraiment, ou si un seul média couvre le sujet, mets "angles": null. N'attribue jamais à un média un point de vue absent de son texte.
 """
@@ -131,6 +138,7 @@ def build_prompt(
             f"{headlines}\n"
         )
     return PROMPT_TEMPLATE.format(
+        definitions=CATEGORY_DEFINITIONS,
         today=today,
         category=label,
         articles=format_stories(stories),
@@ -213,7 +221,12 @@ def clean_markdown(text: str) -> str:
     return re.sub(r"\s+", " ", _MARKDOWN_RE.sub("", text)).strip()
 
 
-_STORY_REF_RE = re.compile(r"\s*\(?\[?\bS\d+\]?(?:\s*,\s*\[?S\d+\]?)*\)?")
+# Références internes aux blocs du prompt : « (S3, S4) », « ([8, 9]) », « [S2] », « S5 ».
+_STORY_REF_RE = re.compile(
+    r"\s*\((?:\s*\[?\s*S?\d+\s*\]?\s*,?)+\)"
+    r"|\s*\[(?:\s*S?\d+\s*,?)+\]"
+    r"|\s*\bS\d+\b"
+)
 
 
 def check_angles(raw: object, topic_sources: object) -> str:
@@ -269,6 +282,81 @@ def parse_topics(
     if not topics:
         raise SummarizerError("Aucun sujet exploitable dans la réponse")
     return topics[:MAX_TOPICS]
+
+
+def _complete(prompt: str, model: str = "") -> str:
+    """Appelle le premier modèle accessible (préféré, puis DEFAULT_MODELS)."""
+    api_key = os.environ.get("MISTRAL_API_KEY", "")
+    if not api_key:
+        raise SummarizerError("MISTRAL_API_KEY n'est pas défini")
+    preferred = model or os.environ.get("MISTRAL_MODEL") or ""
+    for candidate in dict.fromkeys([preferred, *DEFAULT_MODELS]):
+        if not candidate or candidate in _unavailable_models:
+            continue
+        try:
+            return _call_mistral(prompt, api_key, candidate)
+        except ModelUnavailable as exc:
+            log.warning("%s — modèle suivant", exc)
+            _unavailable_models.add(candidate)
+    raise SummarizerError("Aucun modèle Mistral accessible")
+
+
+CHECK_TEMPLATE = """Tu vérifies le classement des sujets d'un journal dans ses trois rubriques.
+
+{definitions}
+Voici les sujets, chacun avec un identifiant, sa rubrique actuelle, son titre et le début de son résumé :
+
+{topics}
+
+Pour chaque sujet, indique la rubrique correcte selon les définitions ci-dessus, en te fondant sur le lieu où se déroule l'événement.
+Réponds au format JSON suivant, avec une entrée par sujet ("category" vaut "monde", "europe" ou "france") :
+{{"placements": [{{"id": "E4", "category": "monde"}}]}}"""
+
+_PREFIXES = {"monde": "M", "europe": "E", "france": "F"}
+
+
+def check_placements(written: Dict[str, List[Dict[str, object]]], model: str = "") -> int:
+    """Relit le classement de tous les sujets et déplace ceux qui sont mal rangés.
+
+    Un sujet déplacé vers une rubrique déjà pleine est retiré ; une rubrique
+    n'est jamais vidée. Renvoie le nombre de sujets déplacés ou retirés.
+    """
+    lines = []
+    for category, topics in written.items():
+        for index, topic in enumerate(topics, start=1):
+            excerpt = str(topic["summary"])[:160]
+            lines.append(f"{_PREFIXES[category]}{index} [{category}] {topic['headline']} — {excerpt}")
+    content = _complete(CHECK_TEMPLATE.format(definitions=CATEGORY_DEFINITIONS, topics="\n".join(lines)), model)
+    content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip())
+    try:
+        placements = json.loads(content).get("placements", [])
+    except (json.JSONDecodeError, AttributeError) as exc:
+        raise SummarizerError(f"Réponse de vérification invalide : {exc}") from exc
+
+    targets = {
+        str(p.get("id", "")).strip().upper(): str(p.get("category", "")).strip().lower()
+        for p in placements
+        if isinstance(p, dict)
+    }
+    moves = []
+    for category, topics in written.items():
+        for index, topic in enumerate(topics, start=1):
+            target = targets.get(f"{_PREFIXES[category]}{index}")
+            if target in written and target != category:
+                moves.append((category, topic, target))
+
+    changed = 0
+    for source, topic, target in moves:
+        if len(written[source]) <= 1:
+            continue
+        written[source].remove(topic)
+        changed += 1
+        if len(written[target]) < MAX_TOPICS:
+            written[target].append(topic)
+            log.info("Vérification : « %s » déplacé de %s vers %s", topic["headline"], source, target)
+        else:
+            log.info("Vérification : « %s » retiré de %s (rubrique %s pleine)", topic["headline"], source, target)
+    return changed
 
 
 def summarize(

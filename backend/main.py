@@ -24,7 +24,7 @@ from zoneinfo import ZoneInfo
 from classifier import cluster, filter_recent, stories_by_category
 from fetcher import fetch_all
 from sources import CATEGORY_LABELS, CATEGORY_ORDER, FEEDS
-from summarizer import SummarizerError, summarize, summarize_offline
+from summarizer import SummarizerError, check_placements, summarize, summarize_offline
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = ROOT / "docs" / "summaries.json"
@@ -96,8 +96,20 @@ def run(dry_run: bool, output: Path, model: str, angles: bool = True) -> int:
             return 1
         log.info("%s : %d sujets rédigés", label, len(topics))
         covered.extend(str(topic["headline"]) for topic in topics)
-        written[category] = {"id": category, "label": label, "topics": topics}
-    categories = [written[category] for category in CATEGORY_ORDER]
+        written[category] = topics
+
+    # Contrôle : un second appel relit le classement de tous les sujets (un
+    # article de « Toute l'Europe » sur Israël, par exemple, relève de Monde).
+    # Un échec de ce contrôle ne bloque pas l'édition.
+    if not dry_run:
+        time.sleep(PAUSE_BETWEEN_CALLS)
+        try:
+            check_placements(written, model)
+        except SummarizerError as exc:
+            log.warning("Vérification du classement impossible : %s", exc)
+    categories = [
+        {"id": c, "label": CATEGORY_LABELS[c], "topics": written[c]} for c in CATEGORY_ORDER
+    ]
 
     write_atomic(
         output,
