@@ -48,6 +48,10 @@ final class BriefingStore {
         do {
             summary = try await service.fetch()
             errorMessage = nil
+        } catch is CancellationError {
+            return
+        } catch let error as URLError where error.code == .cancelled {
+            return
         } catch {
             errorMessage = summary == nil
                 ? "L'édition du jour n'a pas pu être chargée."

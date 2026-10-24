@@ -43,7 +43,10 @@ struct BriefingView: View {
                 summary: store.summary,
                 isLoading: store.isLoading,
                 errorMessage: store.errorMessage,
-                refresh: { await store.refresh() }
+                // Tâche non structurée : SwiftUI annule la tâche de
+                // `.refreshable` dès que l'état observé change (isLoading),
+                // ce qui interromprait le téléchargement.
+                refresh: { await Task { await store.refresh() }.value }
             )
             .id(selection)
             .transition(.opacity)
