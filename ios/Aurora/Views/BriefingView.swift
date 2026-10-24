@@ -5,6 +5,7 @@ import SwiftUI
 struct BriefingView: View {
     @State var store: BriefingStore
     @State private var selection = Category.defaults[0].id
+    @State private var openedArticle: ArticleLink?
     @Environment(\.scenePhase) private var scenePhase
 
     private var categories: [Category] {
@@ -54,6 +55,15 @@ struct BriefingView: View {
         }
         .background(AuroraTheme.background.ignoresSafeArea())
         .tint(AuroraTheme.primaryText)
+        // Les liens des sources s'ouvrent dans l'app plutôt que dans Safari.
+        .environment(\.openURL, OpenURLAction { url in
+            openedArticle = ArticleLink(url: url)
+            return .handled
+        })
+        .sheet(item: $openedArticle) { article in
+            ArticleView(url: article.url)
+                .ignoresSafeArea()
+        }
         .task { await store.load() }
         .onChange(of: scenePhase) { _, phase in
             if phase == .active {

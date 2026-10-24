@@ -23,6 +23,8 @@ enum AuroraTheme {
     static let body = Font.system(.body, design: .serif)
     static let sources = Font.system(.footnote, design: .serif).italic()
     static let footer = Font.system(.caption, design: .serif)
+    static let anglesLabel = Font.system(.caption2, design: .serif).weight(.semibold)
+    static let angles = Font.system(.callout, design: .serif).italic()
 
     static func uiSerif(_ style: UIFont.TextStyle, weight: UIFont.Weight = .regular, size: CGFloat? = nil) -> UIFont {
         let base = UIFont.preferredFont(forTextStyle: style)

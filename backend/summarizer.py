@@ -18,6 +18,7 @@ import requests
 
 from classifier import Story
 from fetcher import Article
+from sources import all_source_names
 
 log = logging.getLogger(__name__)
 
@@ -212,6 +213,29 @@ def clean_markdown(text: str) -> str:
     return re.sub(r"\s+", " ", _MARKDOWN_RE.sub("", text)).strip()
 
 
+_STORY_REF_RE = re.compile(r"\s*\(?\[?\bS\d+\]?(?:\s*,\s*\[?S\d+\]?)*\)?")
+
+
+def check_angles(raw: object, topic_sources: object) -> str:
+    """Valide la « lecture croisée » : renvoie "" si elle est vide ou douteuse.
+
+    Attribuer à un journal un point de vue qu'il n'a pas exprimé est l'erreur la
+    plus grave possible ici : on rejette tout texte qui cite un média absent
+    des sources du sujet, ou qui en cite moins de deux.
+    """
+    if not isinstance(raw, str) or not isinstance(topic_sources, list):
+        return ""
+    text = clean_markdown(_STORY_REF_RE.sub("", raw))
+    if not text or text.lower() in ("null", "none"):
+        return ""
+    allowed = {_source_key(s) for s in topic_sources}
+    lowered = _source_key(text)
+    cited = {name for name in all_source_names() if _source_key(name) in lowered}
+    if len(cited) < 2 or any(_source_key(name) not in allowed for name in cited):
+        return ""
+    return text
+
+
 def parse_topics(
     content: str, stories: List[Story], angles: bool = False
 ) -> List[Dict[str, object]]:
@@ -237,11 +261,10 @@ def parse_topics(
             "sources": [link["source"] for link in links],
             "links": links,
         }
-        raw_angles = item.get("angles")
-        if angles and isinstance(raw_angles, str) and len(links) >= 2:
-            cleaned = clean_markdown(raw_angles)
-            if cleaned and cleaned.lower() not in ("null", "none"):
-                topic["angles"] = cleaned
+        if angles:
+            checked = check_angles(item.get("angles"), topic["sources"])
+            if checked:
+                topic["angles"] = checked
         topics.append(topic)
     if not topics:
         raise SummarizerError("Aucun sujet exploitable dans la réponse")

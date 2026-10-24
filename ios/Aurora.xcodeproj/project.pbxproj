@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D3496AC22B3718A7DD5B707 /* TopicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16B15EBA5BB4B77B8D811A8 /* TopicListView.swift */; };
+		235AA398B3AD6354AFC5C629 /* ArticleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C611E50F853048599D39E735 /* ArticleView.swift */; };
 		4911505282F45ABFBB272E70 /* BriefingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D2F7EC041E880277E19C55 /* BriefingView.swift */; };
 		5B00A3B3D8F5C28173F208A5 /* BriefingStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B83DEE2C8CB0ECFDD08944A /* BriefingStore.swift */; };
 		5FE7615DB593E7E6D2A14E5A /* SummaryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AC82AEA5ADA9E9AE9C9F51 /* SummaryService.swift */; };
@@ -33,6 +34,7 @@
 		AA6F3DCCE02E8A602BB2D10C /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		AADC563D80995D808A6C7C77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		C16B15EBA5BB4B77B8D811A8 /* TopicListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicListView.swift; sourceTree = "<group>"; };
+		C611E50F853048599D39E735 /* ArticleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleView.swift; sourceTree = "<group>"; };
 		CCB3719991A6FFE9C5EE651F /* AuroraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuroraApp.swift; sourceTree = "<group>"; };
 		E7A7448BB9D88DA764E0C386 /* DropCapText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropCapText.swift; sourceTree = "<group>"; };
 		E9D2F7EC041E880277E19C55 /* BriefingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BriefingView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		EB4F2B72B63F2AF7B2AC5B7B /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				C611E50F853048599D39E735 /* ArticleView.swift */,
 				E9D2F7EC041E880277E19C55 /* BriefingView.swift */,
 				A32250C99F94CE082026A1B6 /* CategoryTabView.swift */,
 				E7A7448BB9D88DA764E0C386 /* DropCapText.swift */,
@@ -177,6 +180,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				235AA398B3AD6354AFC5C629 /* ArticleView.swift in Sources */,
 				B0BCEF968285E49859BFDDA3 /* AuroraApp.swift in Sources */,
 				CA8915F73C5E44F2A6590997 /* AuroraTheme.swift in Sources */,
 				5B00A3B3D8F5C28173F208A5 /* BriefingStore.swift in Sources */,
