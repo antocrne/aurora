@@ -25,7 +25,7 @@ python3 -m venv .venv && .venv/bin/pip install -r backend/requirements.txt
 MISTRAL_API_KEY=... .venv/bin/python backend/main.py  # édition réelle
 ```
 
-Modèle par défaut : `mistral-small-latest`. Options : `--model mistral-large-latest` (ou variable `MISTRAL_MODEL`) si ton offre Mistral y donne accès, `--output chemin.json`.
+Modèle par défaut : `ministral-14b-latest`, avec repli sur `ministral-8b-latest` puis `open-mistral-nemo` (sur l'offre Free, Mistral Small et Medium ont un quota nul et Large est interdit ; `python backend/check_mistral.py` ou le workflow « Mistral diagnostic » montrent ce que ta clé peut utiliser). Options : `--model …` (ou variable `MISTRAL_MODEL`) pour essayer un autre modèle en premier, `--output chemin.json`.
 
 ### Robustesse
 

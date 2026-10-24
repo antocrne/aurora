@@ -20,7 +20,9 @@ from classifier import Story
 log = logging.getLogger(__name__)
 
 API_URL = "https://api.mistral.ai/v1/chat/completions"
-DEFAULT_MODEL = "mistral-small-latest"
+# Sur l'offre Free, Mistral Small/Medium ont un quota nul et Large est interdit ;
+# les Ministral et Nemo restent accessibles. On essaie ces modèles dans l'ordre.
+DEFAULT_MODELS = ["ministral-14b-latest", "ministral-8b-latest", "open-mistral-nemo"]
 MAX_TOPICS = 6
 MAX_PROMPT_CHARS = 24_000
 MAX_ATTEMPTS = 6  # jusqu'à ~4 min d'attente cumulée en cas de 429
@@ -68,6 +70,14 @@ class SummarizerError(RuntimeError):
     pass
 
 
+class ModelUnavailable(SummarizerError):
+    """Modèle refusé par l'offre Mistral (quota nul ou modèle non inclus)."""
+
+
+# Modèles refusés lors de cette exécution, pour ne pas les réessayer à chaque catégorie.
+_unavailable_models: set = set()
+
+
 def format_stories(stories: List[Story], limit: int = MAX_PROMPT_CHARS) -> str:
     """Un bloc par sujet dédoublonné, séparés par ---, dans la limite de `limit` caractères."""
     blocks: List[str] = []
@@ -111,19 +121,17 @@ def _call_mistral(prompt: str, api_key: str, model: str) -> str:
             if response.status_code == 200:
                 return response.json()["choices"][0]["message"]["content"]
             last_error = f"HTTP {response.status_code}: {response.text[:300]}"
+            if response.status_code == 403 and "tier_not_allowed" in response.text:
+                raise ModelUnavailable(f"{model} n'est pas inclus dans l'offre Mistral")
             if response.status_code not in (429, 500, 502, 503, 504):
                 break
             if response.status_code == 429:
-                # L'offre gratuite de Mistral limite fortement le débit : on
-                # respecte Retry-After et on journalise les quotas annoncés.
+                # On respecte Retry-After et on journalise les quotas annoncés.
                 limits = {k: v for k, v in response.headers.items() if "ratelimit" in k.lower()}
                 if limits:
                     log.warning("Mistral : quotas %s", limits)
                 if response.headers.get("x-ratelimit-limit-req-minute") == "0":
-                    raise SummarizerError(
-                        "Quota Mistral à 0 requête/minute : aucune offre active sur ce "
-                        "workspace (activer l'offre Experiment ou Scale sur admin.mistral.ai)"
-                    )
+                    raise ModelUnavailable(f"{model} a un quota de 0 requête/minute sur cette offre")
                 retry_after = response.headers.get("Retry-After", "")
                 if retry_after.isdigit():
                     wait = max(wait, int(retry_after))
@@ -180,10 +188,25 @@ def summarize(label: str, stories: List[Story], model: str = "") -> List[Dict[st
     api_key = os.environ.get("MISTRAL_API_KEY", "")
     if not api_key:
         raise SummarizerError("MISTRAL_API_KEY n'est pas défini")
-    model = model or os.environ.get("MISTRAL_MODEL") or DEFAULT_MODEL
+    preferred = model or os.environ.get("MISTRAL_MODEL") or ""
+    candidates = [m for m in dict.fromkeys([preferred, *DEFAULT_MODELS]) if m]
     known = sorted({src for story in stories for src in story.sources})
     prompt = build_prompt(label, stories)
-    log.info("%s : %d sujets envoyés à %s (%d caractères)", label, len(stories), model, len(prompt))
+    for candidate in candidates:
+        if candidate in _unavailable_models:
+            continue
+        log.info("%s : %d sujets envoyés à %s (%d caractères)", label, len(stories), candidate, len(prompt))
+        try:
+            return _summarize_with(candidate, prompt, api_key, known, label)
+        except ModelUnavailable as exc:
+            log.warning("%s — modèle suivant", exc)
+            _unavailable_models.add(candidate)
+    raise SummarizerError(f"Aucun modèle Mistral accessible parmi {', '.join(candidates)}")
+
+
+def _summarize_with(
+    model: str, prompt: str, api_key: str, known: List[str], label: str
+) -> List[Dict[str, object]]:
     for attempt in range(2):
         content = _call_mistral(prompt, api_key, model)
         try:
