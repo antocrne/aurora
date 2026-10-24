@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-10-24T13:51:16Z",
+  "edition": "24 octobre 2026",
+  "categories": [
+    {
+      "id": "monde",
+      "label": "Monde",
+      "topics": [
+        {
+          "headline": "Présidentielle au Brésil : Flavio Bolsonaro plus policé, Lula plus offensif lors d’un second débat crucial",
+          "summary": "Alors que les deux candidats sont à égalité dans les sondages, le dernier débat télévisé pouvait faire basculer les indécis avant le second tour, dimanche 25 octobre. Si Flavio Bolsonaro a pu développer ses propositions économiques, il a aussi trébuché sur une attaque personnelle contre Luiz Inacio Lula da Silva.",
+          "sources": [
+            "Le Monde",
+            "Libération",
+            "RFI",
+            "Le Figaro",
+            "France Info"
+          ]
+        },
+        {
+          "headline": "Le nid d’aigle d’Hitler en Bavière incendié, un suspect arrêté",
+          "summary": "Les pompiers, alertés par l’alarme incendie peu avant 22 heures, n’ont trouvé personne à l’intérieur du bâtiment, complètement en feu à leur arrivée. La piste d’un acte criminel est examinée.",
+          "sources": [
+            "RFI",
+            "Euronews",
+            "France Info",
+            "Le Monde"
+          ]
+        },
+        {
+          "headline": "Mobilisation du 24 octobre : le cortège parisien défile sur un parcours qui fait débat",
+          "summary": "Parti de la porte d’Italie à l’appel de l’intersyndicale, le cortège parisien avance dans une ambiance bon enfant, sans incident signalé. Mais le parcours, proche du périphérique et différent de celui demandé par les syndicats pour des raisons de sécurité, suscite des réactions parmi les manifestants. Ludovic de Foucaud, envoyé spécial de France 24, décrit l’ambiance sur place.",
+          "sources": [
+            "France 24",
+            "Libération"
+          ]
+        },
+        {
+          "headline": "L'Ukraine dit de nouveau bénéficier d'une \"connexion stable\" au système Starlink, crucial pour son armée",
+          "summary": "Le réseau de satellites avait connu des difficultés dans le pays après un pic de tensions entre le président ukrainien Volodymyr et son homologue américain.",
+          "sources": [
+            "France Info",
+            "France 24"
+          ]
+        },
+        {
+          "headline": "En Hongrie, lors des cérémonies des 70 ans de la révolution de 1956, Péter Magyar célèbre une nouvelle ère pour le pays",
+          "summary": "A Budapest, le premier ministre a célébré en grande pompe l’anniversaire du soulèvement contre l’URSS, pour marquer le retour de la Hongrie du côté d’une « Europe libre et démocratique ». Six mois après la défaite de Viktor Orban dans les urnes, la population reste toutefois profondément divisée.",
+          "sources": [
+            "Le Monde",
+            "Euronews"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "label": "Europe",
+      "topics": [
+        {
+          "headline": "Melania Trump annonce un cessez-le-feu dans une ville ukrainienne en pleine crise humanitaire",
+          "summary": "La Première dame des États-Unis, Melania Trump, a affirmé vendredi avoir obtenu un cessez-le-feu à Olechky, une ville du front ukrainien occupée par les forces russes depuis 2022, et où la situation humanitaire est critique. Moscou et Kiev ont confirmé l'annonce.",
+          "sources": [
+            "RFI",
+            "France 24",
+            "Euronews"
+          ]
+        },
+        {
+          "headline": "Kenya: un immeuble de 18 étages en construction s'effondre à Nairobi",
+          "summary": "Au Kenya, inquiétudes après l’effondrement d’un immeuble en construction à Nairobi, la capitale. L’immeuble faisait environ 16 étages selon les autorités et s’est effondré dans le quartier populaire et très dense d’Eastleigh, dans l’est de Nairobi aux alentours de 13h40 heure locale. Le bilan humain n’est pas encore connu, mais sept personnes sont portées disparues et deux blessés ont déjà été secourus selon la Croix-Rouge kényane. Les autorités craignent que plusieurs personnes soient coincées sous les gravats.",
+          "sources": [
+            "RFI",
+            "Euronews"
+          ]
+        },
+        {
+          "headline": "Lyon : la police disperse des manifestants au gaz lacrymogène devant l'université Jean-Moulin",
+          "summary": "À Lyon, les forces de l'ordre dispersent un rassemblement à la limite du périmètre d'interdiction, à coups de grenades lacrymogènes.",
+          "sources": [
+            "Euronews"
+          ]
+        },
+        {
+          "headline": "Des soldats patrouillent Milan, les commerces se barricadent avant les protestations",
+          "summary": "Milan est en alerte avant les manifestations attendues : des soldats supplémentaires sont déployés et les magasins barricadent leurs vitrines, une semaine après des pillages et des heurts avec la police.",
+          "sources": [
+            "Euronews"
+          ]
+        },
+        {
+          "headline": "Des images montrent des colonnes de fumée après une frappe meurtrière sur une usine russe",
+          "summary": "Trois personnes ont été tuées et cinq autres grièvement blessées lors d'une attaque ukrainienne contre une usine dans la région russe d'Oriol, selon les autorités locales.",
+          "sources": [
+            "Euronews"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "label": "France",
+      "topics": [
+        {
+          "headline": "En France, une attaque à Trappes fait un mort et cinq blessés",
+          "summary": "Un homme de 39 ans est soupçonné d’avoir ouvert le feu à l’arme automatique vendredi à Trappes, notamment devant une station-service. Le bilan fait état d’un mort et de cinq blessés, dont une enfant de 12 ans. Arrivé sur place en fin de journée, Emmanuel Macron a dénoncé un \"acte terroriste et raciste\". Récit de David Gilberg.",
+          "sources": [
+            "France Info",
+            "France 24",
+            "RFI",
+            "20 Minutes",
+            "Le Figaro"
+          ]
+        },
+        {
+          "headline": "Fusillade meurtrière dans les Yvelines : la garde à vue du suspect prolongée",
+          "summary": "Après une première audition, la garde à vue du suspect qui a tué une personne et en a blessé cinq dans les Yvelines a été prolongée samedi matin. Quatre personnes de son entourage sont également entendues. Selon les informations du Monde, l'homme a dit avoir voulu venger les commerçants pillés le 17 octobre et avoir ciblé des personnes de couleur.",
+          "sources": [
+            "France Info",
+            "Le Figaro",
+            "France 24",
+            "20 Minutes"
+          ]
+        },
+        {
+          "headline": "À Orléans, le congrès du Rassemblement National face à la mobilisation anti-RN",
+          "summary": "Le Rassemblement national tient son congrès à Orléans pour lancer sa campagne vers l’Élysée. En parallèle, 30 000 manifestants anti-RN sont attendus, parmi lesquels Bally Bagayoko, maire de Saint-Denis. Un village antifasciste est installé dans le centre-ville, tandis que 3 000 membres des forces de l’ordre sont déployés pour sécuriser les rassemblements et éviter que leurs participants se croisent. Elena Volochine, envoyée spéciale de France 24, détaille ce dispositif inédit.",
+          "sources": [
+            "France Info",
+            "France 24",
+            "Libération"
+          ]
+        },
+        {
+          "headline": "Circonstances, suspect, mobile... ce que l'on sait sur l'attaque \"terroriste raciste\" à Trappes",
+          "summary": "À Trappes puis à La Verrière, dans les Yvelines, un homme a tiré en rafales sur la voie publique depuis son véhicule, tuant une personne et faisant cinq blessés, vendredi. Pour le ministre de l'Intérieur, intervenu sur place, il s'agit d'une attaque terroriste. Que sait-on sur les circonstances de la fusillade et le profil du suspect ? France 24 fait le point.",
+          "sources": [
+            "Libération",
+            "Mediapart",
+            "France 24"
+          ]
+        },
+        {
+          "headline": "DIRECT - Mobilisation en France: Jean-Luc Mélenchon exhorte Emmanuel Macron à «céder» face aux revendications",
+          "summary": "La France vit samedi 24 octobre une nouvelle journée de mobilisations sociales, avec plusieurs manifestations attendues. Le gouvernement a fortement musclé le dispositif sécuritaire après les destructions et les pillages de la semaine passée, dont les images ont fait le tour du monde. Des violences policières avaient également émaillé la journée du 17 octobre et soulevé de nombreuses questions sur le maintien de l'ordre.",
+          "sources": [
+            "France Info",
+            "Euronews",
+            "RFI"
+          ]
+        }
+      ]
+    }
+  ]
+}

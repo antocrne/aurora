@@ -1,0 +1,45 @@
+name: Aurora Daily Brief
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Tous les jours à 6h UTC (8h Paris en été, 7h en hiver)
+  workflow_dispatch: # Permet de lancer manuellement
+
+permissions:
+  contents: write  # nécessaire pour pousser docs/summaries.json
+
+concurrency:
+  group: aurora-daily
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Generate summaries
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          MISTRAL_MODEL: ${{ vars.MISTRAL_MODEL }}  # optionnel, ex. mistral-small-latest
+        run: python backend/main.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Aurora Bot"
+          git config user.email "bot@aurora.app"
+          git add docs/summaries.json
+          git diff --staged --quiet && exit 0
+          git commit -m "📰 Édition du $(TZ=Europe/Paris date +'%d/%m/%Y')"
+          git pull --rebase
+          git push
