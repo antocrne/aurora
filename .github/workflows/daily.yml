@@ -2,10 +2,16 @@ name: Aurora Daily Brief
 
 on:
   schedule:
-    # Deux éditions par jour. L'app iOS cale ses rechargements sur ces heures
-    # (BriefingStore.editionHoursUTC) : les modifier ensemble.
-    - cron: '0 6 * * *'   # Matin : 6h UTC (8h Paris en été, 7h en hiver)
-    - cron: '0 17 * * *'  # Soir : 17h UTC (19h Paris en été, 18h en hiver)
+    # Deux éditions par jour, prêtes pour 7h et 19h à Paris toute l'année.
+    # GitHub ne connaît que l'UTC : chaque édition a un créneau d'été (UTC+2)
+    # et un créneau d'hiver (UTC+1), et le job « gate » ne garde que le bon.
+    # La génération démarre à 6h30 / 18h30 pour absorber les retards du cron.
+    # L'app iOS cale ses rechargements sur ces heures
+    # (BriefingStore.generationTimes) : les modifier ensemble.
+    - cron: '30 4 * * *'   # 6h30 Paris en été
+    - cron: '30 5 * * *'   # 6h30 Paris en hiver
+    - cron: '30 16 * * *'  # 18h30 Paris en été
+    - cron: '30 17 * * *'  # 18h30 Paris en hiver
   workflow_dispatch: # Permet de lancer manuellement
 
 permissions:
@@ -16,7 +22,37 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          # Lancement manuel : toujours. Cron : seulement le créneau qui
+          # correspond au décalage horaire actuel de Paris.
+          if [ "$EVENT" != "schedule" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          case "$SCHEDULE" in
+            "30 4 * * *"|"30 16 * * *") WANT="+0200" ;;
+            *) WANT="+0100" ;;
+          esac
+          OFFSET=$(TZ=Europe/Paris date +%z)
+          echo "Créneau $SCHEDULE, Paris en $OFFSET, attendu $WANT"
+          if [ "$OFFSET" = "$WANT" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
   generate:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -43,6 +79,6 @@ jobs:
           git config user.email "bot@aurora.app"
           git add docs/summaries.json
           git diff --staged --quiet && exit 0
-          git commit -m "📰 Édition du $(TZ=Europe/Paris date +'%d/%m/%Y')"
+          git commit -m "📰 Édition du $(TZ=Europe/Paris date +'%d/%m/%Y %Hh%M')"
           git pull --rebase
           git push

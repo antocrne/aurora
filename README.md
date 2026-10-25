@@ -47,7 +47,7 @@ France 24 Europe/France, RFI Europe et Le Figaro Politique ont été ajoutés po
 
 1. Dans *Settings → Secrets and variables → Actions*, ajouter le secret `MISTRAL_API_KEY`. Facultatif : une variable `MISTRAL_MODEL`.
 2. Dans *Settings → Pages*, servir la branche `main`, dossier `/docs`.
-3. Le workflow [`.github/workflows/daily.yml`](.github/workflows/daily.yml) publie deux éditions par jour, à 6 h et 17 h UTC (et à la demande depuis l'onglet *Actions*). L'app ne recharge le JSON que si une nouvelle édition a pu paraître depuis celle affichée (ou sur pull-to-refresh).
+3. Le workflow [`.github/workflows/daily.yml`](.github/workflows/daily.yml) publie deux éditions par jour, prêtes pour 7 h et 19 h heure de Paris toute l'année : la génération démarre à 6 h 30 et 18 h 30, et le job « gate » choisit le créneau UTC selon l'heure d'été ou d'hiver (lancement manuel possible depuis l'onglet *Actions*). L'app ne recharge le JSON que si une nouvelle édition a pu paraître depuis celle affichée (ou sur pull-to-refresh).
 
 Le JSON est ensuite servi à `https://antocrne.github.io/aurora/summaries.json`.
 

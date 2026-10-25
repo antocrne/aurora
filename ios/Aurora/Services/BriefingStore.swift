@@ -5,8 +5,11 @@ import Observation
 @MainActor
 @Observable
 final class BriefingStore {
-    /// Heures UTC des éditions, alignées sur le cron de `.github/workflows/daily.yml`.
-    static let editionHoursUTC = [6, 17]
+    /// Heures de Paris (heure, minute) où démarre la génération d'une édition,
+    /// alignées sur le cron de `.github/workflows/daily.yml` : 6h30 et 18h30,
+    /// pour des éditions prêtes à 7h et 19h, été comme hiver.
+    static let generationTimes = [(6, 30), (18, 30)]
+    static let paris = TimeZone(identifier: "Europe/Paris")!
 
     private(set) var summary: Summary?
     private(set) var isLoading = false
@@ -59,16 +62,16 @@ final class BriefingStore {
         }
     }
 
-    /// Vrai si une heure d'édition est passée depuis la génération de l'édition affichée.
+    /// Vrai si une génération a démarré depuis celle de l'édition affichée.
     private func newEditionDue(now: Date = Date()) -> Bool {
         guard let generatedAt = summary?.generatedAt else { return true }
         var calendar = Calendar(identifier: .gregorian)
-        calendar.timeZone = .gmt
-        let nextEdition = Self.editionHoursUTC
-            .compactMap {
+        calendar.timeZone = Self.paris
+        let nextEdition = Self.generationTimes
+            .compactMap { hour, minute in
                 calendar.nextDate(
                     after: generatedAt,
-                    matching: DateComponents(hour: $0, minute: 0),
+                    matching: DateComponents(hour: hour, minute: minute),
                     matchingPolicy: .nextTime
                 )
             }
