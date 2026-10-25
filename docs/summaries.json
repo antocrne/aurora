@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:37:47Z",
+  "generated_at": "2026-10-25T19:48:13Z",
   "edition": "25 octobre 2026",
   "categories": [
     {
@@ -7,106 +7,145 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Brésil : duel serré Lula vs Bolsonaro fils",
-          "summary": "Le Brésil vote dimanche 25 octobre pour départager le président sortant Lula (gauche) et Flavio Bolsonaro (extrême droite), fils de l’ancien président Jair Bolsonaro. Les deux candidats, au coude-à-coude, s’opposent sur l’Amazonie, la déforestation et l’avenir démocratique du pays. Lula mise sur sa politique environnementale, tandis que Flavio Bolsonaro promet un retour aux dérégulations. Les mobilisations massives de leurs partisans ont marqué la veille du scrutin.",
+          "headline": "Venezuela : Machado de retour après un an d’exil",
+          "summary": "Maria Corina Machado, opposante vénézuélienne et Prix Nobel de la paix, est revenue au Venezuela dimanche 25 octobre 2026 après près d’un an d’exil au Panama. Elle avait quitté le pays en décembre 2025 pour recevoir son prix. Son retour marque un symbole fort pour l’opposition face au président Nicolás Maduro. Les médias soulignent son statut de figure emblématique et son rôle dans la mobilisation politique.",
           "sources": [
-            "France 24",
-            "France Info",
             "Libération",
-            "RFI",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261025-presidentielle-bresil-lula-flavio-bolsonaro-choix-decisif-avenir-pays-election-vote"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/bresil/en-choisissant-entre-lula-et-flavio-bolsonaro-a-la-presidentielle-le-bresil-decide-aussi-du-sort-de-la-foret-amazonienne_8247259.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/presidentielle-au-bresil-face-a-flavio-bolsonaro-lula-retrouve-du-repondant-20261024_45EGC64Y4BCP7CC4TP6YT7LVCM/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261025-pr%C3%A9sidentielle-au-br%C3%A9sil-la-d%C3%A9mocratie-est-en-jeu-dans-cette-%C3%A9lection"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/bresil/4256266-20261025-presidentielle-bresil-amazonie-politique-lula-deforestation-porte-fruits?at_medium=display&at_campaign=149"
-            }
-          ]
-        },
-        {
-          "headline": "Cisjordanie : bouclage et déplacements forcés",
-          "summary": "L’armée israélienne a déplacé 2 000 Palestiniens à Hébron et annoncé un bouclage de la Cisjordanie mardi, jour des élections législatives. Cette opération suit une attaque ayant tué deux soldats israéliens. Les destructions de constructions palestiniennes jugées illégales et les restrictions de mouvement s’intensifient avant le scrutin. Les tensions persistent entre Israël et les Palestiniens, avec des accusations croisées.",
-          "sources": [
-            "Le Monde",
-            "Le Figaro",
-            "France 24",
             "France Info",
+            "France 24",
+            "Le Monde",
             "RFI"
           ],
           "links": [
             {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/lopposante-maria-corina-machado-de-retour-dans-son-pays-apres-plusieurs-mois-dexil-20261025_TYJJNA26BJG65A5D6CED62QQAA/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20261025-la-prix-nobel-maria-corina-machado-de-retour-au-venezuela-apr%C3%A8s-pr%C3%A8s-d-un-an-d-exil"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/25/en-cisjordanie-environ-2-000-palestiniens-deplaces-par-l-armee-israelienne-apres-la-mort-de-deux-soldats-l-etat-hebreu-annonce-un-bouclage-du-territoire-mardi_6799712_3211.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/israel-impose-un-bouclage-de-la-cisjordanie-mardi-jour-des-elections-20261025"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-l-arm%C3%A9e-isra%C3%A9lienne-m%C3%A8ne-une-vaste-op%C3%A9ration-en-cisjordanie-apr%C3%A8s-la-mort-de-deux-soldats"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-du-yemen-disent-avoir-cible-trois-aeroports-et-des-installations-petrolieres-en-arabie-saoudite_8252248.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/l-opposante-maria-corina-machado-annonce-etre-de-retour-au-venezuela_6800104_3210.html"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261024-y%C3%A9men-les-combattants-houthis-revendiquent-une-nouvelle-attaque-%C3%A0-aden"
-            }
-          ],
-          "angles": "Le Monde et France 24 insistent sur les déplacements forcés et les destructions, tandis que Le Figaro met l’accent sur le bouclage électoral. France Info aborde la question palestinienne comme secondaire dans la campagne israélienne."
-        },
-        {
-          "headline": "Yémen : Houthis intensifient les attaques en Arabie saoudite",
-          "summary": "Les rebelles houthis ont revendiqué des frappes contre des aéroports et installations pétrolières en Arabie saoudite, tout en accusant Riyad de frappes ayant fait 17 morts dans des zones sous leur contrôle. La coalition saoudienne affirme avoir intercepté des missiles. Ces attaques s’inscrivent dans le conflit prolongé entre le Yémen et l’Arabie saoudite, soutenu par l’Iran.",
-          "sources": [
-            "France Info",
-            "France 24",
-            "RFI",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-du-yemen-disent-avoir-cible-trois-aeroports-et-des-installations-petrolieres-en-arabie-saoudite_8252248.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque-meurtri%C3%A8re"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261024-y%C3%A9men-les-combattants-houthis-revendiquent-une-nouvelle-attaque-%C3%A0-aden"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/royaume-uni/4257279-20261025-philippines-materiel-pedopornographique-retrouve-ex-domicile-pere-meghan-markle?at_medium=display&at_campaign=149"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261025-l-opposante-exil%C3%A9e-maria-corina-machado-annonce-%C3%AAtre-de-retour-au-venezuela"
             }
           ]
         },
         {
-          "headline": "Nigeria : violences et élections sous tension",
-          "summary": "Au moins 20 morts dans une attaque de « bandits » dans le Nord-Est nigérian, tandis que le président Bola Ahmed Tinubu lance sa campagne pour l’élection présidentielle du 16 janvier. Les violences intercommunautaires et les menaces djihadistes persistent, compliquant le climat politique. Parallèlement, des élections de mi-mandat aux États-Unis voient Donald Trump voter par anticipation en Floride, multipliant les accusations de fraude.",
+          "headline": "Brésil : Second tour serré entre Lula et Bolsonaro",
+          "summary": "Les Brésiliens ont voté dimanche 25 octobre 2026 pour départager Luiz Inacio Lula da Silva (sortant) et Flavio Bolsonaro (extrême droite) lors d’un second tour très disputé. Environ 160 millions d’électeurs étaient appelés aux urnes. Les tensions sont vives, avec des accusations de perturbations logistiques et des enjeux démocratiques majeurs. Les sondages restent indécis à quelques heures du dépouillement.",
+          "sources": [
+            "France 24",
+            "RFI",
+            "Le Monde",
+            "Euronews",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261025-pr%C3%A9sidentielle-au-br%C3%A9sil-160-millions-d-%C3%A9lecteurs-aux-urnes-pour-un-duel-serr%C3%A9-entre-lula-et-flavio-bolsonaro"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-les-soutiens-de-lula-et-bolsonaro-mobilises-jusqu-au-bout-mon-pere-ne-votait-plus-je-l-ai-convaincu-que-cette-election-etait-la-plus-importante-de-notre-vie_6800063_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/10/25/bresil-files-dattente-et-trajets-fluviaux-pour-un-scrutin-presidentiel-decisif"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/le-pays-est-sur-le-point-de-tomber-entre-les-griffes-du-fascisme-au-bresil-une-journee-decisive-pour-un-second-tour-au-coude-a-coude-20261025_AW4GFNRAUZGYNHSTTSOXEEWYQE/"
+            }
+          ]
+        },
+        {
+          "headline": "États-Unis : Midterms 2026, Obama contre Trump",
+          "summary": "À dix jours des élections de mi-mandat (3 novembre), Barack Obama a repris la campagne pour les démocrates, critiquant vivement Donald Trump, accusé de mener une « guerre inutile » en Iran. Les républicains tentent de conserver leur majorité, avec des enjeux économiques et sociaux forts. Les meetings d’Obama visent à mobiliser l’électorat démocrate, tandis que Trump multiplie les annonces économiques, comme un investissement majeur d’Audi en Géorgie.",
+          "sources": [
+            "France 24",
+            "Le Monde",
+            "France Info",
+            "Libération",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-pour-les-democrates-la-reconquete-du-senat-passe-par-le-maine_6800076_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/ca-fait-du-bien-de-revenir-a-dix-jours-des-elections-de-mi-mandat-aux-etats-unis-barack-obama-entre-en-campagne-contre-donald-trump_8252905.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/deux-annees-de-chaos-de-cruaute-de-corruption-et-dincompetence-en-campagne-pour-les-democrates-obama-sattaque-a-trump-avec-virulence-20261025_PRFDSTMOI5CM5NTOTHKDSW72VA/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261025-midterms-aux-%C3%A9tats-unis-%C3%A0-cleveland-l-ex-pr%C3%A9sident-barack-obama-galvanise-le-camp-d%C3%A9mocrate"
+            }
+          ],
+          "angles": "France 24 et Le Monde analysent les stratégies politiques et les attaques verbales d’Obama, tandis que RFI et France Info se concentrent sur l’impact des meetings et la mobilisation électorale. Libération met en avant le contraste entre les discours des deux camps."
+        },
+        {
+          "headline": "Israël-Palestine : Cisjordanie bouclée avant élections",
+          "summary": "Israël a annoncé un bouclage des frontières de la Cisjordanie occupée mardi 28 octobre, en raison des élections législatives du 27 octobre et d’une fusillade récente à Hébron ayant fait deux morts parmi les soldats israéliens. Plus de 2 000 Palestiniens ont été déplacés. Le contexte sécuritaire s’est durci, avec des opérations militaires massives avant le scrutin. Les médias évoquent une escalade des tensions avant les urnes.",
+          "sources": [
+            "Euronews",
+            "France Info",
+            "Courrier International",
+            "Le Monde",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/25/israel-annonce-un-bouclage-des-frontieres-de-la-cisjordanie-pour-les-elections-apres-une-f"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/israel/israel-imposera-un-bouclage-de-la-cisjordanie-mardi-en-raison-des-elections-legislatives_8252737.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/explainer/elections-legislatives-en-israel-comment-ca-marche_278928"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/25/quels-sont-les-enjeux-des-elections-legislatives-en-israel-comprendre-en-trois-minutes_6800070_6176282.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/la-cisjordanie-theatre-d-une-vaste-operation-militaire-a-deux-jours-des-elections-en-israel-20261025"
+            }
+          ]
+        },
+        {
+          "headline": "Nigeria : Attaque meurtrière dans le nord-est",
+          "summary": "Des hommes armés ont tué au moins 50 personnes vendredi dans un village du nord-est du Nigeria, selon la police. Les assaillants, arrivés à moto, ont pillé des commerces et incendié des maisons. Cette attaque s’inscrit dans un contexte d’insécurité chronique dans les zones rurales. Le président sortant Bola Tinubu a lancé sa campagne électorale dans ce contexte, soulignant l’urgence de la situation sécuritaire.",
           "sources": [
             "BBC",
-            "Le Monde"
+            "Libération",
+            "France Info"
           ],
           "links": [
             {
@@ -114,45 +153,31 @@
               "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/25/nigeria-au-moins-vingt-morts-dans-une-attaque-de-bandits-dans-le-nord-est_6799797_3212.html"
-            }
-          ]
-        },
-        {
-          "headline": "Israël : fractures internes avant les législatives",
-          "summary": "À trois jours des élections, des manifestations massives contre le gouvernement Netanyahu ont lieu à Tel-Aviv. Les divisions au sein de la société israélienne s’accentuent, notamment après les révélations sur la gestion du 7 octobre 2023 par le Premier ministre. Un documentaire donne la parole à des Israéliens critiquant sa responsabilité dans l’attaque du Hamas. La question palestinienne reste marginalisée dans la campagne.",
-          "sources": [
-            "20 Minutes",
-            "France 24",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4257240-20261024-legislatives-israel-milliers-personnes-defilent-contre-netanyahou-avant-elections?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261024-des-milliers-de-personnes-contre-netanyahu-%C3%A0-tel-aviv-avant-les-%C3%A9lections"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/afrique/au-nigeria-le-president-tinubu-lance-sa-campagne-au-lendemain-dune-attaque-meurtriere-20261025_UIEKSZVYLVAN7K44G7QE4PNSMU/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/la-securite-plutot-que-la-paix-dans-la-campagne-pour-les-legislatives-en-israel-la-question-palestinienne-est-largement-marginalisee_8229832.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/afrique/nigeria/des-hommes-armes-ont-tue-au-moins-50-personnes-dans-le-nord-est-du-nigeria_8253370.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ],
-          "angles": "France 24 et 20 Minutes insistent sur les manifestations anti-Netanyahu, tandis que France Info analyse l’absence de débat sur la question palestinienne et les fractures internes."
+          "angles": "La BBC et Libération décrivent les détails de l’attaque et son impact humain, tandis que France Info met en avant le lien avec la campagne électorale de Tinubu."
         },
         {
-          "headline": "Congo : rébellion des Kabila et crise politique",
-          "summary": "Joseph Kabila, ancien président de la RDC, a pris la tête d’une rébellion dans l’est du pays, dénonçant la « tyrannie » de Félix Tshisekedi. Ce mouvement s’inscrit dans une dynamique familiale, héritée de son père Laurent-Désiré Kabila. La situation s’inscrit dans un contexte de tensions régionales et de défis sécuritaires persistants en Afrique centrale.",
+          "headline": "Algérie : Déploiement militaire au Niger validé",
+          "summary": "Le Parlement algérien a autorisé dimanche l’envoi d’unités militaires au Niger, marquant un tournant dans la doctrine de non-intervention historique du pays. Ce déploiement, après l’envoi de chasseurs à Niamey en août, reconfiguration les équilibres stratégiques au Sahel. Les médias soulignent l’impact géopolitique de cette décision, notamment face à la montée des tensions régionales.",
           "sources": [
-            "Le Monde"
+            "Le Monde",
+            "Le Figaro"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/25/en-republique-du-congo-les-kabila-rebelles-de-pere-en-fils_6800041_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/le-parlement-algerien-vote-l-envoi-de-troupes-au-niger-20261025"
             }
           ]
         }
@@ -163,105 +188,126 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Incendie criminel du Nid d’Aigle en Allemagne",
-          "summary": "Un incendie a ravagé le Kehlsteinhaus, ancien refuge d’Adolf Hitler en Bavière, vendredi 23 octobre. Un suspect a été arrêté. Environ 200 pompiers ont été mobilisés pour éteindre les flammes. La police enquête sur les circonstances de l’incendie.",
+          "headline": "Serbie : législatives sous tension anti-Vucic",
+          "summary": "Les Serbes votent pour des législatives anticipées perçues comme un référendum contre le président Aleksandar Vucic, après deux ans de manifestations. Le taux de participation atteint 64,89 % à 18h, un record depuis 1993. Une liste étudiante défie le pouvoir en place, tandis que la Russie observe ce scrutin comme un test d’influence. Les violences et la colère sociale alimentent ce scrutin historique.",
           "sources": [
-            "Courrier International",
-            "Euronews",
-            "RFI"
+            "France Info",
+            "RFI",
+            "Le Figaro",
+            "Le Monde",
+            "Euronews"
           ],
           "links": [
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-cisjordanie-kim-jong-un-en-chine-incendie-du-nid-d-aigle-d-hitler-les-informations-de-la-nuit_281064"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/24/un-incendie-ravage-lancien-refuge-du-nid-daigle-dhitler-en-allemagne"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/les-serbes-se-mobilisent-fortement-aux-legislatives-dans-un-scrutin-en-forme-de-referendum-anti-vucic_8253253.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261024-allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aigle-un-suspect-arr%C3%AAt%C3%A9"
+              "url": "https://www.rfi.fr/fr/europe/20261025-l%C3%A9gislatives-anticip%C3%A9es-en-serbie-un-scrutin-aux-allures-de-r%C3%A9f%C3%A9rendum-anti-aleksandar-vucic"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/serbie-taux-de-participation-record-depuis-plus-de-30-ans-pour-des-legislatives-20261025"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/25/legislatives-en-serbie-les-electeurs-face-au-choix-entre-vucic-et-le-mouvement-etudiant"
+            }
+          ],
+          "angles": "France Info et RFI soulignent le caractère référendaire du scrutin et la mobilisation étudiante, tandis que Le Monde et Le Figaro insistent sur le contexte historique et géopolitique (alliance avec la Russie). Euronews met en avant le choix binaire entre Vucic et l'opposition."
+        },
+        {
+          "headline": "Bulgarie : Iotova favorite malgré divisions sur l'Ukraine",
+          "summary": "La présidente sortante Iliana Iotova, pro-dialogue avec Moscou et opposée à l’aide militaire à l’Ukraine, arrive en tête du premier tour de la présidentielle bulgare avec 35 à 36,5 % des voix. Elle affrontera Andrey Gyurov, soutenu par l’opposition pro-occidentale. Le ministre français des Affaires étrangères, Jean-Noël Barrot, tente d’influencer Sofia sur la guerre en Ukraine, marquée par des frappes russes en mer Noire.",
+          "sources": [
+            "France Info",
+            "Le Monde",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/les-bulgares-votent-dimanche-pour-la-presidentielle-entre-craintes-securitaires-et-divisions-sur-la-guerre-en-ukraine_8253046.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/en-bulgarie-une-election-presidentielle-marquee-par-les-craintes-et-les-divisions-sur-la-guerre-en-ukraine_6800051_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/jean-noel-barrot-en-bulgarie-face-aux-frappes-de-drones-russes-en-mer-noire-20261025"
+            }
+          ],
+          "angles": "France Info et Le Monde adoptent un ton neutre sur les divisions politiques, tandis que Le Figaro met l’accent sur la diplomatie française et les enjeux sécuritaires liés à la Russie."
+        },
+        {
+          "headline": "Espagne : violences à Barcelone lors d’une manifestation non déclarée",
+          "summary": "Une manifestation non autorisée à Barcelone a dégénéré en pillages et affrontements avec la police, faisant 128 interpellations, dont 73 mineurs. 23 commerces ont été vandalisés et 15 policiers blessés. Les autorités catalanes durcissent leur réponse face à ces violences, tandis que les réseaux sociaux ont joué un rôle clé dans l’organisation de l’événement.",
+          "sources": [
+            "France Info",
+            "Euronews",
+            "Libération",
+            "RFI",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-128-personnes-interpellees-a-barcelone-pour-des-degradations-et-des-pillages-lors-d-un-rassemblement-non-declare_8253175.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/25/espagne-a-barcelone-128-personnes-interpellees-dans-la-nuit-pour-vandalisme-et-pillages"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/espagne-128-interpellations-dont-73-mineurs-a-barcelone-pour-des-degradations-et-des-pillages-20261025_2TGQ4P24MNBEBEN7ZHIDEAVFSQ/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261025-albanie-face-aux-violences-le-premier-ministre-veut-durcir-la-gestion-des-manifestations"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html"
+            }
+          ],
+          "angles": "France Info et Euronews insistent sur l’ampleur des violences et le profil des interpellés (jeunes), tandis que Libération met en avant le contexte social et l’aspect non déclaré de la manifestation."
+        },
+        {
+          "headline": "Albanie : manifestations violentes et répression accrue",
+          "summary": "L’Albanie connaît une crise sociale depuis 10 jours, marquée par des manifestations violentes et des pillages. Le Premier ministre Edi Rama annonce des mesures pour durcir la gestion des foules, incluant des amendes pour les casseurs. Les étudiants, principaux acteurs des mobilisations, dénoncent un pays sans perspectives et réclament le départ du gouvernement.",
+          "sources": [
+            "RFI",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261025-albanie-face-aux-violences-le-premier-ministre-veut-durcir-la-gestion-des-manifestations"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/quand-on-aura-fini-nos-etudes-on-sait-quon-restera-au-chomage-en-albanie-la-jeunesse-refuse-lexil-et-reclame-du-changement-20261025_JVNIXHVDEBCDNKZ5AH7KXCB6XQ/"
             }
           ]
         },
         {
-          "headline": "Législatives en Serbie : défi historique des étudiants",
-          "summary": "Les élections législatives anticipées du 25 octobre en Serbie opposent le président sortant Aleksandar Vucic à une liste étudiante issue d’un mouvement anticorruption. Les manifestants espèrent un « référendum anti-Vucic » après deux ans de mobilisation. Le scrutin est marqué par des craintes de fraude et un risque de répression.",
-          "sources": [
-            "Libération",
-            "Le Figaro",
-            "Le Monde",
-            "Courrier International",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/en-serbie-les-etudiants-veulent-defier-aleksandar-vucic-dans-les-urnes-20261025_EYDF2NZT4NGM3LXHDSJIMWHISQ/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/les-etudiants-veulent-faire-la-revolution-en-serbie-la-gen-z-en-marche-contre-aleksandar-vucic-avant-les-legislatives-20261024"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/25/legislatives-en-serbie-aleksandar-vucic-menace-de-defaite-electorale-apres-quatorze-ans-au-pouvoir_6800045_3210.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/reportage-rien-d-autre-que-la-victoire-en-serbie-la-liste-etudiante-croit-en-ses-chances_280851"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html#xtor=RSS-3-%5Bgeneral%5D"
-            }
-          ],
-          "angles": "Libération et Le Figaro soulignent l’aspect révolutionnaire du mouvement étudiant, tandis que Le Monde et France Info insistent sur les enjeux électoraux et les risques de fraude. Courrier International met en avant la mobilisation massive."
-        },
-        {
-          "headline": "Tensions autour de Starlink en Ukraine",
-          "summary": "Elon Musk a accusé l’Ukraine de violer les conditions d’utilisation de Starlink, menaçant de suspendre le service. Kiev affirme avoir rétabli une connexion stable avec Starshield, essentielle pour ses opérations militaires. Les frappes russes dans les régions de Dnipropetrovsk et Kharkiv font quatre morts. Les États-Unis et la Russie s’opposent sur le rôle de l’Ukraine dans le conflit.",
-          "sources": [
-            "Le Monde",
-            "Le Figaro",
-            "France Info",
-            "France 24",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-elon-musk-accuse-kiev-de-violer-les-conditions-d-utilisation-du-reseau-starlink_6799896_3210.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Le Monde et Le Figaro relaient l’accusation de Musk, tandis que France Info et France 24 insistent sur la rétablissement de la connexion Starlink/Starshield. La BBC analyse la dépendance ukrainienne aux satellites."
-        },
-        {
-          "headline": "Manifestations en Italie : répression et vie chère",
-          "summary": "L’Italie a connu des manifestations limitées contre la hausse du coût de la vie, sous haute surveillance après des heurts violents le week-end précédent. Le gouvernement Meloni a déployé massivement forces de l’ordre et armée. Milan reste en alerte avec des patrouilles militaires et des commerces barricadés. Les réformes sécuritaires récentes visent à éviter de nouveaux désordres.",
+          "headline": "Italie : manifestations limitées malgré déploiement massif des forces de l’ordre",
+          "summary": "Des manifestations en Italie, initialement craintes comme violentes, se sont déroulées de manière pacifique malgré un déploiement exceptionnel de forces de sécurité. Le gouvernement d’extrême droite de Giorgia Meloni a adopté des réformes sécuritaires strictes après des heurts récents, similaires à ceux observés en France. Les mobilisations portent sur la hausse du coût de la vie.",
           "sources": [
             "RFI",
-            "Le Monde",
-            "Le Figaro",
-            "Euronews",
-            "France 24"
+            "Le Monde"
           ],
           "links": [
             {
@@ -271,53 +317,26 @@
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/10/24/en-italie-des-manifestations-a-l-ampleur-limitee-contre-la-hausse-du-cout-de-la-vie-apres-un-massif-deploiement-de-forces-de-l-ordre_6799731_3210.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/on-n-avait-pas-fait-dix-metres-qu-on-nous-demandait-deja-de-degager-a-milan-les-jeunes-face-au-verrouillage-du-centre-ville-20261024"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/24/des-soldats-patrouillent-milan-les-commerces-se-barricadent-avant-les-protestations"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance"
-            }
-          ],
-          "angles": "RFI et Le Monde décrivent un déploiement sécuritaire massif, tandis que Le Figaro et Euronews insistent sur les tensions locales à Milan. France 24 met l’accent sur les causes économiques."
-        },
-        {
-          "headline": "Allemagne : fuite massive de documents à l’AfD",
-          "summary": "Plus de 420 000 courriels et documents internes de l’AfD, parti d’extrême droite, ont fuité, révélant des messages racistes et antisémites. La coprésidente Alice Weidel est embarrassée dans une affaire de financement illégal. Cette fuite pourrait affaiblir le parti avant les prochaines élections.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-allemagne-une-fuite-massive-de-documents-internes-a-l-afd-embarrasse-le-parti-d-extreme-droite_6799718_3210.html"
             }
           ]
         },
         {
-          "headline": "Albanie : mobilisation contre la corruption et Rama",
-          "summary": "Des milliers de manifestants, dont des étudiantes, dénoncent la corruption et les conditions d’études en Albanie. Le mouvement, né d’un projet touristique lié à Jared Kushner, s’étend à la démission du Premier ministre Edi Rama. Les protestations se poursuivent malgré les répressions.",
+          "headline": "Europe : répression et colère sociale en hausse",
+          "summary": "Plusieurs pays européens voient s’intensifier les mouvements de protestation, souvent réprimés par des mesures sécuritaires renforcées. En Belgique, le gouvernement durcit son ton face aux mobilisations contre les réformes. En Albanie et en Serbie, les manifestations dégénèrent en violences, tandis qu’une sociologue souligne que la répression peut alimenter l’escalade des tensions. La crise du logement mobilise aussi en Espagne, Grèce et Portugal.",
           "sources": [
-            "RFI",
-            "Le Monde"
+            "Libération",
+            "RFI"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261024-en-albanie-les-manifestants-et-l-opposition-dans-la-rue-contre-la-corruption-et-les-mauvaises-conditions-d-%C3%A9tudes"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/en-belgique-le-gouvernement-hausse-le-ton-face-a-la-colere-sociale-20261025_YDG5KHOAK5HC3KGWBRKHUTHA7E/"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/24/en-albanie-nouvelle-journee-de-mobilisation-pour-reclamer-la-demission-du-premier-ministre-edi-rama_6799688_3210.html"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261025-a-relire-espagne-gr%C3%A8ce-portugal-face-%C3%A0-la-crise-du-logement-des-revendications-vari%C3%A9es-mais-une-col%C3%A8re-commune"
             }
-          ],
-          "angles": "RFI évoque les conditions d’études, tandis que Le Monde met l’accent sur la dimension politique."
+          ]
         }
       ]
     },
@@ -326,140 +345,172 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Congrès du RN : réélection de Bardella sous tensions",
-          "summary": "Jordan Bardella a été réélu président du Rassemblement national avec 98,98 % des voix lors du congrès d’Orléans, samedi 25 octobre. Seul candidat, il incarne une unité formelle du parti malgré les révélations sur ses écrits antisémites et les divisions internes. Le congrès s’est déroulé sous haute surveillance sécuritaire, avec des heurts entre militants et forces de l’ordre. Des manifestations antifascistes ont rassemblé des milliers de personnes à proximité. Le RN a aussi renouvelé son conseil national, avec Jean-Philippe Tanguy en tête.",
+          "headline": "Marine Le Pen lance sa campagne présidentielle à Orléans",
+          "summary": "Marine Le Pen a officiellement lancé sa campagne pour l’élection présidentielle de 2027 dimanche 25 octobre à Orléans, devant 8 000 à 8 500 personnes. Elle a mis en avant des thèmes comme la « renaissance » et la « paix civile », tout en proposant d’inscrire la « communauté nationale » dans la Constitution. Le Rassemblement national (RN) a réorganisé ses structures après la réélection de Jordan Bardella à sa tête. La ville était sous haute surveillance, avec des mesures exceptionnelles pour éviter les affrontements.",
           "sources": [
-            "Mediapart",
-            "Libération",
-            "Le Figaro",
-            "France 24",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/politique/241026/reelu-99-jordan-bardella-reste-un-president-sous-tutelle-au-rn"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/a-orleans-jordan-bardella-reelu-lors-dun-congres-sans-surprise-mais-sous-tension-20261024_NJWZPLV77VGYHL4ZZMFRDUW3PI/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/seul-candidat-jordan-bardella-reelu-president-du-rn-avec-98-98-des-voix-20261024"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/24/congres-du-rn-un-plebiscite-pour-jordan-bardella-reelu-a-la-tete-du-parti-avec-9898-des-vo"
-            }
-          ],
-          "angles": "Libération et Mediapart soulignent les tensions internes et les révélations sur Bardella, tandis que Le Figaro et France 24 insistent sur l’unité affichée du parti et le contexte pré-électoral. Mediapart dénonce aussi les agressions contre ses journalistes par le service d’ordre du RN."
-        },
-        {
-          "headline": "Attentat raciste de Trappes : un mort et cinq blessés",
-          "summary": "Un attentat raciste a fait un mort, Pengo Bossio Wangi (26 ans), et cinq blessés à Trappes et La Verrière (Yvelines) vendredi 23 octobre. Le tireur, Kévin T., a ciblé des personnes selon leur couleur de peau, affirmant vouloir « venger les commerçants » pillés lors des manifestations du 17 octobre. Un exemplaire de Mein Kampf a été retrouvé à son domicile. Des marches blanches et des hommages ont été organisés en sa mémoire. Le maire de Trappes, Ali Rabeh, appelle à une mobilisation contre l’extrême droite.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "RFI",
-            "Mediapart",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261024-qui-%C3%A9tait-pengo-bossio-wangi-combattant-de-mma-tu%C3%A9-par-balles-lors-de-l-attentat-terroriste-raciste-%C3%A0-trappes"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/politique/241026/ali-rabeh-maire-de-trappes-tout-le-monde-doit-prendre-ses-responsabilites"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html"
-            }
-          ],
-          "angles": "Libération et Le Monde détaillent le profil de la victime et les motivations du tireur, tandis que France Info et RFI insistent sur l’aspect communautaire et sportif de Pengo Bossio Wangi. Mediapart et Libération pointent la responsabilité des médias dans la diffusion de discours racistes."
-        },
-        {
-          "headline": "Manifestations du 24 octobre : 410 000 personnes dans la rue",
-          "summary": "Près de 410 000 manifestants (800 000 selon la CGT) ont défilé en France samedi 24 octobre contre la vie chère, pour les libertés publiques ou en soutien aux lycéens. Les cortèges se sont globalement déroulés dans le calme, malgré près de 1 000 interpellations et des heurts localisés à Paris, Lyon ou Marseille. Des incidents graves ont été signalés à Tours (incendie d’une agence bancaire) et Poitiers (blessures). Le ministre de l’Intérieur, Laurent Nuñez, salue l’engagement des forces de l’ordre.",
-          "sources": [
-            "Le Figaro",
             "Libération",
             "France 24",
-            "BBC",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html"
-            }
-          ],
-          "angles": "Libération et Le Monde mettent l’accent sur les revendications sociales et la répression, tandis que Le Figaro et France 24 insistent sur la comparaison avec les violences du 17 octobre et le bilan sécuritaire. La BBC et Euronews soulignent le contexte européen des mobilisations."
-        },
-        {
-          "headline": "Présidentielle 2027 : ascension de Lisnard et duel Le Pen-Mélenchon",
-          "summary": "David Lisnard (Horizons) connaît une percée dans les sondages, portée par une stratégie virale sur les réseaux sociaux. Un sondage annonce un duel entre Marine Le Pen (RN) et Jean-Luc Mélenchon (LFI) pour la présidentielle de 2027, bien que le leader de LFI reste loin derrière la candidate d’extrême droite. Les « gilets jaunes » appellent à une nouvelle mobilisation le 31 octobre, dénonçant une « dérive autoritaire » du gouvernement.",
-          "sources": [
-            "Libération",
-            "20 Minutes",
+            "Le Monde",
+            "Le Figaro",
             "France Info"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-derriere-la-percee-de-david-lisnard-une-strategie-doccupation-minutieuse-des-reseaux-sociaux-20261025_TZN6AHJZE5AHXCRXLTJEJ5U34Y/"
+              "url": "https://www.liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU/"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4257273-20261025-presidentielle-2027-duel-pen-melenchon-encore-annonce-sondage?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lection-pr%C3%A9sidentielle-%C3%A0-orl%C3%A9ans"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reformer-parcoursup-prendre-soin-des-lycees-augmenter-le-smic-quelles-pistes-pour-calmer-la-colere_8252509.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-[lestitres]"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde soulignent le contraste entre le discours d’optimisme de Le Pen et les tensions identitaires persistantes, tandis que Le Figaro et France Info insistent sur la réorganisation interne du RN et la sécurisation du meeting. Mediapart et France 24 décrivent Orléans comme une ville sous « état de siège », mettant en avant les mesures sécuritaires exceptionnelles."
         },
         {
-          "headline": "Crise de l’eau à Pontarlier : risque de coupures généralisées",
-          "summary": "Pontarlier (Doubs) fait face à une pénurie d’eau inédite, contraignant les autorités à envisager des coupures pour les habitants. La situation, liée à des difficultés d’approvisionnement, pousse la population à adopter des gestes de sobriété. Les réserves d’eau sont au plus bas, et les services municipaux appellent à une mobilisation collective pour éviter l’aggravation de la crise.",
+          "headline": "Attaque raciste dans les Yvelines : un mort et cinq blessés",
+          "summary": "Un homme de 26 ans, Pengo Bossio Wangi, a été tué et cinq autres blessés vendredi 23 octobre lors d’une attaque raciste à Trappes et La Verrière (Yvelines). Le suspect, Kevin T., 39 ans, souffrant de schizophrénie et sous traitement, a vu sa garde à vue levée pour une expertise psychiatrique. Des rassemblements contre le racisme sont prévus lundi dans plusieurs villes, dont Paris. Le maire de Trappes, Ali Rabeh, dénonce un climat de « guerre civile larvée » et pointe le rôle des discours politiques.",
           "sources": [
+            "France Info",
+            "RFI",
+            "Le Figaro",
+            "Libération",
             "Le Monde"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-dans-les-yvelines-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_8253484.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261025-attaque-meurtri%C3%A8re-en-france-la-garde-%C3%A0-vue-du-tireur-lev%C3%A9e-pour-raisons-psychiatriques"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/il-est-mort-parce-qu-il-est-noir-c-est-tout-a-la-marche-en-memoire-de-pengo-bossio-wangi-tue-par-kevin-t-a-trappes-20261025"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-levee-pour-des-raisons-psychiatriques-ce-dimanche-20261025_LHSBEKD66BGMTK376UUUCUOV3E/"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/10/25/personne-n-avait-imagine-qu-on-manque-d-eau-a-ce-point-a-pontarlier-la-population-invitee-a-la-sobriete-sous-peine-de-coupures_6800035_3244.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html"
+            }
+          ],
+          "angles": "France Info et Libération mettent l’accent sur le profil du suspect et les réactions sociales, tandis que Le Monde et Mediapart analysent le contexte politique et médiatique, évoquant une responsabilité des discours de haine. Le Figaro et RFI détaillent les aspects médico-légaux et psychiatriques. Mediapart souligne le lien entre l’ultradroite et les violences racistes en France."
+        },
+        {
+          "headline": "Mobilisations sociales : 1 000 interpellations lors des cortèges",
+          "summary": "Samedi 24 octobre, des centaines de milliers de personnes ont manifesté contre la vie chère dans plusieurs villes, malgré des interdictions. Le ministre de l’Intérieur, Laurent Nuñez, a salué le « bon déroulement » des cortèges, tout en recensant près de 1 000 interpellations. Des heurts ont éclaté à Nice, où une enquête a été ouverte contre des membres de l’ultradroite. Les syndicats appellent à une grève nationale le 5 novembre, et les lycéens attendent des annonces sur Parcoursup et les conditions d’études.",
+          "sources": [
+            "Mediapart",
+            "Libération",
+            "Le Figaro",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/251026/mobilisations-du-24-octobre-l-extreme-droite-provoque-les-manifestants-sous-le-regard-de-policiers"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/en-images-les-mobilisations-du-24-octobre-dans-le-regard-des-photographes-20261025_IGBH5T6QSJBJDHZT2OIQSHDWFU/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/nice/a-nice-une-enquete-ouverte-apres-des-violences-de-l-ultra-droite-contre-des-manifestants-20261025"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations"
+            }
+          ]
+        },
+        {
+          "headline": "Christo Popov devient premier Français n°1 mondial de badminton",
+          "summary": "Le badiste français Christo Popov, 26 ans, a remporté les Internationaux de France de badminton dimanche 25 octobre à Tremblay-en-France, devenant le premier Français numéro un mondial en simple messieurs. Il a battu l’Indonésien Mohammad Zaki Ubaidillah en trois manches, marquant un tournant pour le badminton hexagonal.",
+          "sources": [
+            "Libération",
+            "RFI",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/sports/cest-incroyable-on-ne-peut-pas-rever-mieux-christo-popov-premier-francais-a-devenir-numero-1-mondial-en-badminton-20261025_Q7MDFEUU25F2DIZ3663HAPTXVQ/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/sports/20261025-badminton-christo-popov-devient-le-premier-fran%C3%A7ais-num%C3%A9ro-1-mondial"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/badminton/christo-popov-va-devenir-le-premier-francais-de-l-histoire-n-1-mondial-apres-son-sacre-aux-internationaux-de-france-de-badminton_8253241.html#xtor=RSS-3-[lestitres]"
+            }
+          ]
+        },
+        {
+          "headline": "NFL à Paris : les Saints battus par les Steelers au Stade de France",
+          "summary": "Le premier match de saison régulière de NFL en France a opposé les New Orleans Saints aux Pittsburgh Steelers dimanche 25 octobre au Stade de France. Les Steelers ont remporté la rencontre 16-10, clôturant une première édition jugée décevante par certains observateurs. L’événement a attiré des milliers de spectateurs malgré des conditions météo difficiles.",
+          "sources": [
+            "20 Minutes",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/nfl/4257362-20261025-nfl-paris-game-2026-match-entre-saints-steelers-pire-pub-possible-football-americain?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/sport/article/2026/10/25/la-nfl-fait-ses-grands-debuts-a-paris-un-rendez-vous-tres-attendu-a-la-preparation-perturbee_6800105_3242.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-france-paris-aux-couleurs-de-la-nfl"
+            }
+          ]
+        },
+        {
+          "headline": "Tempête Austen : 40 000 foyers encore privés d’électricité",
+          "summary": "La tempête Austen a provoqué des coupures d’électricité dans plusieurs régions, notamment en Bretagne et en Normandie. Dimanche 25 octobre à midi, 59 000 foyers étaient encore privés de courant, avant de redescendre à 40 000 en fin de journée. Environ 2 600 salariés d’Enedis étaient mobilisés pour les réparations.",
+          "sources": [
+            "20 Minutes",
+            "Le Monde",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4257321-20261025-tempete-austen-encore-59-000-foyers-prives-electricite-midi-dimanche-selon-enedis?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/foot/ligue-1/rennes-prend-provisoirement-les-commandes-de-la-ligue-1-apres-sa-victoire-contre-strasbourg-l-om-se-fait-peur-contre-le-havre_8253424.html#xtor=RSS-3-[lestitres]"
             }
           ]
         }
