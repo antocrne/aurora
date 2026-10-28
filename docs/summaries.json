@@ -1,175 +1,169 @@
 {
-  "generated_at": "2026-10-27T21:24:58Z",
-  "edition": "27 octobre 2026",
+  "generated_at": "2026-10-28T11:29:34Z",
+  "edition": "28 octobre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Mbappé en disgrâce en Chine après blague sur Mao",
-          "summary": "Kylian Mbappé a provoqué un scandale international en évoquant Mao Zedong comme un « dictateur » lors d’une vidéo diffusée le 26 octobre. Trois contrats publicitaires en Chine ont été rompus, et son équipementier suisse a vu son action chuter en Bourse. Pékin a réagi avec fermeté, suspendant la diffusion des matchs de Liga espagnole et menaçant l’image du footballeur. Les autorités chinoises dénoncent une atteinte au « sentiment national ».",
+          "headline": "Israël : élections législatives sans majorité claire",
+          "summary": "Les législatives israéliennes du 27 octobre 2026 ont confirmé l'absence de majorité absolue, avec la coalition de Benjamin Netanyahou en tête (54 sièges) devant celle de Gadi Eisenkot (49 sièges). Les partis arabes, avec 17 à 19 sièges, pourraient jouer un rôle clé dans les négociations. Le taux de participation a atteint 77 %, un record depuis 1999. Les tractations pour former un gouvernement s'annoncent complexes, avec des scénarios incluant une coalition minoritaire ou un nouveau scrutin.",
           "sources": [
-            "Le Figaro",
-            "Courrier International",
             "France 24",
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/football/espagne/ballon-d-or-kylian-mbappe-24-heures-entre-deception-sportive-et-polemique-avec-la-chine-20261027"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/polemique-kylian-mbappe-provoque-un-tolle-en-chine-a-cause-d-une-blague-sur-mao_282062"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-chine-kylian-mbapp%C3%A9-au-c%C5%93ur-d-une-pol%C3%A9mique"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/kylian-mbappe-prive-de-sponsor-chinois-apres-une-mauvaise-blague-sur-mao-zedong_8255947.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/football/la-chine-attrape-mbappe-par-le-col-apres-une-blague-sur-mao-20261027_GB5FVXHHXVAD3BCTHJSJXGYKMU/"
-            }
-          ],
-          "angles": "Le Figaro et France Info insistent sur l’impact économique et médiatique, tandis que Courrier International et France 24 analysent la dimension géopolitique et culturelle de la polémique. Libération met en avant la réaction des marques et des médias chinois."
-        },
-        {
-          "headline": "Israël : opposition en tête, mais sans majorité",
-          "summary": "Les premières estimations des législatives israéliennes du 27 octobre donnent le bloc de l’opposition, mené par l’ancien chef d’état-major Gadi Eisenkot, légèrement en tête avec 52-53 sièges contre 50 pour la coalition sortante de Benyamin Netanyahou. Aucune majorité n’est dégagée, rendant incertaine la formation d’un gouvernement. La participation record (74,3 %) reflète une mobilisation historique, notamment parmi les électeurs arabes. Les partis de Netanyahou ont tenté en vain de retarder la fermeture des bureaux de vote.",
-          "sources": [
-            "France Info",
+            "Le Monde",
             "Libération",
-            "Courrier International",
-            "France 24",
-            "Le Monde"
+            "Toute l'Europe",
+            "France Info"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/elections-legislatives-en-israel-la-coalition-de-gadi-eisenkot-devance-celle-de-netanyahou-20261027_NJFOWDG675HA3P2R4RSGLKYC5M/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/en-israel-de-premieres-estimations-serrees-apres-une-participation-historique_282121"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-benjamin-netanyahu-en-t%C3%AAte-mais-sans-majorit%C3%A9"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-66-7-en-debut-de-soiree-le-plus-eleve-depuis-1973_6801217_3210.html"
-            }
-          ],
-          "angles": "Le Monde et France 24 détaillent les enjeux post-scrutin et les scénarios possibles, tandis que Libération et Courrier International soulignent la participation massive et les tensions autour du processus électoral. France Info et Le Figaro insistent sur le risque de contestation des résultats par le camp de Netanyahou."
-        },
-        {
-          "headline": "Flavio Bolsonaro en fuite vers les États-Unis",
-          "summary": "Le sénateur brésilien Flavio Bolsonaro, battu par Lula da Silva à la présidentielle du 25 octobre, aurait quitté le Brésil pour les États-Unis le 27 octobre, selon des médias américains et brésiliens. Visé par deux enquêtes pour corruption et blanchiment d’argent, il était sous le coup d’un risque d’arrestation. Son parti a reconnu la victoire de Lula, tandis que la justice brésilienne redoutait son exil. Les autorités américaines envisagent de lui accorder un visa.",
-          "sources": [
-            "RFI",
-            "Courrier International",
-            "Libération",
-            "France 24",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261027-br%C3%A9sil-flavio-bolsonaro-a-fui-vers-les-%C3%A9tats-unis-washington-annonce-qu-un-visa-va-lui-%C3%AAtre-accord%C3%A9"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/bresil-battu-a-la-presidentielle-flavio-bolsonaro-serait-en-fuite-vers-les-etats-unis_282120"
+              "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-apres-le-depouillement-de-70-des-bulletins-le-camp-de-benyamin-netanyahou-en-tete-les-partis-arabes-credites-de-19-sieges-un-niveau-sans-precedent_6801217_3210.html"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/bresil-interrogations-autour-dune-possible-fuite-de-flavio-bolsonaro-en-dehors-du-pays-20261027_MAS4SSIGYBCLTFNYZKG6KAPLIQ/"
+              "url": "https://www.liberation.fr/international/moyen-orient/benyamin-netanyahou-linsubmersible-de-la-politique-israelienne-20261028_KSFRN2LNHVFK3PYFHGFJB7HKGQ/"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/legislatives-en-israel-benyamin-netanyahou-derriere-le-bloc-d-opposition-selon-les-projections-au-terme-d-un-scrutin-a-la-participation-massive/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/legislatives-en-israel-l-opposition-a-benyamin-netanyahou-revendique-la-victoire_8256919.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "headline": "Brésil : fuite de Flávio Bolsonaro après défaite électorale",
+          "summary": "Flávio Bolsonaro, fils de l'ex-président brésilien Jair Bolsonaro, a quitté le Brésil le 27 octobre 2026 pour l'Équateur, avant de tenter de rejoindre les États-Unis, où l'administration Trump lui aurait accordé un visa. Visé par des enquêtes pour corruption, il a ignoré une demande judiciaire de rendre ses passeports. Lula da Silva, réélu président, a célébré sa victoire avec des partisans à Brasília. Les médias brésiliens évoquent une fuite pour échapper à la justice.",
+          "sources": [
+            "France Info",
+            "Libération",
+            "France 24",
+            "Le Monde",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-en-vol-vers-l-equateur-depuis-l-argentine-apres-avoir-quitte-le-bresil-a-la-suite-de-sa-defaite-annoncent-les-autorites-argentines_8256826.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/"
             },
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/bresil-flavio-bolsonaro-aurait-fui-aux-etats-unis-apres-sa-defaite-a-la-presidentielle-20261027"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/281026/bolsonaro-vole-vers-l-equateur-depuis-l-argentine-apres-avoir-quitte-le-bresil"
             }
           ],
-          "angles": "RFI et Libération confirment la fuite et ses motivations judiciaires, tandis que Courrier International cite des alliés du sénateur pour étayer l’information. Aucun angle distinctif notable entre les sources."
+          "angles": "Libération et France Info détaillent la fuite et les accusations judiciaires, tandis que France 24 et Le Monde insistent sur les réactions internationales et les implications politiques. Les sources divergent sur la destination finale de Bolsonaro (Équateur vs États-Unis)."
         },
         {
-          "headline": "Trump relance les tensions avant les Midterms",
-          "summary": "À une semaine des élections de mi-mandat aux États-Unis (3 novembre), Donald Trump multiplie les déclarations provocatrices, dont des propos sexistes envers Nicki Minaj et des allusions à des fraudes électorales. Sa popularité reste faible, mais les Démocrates, en tête dans les sondages, craignent une mobilisation de son électorat. Les thèmes du pouvoir d’achat et de l’inflation dominent la campagne. Des évêques américains ont critiqué une prière organisée par la Maison Blanche pour Trump, jugée politiquement instrumentale.",
+          "headline": "Chine : polémique autour des propos de Mbappé sur Mao Zedong",
+          "summary": "Kylian Mbappé a déclenché une crise diplomatique en Chine après avoir qualifié Mao Zedong de « dictateur » dans une vidéo. Le Real Madrid et la Ligue ont présenté des excuses, et Pékin a indiqué prendre les excuses du footballeur « au sérieux ». Les sponsors chinois de Mbappé ont suspendu leurs contrats, et la polémique a atteint une dimension géopolitique. Le gouvernement français a appelé à la prudence dans les échanges culturels.",
           "sources": [
             "France Info",
-            "Le Monde",
             "Libération",
-            "Toute l'Europe"
+            "France 24",
+            "RFI",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/propos-grossiers-blagues-de-mauvais-gout-la-campagne-en-roue-libre-de-donald-trump-pour-les-midterms-2026_8256430.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html"
+              "url": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/boycott-contrats-rompus-malgre-ses-excuses-kylian-mbappe-est-toujours-tres-critique-en-chine-pour-ses-propos-sur-mao-zedong_8256967.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/idees-et-debats/opinions/le-cul-denfer-de-nicki-minaj-ne-jamais-shabituer-au-sexisme-meme-quand-il-vient-du-goujat-trump-20261027_AKU4OQFULZBWNGM4GUGYL75PAU/"
+              "url": "https://www.liberation.fr/international/asie-pacifique/la-chine-affirme-prendre-les-excuses-de-mbappe-au-serieux-20261028_A7SDSH2RPBA3HELTLRBOY2MHO4/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/asie-pacifique/20261028-pol%C3%A9mique-mbapp%C3%A9-en-chine-le-real-madrid-s-excuse-%C3%A0-sont-tour-pour-les-propos-sur-mao-zedong"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/sports/20261027-kylian-mbapp%C3%A9-provoque-une-lev%C3%A9e-de-boucliers-en-chine-apr%C3%A8s-des-propos-sur-mao-zedong"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/football/4258185-20261028-polemique-mbappe-chine-capitaine-bleus-raison-coucher-devant-pekin-presenter-excuses?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "Libération et France Info analysent l'impact géopolitique et économique, tandis que France 24 et RFI se concentrent sur les excuses et la désescalade. Le ton varie entre critique (Libération) et factuel (France 24)."
+        },
+        {
+          "headline": "États-Unis : tensions avant les midterms et ingérence craintue",
+          "summary": "À une semaine des élections de mi-mandat (3 novembre 2026), Donald Trump est accusé de préparer le terrain pour contester les résultats, tandis que sa popularité remonte légèrement. Les démocrates restent en tête des sondages, mais les craintes d'ingérence dans l'organisation du scrutin persistent. Des millions d'Américains sont privés d'aides alimentaires en raison de décisions de l'administration Trump. Des mobilisations ciblent notamment les électeurs afro-américains en Géorgie.",
+          "sources": [
+            "Le Monde",
+            "Toute l'Europe",
+            "France 24",
+            "Euronews",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html"
             },
             {
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-a-une-semaine-de-l-election-la-cote-de-popularite-de-donald-trump-remonte-legerement-mais-les-democrates-sont-toujours-en-tete/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-%C3%A9tats-unis-des-milliers-de-citoyens-priv%C3%A9s-d-aide-alimentaire"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/28/la-maison-blanche-nomme-t-elle-la-rappeuse-nicki-minaj-porte-parole-de-donald-trump"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/les-etats-unis-pousseraient-pour-une-candidature-de-viktor-orban-au-poste-de-secretaire-general-de-l-onu-20261028"
             }
           ],
-          "angles": "Le Monde et France Info analysent les risques de contestation postélectorale, tandis que Libération et Toute l’Europe se concentrent sur le contexte économique et les réactions internes au parti républicain. France Info met en avant les propos de Trump sur Nicki Minaj comme symbole de son style polémiques."
+          "angles": "Le Monde et Toute l'Europe analysent les risques d'ingérence et le contexte politique, tandis que France 24 met l'accent sur les conséquences sociales des décisions de Trump. Euronews évoque une possible nomination de Nicki Minaj à la Maison Blanche, sans confirmation officielle."
         },
         {
-          "headline": "Condamnations de jihadistes français en Irak",
-          "summary": "Un tribunal irakien a condamné six Français à la perpétuité et un à 15 ans de prison pour appartenance à Daech et participation à des actes terroristes. Ces peines concernent des ressortissants transférés de Syrie en juillet 2025 dans le cadre d’une coopération judiciaire. Les familles des condamnés, dont certains étaient mineurs lors de leur départ, expriment un soulagement face à l’absence de peine de mort. Les procès se poursuivent pour les 40 autres accusés.",
+          "headline": "Iran : réalisateur Jafar Panahi condamné à cinq ans de prison",
+          "summary": "Jafar Panahi, lauréat de la Palme d'or en 2025, a été condamné par contumace à cinq ans et un mois de prison ferme par un tribunal iranien le 27 octobre 2026. Les chefs d'accusation ne sont pas détaillés, mais le réalisateur est une figure critique du régime. Cette condamnation s'inscrit dans une répression accrue contre les artistes et intellectuels en Iran.",
           "sources": [
-            "Le Monde",
-            "RFI"
+            "France 24"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/27/proces-de-djihadistes-francais-en-irak-sept-accuses-condamnes-a-15-a-20-ans-de-prison-pour-appartenance-au-groupe-ei_6801288_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261027-proc%C3%A8s-de-jihadistes-fran%C3%A7ais-en-irak-six-accus%C3%A9s-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9-un-%C3%A0-15-ans-de-r%C3%A9clusion-criminelle"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-iran-jafar-panahi-palme-d-or-en-2025-condamn%C3%A9-%C3%A0-cinq-ans-de-prison"
             }
           ]
         },
         {
-          "headline": "Tensions Iran-Arabie saoudite : Riyad tente une médiation",
-          "summary": "L’Arabie saoudite a organisé une réunion à Téhéran le 26 octobre pour apaiser les tensions avec l’Iran, alors que les Houthis ciblent Riyad et que des craintes de relance d’un conflit régional persistent. Les pays du pacte de la Mecque cherchent à éviter une escalade, tandis que l’Iran maintient son influence dans le détroit d’Ormuz, où un pétrolier a pris feu après une collision avec des mines. Les analystes évoquent un jeu d’alliances complexes impliquant Émirats, Libye et Algérie.",
+          "headline": "Guatemala : meurtre d'un avocat relance les craintes de violence politique",
+          "summary": "L'assassinat de l'avocat Juan Francisco Solórzano Foppa, engagé contre la corruption, a ravivé les craintes de violences politiques au Guatemala, à l'approche des élections de 2027. Sept policiers ont été arrêtés pour avoir fabriqué des preuves, révélant des failles dans le système judiciaire. Ce meurtre s'ajoute à une série d'actes de violence liés au climat préélectoral.",
           "sources": [
-            "Courrier International",
-            "France Info"
+            "Courrier International"
           ],
           "links": [
             {
               "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/analyse-desescalade-ou-avertissement-riyad-tente-une-mediation-directe-avec-teheran_281997"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-armee-iranienne-affirme-qu-un-petrolier-a-pris-feu-dans-le-detroit-d-ormuz-apres-avoir-percute-des-mines_8256169.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.courrierinternational.com/article/violence-au-guatemala-le-meurtre-de-l-avocat-juan-francisco-solorzano-foppa-fait-ressurgir-la-menace-de-la-violence-politique_282074"
             }
           ]
         }
@@ -180,12 +174,70 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "L’UE renforce Frontex et durcit sa politique migratoire",
-          "summary": "La Commission européenne propose une réforme élargissant les pouvoirs de Frontex, notamment en matière d’expulsions de migrants, dans un contexte de tensions aux frontières comme à Ceuta. Ursula von der Leyen justifie cette mesure par la nécessité de contrôler les entrées dans l’UE. Le projet suscite des débats sur son équilibre entre sécurité et droits humains. Les discussions législatives s’annoncent serrées.",
+          "headline": "Collision mortelle de trains en Espagne",
+          "summary": "Une collision entre deux trains, l’un de Yrio et l’autre de Renfe, a fait au moins 30 morts et de nombreux blessés près de Tolède, à 150 km au sud de Madrid, mercredi 28 octobre. Les premières images aériennes montrent l’ampleur de la catastrophe. Le bilan pourrait s’alourdir. Les autorités régionales évoquent un choc à 8h54.",
+          "sources": [
+            "Le Monde",
+            "France Info",
+            "Le Figaro",
+            "Libération",
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/video/2026/10/28/espagne-les-premieres-images-de-la-collision-entre-deux-trains_6801568_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/collision-mortelle-entre-deux-trains-en-espagne-les-premieres-images-de-la-catastrophe-ferroviaire-20261028"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/societe/espagne-la-collision-de-deux-trains-a-grande-vitesse-fait-de-nombreux-morts-le-pays-en-etat-de-choc/"
+            }
+          ],
+          "angles": "Le Monde et Le Figaro mettent l'accent sur les images et le bilan humain, tandis que France Info et Libération privilégient un suivi en direct avec des mises à jour régulières des autorités. Libération et Le Figaro utilisent des formules percutantes comme 'catastrophe ferroviaire' ou 'chaos', alors que Le Monde adopte un ton plus neutre et descriptif."
+        },
+        {
+          "headline": "Trêve humanitaire à Olechky en Ukraine",
+          "summary": "Une trêve humanitaire est observée depuis mardi 27 octobre à Olechky, ville ukrainienne sous occupation russe, permettant aux habitants d’accéder à des vivres et à des soins. Cette pause, négociée via Melania Trump, est la deuxième journée consécutive de cessez-le-feu localisé. Les médiateurs russes et ukrainiens confirment son respect, malgré les tensions persistantes.",
+          "sources": [
+            "Le Monde",
+            "France Info",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-a-olechky-ville-ukrainienne-sous-occupation-russe-la-treve-humanitaire-tient-pour-la-deuxieme-journee-de-suite_6799896_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-une-treve-melania-a-olechky_8256913.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261027-ukraine-la-tr%C3%AAve-a-commenc%C3%A9-dans-la-ville-d-olechky-dans-l-attente-d-une-op%C3%A9ration-humanitaire"
+            }
+          ]
+        },
+        {
+          "headline": "Frontex renforcé : l’UE durcit sa politique migratoire",
+          "summary": "La Commission européenne propose une réforme majeure de Frontex, élargissant ses pouvoirs pour contrôler les frontières extérieures de l’UE et coordonner les expulsions de migrants. Ursula von der Leyen justifie cette mesure par la nécessité de 'décider qui entre dans l’Union'. Le texte vise aussi à lutter contre la désinformation via des 'signaleurs de confiance'.",
           "sources": [
             "Le Figaro",
             "France Info",
-            "Toute l'Europe"
+            "Toute l'Europe",
+            "EURACTIV"
           ],
           "links": [
             {
@@ -199,75 +251,29 @@
             {
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/la-commission-europeenne-veut-renforcer-frontex-et-elargir-ses-pouvoirs-d-expulsion-de-migrants/"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/lutte-contre-desinformation-reseaux-sociaux-lue-songe-a-doter-frontex-de-nouveaux-pouvoirs/"
             }
-          ]
-        },
-        {
-          "headline": "Victoire historique des étudiants en Serbie",
-          "summary": "La coalition soutenue par les étudiants a remporté les législatives serbes le 25 octobre, mettant fin à 14 ans de pouvoir d’Aleksandar Vucic. Les nouveaux élus, issus d’un mouvement anti-fraude et pro-européen, héritent d’un pays polarisé et d’enjeux économiques majeurs. Leur capacité à gouverner et à rompre avec la ligne pro-russe de Vucic reste incertaine. La Serbie pourrait accélérer sa candidature à l’UE.",
-          "sources": [
-            "France Info",
-            "RFI",
-            "France 24",
-            "Libération",
-            "Courrier International"
           ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/le-mouvement-des-etudiants-gagne-les-legislatives-en-serbie_8255599.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261027-l%C3%A9gislatives-en-serbie-les-%C3%A9tudiants-continuent-de-f%C3%AAter-leur-victoire-mais-les-d%C3%A9fis-sont-nombreux"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261027-%C3%A9lections-serbie-mobilisation-contre-fraude-s%C3%BBrement-impact-r%C3%A9sultats"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/en-serbie-la-television-publique-presente-ses-excuses-pour-des-annees-de-partialite-sous-lautocratie-daleksandar-vucic-20261027_ZBJYOZJIWBF2JFD34TCKJCEEIQ/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/europe-apres-la-defaite-de-vucic-la-serbie-pourrait-elle-rejoindre-l-ue_281994"
-            }
-          ]
+          "angles": "France Info et Toute l'Europe soulignent l’aspect coercitif des nouvelles compétences de Frontex, tandis que EURACTIV insiste sur le lien avec la lutte contre la désinformation et le Digital Services Act (DSA). Le Figaro et France Info adoptent un ton plus alarmiste ('nouveau tour de vis'), là où Toute l'Europe reste factuel."
         },
         {
-          "headline": "Trêve humanitaire à Olechky, Ukraine en suspens",
-          "summary": "Un cessez-le-feu localisé permet depuis ce mardi l’évacuation de 2 000 civils piégés à Olechky, près de Kherson, privés d’électricité et de nourriture depuis des mois. La Russie pourrait exfiltrer les habitants vers son territoire. Les conditions de sécurité et la durée de la trêve restent floues. L’opération, prévue pour le 29 octobre, teste la crédibilité des accords humanitaires entre Kiev et Moscou.",
+          "headline": "Division nordique : Finlande et Norvège critiquées pour appel à Poutine",
+          "summary": "Les dirigeants finlandais et norvégiens ont échangé 90 minutes avec Vladimir Poutine pour ouvrir un 'canal de communication' sur l’Ukraine. Le Danemark et la Suède ont réagi avec scepticisme, dénonçant une initiative unilatérale. Cette fissure dans l’unité scandinave survient alors que les Européens cherchent à engager un dialogue avec Moscou.",
           "sources": [
-            "BBC",
-            "20 Minutes",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4258095-20261027-guerre-ukraine-minuscule-ilot-goute-paix-appel-poutine-jette-gros-froid?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/a-olechky-une-evacuation-a-plusieurs-inconnues-pour-la-population-ukrainienne-20261027_NR2L4AMFRNELDDI5U7SBNKN2J4/"
-            }
-          ]
-        },
-        {
-          "headline": "Finlande et Norvège critiquées pour dialogue avec Poutine",
-          "summary": "Les présidents finlandais et norvégien ont contacté Vladimir Poutine pour ouvrir un « canal de communication », suscitant des réserves au sein de l’OTAN. Le Danemark, sceptique, dénonce une initiative unilatérale risquant de fragiliser l’unité occidentale. Poutine a réaffirmé que seule une « paix juste » incluant les intérêts russes mettra fin à la guerre en Ukraine. Les réactions divisent les alliés.",
-          "sources": [
+            "Euronews",
             "France 24",
             "EURACTIV",
-            "RFI",
-            "France Info"
+            "Courrier International",
+            "Le Figaro"
           ],
           "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/27/un-appel-a-poutine-oppose-la-finlande-et-la-norvege-au-danemark-et-a-la-suede"
+            },
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine"
@@ -277,38 +283,45 @@
               "url": "https://www.rapporteur.com/fr/news/le-danemark-tres-sceptique-face-a-lappel-de-poutine/"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261027-ukraine-les-dirigeants-norv%C3%A9gien-et-finlandais-ont-eu-un-entretien-franc-et-substantiel-avec-vladimir-poutine"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-un-coup-de-telephone-a-poutine-et-l-unite-des-pays-scandinaves-se-craquelle_282153"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-accuse-l-union-europeenne-et-l-otan-de-prolonger-la-guerre-en-ukraine-lors-d-un-appel-avec-des-dirigeants-nordiques_8255782.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/vladimir-poutine-cherche-la-faille-chez-les-occidentaux-pour-faire-plier-l-ukraine-20261027"
             }
-          ]
-        },
-        {
-          "headline": "Pologne accueille un centre de maintenance de missiles Patriot",
-          "summary": "La Pologne installera un centre de maintenance pour missiles Patriot, utilisés par l’Ukraine et l’OTAN, avec un investissement de 230 millions d’euros. Ce projet, présenté comme « historique », vise à renforcer l’autonomie européenne en matière de défense. La production locale de ces missiles est envisagée à moyen terme. L’annonce intervient dans un contexte de tensions accrues avec la Russie.",
-          "sources": [
-            "Le Monde"
           ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-un-centre-de-maintenance-de-missiles-patriot-utilises-par-kiev-et-par-l-otan-va-etre-implante-en-pologne_6799896_3210.html"
-            }
-          ]
+          "angles": "EURACTIV et France 24 mettent en avant la rupture diplomatique et le risque de division, tandis que Le Figaro et Courrier International analysent cette démarche comme une tentative de Poutine de fragiliser l’unité occidentale. Euronews et France 24 adoptent un ton neutre, mais soulignent le contexte géopolitique tendu."
         },
         {
-          "headline": "Crise immobilière en Europe : jeunesse en colère",
-          "summary": "Les prix de l’immobilier et des locations explosent dans toute l’Europe, aggravant les inégalités et la précarité des jeunes. Les causes sont multiples : pénurie de logements, spéculation, et politiques publiques jugées insuffisantes. Les mouvements de protestation se multiplient, notamment en Allemagne et aux Pays-Bas. Les gouvernements peinent à proposer des solutions structurelles.",
+          "headline": "Victoire historique du mouvement anticorruption en Serbie",
+          "summary": "Les élections législatives en Serbie ont porté au pouvoir une coalition anticorruption, marquant un tournant démocratique similaire à la chute de Viktor Orbán en Hongrie. Aleksandar Vucic, au pouvoir depuis 2014, a été battu, mais les défis restent nombreux pour concrétiser les promesses de transparence et d’adhésion européenne. Les aspirations pro-UE d’une partie des électeurs persistent.",
           "sources": [
+            "Le Monde",
             "RFI"
           ],
           "links": [
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/28/en-serbie-la-victoire-exemplaire-du-mouvement-anticorruption_6801561_3232.html"
+            },
+            {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/accents-d-europe/20261027-les-raisons-de-la-flamb%C3%A9e-immobili%C3%A8re-en-europe"
+              "url": "https://www.rfi.fr/fr/europe/20261028-l%C3%A9gislatives-en-serbie-les-%C3%A9tudiants-demandent-la-d%C3%A9mission-de-la-direction-de-la-t%C3%A9l%C3%A9vision-publique"
+            }
+          ],
+          "angles": "Le Monde adopte un angle optimiste sur la transition démocratique, tandis que RFI met en lumière les tensions internes, notamment la pression des nouveaux députés sur les médias publics. Les deux sources restent factuelles mais diffèrent sur l’accent mis : Le Monde sur le symbole politique, RFI sur les actions concrètes."
+        },
+        {
+          "headline": "Crise du logement en Europe : flambée des prix et mécontentement généralisé",
+          "summary": "Les prix de l’immobilier ont bondi de près de 60 % en moyenne dans l’UE depuis 2015, avec des hausses dépassant 200 % dans certains pays. Cette crise alimente un mécontentement croissant, bien que les politiques publiques peinent à y répondre. L’UE est traversée par des inégalités croissantes en matière d’accès au logement, selon une chronique de Toute l'Europe.",
+          "sources": [
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/societe/chronique-radio-crise-du-logement-en-europe-un-mecontentement-generalise-face-a-la-flambee-des-prix/"
             }
           ]
         }
@@ -319,122 +332,134 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Redressement judiciaire du BHV Marais",
-          "summary": "Le BHV du Marais a demandé son placement en redressement judiciaire ce 27 octobre, malgré des assurances récentes de sa direction sur sa santé financière. Le président de l’enseigne accuse son bailleur de ne pas avoir versé des indemnités promises. La procédure vise à « sécuriser le plan de relance » et préserver l’emploi. L’enseigne, emblématique de Paris, a changé de direction en juin 2026.",
+          "headline": "Climat : urgence sanitaire mondiale réclamée",
+          "summary": "Un rapport du Lancet Countdown, publié mercredi 28 octobre, appelle à déclarer le changement climatique « urgence sanitaire mondiale ». 146 chercheurs de 30 pays alertent sur l’aggravation des risques sanitaires (décès liés à la chaleur, maladies) malgré des progrès sur les énergies propres. Le rapport souligne un décalage entre l’accélération des impacts et la lenteur des mesures politiques. Les auteurs pointent notamment l’influence des climatosceptiques, dont l’administration Trump. La COP 31, prévue en 2026, sera un test crucial.",
           "sources": [
-            "20 Minutes",
-            "Libération",
+            "France Info",
+            "Euronews",
+            "Le Monde",
+            "RFI",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-changement-climatique-doit-devenir-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown_8256397.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/28/changement-climatique-urgence-sanitaire-les-risques-pour-la-sante-sont-incontestables"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/environnement/20261028-le-changement-climatique-est-une-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/environnement/les-experts-du-lancet-appellent-a-reconnaitre-le-rechauffement-climatique-comme-une-urgence-sanitaire-mondiale-20261028_MGSNEEGKOBFN3ATBOPIN42FBNY/"
+            }
+          ]
+        },
+        {
+          "headline": "Chômage : hausse de 0,9 % au 3ᵉ trimestre",
+          "summary": "Le nombre de demandeurs d’emploi en catégorie A a augmenté de 0,9 % au troisième trimestre 2026, portant le total à 3,35 millions de personnes. Cette hausse de 2,1 % sur un an est attribuée aux effets de la loi « pour le plein emploi », entrée en vigueur en 2025, qui a généralisé l’inscription automatique des allocataires du RSA. Les jeunes sont les plus touchés, contrairement aux seniors. Le ministère du Travail précise que ces chiffres ne reflètent pas une dégradation conjoncturelle.",
+          "sources": [
+            "Le Figaro",
             "France Info",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/economie/4258114-20261027-paris-bhv-marais-demande-placement-redressement-judiciaire?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/le-bhv-marais-demande-son-placement-en-redressement-judiciaire-apres-des-semaines-de-deni-sur-sa-situation-financiere-20261027_META34Y3Q5G4DB2ZN7ERZN5QUA/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/chomage-nouvelle-hausse-de-0-9-du-nombre-de-demandeurs-d-emploi-au-troisieme-trimestre-20261028"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/economie/emploi/chomage/le-nombre-de-demandeurs-d-emploi-en-categorie-a-a-augmente-de-0-9-au-troisieme-trimestre-2026-rapporte-le-ministere-du-travail_8256991.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/27/le-bhv-marais-a-paris-demande-son-placement-en-redressement-judiciaire_6801329_3234.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/10/28/emploi-le-nombre-d-inscrits-a-france-travail-augmente-de-0-9-au-troisieme-trimestre_6801564_823448.html"
             }
           ]
         },
         {
-          "headline": "Débat houleux à l’Assemblée après l’attentat raciste de Trappes",
-          "summary": "La gauche et le gouvernement se sont affrontés à l’Assemblée nationale ce 27 octobre sur la réponse à l’attentat raciste des Yvelines, qui a tué Pengo Bossio Wangi. Une minute de silence a été observée en son hommage. Le maire de Trappes, Ali Rabeh, a critiqué la réponse de l’exécutif, tandis que le RN et le gouvernement ont été accusés de banaliser la haine raciste. Le suspect, Kévin T., est en détention.",
+          "headline": "Attentat raciste de Trappes : hommage national et polémiques",
+          "summary": "Un hommage national sera organisé après l’attentat raciste du 23 octobre à Trappes, qui a fait deux morts. Le gouvernement n’a pas précisé sa date ni sa présidente. Le Premier ministre, Sébastien Lecornu, a été critiqué pour avoir comparé l’assassinat de Pengo Bossio Wangi à la mort de Quentin Deranque, militant d’extrême droite tué en février 2024. Les députés socialistes et écologistes ont quitté l’hémicycle en signe de protestation lors des questions au gouvernement, accusant Lecornu de « recel politicien » et de « faire le jeu du RN ».",
           "sources": [
-            "Le Monde",
-            "Libération",
             "France Info",
-            "France 24"
+            "Le Figaro",
+            "France 24",
+            "Libération"
           ],
           "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/attentat-raciste-de-trappes-a-lassemblee-la-gauche-scandalisee-apres-les-sorties-du-rn-et-du-gouvernement-20261027_R2F5WSEPDFGIRF3T3UETAXLGMU/"
-            },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/video-la-haine-raciste-tue-l-assemblee-nationale-observe-une-minute-de-silence-en-hommage-a-pengo-bossio-wangi-tue-lors-de-l-attentat-raciste-de-trappes_8255941.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-hommage-national-sera-organise-apres-l-attentat-raciste-dans-les-yvelines-annonce-le-gouvernement_8257222.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/attentat-raciste-de-trappes-emmanuel-macron-inquiet-du-peu-de-compassion-un-hommage-national-sera-organise-20261028"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-attentat-raciste-de-trappes-une-minute-de-silence-observ%C3%A9e-%C3%A0-l-assembl%C3%A9e"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent la colère des familles et des élus locaux, tandis que France Info et France 24 insistent sur le symbole politique de la minute de silence et la réponse institutionnelle. Le RN conteste une information du Monde sur des tracts retrouvés dans la voiture du suspect, qualifiée de « mensongère » par le parquet antiterroriste."
-        },
-        {
-          "headline": "Projet de loi « casseurs-payeurs » examiné au Sénat",
-          "summary": "Le Sénat examine ce 27 octobre le projet de loi controversé sur la responsabilité solidaire des fauteurs de trouble, incluant la saisie de prestations sociales. Critiqué comme une mesure répressive, le texte suscite des débats sur les libertés publiques. Il s’inscrit dans un contexte de tensions sociales marquées par des dégradations lors de manifestations récentes, notamment les 17 et 24 octobre.",
-          "sources": [
-            "Libération",
-            "France 24",
-            "20 Minutes"
-          ],
-          "links": [
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-attentat-raciste-dans-les-yvelines-de-la-minute-de-silences-aux-invectives"
+            },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/projet-de-loi-casseurs-payeurs-cest-une-autre-maniere-dempecher-de-manifester-20261027_HSBV5MKPMBFUTOMVFC3RHHJNEI/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261027-projet-de-loi-casseurs-payeurs-le-gouvernement-face-aux-r%C3%A9seaux-sociaux"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/assemblee_nationale/4257872-20261027-colere-sociale-casseurs-payeurs-projet-loi-critique-examine-senat?at_medium=display&at_campaign=149"
+              "url": "https://www.liberation.fr/politique/attentat-raciste-de-trappes-le-parallele-detestable-de-sebastien-lecornu-avec-la-mort-de-quentin-deranque-20261028_ITOEKN3EHREMDMCZY2S2HXVAKY/"
             }
-          ],
-          "angles": "Libération et France 24 analysent le texte comme une réponse sécuritaire à la colère sociale, tandis que 20 Minutes se concentre sur son aspect procédural et ses critiques politiques. Vanessa Codaccioni (citée par Libération) y voit un « fourre-tout répressif » et un bilan sévère du macronisme sur les libertés."
+          ]
         },
         {
-          "headline": "Bilan des dégradations lors des manifestations du 17 octobre",
-          "summary": "Près de 2 500 commerces ont été vandalisés lors des mobilisations des 17 et 24 octobre, selon les chambres de commerce. Marseille et sa métropole (527 commerces touchés) ont été plus affectées que Paris. Le ministre Serge Papin annonce une aide jusqu’à 10 000 euros pour les victimes. Les dégradations incluent pillages, saccages et incendies.",
+          "headline": "Présidentielle 2027 : Retailleau et Le Pen s’affrontent sur les dates",
+          "summary": "Bruno Retailleau (LR) et Marine Le Pen (RN) contestent la date du second tour de la présidentielle 2027, fixé au lendemain du 1ᵉʳ mai. Retailleau, candidat LR, rejette une alliance avec le RN, tout en reconnaissant des « convergences » sur l’ordre public. Les avocats de Le Pen ont saisi le Conseil supérieur de la magistrature pour contester son inéligibilité, après des propos d’un magistrat estimant qu’elle ne pourrait pas se présenter. La porte-parole du gouvernement maintient les dates actuelles, « entérinées » en juillet.",
           "sources": [
-            "Libération",
+            "Le Figaro",
+            "Le Monde",
             "France Info"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/manifestations-du-17-octobre-pres-de-2-500-commerces-vandalises-selon-les-chambres-de-commerce-et-dindustrie-20261027_4TYOUIF5QBG7DFNFBBXZTJBZ3E/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-bruno-retailleau-sarah-knafo-et-mathilde-panot-principaux-invites-des-matinales-20261028"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-la-droite-et-l-extreme-droite-contestent-la-date-du-second-tour-prevue-au-lendemain-du-1-mai_6801562_823448.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-2-500-magasins-touches-par-les-violences-en-marge-des-manifestations-des-17-et-24-octobre-selon-les-chambres-de-commerce_8256049.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-[lestitres]"
             }
           ]
         },
         {
-          "headline": "Débat sur l’autonomie de la Corse bloqué au Sénat",
-          "summary": "Le Sénat a rejeté lundi 26 octobre le projet de loi constitutionnelle pour une plus grande autonomie de la Corse, craignant un risque de communautarisme. Les nationalistes modérés, affaiblis, pourraient laisser place à une ligne plus dure. Le texte, porté depuis 2022 par Gérald Darmanin, est désormais au point mort. La droite sénatoriale y voit une menace pour l’unité républicaine.",
+          "headline": "Manifestations du 31 octobre : sécurité renforcée",
+          "summary": "Un Conseil de défense a été réuni mercredi 28 octobre pour préparer le dispositif de sécurité des manifestations prévues samedi 31 octobre, après les violences des 17 et 24 octobre. Les forces de l’ordre disposeront de grenades, LBD et canons à eau, comme détaillé dans une infographie du Figaro. Les commerçants sinistrés réclament des autorisations exceptionnelles d’ouverture le dimanche pour compenser leurs pertes. Le ministre du Commerce, Serge Papin, annonce des aides jusqu’à 10 000 euros pour les magasins les plus touchés, et le retrait de 1 700 annonces d’objets pillés sur les plateformes de revente.",
           "sources": [
             "Le Figaro",
+            "France Info",
             "Libération"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/la-republique-ne-connait-pas-de-communautes-apres-son-rejet-au-senat-le-processus-d-autonomie-de-la-corse-au-point-mort-20261027"
+              "url": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-un-conseil-de-defense-reuni-ce-mercredi-pour-preparer-le-dispositif-de-securite-20261028"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/greve/manifestations-l-alliance-du-commerce-reclame-en-urgence-des-autorisations-exceptionnelles-d-ouverture-le-dimanche-pour-permettre-aux-commercants-de-rattraper-leur-chiffre-d-affaires_8257168.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/autonomie-de-la-corse-les-nationalistes-amers-apres-le-rejet-du-projet-de-loi-par-le-senat-20261027_G6NLQEHZTVGWFBIDXSDVYIUCK4/"
+              "url": "https://www.liberation.fr/economie/aides-aux-commerces-degrades-suppression-dannonces-dobjets-pilles-serge-papin-repond-aux-degradations-des-17-et-24-octobre-20261028_35WBX4ZE6BGXXCJIJN4ZPU6FGY/"
             }
-          ],
-          "angles": "Le Figaro adopte un ton institutionnel, insistant sur le risque de « communautarisme » et le rejet par la droite sénatoriale, tandis que Libération met en avant la réaction des nationalistes corses, divisés entre modérés et radicaux, et le coup porté à leur stratégie politique."
+          ]
         }
       ]
     }
