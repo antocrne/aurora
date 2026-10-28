@@ -55,7 +55,7 @@ struct TopicListView: View {
                 .accessibilityHidden(true)
 
             if let summary {
-                Text("Dernière édition : \(FrenchDate.time(summary.generatedAt))")
+                Text("Dernière édition : \(FrenchDate.moment(summary.generatedAt))")
                     .font(AuroraTheme.footer)
                     .foregroundStyle(AuroraTheme.secondaryText)
                     .frame(maxWidth: .infinity)

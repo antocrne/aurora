@@ -2,10 +2,11 @@ name: Aurora Daily Brief
 
 on:
   schedule:
-    # Deux éditions par jour, prêtes pour 7h et 19h à Paris toute l'année.
-    # GitHub ne connaît que l'UTC : chaque édition a un créneau d'été (UTC+2)
-    # et un créneau d'hiver (UTC+1), et le job « gate » ne garde que le bon.
-    # La génération démarre à 6h30 / 18h30 pour absorber les retards du cron.
+    # Deux éditions par jour, à partir de 6h30 et 18h30 à Paris toute l'année.
+    # GitHub ne connaît que l'UTC (créneaux d'été UTC+2 et d'hiver UTC+1) et
+    # lance souvent ses crons avec plusieurs heures de retard : le job « gate »
+    # laisse générer le premier cron qui part après l'horaire, s'il n'y a pas
+    # encore d'édition pour ce créneau, et ignore les autres.
     # L'app iOS cale ses rechargements sur ces heures
     # (BriefingStore.generationTimes) : les modifier ensemble.
     - cron: '30 4 * * *'   # 6h30 Paris en été
@@ -27,28 +28,34 @@ jobs:
     outputs:
       run: ${{ steps.check.outputs.run }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: docs
       - id: check
         env:
           EVENT: ${{ github.event_name }}
-          SCHEDULE: ${{ github.event.schedule }}
+        shell: python
         run: |
-          # Lancement manuel : toujours. Cron : seulement le créneau qui
-          # correspond au décalage horaire actuel de Paris.
-          if [ "$EVENT" != "schedule" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          case "$SCHEDULE" in
-            "30 4 * * *"|"30 16 * * *") WANT="+0200" ;;
-            *) WANT="+0100" ;;
-          esac
-          OFFSET=$(TZ=Europe/Paris date +%z)
-          echo "Créneau $SCHEDULE, Paris en $OFFSET, attendu $WANT"
-          if [ "$OFFSET" = "$WANT" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
+          # Lancement manuel : toujours. Cron : seulement si l'édition publiée
+          # est antérieure au dernier horaire (6h30 ou 18h30 à Paris) passé.
+          import json, os
+          from datetime import datetime, timedelta
+          from zoneinfo import ZoneInfo
+
+          now = datetime.now(ZoneInfo("Europe/Paris"))
+          slots = [
+              now.replace(hour=hour, minute=minute, second=0, microsecond=0) - timedelta(days=days)
+              for days in (0, 1)
+              for hour, minute in ((6, 30), (18, 30))
+          ]
+          slot = max(s for s in slots if s <= now)
+          with open("docs/summaries.json", encoding="utf-8") as f:
+              stamp = json.load(f)["generated_at"].replace("Z", "+00:00")
+          published = datetime.fromisoformat(stamp)
+          run = os.environ["EVENT"] != "schedule" or published < slot
+          print(f"Créneau {slot:%d/%m %Hh%M}, dernière édition {published.astimezone(now.tzinfo):%d/%m %Hh%M} : {'génération' if run else 'déjà publiée'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write(f"run={'true' if run else 'false'}\n")
 
   generate:
     needs: gate

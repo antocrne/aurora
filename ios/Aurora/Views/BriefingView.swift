@@ -33,7 +33,11 @@ struct BriefingView: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            HeaderView(date: store.summary?.generatedAt ?? Date())
+            // Date du jour de l'iPhone, comme à la une d'un journal ; le pied
+            // de liste précise quand l'édition affichée a paru.
+            TimelineView(.everyMinute) { context in
+                HeaderView(date: context.date)
+            }
             CategoryTabView(categories: categories, selection: $selection)
 
             // Une seule liste à la fois (le TabView en mode page ne suit pas

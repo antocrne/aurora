@@ -111,4 +111,18 @@ enum FrenchDate {
         let parts = Calendar.current.dateComponents([.hour, .minute], from: date)
         return String(format: "%dh%02d", parts.hour ?? 0, parts.minute ?? 0)
     }
+
+    /// « 7h03 » le jour même, « hier à 22h26 », sinon « lundi 26 octobre à 22h26 ».
+    static func moment(_ date: Date, now: Date = Date()) -> String {
+        let calendar = Calendar.current
+        if calendar.isDate(date, inSameDayAs: now) {
+            return time(date)
+        }
+        if let yesterday = calendar.date(byAdding: .day, value: -1, to: now),
+           calendar.isDate(date, inSameDayAs: yesterday) {
+            return "hier à \(time(date))"
+        }
+        let day = date.formatted(.dateTime.weekday(.wide).day().month(.wide).locale(locale))
+        return "\(day) à \(time(date))"
+    }
 }
