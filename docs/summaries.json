@@ -1,164 +1,137 @@
 {
-  "generated_at": "2026-10-28T21:15:27Z",
-  "edition": "28 octobre 2026",
+  "generated_at": "2026-10-29T11:00:48Z",
+  "edition": "29 octobre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Fuite de Flávio Bolsonaro aux États-Unis",
-          "summary": "Flávio Bolsonaro, fils de l’ex-président brésilien, a atterri à Miami mercredi 28 octobre après une cavale internationale pour échapper à des poursuites judiciaires. Il affirme être le « véritable président » du Brésil et dénonce une « intimidation » des autorités. Sa fuite prive la droite brésilienne d’un leader et relance les spéculations sur son rôle dans l’opposition. Les médias évoquent des soupçons de corruption et de blanchiment d’argent. L’opposition argentine accuse le gouvernement de Javier Milei d’avoir facilité son passage vers les États-Unis.",
+          "headline": "Brésil : Flávio Bolsonaro fuit aux États-Unis après défaite",
+          "summary": "Flávio Bolsonaro, fils de l’ancien président brésilien, a quitté le Brésil pour les États-Unis après sa défaite à l’élection présidentielle face à Luiz Inacio Lula da Silva. Il se présente comme « leader » du pays et accuse Lula de fraude électorale, tout en étant visé par des enquêtes pour corruption et blanchiment. Arrivé en Floride, il a obtenu des visas grâce à l’administration américaine, dont Donald Trump a pris ses distances. Les médias soulignent son parcours politique marqué par des positions controversées et des affaires judiciaires.",
           "sources": [
             "Euronews",
-            "France 24",
-            "Libération",
             "Le Monde",
-            "Le Figaro"
+            "20 Minutes",
+            "RFI",
+            "Libération"
           ],
           "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/28/flavio-bolsonaro-arrive-a-miami-apres-avoir-fui-le-bresil"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261028-en-fuyant-bresil-flavio-bolsonaro-a-t-il-condamne-bolsonarisme-jair"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/fuite-de-flavio-bolsonaro-le-bresil-sidere-lopposition-sans-leader-designe-20261028_PBU7RLIJOJE7VHO7EQQTWONJEQ/"
+              "url": "https://fr.euronews.com/2026/10/29/flavio-bolsonaro-affirme-etre-le-leader-du-bresil-apres-sa-fuite-aux-etats-unis"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/fuite-de-flavio-bolsonaro-en-argentine-l-opposition-accuse-javier-milei-de-l-avoir-aide-a-rejoindre-les-etats-unis_6801619_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/flavio-bolsonaro-du-candidat-sur-d-etre-elu-president-du-bresil-au-mauvais-perdant-en-cavale-aux-etats-unis_6802013_3210.html"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/flavio-bolsonaro-a-atterri-a-miami-apres-sa-defaite-a-la-presidentielle-bresilienne-20261028"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/bresil/4258443-20261028-bresil-fuite-etats-unis-bolsonaro-proclame-leader-pays-accuse-lula-fraude?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261028-br%C3%A9sil-soutenu-par-trump-flavio-bolsonaro-s-est-r%C3%A9fugi%C3%A9-aux-%C3%A9tats-unis-terre-d-accueil-pour-le-clan-familial"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/"
             }
-          ],
-          "angles": "Libération et Le Monde soulignent l’impact politique de sa fuite sur la droite brésilienne et les enquêtes judiciaires en cours. France 24 et Euronews insistent sur les détails de sa cavale internationale et les réactions diplomatiques. Le Figaro et Courrier International analysent les conséquences pour la dynastie Bolsonaro et les dynamiques politiques brésiliennes."
+          ]
         },
         {
-          "headline": "Législatives en Israël : impasse politique",
-          "summary": "Les élections législatives israéliennes du 27 octobre n’ont pas donné de majorité claire : la coalition de Benyamin Netanyahou obtient 53 sièges (sur 120), loin des 61 nécessaires, tandis que l’opposition menée par Gadi Eisenkot en totalise 48. Les partis arabes, avec un score record de 17 à 19 sièges, pourraient jouer un rôle clé pour faire tomber Netanyahou. Les tractations pour former un gouvernement s’annoncent complexes, avec des accusations de fraude et des appels à éviter de nouvelles élections. Le président Isaac Herzog a appelé à des solutions pour éviter une crise institutionnelle prolongée.",
+          "headline": "Israël : élections législatives sans majorité claire",
+          "summary": "Les élections législatives israéliennes ont confirmé une impasse politique : Benyamin Netanyahu arrive en tête avec 53 sièges, mais sans majorité absolue (61 sièges nécessaires). L’opposition menée par Gadi Eisenkot obtient 48 sièges, tandis que les partis arabes, avec 19 sièges, pourraient jouer un rôle clé. Netanyahu et Eisenkot refusent toute alliance avec ces derniers, ce qui pourrait conduire à de nouvelles élections. Les résultats reflètent une société divisée trois ans après les attaques du Hamas.",
           "sources": [
-            "Libération",
-            "France Info",
-            "20 Minutes",
             "RFI",
-            "Le Monde"
+            "Libération",
+            "20 Minutes",
+            "Le Monde",
+            "Toute l'Europe"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261029-l%C3%A9gislatives-en-isra%C3%ABl-les-partis-arabes-en-position-de-faiseurs-de-roi"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/"
             },
             {
               "source": "20 Minutes",
               "url": "https://www.20minutes.fr/monde/israel/4258277-20261028-legislatives-israel-netanyahou-majorite-partis-arabes-prets-participer-majorite-virer?at_medium=display&at_campaign=149"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261028-l%C3%A9gislatives-en-isra%C3%ABl-les-partis-palestiniens-souhaitent-soutenir-un-gouvernement-d-opposition-%C3%A0-netanyahu"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/29/les-lecons-ameres-des-elections-israeliennes_6802309_3232.html"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/28/legislatives-en-israel-quels-sont-les-premiers-enseignements-des-elections_6801602_1669088.html"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/legislatives-en-israel-benyamin-netanyahou-derriere-le-bloc-d-opposition-selon-les-projections-au-terme-d-un-scrutin-a-la-participation-massive/"
             }
-          ],
-          "angles": "Libération et RFI mettent en avant le rôle potentiel des partis arabes comme arbitres du scrutin. Le Monde et Le Figaro analysent les blocages politiques et les scénarios possibles pour sortir de l’impasse. France Info et 20 Minutes insistent sur les accusations de fraude et les divisions au sein de l’opposition. La BBC souligne les divisions profondes de la société israélienne."
+          ]
         },
         {
-          "headline": "Midterms aux États-Unis : tensions et accusations de fraude",
-          "summary": "À une semaine des élections de mi-mandat (3 novembre), les tensions montent entre démocrates et républicains. Donald Trump, en campagne dans l’Ohio, accuse déjà les démocrates de « tricher » et promet des cadeaux financiers à ses électeurs en cas de victoire. Les sondages donnent les républicains en difficulté, notamment dans des États clés comme le Texas. La Réserve fédérale a maintenu ses taux directeurs malgré l’inflation persistante, sans nouveau relèvement avant les élections.",
-          "sources": [
-            "France 24",
-            "Le Monde",
-            "France Info",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261028-%C3%A9tats-unis-vent-de-rumeurs-%C3%A0-l-approche-des-midterms"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-trichent-aux-etats-unis-le-camp-de-donald-trump-conteste-deja-le-scrutin-des-elections-de-mi-mandat_8257459.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/il-en-est-reduit-a-acheter-les-gens-donald-trump-promet-des-cadeaux-faramineux-a-ses-electeurs-a-l-approche-des-midterms-20261028"
-            }
-          ],
-          "angles": "Le Monde et France Info détaillent les accusations de fraude et les stratégies de campagne de Trump. France 24 et Le Figaro analysent les enjeux économiques et les dynamiques partisanes. Les angles diffèrent peu, mais France Info insiste sur le contexte polarisé des midterms."
-        },
-        {
-          "headline": "Décès de Dolores Huerta et Alvin Hellerstein",
-          "summary": "Dolores Huerta, cofondatrice du syndicat United Farm Workers et figure des droits civiques aux États-Unis, est morte à 96 ans le 28 octobre. Parallèlement, Alvin Hellerstein, juge fédéral américain en charge du procès contre l’ex-président vénézuélien Nicolas Maduro, est décédé à 92 ans. Leur disparition marque la fin de carrières marquantes dans les domaines des droits sociaux et de la justice internationale.",
+          "headline": "États-Unis : Midterms 2026, Obama et Trump mobilisés",
+          "summary": "À six jours des élections de mi-mandat, Barack Obama soutient activement Jon Ossoff, candidat démocrate en Géorgie, dans une région clé pour le contrôle du Sénat. Pendant ce temps, Donald Trump se concentre sur l’Ohio, un État stratégique pour les républicains. Une enquête est ouverte en Alaska contre Mary Peltola, candidate démocrate au Sénat, accusée de malversations. Les agriculteurs républicains, affectés par les guerres commerciales de Trump, pourraient remettre en question leur soutien au parti.",
           "sources": [
             "Libération",
-            "France 24",
-            "Le Monde"
+            "Le Monde",
+            "France Info"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/dolores-huerta-pionniere-du-mouvement-ouvrier-paysan-et-defenseuse-des-droits-civiques-est-morte-a-96-ans-20261028_FXGYWIWSD5EA7IXOEIVCXK4HY4/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261028-dolores-huerta-d%C3%A9fenseuse-des-droits-civiques-et-figure-du-syndicalisme-aux-%C3%A9tats-unis-est-morte"
+              "url": "https://www.liberation.fr/international/amerique/midterms-en-georgie-barack-obama-sengage-aupres-de-letoile-montante-democrate-jon-ossoff-20261029_KYSE656WE5FBBMX643AGNUOAAI/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/28/le-juge-americain-charge-de-l-affaire-nicolas-maduro-alvin-hellerstein-est-mort-a-92-ans_6801632_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-midterms-2026-durement-impactes-par-les-guerres-commerciales-de-trump-les-agriculteurs-republicains-vont-ils-changer-de-camp_8257135.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ],
+          "angles": "Le Monde et Libération insistent sur l’engagement d’Obama et la dynamique démocrate, tandis que France Info explore les tensions internes au camp républicain, notamment chez les agriculteurs. Les angles diffèrent selon que l’accent est mis sur la stratégie électorale (Obama/Trump) ou les divisions au sein du parti républicain."
+        },
+        {
+          "headline": "Moyen-Orient : tensions accrues autour de l’Iran",
+          "summary": "Israël et les États-Unis évoquent en marge des élections la possibilité d’une troisième campagne militaire contre l’Iran, dans un contexte de tensions persistantes. Benyamin Netanyahu et Donald Trump pourraient être tentés de « finir le travail » en Iran, bien que les résultats électoraux israéliens compliquent toute décision. Aucune action concrète n’a été annoncée pour l’instant, mais les discussions suggèrent une escalade possible.",
+          "sources": [
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-hypothese-d-une-troisieme-campagne-militaire-contre-l-iran-evoquee-entre-israel-et-les-etats-unis-20261028"
             }
           ]
         },
         {
-          "headline": "Crise humanitaire en Éthiopie : 50 000 déplacés",
-          "summary": "Au moins 50 000 personnes ont fui les affrontements entre les régions Somali et Oromia dans le sud de l’Éthiopie depuis le 20 octobre, se réfugiant au Kenya selon l’ONU. Ces combats, qui s’intensifient, aggravent une situation déjà fragile dans une zone marquée par des tensions ethniques et des crises alimentaires.",
+          "headline": "Haïti : violence en hausse à Port-au-Prince",
+          "summary": "Médecins Sans Frontières alerte sur une « explosion de violence » à Port-au-Prince après la mort de quatre soldats salvadoriens dans une embuscade attribuée à des bandes armées. Plusieurs dizaines de blessés, dont des femmes et des enfants, ont été recensés depuis le 18 octobre. La situation sécuritaire se dégrade dans un contexte de crise politique et d’affaiblissement de l’État, sans perspective de résolution immédiate.",
           "sources": [
-            "France 24",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/afrique/20261028-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-de-l-%C3%A9thiopie"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/28/ethiopie-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-du-pays_6801596_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/haiti-medecins-sans-frontieres-alerte-sur-une-explosion-de-violence-a-port-au-prince_6802306_3210.html"
             }
           ]
         },
         {
-          "headline": "Urgence climatique : The Lancet appelle à une mobilisation sanitaire",
-          "summary": "Le rapport annuel The Lancet Countdown souligne que le changement climatique est « la plus grande menace pour l’humanité » et appelle à le déclarer « urgence sanitaire mondiale ». Malgré des progrès dans les énergies propres, les impacts sur la santé (canicules, maladies) s’aggravent plus vite que les mesures d’adaptation. Les auteurs exigent une action coordonnée à l’échelle globale.",
+          "headline": "Indonésie : incendies menacent des peintures rupestres anciennes",
+          "summary": "Les feux de forêt en Indonésie, qui ravagent l’archipel depuis des mois, ont atteint le sud de Sulawesi, mettant en danger des peintures rupestres vieilles de plus de 50 000 ans, parmi les plus anciennes œuvres d’art connues. Ces incendies, aggravés par la sécheresse, menacent un patrimoine culturel unique, sans que des mesures d’urgence efficaces aient été prises.",
           "sources": [
-            "France 24",
-            "RFI"
+            "Courrier International"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261028-le-changement-climatique-doit-%C3%AAtre-d%C3%A9clar%C3%A9-urgence-sanitaire-mondiale-scientifiques"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/environnement/20261028-le-changement-climatique-est-une-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/asie-les-feux-en-indonesie-menacent-des-peintures-parmi-les-plus-extraordinaires-de-l-histoire-humaine_282351"
             }
           ]
         }
@@ -169,117 +142,160 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Espagne : 68 morts dans collision de trains",
-          "summary": "Une collision entre deux trains à grande vitesse sur la ligne Madrid-Séville, près de Tolède, a fait au moins 68 morts et plus de 100 blessés ce 28 octobre. Le Premier ministre Pedro Sánchez a décrété trois jours de deuil national. Les causes évoquées incluent une panne informatique suivie d’une erreur humaine. L’accident survient neuf mois après une autre catastrophe ferroviaire en Andalousie.",
+          "headline": "Espagne : deuil national après collision mortelle de trains",
+          "summary": "Une collision entre deux trains à grande vitesse près de Tolède a fait au moins 68 morts et 108 blessés mercredi 28 octobre. L'Espagne a décrété trois jours de deuil national. Les critiques visent le gouvernement et les failles du système ferroviaire, dont un défaut du système automatisé LZB. C'est le deuxième accident grave en moins d'un an sur la ligne Madrid-Séville.",
           "sources": [
-            "Libération",
-            "Le Monde",
+            "20 Minutes",
             "France Info",
-            "France 24",
-            "Le Figaro"
+            "Le Figaro",
+            "Libération",
+            "Le Monde"
           ],
           "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4258509-20261029-collision-trains-espagne-pays-face-serie-noire-sept-accidents-ferroviaires-mortels-depuis-2013?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/collision-meurtriere-entre-deux-trains-l-espagne-sous-le-choc_8258426.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/espagne-le-recit-des-23-dernieres-minutes-qui-ont-mene-a-la-collision-entre-deux-trains-qui-a-fait-au-moins-68-morts-20261028"
+            },
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-trois-jours-de-deuil-national-et-des-minutes-de-silence-organisees-a-travers-le-pays_6801550_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-le-ministre-des-transports-prend-la-parole-sur-l-accident-mortel-entre-deux-trains"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/collision-mortelle-entre-deux-trains-en-espagne-les-premieres-images-de-la-catastrophe-ferroviaire-20261028"
+              "url": "https://www.lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html"
             }
           ],
-          "angles": "Libération et Le Monde insistent sur le deuil national et les témoignages des rescapés, tandis que Le Figaro et 20 Minutes analysent les dysfonctionnements structurels du réseau ferroviaire espagnol. France Info et France 24 privilégient les explications techniques et les réactions politiques immédiates."
+          "angles": "Libération et Le Monde soulignent les failles structurelles du réseau ferroviaire et les promesses non tenues du gouvernement. Le Figaro et 20 Minutes insistent sur les détails techniques (erreur humaine, système LZB) et les enregistrements accablants. France Info et Euronews adoptent un ton plus émotionnel, centré sur le deuil national et les témoignages."
         },
         {
-          "headline": "Ukraine : trêve humanitaire à Olechky sous médiation américaine",
-          "summary": "Une trêve humanitaire négociée avec l’aide des États-Unis tient pour la deuxième journée consécutive à Olechky, ville ukrainienne occupée par la Russie. Les civils peuvent évacuer ou recevoir de l’aide, mais des craintes persistent sur leur transit via la Russie ou la Crimée. Parallèlement, des frappes de drones russes continuent ailleurs en Ukraine, comme à Kharkiv.",
+          "headline": "Christine Lagarde quitte la BCE avant la fin de son mandat",
+          "summary": "La présidente de la Banque centrale européenne (BCE) a annoncé son départ le 7 février 2027, neuf mois avant la fin de son mandat prévu en octobre 2027. La décision a été confirmée jeudi 29 octobre. La BCE doit annoncer sa dernière décision de politique monétaire plus tard dans la journée.",
           "sources": [
-            "Le Monde",
-            "France Info",
+            "Le Figaro",
+            "RFI",
             "Euronews",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/christine-lagarde-va-quitter-la-presidence-de-la-bce-le-7-fevrier-2027-20261029"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261029-bce-christine-lagarde-quittera-la-pr%C3%A9sidence-le-7-f%C3%A9vrier-2027-avant-la-fin-de-son-mandat"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/29/christine-lagarde-quittera-la-presidence-de-la-bce-en-fevrier-avant-la-fin-de-son-mandat"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/29/christine-lagarde-va-quitter-la-presidence-de-la-bce-le-7-fevrier-2027_6802307_3234.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/christine-lagarde-va-quitter-la-presidence-de-la-banque-centrale-europeenne-le-7-fevrier-2027-20261029_RO22YANRKZHJTKFGXTWRN3DWD4/"
+            }
+          ]
+        },
+        {
+          "headline": "Sommet UE-Canada : vers un partenariat renforcé ou associé ?",
+          "summary": "Le 21e sommet UE-Canada s'ouvre jeudi 29 et vendredi 30 octobre à Montréal. L'UE propose au Canada de devenir un « membre associé », une formule contestée. Les négociations portent sur des secteurs stratégiques comme les minerais, le commerce numérique et la mobilité des jeunes, dans un contexte de tensions avec les États-Unis.",
+          "sources": [
+            "EURACTIV",
+            "Courrier International",
+            "Libération",
+            "RFI",
             "France 24"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html"
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/canada-ue-membre-associe-ou-partenaire-privilegie/"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-une-treve-melania-a-olechky_8256913.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/diplomatie-sommet-canada-ue-vous-etes-plutot-membre-associe-ou-alliance-de-l-avenir_282069"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/28/evacuation-ou-deportation-forcee-quel-avenir-pour-les-habitants-dolechky-occupee-par-la-ru"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/sommet-ue-canada-une-occasion-en-or-pour-definir-lalliance-entre-bruxelles-et-ottawa-20261029_6F5CT75MWJFPHKFSRRHMSRZM6Q/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261029-ue-canada-un-sommet-pour-renforcer-le-rapprochement-entre-bruxelles-et-ottawa"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-ukraine-la-tr%C3%AAve-melania-obtenue-%C3%A0-olechky-tient-pour-la-deuxi%C3%A8me-journ%C3%A9e-cons%C3%A9cutive"
+              "url": "https://www.france24.com/fr/europe/20261029-ue-canada-entament-sommet-rapprochement-inedit-von-der-leyen-mark-carney"
             }
           ],
-          "angles": "France Info et Euronews soulignent le rôle de Melania Trump dans la médiation, tandis que Le Monde et France 24 mettent l’accent sur les enjeux humanitaires et militaires."
+          "angles": "Courrier International et EURACTIV questionnent les divergences politiques et le nom du partenariat. Libération et RFI mettent en avant les enjeux économiques et géopolitiques, tandis que France 24 insiste sur le contexte de tensions avec les États-Unis."
         },
         {
-          "headline": "Royaume-Uni : budget limité face à la crise du pouvoir d’achat",
-          "summary": "Le gouvernement britannique d’Andy Burnham a présenté un budget axé sur la croissance économique, mais les marges fiscales restent réduites en raison des taux d’intérêt élevés. Des mesures limitées sont annoncées pour répondre à la baisse du pouvoir d’achat. Parallèlement, des débats persistent sur de nouvelles nationalisations, comme dans les secteurs du rail et de l’eau.",
+          "headline": "Ukraine : Zelensky exige des sanctions après attaque russe sur gare de Dnipro",
+          "summary": "Un drone russe a frappé une gare à Dnipro, faisant 13 morts malgré une alerte renforcée. Volodymyr Zelensky a réclamé des sanctions supplémentaires contre la Russie. L'attaque survient dans un contexte d'escalade militaire et de tensions diplomatiques.",
           "sources": [
-            "RFI",
-            "Le Figaro"
+            "Le Monde",
+            "France Info"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261028-royaume-uni-des-mesures-budg%C3%A9taires-limit%C3%A9es-face-%C3%A0-la-crise-du-pouvoir-d-achat"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-reclame-de-nouvelles-sanctions-contre-la-russie-apres-la-terrible-frappe-russe-contre-la-gare-ferroviaire-de-dnipro-qui-a-fait-13-morts_6799896_3210.html"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/au-royaume-uni-le-retour-des-nationalisations-mais-a-quel-prix-20261028"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         },
         {
-          "headline": "UE : aide européenne pour une usine de puces en Autriche",
-          "summary": "La Commission européenne a approuvé un plan d’aide de 319 millions d’euros pour moderniser l’usine de semi-conducteurs d’Infineon à Villach, en Autriche, en faisant la première usine mondiale de nouvelle génération dans ce secteur stratégique.",
+          "headline": "Prix du gaz : record à 100 €/MWh en Europe",
+          "summary": "Le prix de référence du gaz en Europe a dépassé 100 € par mégawattheure, un niveau inédit depuis 2022. Cette hausse s'explique par la guerre au Moyen-Orient et les tensions géopolitiques. Les consommateurs européens font face à une facture énergétique alourdie.",
           "sources": [
+            "France Info",
             "Euronews"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-prix-de-reference-du-gaz-atteint-100-euros-du-megawattheure-en-europe-une-premiere-en-quatre-ans_8237980.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/28/ue-319-millions-deuros-daides-detat-pour-une-usine-autrichienne-de-puces-inedite"
+              "url": "https://fr.euronews.com/2026/10/28/le-gaz-europeen-depasse-100-lue-alerte-sur-une-nouvelle-crise"
             }
           ]
         },
         {
-          "headline": "Serbie : élections législatives et perspectives d’adhésion à l’UE",
-          "summary": "Après les élections législatives du 25 octobre, le nouveau gouvernement serbe, issu du mouvement Students List, pourrait accélérer les réformes nécessaires à l’adhésion à l’UE. Cependant, des analystes estiment que le démantèlement du système du Premier ministre sortant Aleksandar Vučić prendra du temps. La Serbie, candidate officielle depuis 2012, ne remplit pas encore tous les critères de Bruxelles.",
+          "headline": "Royaume-Uni : budget sous tension et objectif OTAN en suspens",
+          "summary": "Le Royaume-Uni doit présenter un plan pour atteindre l'objectif de 3,5 % du PIB en dépenses militaires d'ici 2030, fixé par l'OTAN. Le gouvernement cherche à attirer des investissements privés, tandis que la dette et les « tempêtes économiques mondiales » contraignent le budget national.",
           "sources": [
-            "Euronews",
-            "Le Figaro"
+            "EURACTIV",
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/28/le-parti-vainqueur-des-elections-serbes-veut-clairement-ameliorer-ses-relations-avec-lue-s"
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/le-royaume-uni-devoilera-lannee-prochaine-son-plan-pour-atteindre-lobjectif-de-35-fixe-par-lotan/"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/faire-avancer-l-avenir-du-pays-dans-l-ue-apres-les-elections-legislatives-ou-en-est-la-serbie-dans-son-processus-d-adhesion-20261028"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/au-royaume-uni-un-budget-contraint-par-les-tempetes-economiques-mondiales-et-la-dette_6802225_3210.html"
             }
           ],
-          "angles": "Euronews met l’accent sur les défis politiques et institutionnels, tandis que Le Figaro analyse les réformes économiques et leur impact sur le processus d’adhésion."
+          "angles": "EURACTIV se concentre sur les défis financiers et stratégiques, tandis que Le Monde détaille les mesures fiscales et les aides aux ménages pour les factures énergétiques."
         }
       ]
     },
@@ -288,64 +304,108 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Hommage national prévu pour la victime de Trappes",
-          "summary": "Un hommage national sera organisé pour Pengo Bossio Wangi, tué lors de l'attentat raciste de Trappes le 23 octobre. La cérémonie, présidée par Sébastien Lecornu, n'a pas encore de date fixée en raison de l'état de santé des blessés. Le gouvernement a annoncé cette décision après le Conseil des ministres du 28 octobre. L'attentat a suscité des tensions à l'Assemblée nationale. La date précise et les modalités restent à préciser.",
+          "headline": "Affaire Deranque : Arnault auditionné par la police antiterroriste",
+          "summary": "Le député LFI Raphaël Arnault a été entendu mercredi par la Sous-direction antiterroriste (SDAT) dans le cadre de l’enquête sur la mort de Quentin Deranque, militant d’extrême droite décédé en février lors d’affrontements à Lyon. Un collaborateur parlementaire est soupçonné d’avoir participé aux violences. L’audition s’inscrit dans une procédure en cours depuis plusieurs mois.",
           "sources": [
-            "Euronews",
             "Libération",
-            "20 Minutes",
-            "France Info",
-            "France 24"
+            "Le Figaro",
+            "France Info"
           ],
           "links": [
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/28/attentat-de-trappes-un-hommage-national-sera-rendu-a-pengo-bossio-wangi"
-            },
-            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/attentat-de-trappes-un-hommage-national-va-etre-organise-annonce-le-gouvernement-20261028_2P43SEXRMJFNPKTD2KLM5UWH5U/"
+              "url": "https://www.liberation.fr/societe/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-auditionne-par-la-sous-direction-antiterroriste-20261029_RZ6DC6RDEFCAJDLPVLNZQIYC5Y/"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4258272-20261028-attentat-trappes-verriere-hommage-national-organise-annonce-gouvernement?at_medium=display&at_campaign=149"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/faits-divers/meurtre-de-quentin-deranque-a-lyon-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-20261029"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-hommage-national-sera-organise-apres-l-attentat-raciste-dans-les-yvelines-annonce-le-gouvernement_8257222.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261028-attentat-de-trappes-un-hommage-national-%C3%A0-la-victime-sera-bien-organis%C3%A9"
+              "url": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/meurtre-de-quentin-deranque-le-depute-insoumis-raphael-arnault-entendu-en-audition-libre-plusieurs-heures-par-la-police-antiterroriste-mercredi_8258525.html#xtor=RSS-3-[lestitres]"
             }
           ]
         },
         {
-          "headline": "Gabriel Attal propose une « grande primaire des démocrates »",
-          "summary": "Le candidat Renaissance à la présidentielle 2027, Gabriel Attal, a proposé une primaire unissant les partis de gauche et du centre pour éviter un second tour entre La France insoumise (LFI) et le Rassemblement national (RN). Cette initiative, annoncée lors d'une interview sur TF1, a été critiquée par Bruno Retailleau (LR), qui la juge « fantaisiste ». Le débat porte sur les modalités et la faisabilité d'un tel scrutin.",
+          "headline": "Attentat raciste de Trappes : mise en examen et détention demandée",
+          "summary": "Le procureur antiterroriste a requis la mise en examen et le placement en détention provisoire de Kevin T., suspect dans l’attentat raciste des 24 et 25 octobre à Trappes (Yvelines), qui a fait un mort et cinq blessés. Le suspect, âgé de 28 ans, a reconnu avoir ciblé des personnes « musulmanes, africaines ou nord-africaines » et a justifié ses actes en qualifiant Trappes de « repaire d’islamistes ». Trente autocollants du RN ont été retrouvés chez lui.",
           "sources": [
             "Le Figaro",
+            "Libération",
             "France Info",
             "Le Monde"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028"
+              "url": "https://www.lefigaro.fr/faits-divers/attentat-de-trappes-le-parquet-antiterroriste-requiert-la-mise-en-examen-et-le-placement-en-detention-provisoire-de-kevin-t-20261029"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/10/29/attentat-raciste-a-trappes-kevin-t-poursuivi-pour-assassinat-terroriste-a-declare-que-la-ville-etait-un-repaire-d-islamistes-pour-justifier-ses-actes-selon-le-parquet_6802311_3224.html"
             }
-          ]
+          ],
+          "angles": "Libération et Le Figaro soulignent tous deux les déclarations racistes du suspect et son mobile avoué, mais Le Figaro insiste davantage sur la dimension terroriste et la demande de détention, tandis que Libération met en avant le contexte local et les éléments de planification. France Info ajoute la mention des autocollants RN comme preuve de radicalisation."
         },
         {
-          "headline": "Mort en garde à vue à Saint-Ouen : enquête de l'IGPN ouverte",
-          "summary": "Un homme de 44 ans est décédé en garde à vue au commissariat de Saint-Ouen le 28 octobre, après une défaillance cardiorespiratoire. L'IGPN a été saisie pour enquêter sur les circonstances de sa mort. La famille a porté plainte. Les détails médicaux et les conditions exactes de sa détention restent à éclaircir.",
+          "headline": "Imprescriptibilité des crimes sexuels sur mineurs adoptée au Sénat",
+          "summary": "Le Sénat a voté mercredi à une large majorité l’abolition de la prescription pour les crimes sexuels commis sur mineurs, alignant la France sur les crimes contre l’humanité. Cette mesure, déjà adoptée par les députés, devrait être définitivement adoptée dans les prochaines semaines. Elle répond à des décennies de scandales et de critiques sur les délais de prescription jugés trop courts.",
+          "sources": [
+            "Mediapart",
+            "20 Minutes",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/291026/fin-de-la-prescription-pour-les-crimes-sexuels-sur-mineurs-le-senat-ouvre-la-voie-une-adoption-definitive"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/assemblee_nationale/4258452-20261029-senat-vote-imprescriptibilite-crimes-sexuels-mineurs-80-voix-contre?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Mediapart et 20 Minutes adoptent un ton solennel et historique, mettant l’accent sur l’ampleur du changement juridique et son impact sociétal. Les deux médias citent des associations de victimes pour illustrer l’urgence de la réforme, sans différence notable de cadrage."
+        },
+        {
+          "headline": "Présidentielle 2027 : Attal propose une « primaire des démocrates »",
+          "summary": "Gabriel Attal a relancé mercredi l’idée d’une « primaire des démocrates » pour éviter un duel LFI-RN au second tour de la présidentielle de 2027. Cette proposition, soutenue par une partie de la majorité présidentielle, divise : Edouard Philippe et Éric Ciotti y sont réticents. Dominique de Villepin a lui aussi refusé d’y participer, estimant que cette initiative est vouée à l’échec.",
+          "sources": [
+            "Le Figaro",
+            "20 Minutes",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html"
+            }
+          ],
+          "angles": "Le Figaro et 20 Minutes reprennent les déclarations d’Attal et les réactions des autres figures de la majorité, mais Le Figaro adopte un ton plus analytique sur les divisions internes, tandis que 20 Minutes met davantage l’accent sur les positions individuelles des personnalités concernées."
+        },
+        {
+          "headline": "Affaire Orélien : exclusion du prix Renaudot pour usage présumé de l’IA",
+          "summary": "Thélyson Orélien, finaliste du prix Renaudot pour son roman C’était ça ou mourir, a été écarté de la liste des lauréats après des révélations sur un possible recours à l’intelligence artificielle dans son œuvre. Son éditeur canadien a rompu tout lien avec lui. Le vainqueur sera dévoilé le 3 novembre. L’affaire relance le débat sur l’éthique dans la littérature contemporaine.",
           "sources": [
             "France Info",
             "Libération"
@@ -353,65 +413,34 @@
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/police/une-enquete-ouverte-et-confiee-a-l-igpn-apres-la-mort-d-un-homme-de-44-ans-en-garde-a-vue-a-saint-ouen_8257814.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-renaudot-ecarte-l-ecrivain-thelyson-orelien-accuse-d-avoir-utilise-l-ia-de-la-liste-de-ses-finalistes_8258492.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/"
+              "url": "https://www.liberation.fr/culture/livres/le-doute-est-desormais-exclu-thelyson-orelien-finalement-ecarte-du-prix-renaudot-20261029_I3GPVI7TAVFKFOST5MYUFVGT7Q/"
             }
           ]
         },
         {
-          "headline": "Tensions après l'interview houleuse de Sarah Knafo sur France Info",
-          "summary": "L'eurodéputée Reconquête ! Sarah Knafo a qualifié les journalistes de France Info de « militants d’extrême gauche » lors d'une interview tendue. La direction de France Info et les sociétés des journalistes ont défendu leurs équipes, devenues cibles de la fachosphère. L'incident illustre les tensions croissantes entre médias et figures politiques d'extrême droite.",
+          "headline": "TotalEnergies affiche des bénéfices records malgré la crise des prix",
+          "summary": "Le géant pétrolier français a annoncé un bénéfice net de 8,3 milliards de dollars (7,45 milliards d’euros) au troisième trimestre 2026, en hausse de 124 % sur un an, porté par la tension sur le gazole et le gaz. Le gouvernement français lui demande de répercuter ces gains sur les prix à la pompe, alors que les Français subissent une inflation persistante sur les carburants.",
           "sources": [
-            "20 Minutes",
-            "Libération"
+            "France Info",
+            "Libération",
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4258430-20261028-sarah-knafo-france-info-defend-journalistes-dement-etre-excusee-apres-interview-eurodeputee?at_medium=display&at_campaign=149"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-engrange-un-benefice-net-record-au-3e-trimestre-plus-que-double-sur-un-an-en-raison-de-l-envolee-des-prix-des-hydrocarbures_8258201.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/medias/apres-une-interview-houleuse-de-sarah-knafo-la-direction-de-france-info-et-les-societes-des-journalistes-de-radio-france-montent-au-creneau-20261028_FJ3R222MUJCXZIU65SWPYNTG2Y/"
-            }
-          ]
-        },
-        {
-          "headline": "Nouvelle enquête pour violences sexuelles sur mineur contre Eric Olhats",
-          "summary": "L'ancien recruteur d'Antoine Griezmann, Eric Olhats, est visé par une nouvelle enquête pour viols et agressions sexuelles sur mineurs. Déjà condamné à six ans de prison en 2023 pour des faits similaires, il est à nouveau sous le coup de la justice. Le parquet de Bayonne a ouvert une information judiciaire le 28 octobre. Les nouvelles accusations concernent des agressions commises entre 2021 et 2022.",
-          "sources": [
-            "Le Monde",
-            "Libération"
-          ],
-          "links": [
+              "url": "https://www.liberation.fr/economie/totalenergies-annonce-un-resultat-record-de-745-milliards-deuros-au-troisieme-trimestre-20261029_IGDLNOCHHJELBLF5PWCWL7FKYE/"
+            },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/28/eric-olhats-l-ex-conseiller-et-recruteur-d-antoine-griezmann-vise-par-une-nouvelle-enquete-pour-violences-sexuelles-sur-mineur_6801628_3224.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/eric-olhats-ancien-mentor-dantoine-griezmann-vise-par-une-nouvelle-enquete-pour-viols-et-agressions-sexuelles-20261028_ISPSFBT7LREA5CSKWGI6DVX3GE/"
-            }
-          ]
-        },
-        {
-          "headline": "Manifestations « néofascistes » dénoncées à Paris ce week-end",
-          "summary": "La France insoumise et des élus locaux ont dénoncé des événements qualifiés de « néofascistes » prévus à Paris et dans les Hauts-de-Seine, dont une séance de dédicace avec Martin Sellner, militant autrichien d'extrême droite. Ces rassemblements suscitent l'indignation après l'attentat raciste de Trappes. Les organisateurs n'ont pas réagi officiellement à ces accusations.",
-          "sources": [
-            "France 24",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261028-gauche-d%C3%A9nonce-tenue-manifestations-n%C3%A9ofascistes-week-end-paris-lfi-ps-pcf-objectif-remigration"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/la-gauche-denonce-la-tenue-de-manifestations-et-devenements-neofascistes-ce-week-end-a-paris-20261028_LYRJRKK7S5E3HH5ZSW7E2RFZWE/"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html"
             }
           ]
         }
