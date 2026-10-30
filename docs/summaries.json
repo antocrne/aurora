@@ -1,128 +1,163 @@
 {
-  "generated_at": "2026-10-29T21:20:37Z",
-  "edition": "29 octobre 2026",
+  "generated_at": "2026-10-30T10:58:10Z",
+  "edition": "30 octobre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Israël : Nétanyahou accuse les partis arabes de fraude",
-          "summary": "Les partis arabes israéliens, en passe d’obtenir un score historique aux législatives du 27 octobre, sont accusés par le camp de Benyamin Nétanyahou de fraude électorale et de financements étrangers. Ces accusations, sans preuves, visent à discréditer une opposition capable de faire basculer les négociations post-élections. Le président Isaac Herzog a appelé au calme. Le dépouillement, toujours en cours, place Nétanyahou en tête avec 53 sièges contre 48 pour son rival Gadi Eisenkot, mais aucun camp n’a encore la majorité absolue.",
+          "headline": "Israël : Netanyahou en tête mais sans majorité",
+          "summary": "Les élections législatives israéliennes ont confirmé jeudi 29 octobre que la coalition de droite et d’extrême droite de Benyamin Netanyahou arrive en tête avec 53 sièges, devant l’opposition centriste de Gadi Eisenkot (48 sièges). Aucun camp n’atteint la majorité absolue de 61 sièges, nécessitant des négociations complexes. Les partis arabes (Raam et Liste unifiée) obtiennent 19 sièges, jouant un rôle clé. Les résultats définitifs, publiés dans la nuit du 29 au 30 octobre, relancent les spéculations sur une future coalition. Les tractations s’annoncent difficiles, avec des scénarios multiples possibles.",
           "sources": [
-            "Le Monde",
             "France Info",
+            "Mediapart",
             "Libération",
-            "RFI",
-            "Courrier International"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-israel-benyamin-netanyahou-accuse-les-partis-arabes-de-fraude-electorale-et-d-avoir-recu-des-fonds-de-l-etranger_6802349_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/le-camp-de-benyamin-netanyahou-cible-les-partis-arabes-apres-leur-score-historique_8258843.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/elections-en-israel-le-camp-de-netanyahou-accuse-de-fraude-les-partis-arabes-en-passe-de-faire-un-score-historique-20261029_U37PSYAZIJHM5P4PS3X5E75CHY/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261029-l%C3%A9gislatives-en-isra%C3%ABl-les-partis-arabes-en-position-de-faiseurs-de-roi"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/opinion-israel-peut-mettre-fin-a-l-ere-netanyahou-l-occasion-ne-se-presentera-pas-une-deuxieme-fois_282582"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent l’absence de preuves et le contexte politique comme révélateur de la peur de Nétanyahou. France Info et RFI insistent sur le rôle potentiel des partis arabes comme 'faiseurs de roi'."
-        },
-        {
-          "headline": "Tensions accrues au Moyen-Orient : guerre en Iran envisagée",
-          "summary": "Les États-Unis et Israël discutent d’une éventuelle troisième campagne militaire contre l’Iran, après les élections législatives israéliennes et les midterms américains. Le vice-président américain J.D. Vance a relancé des négociations avec Téhéran pour éviter un conflit, tandis que des rumeurs persistent sur une opération courte et intense. Benyamin Nétanyahou et Donald Trump pourraient être tentés de durcir leur position, malgré les risques géopolitiques.",
-          "sources": [
-            "Courrier International",
-            "RFI",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/conflit-bruits-de-bottes-avant-les-midterms-vers-une-reprise-de-la-guerre-en-iran_282258"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261029-les-%C3%A9tats-unis-et-l-iran-%C3%A0-la-veille-d-une-reprise-des-pourparlers-ou-de-la-guerre"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-hypothese-d-une-troisieme-campagne-militaire-contre-l-iran-evoquee-entre-israel-et-les-etats-unis-20261028"
-            }
-          ],
-          "angles": "Courrier International et Le Figaro évoquent une hypothèse de 'finir le travail' en Iran, tandis que RFI met en avant les tentatives de relance diplomatique par les États-Unis."
-        },
-        {
-          "headline": "Midterms 2026 : Trump face à un scrutin risqué et contesté",
-          "summary": "À cinq jours des élections de mi-mandat aux États-Unis, Donald Trump affronte des accusations de fraude électorale et une possible défaite républicaine. Il a annulé un meeting dans le Kansas, et des manipulations, comme le recrutement d’un homonyme du sénateur républicain Dan Sullivan en Alaska, ont été révélées. Les démocrates, dont Barack Obama, mobilisent leurs soutiens, tandis que des préparatifs sont en cours pour contester les résultats en cas de défaite.",
-          "sources": [
-            "Le Monde",
-            "France 24",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-midterms-2026-donald-trump-annule-un-meeting-au-kansas-les-fausses-accusations-de-fraude-electorale-proliferent-sur-les-reseaux-sociaux_6801590_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-j-5-avant-les-midterms-bient%C3%B4t-l-heure-de-v%C3%A9rit%C3%A9-pour-donald-trump"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/midterms-les-etats-unis-face-au-spectre-dun-nouveau-deni-electoral-de-trump-20261029_WY6PALCMQ5ALLNIDD5VMBTFJ34/"
-            }
-          ]
-        },
-        {
-          "headline": "Crimes de guerre au Soudan : le Tchad quitte la CPI",
-          "summary": "Le retrait du Tchad de la Cour pénale internationale (CPI), prévu pour juillet 2027, pourrait permettre à des criminels de guerre soudanais de échapper à leur procès. Ce retrait, annoncé en juillet 2026, entrave déjà les investigations en cours et prive les victimes de justice. La CPI risque de perdre un allié clé dans la traque des responsables de crimes internationaux commis au Darfour.",
-          "sources": [
+            "Le Figaro",
             "France 24"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/la-coalition-de-droite-et-d-extreme-droite-de-benyamin-netanyahou-en-tete-des-elections-en-israel-mais-sans-majorite-une-percee-historique-confirmee-pour-les-listes-arabes_8259809.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/301026/israel-le-camp-de-netanyahou-en-tete-apres-les-elections-mais-sans-majorite"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-le-bloc-netanyahou-en-tete-a-la-merci-dune-alliance-entre-les-oppositions-juive-et-arabe-20261030_W3HL5IOLNZBVJMQ7BJUM45QI4Q/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/elections-en-israel-des-proches-de-donald-trump-esperaient-la-defaite-de-benyamin-netanyahou-20261029"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-tchad-les-survivants-racontent-l-horreur-un-an-apr%C3%A8s-le-massacre-d-el-fasher"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-isra%C3%ABl-les-r%C3%A9sultats-officiels-publi%C3%A9s-le-parti-de-netanyahu-en-t%C3%AAte-de-peu"
+            }
+          ],
+          "angles": "Libération et France Info soulignent l’incertitude politique et le rôle des partis arabes, tandis que Le Figaro et France 24 insistent sur le blocage institutionnel et les négociations à venir. Mediapart met en avant la fragilité de la majorité sortante."
+        },
+        {
+          "headline": "Mort de Patrick Stewart, icône de Star Trek et X-Men",
+          "summary": "L’acteur britannique Patrick Stewart, connu pour ses rôles dans Star Trek (capitaine Picard) et X-Men (professeur Xavier), est décédé à 86 ans à Los Angeles le 29 octobre. Il souffrait de la maladie d’Alzheimer et d’une démence à corps de Lewy. Sa famille a annoncé son décès via ses réseaux sociaux. Stewart était une figure majeure du cinéma et de la télévision depuis les années 1980.",
+          "sources": [
+            "Courrier International",
+            "Libération",
+            "20 Minutes",
+            "RFI",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-mort-de-patrick-stewart-israel-australie-les-informations-de-la-nuit_282978"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/arts-stars/cinema/4258780-20261029-acteur-patrick-stewart-heros-sagas-x-men-star-trek-mort-86-ans?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/culture/20261029-cin%C3%A9ma-l-acteur-patrick-stewart-connu-notamment-pour-ses-r%C3%B4les-dans-star-trek-et-x-men-est-mort"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/bresil/l-avion-a-bord-duquel-bolsonaro-a-fui-le-bresil-a-ete-paye-depuis-les-etats-unis-affirme-le-proprietaire-de-la-compagnie-aerienne_8259803.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         },
         {
-          "headline": "Afghanistan : crise humanitaire aggravée par les talibans",
-          "summary": "La situation humanitaire en Afghanistan se dégrade sous l’effet des restrictions imposées par les talibans et du manque de financements internationaux. Les prix alimentaires explosent, les retours massifs depuis l’Iran et le Pakistan s’accélèrent, et les centres de santé ferment, laissant des milliers d’enfants sans soins. Les populations sont livrées à elles-mêmes, faute d’aide suffisante.",
+          "headline": "Bolsonaro : un vol payé depuis les États-Unis pour fuir le Brésil",
+          "summary": "Le jet privé ayant transporté le sénateur brésilien Flavio Bolsonaro et sa famille le 28 octobre aurait été affrété et payé (150 000 dollars) depuis un compte américain lié à un conseiller de Donald Trump, Jason Miller. Les médias américains (New York Times, Wall Street Journal) évoquent une opération organisée via un intermédiaire américano-argentin. La Maison Blanche n’a pas réagi. Cette révélation survient après la réélection de Lula da Silva, qui limite l’influence de l’extrême droite au Brésil.",
           "sources": [
             "Le Monde"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-afghanistan-la-crise-humanitaire-s-aggrave-sous-l-effet-de-la-politique-des-talibans-et-faute-de-financements-nous-sommes-livres-a-nous-memes_6802366_3210.html"
+              "url": "https://www.lemonde.fr/disparitions/article/2026/10/30/cuauhtemoc-cardenas-embleme-de-la-gauche-et-de-la-transition-democratique-au-mexique-est-mort_6803075_3382.html"
             }
           ]
         },
         {
-          "headline": "Canada : jeunes plaident pour une action climatique urgente",
-          "summary": "Quinze jeunes Canadiens poursuivent l’État pour inaction climatique, dénonçant une 'atteinte injustifiée' à leurs droits. Leur procès, engagé en 2019, pourrait établir un précédent juridique sur les obligations des États en matière de protection contre le réchauffement climatique. Les plaignants, alors enfants, soulignent l’urgence d’agir pour les générations futures.",
+          "headline": "Mexique : mort de Cuauhtémoc Cárdenas, symbole de la gauche",
+          "summary": "Cuauhtémoc Cárdenas, figure historique de la gauche mexicaine et fondateur du Parti de la révolution démocratique (PRD), est décédé à 92 ans le 28 octobre. Victime d’une fraude électorale lors de l’élection présidentielle de 1988, il avait incarné la transition démocratique du Mexique. Son héritage politique reste majeur dans le paysage politique national.",
           "sources": [
-            "Le Monde"
+            "Le Figaro"
           ],
           "links": [
             {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/culture/les-mots-de-mylene-farmer-les-maux-d-israel-et-l-emotion-d-un-diamant-historique-les-conseils-de-la-redaction-culture-du-figaro-pour-ce-week-end-20261030"
+            }
+          ]
+        },
+        {
+          "headline": "États-Unis : midterms 2026, enjeux et stratégies électorales",
+          "summary": "Les élections de mi-mandat américaines du 5 novembre pourraient basculer le Congrès. Les démocrates tentent de reconquérir la Chambre des représentants et le Sénat, avec des scrutins serrés dans des États clés comme l’Oklahoma, le Maine ou le Texas. Des pratiques comme le gerrymandering (redécoupage électoral) sont pointées du doigt, tandis que des élus démocrates accusent Donald Trump d’utiliser l’IA (via Grok) pour conseiller sa stratégie. Les républicains sont aussi accusés de modifier les règles électorales à leur avantage, comme au Texas.",
+          "sources": [
+            "France Info",
+            "Libération",
+            "Le Monde",
+            "20 Minutes",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/israel/israel-le-complotisme-a-l-heure-des-elections_8260292.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/culture/musique/mort-de-stephen-kovacevich-le-plus-anglais-des-pianistes-americains-20261030_LZ6WL3K4WZFTHGCI6AIMRYRQUI/"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/10/29/au-canada-quinze-jeunes-poursuivent-l-etat-pour-inaction-climatique-denoncant-une-atteinte-injustifiee-a-leurs-droits_6802365_3244.html"
+              "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-retrouvez-les-reponses-de-nos-journalistes-a-vos-questions-sur-le-gerrymandering-l-art-de-modifier-la-carte-electorale-a-son-avantage_6801590_3210.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4258827-20261030-trump-soupconne-utiliser-ia-gouverner-elus-democrates-exigent-transparence?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique-foot/20261030-la-caf-d%C3%A9cide-un-retour-%C3%A0-une-can-tous-les-deux-ans"
+            }
+          ],
+          "angles": "Libération et Le Monde analysent les enjeux nationaux et locaux, tandis que France Info et 20 Minutes se concentrent sur les accusations contre Trump et les manipulations électorales républicaines."
+        },
+        {
+          "headline": "Afrique : CAN tous les deux ans et défis politiques",
+          "summary": "La Confédération africaine de football (CAF) a décidé de rétablir la Coupe d’Afrique des Nations (CAN) tous les deux ans, avec une édition prévue en 2027 au Kenya, en Tanzanie et en Ouganda. Parallèlement, des tensions politiques persistent : en Indonésie, les incendies de forêt ont causé 3 560 morts en septembre, tandis qu’au Sénégal, les Jeux olympiques de la jeunesse (JOJ) débutent à Dakar, marquant un événement sportif majeur. Enfin, un juriste sénégalais, Adama Dieng, alerte sur la montée des discours de haine en Afrique, qualifiée de « vague réactionnaire ».",
+          "sources": [
+            "France 24",
+            "BBC",
+            "France Info",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-%C3%A0-trappes-et-%C3%A0-la-verri%C3%A8re-le-tireur-pr%C3%A9sum%C3%A9-n-a-aucun-regret"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/ignorer-plutot-que-bloquer-la-methode-bresilienne-pour-invisibiliser-l-extreme-droite-sur-les-reseaux_8239486.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique/20261030-jeux-olympiques-de-la-jeunesse-2026-le-s%C3%A9n%C3%A9gal-accueille-enfin-le-monde-du-sport-apr%C3%A8s-8-ans-d-attente"
             }
           ]
         }
@@ -133,87 +168,16 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Lagarde quitte la BCE en février 2027",
-          "summary": "Christine Lagarde annonce son départ anticipé de la présidence de la Banque centrale européenne (BCE) le 7 février 2027, neuf mois avant la fin de son mandat. Cette décision ouvre une période stratégique pour Emmanuel Macron, qui pourrait influencer le choix de son successeur avant l’élection présidentielle française de 2027. Le Conseil des gouverneurs a maintenu les taux inchangés malgré une reprise de l’inflation en zone euro. Lagarde justifie son départ par un souhait de s’engager sur des sujets hors politique monétaire.",
+          "headline": "Attaque russe sur Dnipro : 14 morts",
+          "summary": "Un drone russe a frappé la gare de Dnipro en Ukraine jeudi 29 octobre, faisant 14 morts et 14 blessés. Volodymyr Zelensky a dénoncé cette attaque et appelé l'Occident à des actions résolues face à l'escalade russe. Les frappes visent les infrastructures civiles, dans un contexte de guerre prolongée.",
           "sources": [
-            "Le Figaro",
-            "Le Monde",
-            "Courrier International",
-            "France Info",
-            "Toute l'Europe"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/economie/je-sens-que-je-dois-dire-ces-choses-et-je-ne-peux-pas-le-faire-dans-ma-position-actuelle-le-calendrier-tres-politique-du-depart-de-christine-lagarde-de-la-bce-20261029"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/economie-christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne_282682"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/institutions/christine-lagarde-quittera-la-presidence-de-la-banque-centrale-europeenne-le-7-fevrier-2027/"
-            }
-          ]
-        },
-        {
-          "headline": "Catastrophe ferroviaire en Espagne : 69 morts",
-          "summary": "Une collision entre deux trains à grande vitesse en Espagne, près d’Urda (Castille-La-Manche), a fait au moins 69 morts et 108 blessés mercredi 28 octobre. Le drame, le plus grave depuis 2013, a provoqué trois jours de deuil national et relance les questions sur la sécurité du réseau ferroviaire espagnol. Plusieurs Français sont portés disparus. Les investigations pointent une possible erreur humaine et des défaillances techniques, tandis que le ministre des Transports, Óscar Puente, est fragilisé politiquement à un mois des élections législatives.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "Courrier International",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/transports/accident-mortel-de-trains-en-espagne-comment-est-assuree-la-securite-dans-les-tgv-francais_8259440.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/reportage-a-urda-pres-du-site-de-la-catastrophe-ferroviaire-s-ecrit-la-legende-noire-de-l-espagne_282516"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-espagne-la-catastrophe-ferroviaire-d-urda-pose-a-nouveau-la-question-du-developpement-inconsidere-des-trains-a-grande-vitesse_6802350_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261029-espagne-le-rail-en-question"
-            }
-          ],
-          "angles": "Libération et France Info soulignent la colère des familles et les défaillances structurelles du système ferroviaire espagnol, tandis que Le Monde et France 24 insistent sur l’impact politique et humanitaire immédiat. Courrier International met en avant le contexte tragique de la petite ville d’Urda, frappée par plusieurs catastrophes récentes."
-        },
-        {
-          "headline": "Attaque russe en Ukraine : 14 morts à Dnipro",
-          "summary": "Un drone russe a frappé la gare centrale de Dnipro (Ukraine) jeudi 29 octobre, faisant 14 morts et 14 blessés parmi des voyageurs. Cette attaque s’inscrit dans une série de frappes russes ciblant les infrastructures ukrainiennes, dont des quartiers résidentiels. L’Union européenne et ses alliés condamnent ces actes, tandis que Volodymyr Zelensky exhorte l’Occident à des actions plus fermes. Une trêve humanitaire à Olechky, occupée par la Russie, est observée depuis trois jours, mais des craintes persistent quant à son instrumentalisation par Moscou.",
-          "sources": [
-            "Le Monde",
             "Courrier International",
             "France 24",
             "France Info",
-            "Libération"
+            "Le Monde",
+            "RFI"
           ],
           "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-apres-une-serie-de-frappes-qui-ont-fait-au-moins-20-morts-l-ue-exhorte-ses-allies-a-accentuer-la-pression-sur-la-russie_6799896_3210.html"
-            },
             {
               "source": "Courrier International",
               "url": "https://www.courrierinternational.com/article/guerre-une-attaque-russe-sur-la-gare-ukrainienne-de-dnipro-fait-14-morts_282887"
@@ -227,40 +191,154 @@
               "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-20261029_FRSCMJN5O5DMXEXUUOB6VH5WJU/"
-            }
-          ],
-          "angles": "Le Monde et France 24 insistent sur la dimension diplomatique et la réponse européenne, tandis que France Info met en avant la réaction de Zelensky et le contexte des frappes répétées. Courrier International détaille l’impact humain immédiat de l’attaque."
-        },
-        {
-          "headline": "Crise énergétique en UE : libération de stocks",
-          "summary": "Onze pays de l’Union européenne ont décidé de libérer 42,6 millions de barils de pétrole, dont la moitié en gazole, pour stabiliser les prix avant l’hiver. Cette mesure vise à éviter une pénurie alors que le gazole dépasse 2,30 euros le litre dans plusieurs États membres. Bruxelles assure qu’aucun problème d’approvisionnement n’est redouté, mais la mesure reflète une vigilance accrue face à la volatilité des marchés.",
-          "sources": [
-            "Libération"
-          ],
-          "links": [
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/29/guerre-en-ukraine-un-drone-russe-fait-14-morts-a-la-gare-de-dnipro_6802345_3210.html"
+            },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261029-ukraine-nouvelle-attaque-mortelle-de-drone-russe-sur-la-gare-de-dnipro"
             }
           ]
         },
         {
-          "headline": "Crash d’hélicoptère en Bosnie : 4 morts",
-          "summary": "Un hélicoptère italien de la Force européenne en Bosnie s’est écrasé jeudi 29 octobre près de Brcko, faisant quatre morts et douze blessés. L’appareil effectuait une « opération de routine » dans le cadre de la mission de maintien de la paix dans les Balkans. Les causes de l’accident sont en cours d’enquête.",
+          "headline": "Trêve humanitaire à Olechky : évacuations en cours",
+          "summary": "Une trêve localisée à Olechky, ville ukrainienne occupée, permet depuis le 27 octobre des évacuations humanitaires et la distribution d'aide alimentaire. Kiev et Moscou supervisent les opérations, tandis que les États-Unis soutiennent ce cessez-le-feu rare. Environ 2 000 civils sont concernés par ces mouvements.",
+          "sources": [
+            "Le Figaro",
+            "Le Monde",
+            "20 Minutes",
+            "France 24",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-evacuations-humanitaires-ont-commence-a-olechky-annoncent-kiev-et-moscou-20261030"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-et-moscou-annoncent-le-debut-des-evacuations-humanitaires-a-olechky-ou-un-cessez-le-feu-est-en-vigueur-depuis-plus-de-trois-jours_6799896_3210.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4258787-20261030-direct-guerre-ukraine-chef-diplomatie-russe-serguei-lavrov-attendu-etats-unis?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-guerre-en-ukraine-une-tr%C3%AAve-rarissime-%C3%A0-olechky-trois-jours-cons%C3%A9cutifs-sans-frappes"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-treve-humanitaire-inedite-instauree-a-olechky_8260010.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "headline": "Fermeture de Novaïa Gazeta : fin d'un symbole",
+          "summary": "Le journal russe indépendant Novaïa Gazeta, Prix Nobel de la paix, annonce sa fermeture sous la pression des autorités. Fondé en 1993, il enquêtait sur corruption et violations des droits humains. La rédaction dénonce une « opération coordonnée » du FSB, qualifiant la situation d'« assassinat » du titre.",
+          "sources": [
+            "RFI",
+            "France 24",
+            "Libération",
+            "Le Monde",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261030-russie-le-journal-d-opposition-nova%C3%AFa-gazeta-annonce-sa-fin-sous-la-pression-des-autorit%C3%A9s"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/asie-pacifique/en-russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030_QYYSCOIU35ACVJF4YXLMX2SMY4/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/30/ils-nous-ont-tues-les-adieux-de-la-redaction-de-novaia-gazeta-journal-russe-independant-contraint-par-les-autorites-de-cesser-son-activite_6802913_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ],
+          "angles": "Libération et Le Monde insistent sur l'héritage historique et les enquêtes du journal, tandis que France 24 et RFI soulignent la dimension politique et la répression actuelle."
+        },
+        {
+          "headline": "Accident ferroviaire en Espagne : 69 morts",
+          "summary": "Deux trains à grande vitesse sont entrés en collision près d’Urda (Espagne) mercredi 28 octobre, faisant 69 morts et 108 blessés. Le gouvernement a décrété trois jours de deuil national. Des Français restent portés disparus, et la sécurité ferroviaire est remise en question à un mois des élections législatives.",
           "sources": [
             "France Info",
-            "Le Monde"
+            "France 24",
+            "Le Figaro",
+            "EURACTIV",
+            "RFI"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/pour-les-cheminots-et-la-presse-espagnole-la-degradation-du-service-public-ferroviaire-peut-aussi-expliquer-l-accident-de-mercredi_8259992.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-accident-ferroviaire-en-espagne-le-roi-felipe-xi-pr%C3%A9sent-aux-chevets-des-victimes"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/en-espagne-les-deux-accidents-mortels-en-neuf-mois-ravivent-la-peur-de-prendre-le-train-je-vais-acheter-un-billet-d-avion-de-bus-ou-n-importe-quoi-d-autre-20261029"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/la-tragedie-ferroviaire-en-espagne-ravive-la-crise-politique-a-lapproche-des-elections/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261030-espagne-comment-expliquer-l-accident-ferroviaire-qui-a-fait-68-morts"
+            }
+          ],
+          "angles": "France Info et Le Figaro mettent l'accent sur les dysfonctionnements du réseau et la peur des voyageurs, tandis que France 24 et EURACTIV relèvent les enjeux politiques et la crise institutionnelle."
+        },
+        {
+          "headline": "Lagarde démissionne de la BCE en février 2027",
+          "summary": "Christine Lagarde quittera la présidence de la BCE le 7 février 2027, neuf mois avant la fin de son mandat. Elle invoque le besoin de « liberté de parole » à quelques mois de l'élection présidentielle française. Certains y voient une manœuvre pour éviter une influence du futur président sur sa succession.",
+          "sources": [
+            "France Info",
+            "Toute l'Europe",
+            "EURACTIV"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/institutions/christine-lagarde-quittera-la-presidence-de-la-banque-centrale-europeenne-le-7-fevrier-2027/"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/lagarde-va-quitter-ses-fonctions-de-presidente-de-la-bce/"
+            }
+          ]
+        },
+        {
+          "headline": "Crise énergétique : l'UE libère 42,6 millions de barils",
+          "summary": "Onze pays de l’UE vont libérer 42,6 millions de barils de pétrole, dont 21,3 millions de gazole, pour stabiliser les prix avant l’hiver. Cette mesure vise à éviter une pénurie malgré la hausse des prix, avec un prélèvement d’ici fin janvier 2027.",
+          "sources": [
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/29/en-bosnie-herzegovine-quatre-morts-et-douze-blesses-dans-le-crash-d-un-helicoptere-de-la-force-europeenne_6802383_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/"
             }
           ]
         }
@@ -271,163 +349,173 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Attentat raciste de Trappes : l’assaillant mis en examen",
-          "summary": "Kevin Tessier, 39 ans, a été mis en examen jeudi pour assassinat et tentatives d’assassinat terroristes à caractère raciste après l’attentat du 23 octobre dans les Yvelines, faisant un mort et sept blessés. Il a reconnu avoir ciblé des personnes « musulmanes, africaines ou nord-africaines » et évoqué une motivation raciste. Placé en détention provisoire, il avait déjà été arrêté trois jours avant pour une agression sur un homme noir. Les enquêteurs écartent un diagnostic de schizophrénie invoqué par le suspect.",
+          "headline": "Cyberattaque record sur Binance : 6,3 milliards de dollars volés",
+          "summary": "La plateforme Binance a subi une cyberattaque massive jeudi 29 octobre, entraînant un préjudice estimé à 6,3 milliards de dollars selon ses déclarations, bien que des experts comme Chainalysis évoquent 5,9 milliards. Tous les dépôts et retraits ont été suspendus temporairement. Binance a d’abord assuré que les fonds clients étaient sécurisés, avant de promettre de couvrir les pertes. L’incident a provoqué une volatilité sur les marchés des cryptomonnaies.",
           "sources": [
-            "Le Figaro",
-            "France Info",
+            "Mediapart",
             "Libération",
-            "Le Monde",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/attentat-dans-les-yvelines-l-assaillant-kevin-t-mis-en-examen-par-un-juge-antiterroriste-20261029"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/29/attentat-raciste-de-trappes-kevin-t-mis-en-examen-pour-assassinat-et-tentatives-d-assassinat-terroriste-a-reconnu-avoir-cible-des-personnes-de-type-musulman-ou-africain_6802354_3224.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4258681-20261029-attentat-raciste-trappes-verriere-assaillant-kevin-mis-examen?at_medium=display&at_campaign=149"
-            }
-          ],
-          "angles": "Libération et Le Monde insistent sur la reconnaissance explicite des motivations racistes et le profil du suspect, tandis que Le Figaro et France Info soulignent davantage les éléments procéduraux (mise en examen, détention) et les déclarations des autorités judiciaires. 20 Minutes adopte un ton plus factuel et synthétique, centré sur les faits bruts."
-        },
-        {
-          "headline": "Édouard Philippe placé sous statut de témoin assisté",
-          "summary": "L’ancien Premier ministre et candidat à la présidentielle a été placé sous le statut de témoin assisté jeudi dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral, liée à la gestion de la Cité numérique du Havre. Son avocat a salué une « décision favorable », estimant qu’il n’y a « rien à lui reprocher ». Les juges d’instruction financiers l’ont entendu toute la journée dans le cadre de cette procédure moins incriminante qu’une mise en examen.",
-          "sources": [
             "20 Minutes",
             "Le Monde",
-            "Le Figaro",
-            "Libération",
-            "France Info"
+            "France 24"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4258786-20261029-edouard-philippe-place-sous-statut-temoin-assiste-affaire-detournement-fonds-publics?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029"
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/economie-et-social/301026/cryptomonnaies-binance-confirme-une-cyberattaque-massive-estimee-63-milliards-de-dollars"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/"
+              "url": "https://www.liberation.fr/economie/economie-numerique/la-plateforme-de-cryptomonnaies-binance-victime-dune-cyberattaque-estimee-a-63-milliards-de-dollars-20261030_WUZFAQCH4BFMZJ7MAMHHM7F2AA/"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/economie/4258821-20261030-cryptomonnaies-binance-fait-etat-cyberattaque-massive-trois-milliards-dollars-geles?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/pixels/article/2026/10/30/cryptomonnaies-binance-annonce-avoir-ete-victime-d-un-important-piratage-dont-le-prejudice-est-estime-a-6-3-milliards-de-dollars_6802872_4408996.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9co-tech/20261030-cryptomonnaies-binance-cyberattaque-massive-gel-2-5-milliards-de-dollars-bitcoin-ether"
             }
           ],
-          "angles": "Le Monde et Libération mettent en avant le contexte politique (candidature présidentielle) et la réaction de l’avocat, tandis que Le Figaro et 20 Minutes se concentrent sur les aspects juridiques et procéduraux. Libération et Le Figaro évoquent brièvement le reflux d’Édouard Philippe dans les sondages, sans développement."
+          "angles": "Libération et Le Monde soulignent les contradictions des messages initiaux de Binance, tandis que 20 Minutes et France 24 insistent sur l’ampleur financière et les mesures de gel des fonds. Mediapart met en avant l’estimation officielle de 6,3 milliards, sans nuance sur les divergences."
         },
         {
-          "headline": "Manifestations du 31 octobre : 70 000 forces mobilisées",
-          "summary": "Le ministre de l’Intérieur, Laurent Nuñez, a annoncé jeudi la mobilisation de 70 000 policiers et gendarmes pour l’Acte III des mobilisations sociales, prévu samedi 31 octobre, coïncidant avec Halloween. Il a confirmé l’interdiction des rassemblements dans les centres-villes et évoqué un « risque très élevé » de troubles, justifiant un dispositif similaire à celui du 24 octobre. Les intentions de manifestations et cortèges se multiplient dans plusieurs villes.",
+          "headline": "Édouard Philippe témoin assisté dans l’affaire de détournement de fonds publics",
+          "summary": "L’ancien Premier ministre et candidat à la présidentielle a été placé sous le statut de témoin assisté jeudi 29 octobre dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral, liée à la gestion de la Cité numérique du Havre. Auditionné toute la journée par deux juges d’instruction, il évite ainsi une mise en examen. Cette procédure concerne des soupçons pesant sur sa gestion en tant que maire de la ville depuis 2020.",
           "sources": [
             "France Info",
-            "Le Monde",
+            "France 24",
             "20 Minutes",
             "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261029-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds-publics-%C3%A9douard-philippe-plac%C3%A9-sous-le-statut-de-t%C3%A9moin-assist%C3%A9"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4258750-20261029-manifestations-31-octobre-70-000-policiers-gendarmes-mobilises-acte-3-halloween?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/justice/4258786-20261029-edouard-philippe-place-sous-statut-temoin-assiste-affaire-detournement-fonds-publics?at_medium=display&at_campaign=149"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/31-octobre-le-point-sur-les-parcours-de-manifestations-dans-les-grandes-villes-20261029_AGIPSSIHAVDJ5CFWXYJXKLHFS4/"
+              "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/"
             }
           ]
         },
         {
-          "headline": "Imprescriptibilité des crimes sexuels sur mineurs adoptée au Sénat",
-          "summary": "Le Sénat a voté jeudi à une large majorité l’imprescriptibilité des crimes sexuels commis sur les mineurs, une mesure inédite en France jusqu’ici réservée aux crimes contre l’humanité. Le texte, recentré sur la pédocriminalité, prévoit aussi un durcissement des peines et une audition des suspects sous trois mois. Il doit encore être validé lors d’un vote solennel puis en commission mixte paritaire avant adoption définitive.",
+          "headline": "Manifestations du 31 octobre : parcours interdits et couvre-feu à Paris",
+          "summary": "La préfecture de police a interdit les parcours initiaux de la CGT et des gilets jaunes pour leur manifestation du 31 octobre, les contraignant à défiler entre la porte de Bagnolet et la porte de Charenton. Un dispositif policier exceptionnel de 70 000 forces de l’ordre sera déployé en France, avec un risque « très élevé » de troubles. Les mobilisations visent principalement la hausse du coût de la vie. Les Bouches-du-Rhône n’autoriseront que les rassemblements déclarés en préfecture.",
           "sources": [
-            "Libération",
+            "Le Figaro",
             "France Info",
+            "20 Minutes",
             "France 24"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/droits-des-femmes/apres-lassemblee-le-senat-approuve-a-son-tour-limprescriptibilite-des-crimes-sexuels-sur-les-mineurs-20261029_2D3LF4MZMRFTRJ5H4ZCAGMZ32E/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/en-direct-manifestations-31-octobre-policiers-gendarmes-laurent-nunez-violences-urbaines-halloween-20261030"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/peine-de-perpetuite-en-cas-de-viols-auditions-du-suspect-sous-3-mois-les-grands-debats-autour-du-projet-de-loi-de-protection-des-enfants-examine-au-senat_8258291.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4258815-20261030-direct-manifestations-31-octobre-70-000-policiers-gendarmes-mobilises-acte-iii-halloween?at_medium=display&at_campaign=149"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261029-en-france-le-s%C3%A9nat-vote-l-imprescriptibilit%C3%A9-des-crimes-sexuels-commis-sur-les-mineurs"
-            }
-          ],
-          "angles": "France Info et Libération soulignent l’urgence et l’ampleur de la réforme, tandis que France 24 met davantage l’accent sur son caractère historique et les débats parlementaires. Libération évoque brièvement le contexte de la proposition de loi « intégrale » sur les violences sexuelles."
-        },
-        {
-          "headline": "Débat sur une primaire à droite avant la présidentielle 2027",
-          "summary": "Gabriel Attal, candidat Renaissance, a recentré sa proposition d’une « primaire des démocrates » sur la droite et le centre, après des critiques sur son appel initial incluant la gauche sociale-démocrate. Édouard Philippe, favori des sondages, refuse toujours cette idée, tandis que des figures de LR expriment des doutes sur sa pertinence. Le sujet divise la droite, alors que Philippe peine dans les intentions de vote.",
-          "sources": [
-            "Le Monde",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/presidentielle-2027-etes-vous-favorable-a-l-organisation-d-une-primaire-de-la-droite-et-du-centre-20261029"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-mobilisation-en-france-un-dispositif-exceptionnel-de-70-000-forces-de-l-ordre-d%C3%A9ploy%C3%A9"
             }
           ]
         },
         {
-          "headline": "Montage audio mensonger sur Mélenchon : l’Arcom met en garde Radio France",
-          "summary": "L’Arcom a adressé une mise en garde à Radio France après la diffusion sur France Culture, en juin, d’un montage détournant des propos de Jean-Luc Mélenchon, laissant entendre qu’il avait tenu des propos antisémites. La radio publique a été appelée à ne pas renouveler un tel « manquement aux exigences d’honnêteté et de rigueur ». L’affaire intervient dans un contexte de tensions autour de la couverture médiatique des figures politiques.",
+          "headline": "Attentat raciste de Trappes : l’assaillant reconnaît la préméditation",
+          "summary": "Kevin T., suspect de l’attentat raciste du 23 octobre dans les Yvelines (un mort, sept blessés), a été mis en examen pour assassinat et tentative en lien avec une entreprise terroriste. Il avait été brièvement interpellé trois jours avant l’attaque pour une agression raciste sur un homme noir à Levallois-Perret. Le maire de Trappes, Ali Rabeh, propose de rendre « illégale » la théorie du « grand remplacement » via une modification constitutionnelle, tandis que les principaux candidats de droite boycottent l’hommage aux victimes.",
           "sources": [
-            "Le Monde",
             "Libération",
-            "Mediapart"
+            "20 Minutes",
+            "France 24",
+            "Le Figaro",
+            "Le Monde"
           ],
           "links": [
             {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-de-trappes-kevin-t-avait-ete-arrete-trois-jours-plus-tot-pour-une-agression-sur-un-homme-noir-20261029_IQZQDSA7CRD3DILQU6EUOPVYO4/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4258791-20261029-attentat-raciste-trappes-verriere-kevin-interpelle-trois-jours-avant-attaque?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-attentat-raciste-en-france-l-assaillant-reconnait-la-pr%C3%A9m%C3%A9ditation"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/attentat-de-trappes-le-maire-ali-rabeh-veut-rendre-illegale-la-theorie-du-grand-remplacement-20261030"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/30/derriere-l-attentat-terroriste-de-trappes-un-racisme-d-atmosphere_6803072_3232.html"
+            }
+          ],
+          "angles": "Libération et Le Monde analysent l’ancrage idéologique extrême droite du suspect et son contexte sociétal, tandis que France 24 et 20 Minutes se concentrent sur les éléments judiciaires (préméditation, antécédents). Le Figaro et Libération relaient la proposition politique d’Ali Rabeh, avec un ton plus engagé sur la nécessité de sanctions légales renforcées."
+        },
+        {
+          "headline": "Crise économique : PIB en recul, budget 2027 sous tension",
+          "summary": "Le PIB français a reculé de 0,1 % au troisième trimestre 2026, confirmant une économie « à l’arrêt » selon le ministre de l’Économie Roland Lescure, qui évoque un risque de récession sans budget adopté. Les députés ont voté jeudi 48 milliards d’euros de dépenses supplémentaires en commission des finances, aggravant le déficit. Le gouvernement pourrait recourir au 49-3 ou aux ordonnances si le débat parlementaire bloque. Les indicateurs s’alignent sur une stagnation prolongée.",
+          "sources": [
+            "Le Figaro",
+            "Libération",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-budget-alerte-roland-lescure-20261030"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/medias/montage-mensonger-visant-jean-luc-melenchon-sur-france-culture-larcom-met-en-garde-radio-france-20261029_CJDH6AMEURBCZK24WV7J7LAZ44/"
+              "url": "https://www.liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4/"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/economie-et-social/291026/la-bce-laisse-planer-le-doute-sur-son-soutien-la-france"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt-pr%C3%A9vient-le-ministre-de-l-%C3%A9conomie-roland-lescure"
+            }
+          ],
+          "angles": "Le Figaro et Libération citent les déclarations alarmistes de Roland Lescure, tandis que France 24 et Le Monde insistent sur les chiffres techniques (recul du PIB, votes parlementaires) sans commentaire éditorial. Aucun média ne conteste les données macroéconomiques."
+        },
+        {
+          "headline": "Louvre : accord historique après 10 mois de grève",
+          "summary": "Les syndicats du musée du Louvre et sa direction ont signé un accord jeudi 29 octobre mettant fin à un préavis de grève en cours depuis décembre 2025. Le texte prévoit le recrutement d’au moins 100 agents d’ici 2028, une mesure phare pour résoudre la crise sociale. Les tensions portaient notamment sur les conditions de travail et les effectifs insuffisants, malgré les 10 millions de visiteurs annuels.",
+          "sources": [
+            "France Info",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/culture/arts-expos/louvre/musee-du-louvre-les-syndicats-ont-signe-un-accord-de-sortie-de-crise-avec-la-direction_8260181.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/culture/louvre-apres-des-mois-de-conflit-social-syndicats-et-direction-trouvent-un-accord-20261029_UWN3NRBK7VAAXPSFRAXVY4UGIU/"
             }
           ]
         }
