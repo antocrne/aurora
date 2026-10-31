@@ -1,187 +1,126 @@
 {
-  "generated_at": "2026-10-30T20:58:53Z",
-  "edition": "30 octobre 2026",
+  "generated_at": "2026-10-31T10:31:55Z",
+  "edition": "31 octobre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "États-Unis : midterms sous tension avec Trump en difficulté",
-          "summary": "Les élections de mi-mandat américaines approchent (3 novembre), avec Donald Trump en position défensive face aux accusations de corruption et à une mobilisation démocrate inédite. Le pape Léon XIV a voté par correspondance, une première historique, tandis que des fractures apparaissent au sein du camp républicain. Les abstentionnistes pourraient jouer un rôle clé dans des États comme le Michigan. Les médias soulignent aussi la stratégie viriliste de Trump pour mobiliser sa base.",
+          "headline": "JOJ Dakar 2026 : un événement sous les projecteurs",
+          "summary": "Les Jeux olympiques de la jeunesse (JOJ) s’ouvrent samedi 31 octobre à Dakar, premier événement olympique organisé en Afrique. Malgré un investissement fort du Sénégal et une couverture médiatique internationale, l’engouement local reste mitigé. Le relais de la flamme, marqué par des personnalités comme Khaby Lame et Omar Sy, a clôturé les préparations. Un collectif de photographes émergents documentera aussi l’événement sous le projet « Visions neuves ».",
           "sources": [
-            "France Info",
             "France 24",
-            "20 Minutes",
-            "Euronews",
-            "Le Monde"
+            "France Info",
+            "Le Monde",
+            "RFI"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-%C3%A9tats-unis-des-profits-financiers-sans-pr%C3%A9c%C3%A9dent-pour-donald-trump"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-joj-%C3%A0-dakar-premier-%C3%A9v%C3%A9nement-olympique-sur-le-continent-africain"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4258966-20261030-etats-unis-pape-leon-xiv-vote-correspondance-elections-mi-mandat?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/10/30/etats-unis-trump-distribue-des-bonbons-sous-air-force-one"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/developpement-heritage-capacite-d-organisation-les-jo-de-la-jeunesse-un-premier-evenement-olympique-en-afrique-qui-se-veut-moteur-pour-le-senegal-et-le-continent_8259533.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/30/midterms-2026-le-pape-a-vote-par-anticipation-dans-l-illinois-une-premiere-historique_6803130_3210.html"
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/31/aux-jeux-olympiques-de-la-jeunesse-de-dakar-des-regards-neufs-sur-l-afrique_6803371_4500055.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/sports/20261031-joj-dakar-2026-khaby-lame-et-omar-sy-porteurs-de-choix-pour-les-derniers-kilom%C3%A8tres-de-la-flamme"
             }
           ]
         },
         {
-          "headline": "Israël : Netanyahu en position fragile après législatives sans majorité",
-          "summary": "Les élections législatives israéliennes du 27 octobre ont confirmé l’absence de majorité claire, avec le bloc de Benjamin Netanyahu en tête mais loin des 61 sièges nécessaires. Le président Isaac Herzog doit désormais consulter les partis pour former un gouvernement, dans un contexte marqué par la mobilisation historique des électeurs arabes. Netanyahu est accusé d’avoir perdu du terrain, tandis que l’opposition peine à s’unir. Les résultats reflètent aussi l’impact durable des attentats du 7 octobre 2023.",
+          "headline": "Flavio Bolsonaro fuit au Brésil et accuse une persécution",
+          "summary": "L’ex-candidat brésilien Flavio Bolsonaro, battu à la présidentielle, a quitté le Brésil pour les États-Unis en jet privé, accusant une « persécution ». Son passage par l’Argentine et l’Équateur a provoqué des tensions diplomatiques. Il maintient sans preuve des allégations de fraude électorale et évoque une candidature présidentielle avant 2030. Les autorités argentines et équatoriennes sont pointées du doigt pour leur rôle présumé dans sa fuite.",
           "sources": [
+            "Libération",
+            "Le Monde",
             "France 24",
-            "Euronews",
-            "RFI",
-            "Courrier International",
-            "Mediapart"
+            "20 Minutes"
           ],
           "links": [
             {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/flavio-bolsonaro-autoproclame-de-gaulle-bresilien-dit-avoir-quitte-le-bresil-pour-fuir-une-persecution-20261031_P4G2N6S4SBFPHCEV7NWGEBYRYA/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/10/31/flavio-bolsonaro-assure-avoir-quitte-le-bresil-pour-fuir-une-persecution_6803369_3210.html"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20261030-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-%C3%A0-quitte-ou-double"
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20261030-depuis-les-%C3%A9tats-unis-flavio-bolsonaro-se-dit-victime-d-une-pers%C3%A9cution-au-br%C3%A9sil"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/legislatives-en-israel-le-bloc-de-netanyahu-en-tete-des-elections-mais-sans-majorite"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261030-l%C3%A9gislatives-en-isra%C3%ABl-le-camp-de-benyamin-netanyahu-en-t%C3%AAte-mais-sans-majorit%C3%A9"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/analyse-comment-le-sentiment-d-alienation-a-pousse-les-palestiniens-d-israel-a-voter-en-masse_282584"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/301026/en-israel-benyamin-netanyahou-reste-au-centre-du-jeu-politique"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/bresil/4259102-20261030-fuite-flavio-bolsonaro-etats-unis-argentine-expliquer-depart-bresil?at_medium=display&at_campaign=149"
             }
           ],
-          "angles": "France 24 et Euronews insistent sur l’incertitude politique et le rôle du président Herzog. Mediapart et Courrier International soulignent la mobilisation des électeurs arabes comme un tournant, tandis que France 24 cite l’ancien Premier ministre Ehud Barak pour un cadrage critique envers Netanyahu. RFI et Toute l’Europe relaient les chiffres et le contexte sécuritaire."
+          "angles": "Libération et Le Monde soulignent les réactions diplomatiques et les accusations non étayées de Bolsonaro, tandis que France 24 insiste sur le contexte de sa fuite et ses déclarations depuis les États-Unis."
         },
         {
-          "headline": "Sénégal : ouverture des Jeux olympiques de la jeunesse malgré crise sociale",
-          "summary": "Le Sénégal accueille du 31 octobre au 13 novembre la 4ᵉ édition des Jeux olympiques de la jeunesse, un événement historique pour l’Afrique, malgré un contexte économique et social dégradé. Après huit ans de préparation et un report dû au Covid-19, Dakar, Diamniadio et Saly accueillent les athlètes. Les tensions sociales ont marqué les derniers mois, mais l’événement vise à renforcer la visibilité internationale du pays.",
+          "headline": "Midterms 2026 : les démocrates en position de force",
+          "summary": "À quelques jours des élections de mi-mandat aux États-Unis, les sondages prédisent une victoire démocrate à la Chambre des représentants, voire au Sénat. Donald Trump, dont le parti est traditionnellement défavorisé lors de ces scrutins, voit son avenir politique menacé. Les enjeux économiques, notamment le coût de la vie, dominent les préoccupations des électeurs, malgré une économie globalement solide.",
           "sources": [
             "Le Monde",
-            "Courrier International",
-            "RFI",
+            "France Info",
+            "Le Figaro",
             "France 24"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/30/le-senegal-100-pret-a-accueillir-les-jeux-olympiques-de-la-jeunesse-malgre-les-tensions-sociales_6803116_3212.html"
+              "url": "https://www.lemonde.fr/idees/article/2026/10/31/elections-de-mi-mandat-donald-trump-rattrape-par-son-bilan_6803488_3232.html"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/sport-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse-au-senegal-une-premiere-en-afrique_283445"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261030-jeux-olympiques-de-la-jeunesse-2026-le-s%C3%A9n%C3%A9gal-accueille-enfin-le-monde-du-sport-apr%C3%A8s-8-ans-d-attente"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/blocage-enquetes-impeachment-les-scenarios-de-l-apres-midterms-pour-donald-trump-en-cas-de-defaite-20261031"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-joj-dakar-2026-le-journal-de-l-afrique-au-c%C5%93ur-des-jeux"
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20261031-midterms-2026-recap-sondages-democrates-republicains-trump-alaska-fraude-contestation-resultats-obama"
             }
           ]
         },
         {
-          "headline": "Venezuela : retour triomphal de María Corina Machado",
-          "summary": "La dirigeante de l’opposition vénézuélienne, María Corina Machado, Prix Nobel de la paix 2025, est revenue à Caracas après près d’un an d’exil, avec le soutien de Washington et de Donald Trump. Elle a appelé à la « reconstruction du pays » et présenté ses projets politiques depuis l’université catholique. Son retour s’inscrit dans un contexte de tensions politiques accrues avant les prochaines élections.",
+          "headline": "Disparition du journaliste Moussa Kaka au Niger",
+          "summary": "Deux mois après son enlèvement à Niamey, le journaliste nigérien Moussa Kaka reste introuvable. La junte militaire a reconnu son arrestation mais n’a pas communiqué sur les motifs ni son lieu de détention. Son cas alimente les inquiétudes pour la liberté de la presse dans le pays, déjà fragilisée par le coup d’État de 2023.",
           "sources": [
-            "Le Figaro",
-            "RFI",
-            "20 Minutes"
+            "Libération",
+            "RFI"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/c-est-l-histoire-qui-s-ecrit-sous-nos-yeux-le-grand-retour-de-l-opposante-maria-corina-machado-au-venezuela-20261030"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/afrique/niger-deux-mois-apres-son-enlevement-le-journaliste-moussa-kaka-toujours-introuvable-20261031_VGTK6UKEPRBNHKYZH2YV5KLUZA/"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261030-venezuela-depuis-son-retour-%C3%A0-caracas-maria-corina-machado-appelle-%C3%A0-la-reconstruction-du-pays"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4259068-20261030-etats-unis-reveillee-confuse-souffrante-christa-pike-exprime-apres-execution-ratee?at_medium=display&at_campaign=149"
+              "url": "https://www.rfi.fr/fr/afrique/20261031-deux-mois-de-d%C3%A9tention-de-moussa-kaka-au-niger-sa-place-est-devant-un-micro"
             }
-          ],
-          "angles": "Le Figaro adopte un ton narratif centré sur le symbole du retour, tandis que RFI détaille ses propositions politiques et le contexte local. Aucun angle éditorial marqué, mais RFI insiste sur les défis concrets à venir."
+          ]
         },
         {
-          "headline": "États-Unis : exécution ratée de Christa Pike relance le débat sur la peine de mort",
-          "summary": "Christa Pike, condamnée à mort au Tennessee, a survécu à une exécution par injection létale en septembre et a témoigné de ses souffrances physiques et psychologiques un mois après. Son cas, sans précédent, a relancé les critiques sur l’application de la peine capitale aux États-Unis. Les médias soulignent l’absence de clarté sur son sort judiciaire et les dysfonctionnements du système.",
+          "headline": "Liban-Sud : les derniers irréductibles craignent la fin de la Finul",
+          "summary": "Environ 10 000 habitants de trois villages chrétiens du Liban-Sud, isolés dans une zone tampon depuis des décennies, redoutent la fin du mandat de la Finul (Force des Nations unies) le 31 décembre 2026. Ces « irréductibles », refusant de quitter leurs terres, s’inquiètent d’un retour de l’instabilité sécuritaire dans la région.",
           "sources": [
-            "RFI",
-            "20 Minutes",
-            "France Info",
-            "Courrier International",
-            "BBC"
+            "RFI"
           ],
           "links": [
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261030-je-m-%C3%A9tais-pr%C3%A9par%C3%A9e-%C3%A0-mourir-apr%C3%A8s-son-ex%C3%A9cution-rat%C3%A9e-aux-%C3%A9tats-unis-christa-pike-confie-ses-souffrances"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4259068-20261030-etats-unis-reveillee-confuse-souffrante-christa-pike-exprime-apres-execution-ratee?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/peine-de-mort-christa-pike-n-a-pas-passe-un-seul-instant-sans-souffrir-depuis-son-execution-ratee_283482"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261031-liban-sud-les-habitants-de-villages-chr%C3%A9tiens-enclav%C3%A9s-inquiets-de-la-fin-prochaine-du-mandat-de-la-finul"
             }
-          ],
-          "angles": "RFI et 20 Minutes mettent l’accent sur le récit humain et les souffrances de Pike. France Info et Courrier International élargissent au débat sur la peine de mort, avec des angles éthiques et juridiques. La BBC reprend le témoignage sans analyse supplémentaire."
-        },
-        {
-          "headline": "Afrique : la CAN revient tous les deux ans, décision saluée par les clubs",
-          "summary": "La Confédération africaine de football (CAF) a décidé de rétablir la Coupe d’Afrique des Nations (CAN) tous les deux ans, contre un passage à un rythme quadriennal envisagé précédemment. Cette décision, prise à l’unanimité, répond aux attentes des clubs africains et aux enjeux économiques, malgré des tensions internes à la FIFA. La prochaine édition est attendue avec impatience.",
-          "sources": [
-            "France Info",
-            "RFI",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/foot/can/football-la-coupe-d-afrique-des-nations-aura-de-nouveau-lieu-tous-les-deux-ans-confirme-la-caf_8260535.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique-foot/20261030-la-caf-d%C3%A9cide-un-retour-%C3%A0-une-can-tous-les-deux-ans"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/10/30/la-coupe-d-afrique-des-nations-continuera-a-se-tenir-tous-les-deux-ans-au-grand-bonheur-des-clubs-africains_6803123_3212.html"
-            }
-          ],
-          "angles": "France Info et RFI relaient l’annonce factuelle, tandis que Le Monde ajoute une analyse des conflits de pouvoir au sein de la FIFA. Aucun angle divergent, mais Le Monde approfondit les motivations politiques."
+          ]
         }
       ]
     },
@@ -190,82 +129,81 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Espagne : tragédie ferroviaire et colère des familles",
-          "summary": "Une collision entre deux trains à grande vitesse en Espagne, près d’Urda, a fait 69 morts et 200 blessés. Deux jours après l’accident, 67 personnes restent portées disparues, et les familles, confrontées à une attente insoutenable, réclament des identifications rapides. Les autorités ont intensifié les autopsies (48 réalisées, 5 identifications). La fronde politique s’amplifie à un mois des élections législatives, tandis que des questions se posent sur la maintenance du réseau ferroviaire.",
+          "headline": "Crise institutionnelle en Pologne : blocage au Tribunal constitutionnel",
+          "summary": "La Pologne traverse une crise politique majeure après le déploiement de la police devant le Tribunal constitutionnel, où les juges nommés par l’ancien gouvernement nationaliste refusent de céder leur place. Le président nationaliste Karol Nawrocki, rentré d’urgence du Sénégal, et le gouvernement centriste de Donald Tusk s’affrontent sur la légitimité de ces magistrats. Les manifestations de sympathisants du PiS persistent, et le président convoque les partis samedi pour trouver une issue. Aucun compromis n’est en vue à un an des législatives.",
           "sources": [
+            "France 24",
+            "Le Figaro",
             "France Info",
             "Libération",
-            "France 24",
-            "RFI",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-les-familles-entre-la-colere-et-le-desespoir-apres-la-tragedie_8261027.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/on-nous-maintient-dans-une-sorte-desperance-les-familles-de-victimes-de-la-catastrophe-ferroviaire-en-espagne-entre-colere-et-desarroi-20261030_IHJOZAQ45ZDKZCSU7YGP6IUOVU/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261030-drame-ferroviaire-en-espagne-les-familles-dans-l-attente-de-l-identification-des-victimes"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261030-espagne-comment-expliquer-l-accident-ferroviaire-qui-a-fait-68-morts"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/accident-ferroviaire-en-espagne-la-croix-rouge-soutien-indispensable-aux-familles-des-vict"
-            }
-          ],
-          "angles": "Libération et France Info soulignent la souffrance psychologique des familles et leur colère face au manque d’informations, tandis que Le Figaro et France 24 insistent sur les responsabilités politiques et techniques (ministre des Transports, gestionnaire Adif). Euronews et RFI analysent les causes techniques de l’accident."
-        },
-        {
-          "headline": "Ukraine : trêve humanitaire à Olechky, évacuations sous tension",
-          "summary": "Une trêve humanitaire de 72 heures, négociée en partie par Melania Trump, permet l’évacuation de civils et l’acheminement d’aide à Olechky, ville ukrainienne occupée par la Russie. Environ 2 000 habitants ont été évacués vers la Russie puis le Bélarus, avant de rejoindre l’Ukraine. Les frappes russes sur des infrastructures énergétiques (Dnipropetrovsk, Kiev) ont repris après la trêve. Kiev dénonce une instrumentalisation par Moscou et demande une réunion d’urgence du Conseil de sécurité de l’ONU après de nouvelles attaques sur des civils.",
-          "sources": [
-            "Courrier International",
-            "Euronews",
-            "France 24",
-            "RFI",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-des-evacuations-sans-incident-a-olechky-ou-le-cessez-le-feu-perdure_283507"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/ukraine-arseniy-iatseniouk-exclut-une-treve-plus-large-apres-le-cessez-le-feu-humanitaire-"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261030-ukraine-en-direct-frappes-meurtri%C3%A8res-dans-la-r%C3%A9gion-de-kiev-le-r%C3%A9seau-%C3%A9lectrique-cibl%C3%A9"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-crise-politique-en-pologne-acc%C3%A8s-bloqu%C3%A9-au-tribunal-constitutionnel"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261030-ukraine-d%C3%A9but-des-%C3%A9vacuations-humanitaires-%C3%A0-olechky-dans-la-r%C3%A9gion-de-kherson"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/chaos-devant-le-tribunal-constitutionnel-tusk-accuse-de-faire-un-coup-d-etat-la-pologne-en-crise-politique-20261031"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/le-president-de-la-pologne-convoque-les-partis-pour-trouver-une-issue-a-la-crise-politique-apres-l-intervention-de-la-police-au-tribunal-constitutionnel_8261594.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/pologne-la-police-bloque-lacces-au-tribunal-constitutionnel-au-coeur-dune-crise-politique-entre-les-nationalistes-et-les-liberaux-20261031_62KONISPKBETTIBIYH7R4FR46A/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu_6799896_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/10/31/en-pologne-nuit-de-heurts-devant-le-tribunal-constitutionnel_6803472_3210.html"
             }
           ],
-          "angles": "France 24 et Euronews mettent en avant le rôle de Melania Trump et le caractère inédit de la trêve, tandis que Le Monde et RFI insistent sur les risques pour les civils et les limites de l’opération. Courrier International et Euronews critiquent l’absence de progrès vers une paix durable."
+          "angles": "France 24 et Le Figaro soulignent la dimension institutionnelle et les accusations de coup d’État portées contre Tusk, tandis que Libération et Le Monde insistent sur les heurts physiques et la radicalisation des positions politiques. France Info met en avant la recherche d’une médiation entre les factions."
         },
         {
-          "headline": "Russie : fermeture du journal indépendant Novaïa Gazeta",
-          "summary": "Le journal russe Novaïa Gazeta, symbole de la presse indépendante depuis 30 ans, annonce sa fermeture sous la pression des autorités. Fondé par Dmitri Mouratov (Prix Nobel de la paix), il était classé « agent de l’étranger » et ciblait la corruption et les violations des droits humains. Six de ses journalistes ont été assassinés, dont Anna Politkovskaïa en 2006. La fermeture s’inscrit dans la répression accrue contre les médias critiques depuis l’invasion de l’Ukraine.",
+          "headline": "Tragédie ferroviaire en Espagne : 69 morts, familles en attente",
+          "summary": "La collision de deux trains en Espagne, survenue le 28 octobre près de Tolède, a fait au moins 69 morts et des dizaines de blessés. Les autorités intensifient les identifications, mais 48 autopsies ont déjà été réalisées, avec cinq victimes identifiées. Les familles des 67 disparus restent dans l’angoisse, tandis que la colère monte contre les retards et l’opacité des autorités, à un mois des élections législatives. Le Premier ministre Pedro Sánchez a exprimé ses condoléances.",
+          "sources": [
+            "RFI",
+            "France Info",
+            "France 24",
+            "Le Figaro",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261031-accident-ferroviaire-en-espagne-ces-morts-sont-ceux-de-toute-la-soci%C3%A9t%C3%A9"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/ancienne-ministre-athlete-inspecteur-des-impots-qui-sont-les-victimes-de-l-accident-de-trains-qui-a-fait-au-moins-69-morts-en-espagne_8258729.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/ancienne-ministre-membre-de-la-guardia-civil-athlete-qui-sont-les-premieres-victimes-identifiees-de-l-accident-de-train-en-espagne-20261030"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/on-nous-maintient-dans-une-sorte-desperance-les-familles-de-victimes-de-la-catastrophe-ferroviaire-en-espagne-entre-colere-et-desarroi-20261030_IHJOZAQ45ZDKZCSU7YGP6IUOVU/"
+            }
+          ],
+          "angles": "RFI et France Info détaillent les profils des victimes identifiées, tandis que Le Figaro et Libération insistent sur le désarroi des familles et les critiques politiques. France 24 met l’accent sur l’urgence humanitaire et l’attente des proches."
+        },
+        {
+          "headline": "Fermeture du journal russe Novaïa Gazeta après 30 ans d’indépendance",
+          "summary": "Le journal indépendant russe Novaïa Gazeta, symbole de la presse libre depuis 1993, a annoncé sa fermeture sous la pression des autorités. Son ex-rédacteur en chef, Dmitri Mouratov (Prix Nobel de la paix), attribue cette décision à la « campagne militaire » du Kremlin contre les médias critiques. Six journalistes ont été assassinés dans ses rangs, dont Anna Politkovskaïa en 2006. La rédaction a suspendu ses activités, marquant la fin d’un bastion de l’opposition.",
           "sources": [
             "Le Monde",
             "Libération",
             "France 24",
-            "RFI",
-            "Euronews"
+            "RFI"
           ],
           "links": [
             {
@@ -283,60 +221,87 @@
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261030-russie-le-journal-d-opposition-nova%C3%AFa-gazeta-annonce-sa-fin-sous-la-pression-des-autorit%C3%A9s"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/grand-chelem-dabou-dhabi-2026-les-poids-moyens-brillent-lors-du-deuxieme-jour"
             }
           ]
         },
         {
-          "headline": "Grève des dockers en Europe : perturbations portuaires massives",
-          "summary": "Une grève internationale des dockers, lancée contre le transit d’armes via les ports, paralyse 100 terminaux dans 22 pays européens. Le mouvement, soutenu par des fédérations turque, indienne et marocaine, pourrait coûter plus de 2 milliards de dollars. Les retards affectent les cargaisons, tandis que les autorités européennes surveillent l’impact économique. Aucun dialogue n’est encore engagé avec les syndicats.",
+          "headline": "Évacuations humanitaires à Olechky : trêve ukrainienne sous haute tension",
+          "summary": "Une trêve humanitaire de 72 heures, négociée sous l’égide de la Première dame américaine Melania Trump, a permis l’évacuation partielle des habitants d’Olechky, ville ukrainienne occupée par la Russie depuis 2022. Des convois ont acheminé de la nourriture et des médicaments, tandis que certains civils ont pu quitter la zone vers la Biélorussie avant de rejoindre l’Ukraine. Le cessez-le-feu, rare depuis le début de la guerre, expire dimanche, et son avenir reste incertain.",
+          "sources": [
+            "France Info",
+            "Euronews",
+            "Courrier International",
+            "France 24",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-la-premiere-evacuation-humanitaire-conjointe-avec-moscou-vient-en-aide-a-une-ville-occupee_8261657.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/30/ukraine-une-operation-humanitaire-lancee-dans-la-ville-occupee-dolechky"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-des-evacuations-sans-incident-a-olechky-ou-le-cessez-le-feu-perdure_283507"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261030-ukraine-les-habitants-d-olechky-%C3%A9vacu%C3%A9s-une-premi%C3%A8re-op%C3%A9ration-humanitaire-sur-le-front"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261030-ukraine-d%C3%A9but-des-%C3%A9vacuations-humanitaires-%C3%A0-olechky-dans-la-r%C3%A9gion-de-kherson"
+            }
+          ]
+        },
+        {
+          "headline": "Manifestations massives en Italie : colère sociale contre Meloni",
+          "summary": "Plus d’un million de personnes ont manifesté vendredi en Italie contre le gouvernement de Giorgia Meloni, dénonçant le coût de la vie, la dégradation des services publics et les inégalités salariales. Les syndicats et les étudiants ont appelé à une grève générale, marquant une mobilisation inédite depuis l’arrivée au pouvoir de la coalition de droite en 2022. Les revendications portent notamment sur le logement et les droits sociaux, dans un contexte de crise économique persistante.",
           "sources": [
             "RFI",
-            "Euronews",
-            "France Info"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261030-les-ports-europ%C3%A9ens-perturb%C3%A9s-par-une-gr%C3%A8ve-des-dockers-mobilis%C3%A9s-contre-le-transit-d-armements"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/des-dockers-de-22-pays-en-greve-contre-la-guerre-et-le-transit-darmes-par-les-ports"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/belgique/la-meilleure-friterie-le-concours-televise-a-la-recherche-de-la-meilleure-frite-qui-passionne-les-belges_8260676.html#xtor=RSS-3-%5Bgeneral%5D"
-            }
-          ],
-          "angles": "RFI et Euronews soulignent l’aspect géopolitique (guerre en Ukraine) et les conséquences économiques, sans diverger sur le fond."
-        },
-        {
-          "headline": "Pologne : crise institutionnelle après l’éviction du président du Tribunal constitutionnel",
-          "summary": "Le président du Tribunal constitutionnel polonais a été écarté par le pouvoir, déclenchant une crise politique. Des centaines de policiers anti-émeutes ont été déployés à Varsovie pour empêcher les militants du parti Droit et Justice (PiS, opposition) d’accéder à l’enceinte. La cour dénonce un « coup d’État », tandis que le gouvernement justifie cette mesure par des « irrégularités ». La situation aggrave les tensions entre exécutif et justice dans un pays déjà marqué par des réformes controversées.",
-          "sources": [
-            "Le Figaro",
-            "Le Monde",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/crise-politique-en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-anti-emeutes-deployee-20261030"
+              "url": "https://www.rfi.fr/fr/europe/20261031-en-italie-une-journ%C3%A9e-de-manifestations-massive-qui-met-la-pression-sur-le-gouvernement-meloni"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html"
-            },
+              "url": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine reçoit 500 missiles Patriot, mais craint les délais",
+          "summary": "Les États-Unis ont approuvé la vente de 500 missiles Patriot à l’Ukraine, une décision saluée par Kyiv mais jugée insuffisante face à l’urgence des livraisons. Le Congrès doit encore valider la transaction, financée par les alliés européens. Volodymyr Zelensky a exprimé son inquiétude quant aux retards, alors que l’hiver approche et que les attaques russes par drones et missiles se multiplient.",
+          "sources": [
+            "Euronews",
+            "BBC",
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/royaume-uni-enquete-sur-meta-pour-des-conditions-medias-jugees-abusives"
+              "url": "https://fr.euronews.com/2026/10/31/zelensky-salue-la-vente-de-500-missiles-patriot-par-les-etats-unis-mais-sinquiete-des-dela"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-americain-approuve-la-vente-de-500-missiles-patriot-a-l-ukraine_8261099.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-volodymyr-zelensky-inquiet-quant-a-la-date-de-la-livraison-des-missiles-patriot-americains_6799896_3210.html"
             }
-          ],
-          "angles": "Le Monde et Le Figaro adoptent un ton factuel, mais Le Figaro insiste davantage sur l’aspect sécuritaire (déploiement policier), tandis que Le Monde met en avant la dimension institutionnelle et juridique."
+          ]
         }
       ]
     },
@@ -345,162 +310,180 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Attentat raciste de Trappes : hommage et accusations politiques",
-          "summary": "Un attentat raciste a fait un mort et sept blessés dans les Yvelines le 23 octobre. Le maire de Trappes, Ali Rabeh, accuse le Rassemblement National (RN) d’avoir « inoculé la haine » et critique les discours de Jordan Bardella et Marine Le Pen. Des milliers de personnes se sont rassemblées vendredi pour un hommage aux victimes, avec la participation de figures politiques de gauche. L’enquête révèle un mobile raciste et un lien possible avec des discours d’extrême droite.",
+          "headline": "Incendie criminel présumé à Clermont-Ferrand : trois morts",
+          "summary": "Un incendie dans un immeuble du centre-ville de Clermont-Ferrand a causé la mort de trois personnes, dont les corps ont été retrouvés dans les décombres. Un homme a été placé en garde à vue pour suspicion de lien criminel. Les recherches se poursuivent pour une quatrième victime disparue. Le parquet évoque une origine criminelle possible. Les pompiers restent mobilisés sur les lieux.",
           "sources": [
-            "20 Minutes",
             "France Info",
+            "Le Figaro",
             "Le Monde",
-            "France 24",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4259098-20261030-attentat-yvelines-maire-trappes-pointe-doigt-dirigeants-rn?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/videos/video/2026/10/30/attentat-de-trappes-le-recit-en-video-d-une-attaque-terroriste-au-mobile-raciste_6803127_1669088.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-de-trappes-que-sait-on-du-tireur-pr%C3%A9sum%C3%A9"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-des-centaines-de-personnes-rassemblees-a-la-verriere-20261030_F66UFI6UHBAHZNGRFG7NNXGNOI/"
-            }
-          ],
-          "angles": "Libération et Le Monde insistent sur le contexte politique et les accusations contre le RN, tandis que France 24 et 20 Minutes se concentrent sur le profil du suspect et les détails de l’enquête. France Info met en avant la dimension symbolique du rassemblement et les réactions des personnalités politiques."
-        },
-        {
-          "headline": "Édouard Philippe placé sous statut de témoin assisté",
-          "summary": "L’ancien Premier ministre et candidat à la présidentielle, Édouard Philippe, a été placé sous le statut de témoin assisté dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d’agglomération du Havre. Cette décision, prise jeudi, éloigne temporairement le risque de poursuites pénales à son encontre. L’enquête porte sur des faits survenus pendant son mandat de maire.",
-          "sources": [
-            "France Info",
-            "EURACTIV",
-            "Euronews",
-            "France 24",
-            "Le Figaro"
+            "Libération",
+            "Euronews"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/edouard-philippe/que-change-pour-edouard-philippe-son-placement-sous-statut-de-temoin-assiste-dans-l-enquete-pour-detournement-de-fonds-publics_8260295.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/edouard-philippe-interroge-dans-le-cadre-dune-enquete-pour-detournement-de-fonds-publics/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/le-candidat-a-la-presidentielle-edouard-philippe-place-sous-le-statut-de-temoin-assiste"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261029-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds-publics-%C3%A9douard-philippe-plac%C3%A9-sous-le-statut-de-t%C3%A9moin-assist%C3%A9"
+              "url": "https://www.franceinfo.fr/faits-divers/trois-corps-decouverts-dans-les-decombres-d-un-immeuble-a-clermont-ferrand-apres-un-incendie-une-personne-placee-en-garde-a-vue_8261585.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-manifestations-31-octobre-policiers-gendarmes-laurent-nunez-violences-urbaines-halloween-20261030"
+              "url": "https://www.lefigaro.fr/faits-divers/incendie-d-un-immeuble-a-clermont-ferrand-trois-corps-retrouves-dans-les-decombres-20261031"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/31/a-clermont-ferrand-trois-corps-retrouves-dans-les-decombres-d-un-immeuble-apres-un-incendie-la-piste-criminelle-evoquee-par-le-parquet_6803487_3224.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/31/incendie-dun-immeuble-a-clermont-ferrand-le-bilan-salourdit-a-trois-morts"
             }
           ]
         },
         {
-          "headline": "Manifestations du 31 octobre : parcours autorisé à Paris malgré les recours",
-          "summary": "Le tribunal administratif de Paris a suspendu l’arrêté de la préfecture interdisant le parcours Bastille-Nation pour la manifestation du 31 octobre, souhaité par les syndicats. La préfecture a fait appel de cette décision, tandis que le ministre de l’Intérieur, Laurent Nuñez, annonce un dispositif policier exceptionnel de 70 000 forces pour contenir les risques de violences. Plusieurs stations de métro seront fermées, et des couvre-feux imposés dans certaines villes.",
+          "headline": "PSG écrase Le Havre avec un triplé d'Hakimi (5-1)",
+          "summary": "Le Paris Saint-Germain a remporté sa 9e victoire consécutive en Ligue 1 en écrasant Le Havre (5-1) grâce à un triplé et deux passes décisives d'Achraf Hakimi. Le club parisien confirme sa domination en tête du championnat après la 9e journée. Le match s'est déroulé au stade Océane, vendredi soir.",
+          "sources": [
+            "France 24",
+            "France Info",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261031-psg-encha%C3%AEne-9e-victoire-cons%C3%A9cutive-gr%C3%A2ce-tripl%C3%A9-d-achraf-hakimi"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/foot/psg/le-psg-signe-sa-premiere-correction-de-la-saison-en-ligue-1-au-havre-avec-un-triple-d-achraf-hakimi_8261552.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/football/ligue-1/4259031-20261030-direct-havre-psg-ogre-parisien-trop-fort-havrais-encore-victoire-saison-suivez-match-18h45?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "Manifestations contre la vie chère : parcours parisien modifié",
+          "summary": "Le Conseil d'État a validé un parcours entre les portes de Bagnolet et de Charenton pour la manifestation du 31 octobre à Paris, annulant la décision du tribunal administratif. La préfecture a fermé 41 stations de métro et instauré des couvre-feux dans certains secteurs. Les organisateurs dénoncent une entrave au droit de manifester. Environ 70 000 policiers et gendarmes sont mobilisés.",
           "sources": [
             "Le Figaro",
-            "Le Monde",
-            "20 Minutes",
             "France Info",
-            "Libération"
+            "Libération",
+            "France 24",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-manifestations-31-octobre-policiers-gendarmes-laurent-nunez-violences-urbaines-halloween-20261030"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/30/manifestation-du-31-octobre-a-paris-le-tribunal-administratif-suspend-l-arrete-de-la-prefecture-de-police-interdisant-la-manifestation-entre-bastille-et-nation-souhaite-par-l-intersyndicale_6803066_3225.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4258815-20261030-direct-manifestations-31-octobre-70-000-policiers-gendarmes-mobilises-acte-iii-halloween?at_medium=display&at_campaign=149"
+              "url": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-au-moins-41-stations-de-metro-fermees-a-paris-20261031"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/manifestations/le-conseil-d-etat-donne-raison-a-laurent-nunez-et-valide-le-parcours-entre-porte-de-bagnolet-et-porte-de-charenton-pour-la-manifestation-du-31-octobre-a-paris_8261531.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/societe/31-octobre-le-point-sur-les-parcours-de-manifestations-dans-les-grandes-villes-20261029_AGIPSSIHAVDJ5CFWXYJXKLHFS4/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-s%C3%A9curit%C3%A9-amplifi%C3%A9e-pour-l-acte-iii-de-la-mobilisation-sociale-en-france"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4259115-20261031-direct-mobilisation-31-octobre-70-000-policiers-gendarmes-deployes-jusqu-450-000-manifestants-attendus?at_medium=display&at_campaign=149"
             }
-          ]
+          ],
+          "angles": "Libération et 20 Minutes soulignent les tensions entre manifestants et autorités, tandis que Le Figaro insiste sur les mesures de sécurité et les restrictions logistiques. France Info et France 24 mettent en avant le contexte politique et les craintes de violences."
         },
         {
-          "headline": "Économie française en stagnation : PIB en recul de 0,1 % au T3 2026",
-          "summary": "La France a enregistré une contraction de 0,1 % de son PIB entre juillet et septembre 2026, confirmant une stagnation économique persistante. Cette situation complique l’adoption du budget 2027 et interroge sur la capacité du pays à rassurer les marchés. Le gouvernement fait face à une pression accrue pour relancer la croissance, dans un contexte de tensions sociales et de dette publique élevée.",
+          "headline": "Attentat raciste à Trappes : rassemblement contre le racisme",
+          "summary": "Une semaine après l'attentat raciste de Trappes (Yvelines), qui a fait un mort et sept blessés, un rassemblement a eu lieu vendredi soir pour dénoncer le racisme et l'islamophobie. Le maire, Ali Rabeh, a accusé le Rassemblement National d'avoir 'inoculé la haine'. Plusieurs figures politiques de gauche ont participé à l'événement. L'auteur de l'attaque, Kevin T., visait délibérément des personnes 'musulmanes, africaines ou nord-africaines'.",
+          "sources": [
+            "France Info",
+            "RFI",
+            "Euronews",
+            "France 24",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261031-france-une-semaine-apr%C3%A8s-l-attentat-la-gauche-d%C3%A9nonce-%C3%A0-trappes-le-rn-le-racisme-et-l-islamophobie"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/30/trappes-un-rassemblement-contre-le-racisme-et-lislamophobie-une-semaine-apres-lattentat"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-attentat-raciste-%C3%A0-trappes-la-france-c-est-nous-dit-ali-rabeh"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/311026/ouvrez-les-yeux-trappes-une-foule-compacte-est-venue-faire-corps-contre-le-racisme"
+            }
+          ],
+          "angles": "France Info et RFI insistent sur la dimension politique et la réponse de la gauche, tandis que France 24 et Euronews mettent en avant l'aspect symbolique du rassemblement et la mobilisation citoyenne. Mediapart souligne l'émotion collective et le recueillement."
+        },
+        {
+          "headline": "Dette française : Fitch abaisse la perspective à 'négative'",
+          "summary": "L'agence de notation Fitch a maintenu la note de la dette française à A+, mais abaissé sa perspective à 'négative', en raison de la dégradation des finances publiques et de la hausse des taux d'emprunt. Le gouvernement réaffirme la nécessité d'adopter un budget avant la fin de l'année. Cette décision intervient en pleine préparation de l'élection présidentielle de 2027.",
           "sources": [
             "Euronews",
-            "RFI",
-            "Mediapart",
-            "France 24"
+            "20 Minutes",
+            "Le Figaro"
           ],
           "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/30/leconomie-francaise-a-larret-quel-effet-sur-lequation-budgetaire"
+              "url": "https://fr.euronews.com/2026/10/31/dette-fitch-degrade-la-perspective-de-la-france-a-negative"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-%C3%A0-l-arr%C3%AAt-rend-l-%C3%A9quation-budg%C3%A9taire-difficile"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/economie/4259113-20261031-dette-publique-agence-fitch-maintient-note-france-abaisse-perspective?at_medium=display&at_campaign=149"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/economie-et-social/301026/la-stagnation-economique-illustration-de-la-faillite-du-macronisme"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261030-croissance-dette-crise-sociale-la-france-sous-pression"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-le-jour-d-halloween-peut-on-masquer-son-visage-dans-les-corteges-20261031"
             }
-          ],
-          "angles": "Euronews et RFI analysent les conséquences politiques et économiques, tandis que Mediapart attribue cette stagnation à l’échec de la politique économique d’Emmanuel Macron."
+          ]
         },
         {
-          "headline": "Fin de cinq programmes de rénovation énergétique par le gouvernement",
-          "summary": "Le gouvernement a décidé de mettre fin à cinq programmes d’aide à la rénovation énergétique des logements et des bâtiments publics, justifiant cette mesure par une réorientation des financements vers l’électrification. Cette décision, critiquée par l’opposition et une partie de la majorité, concerne notamment les ménages modestes et les collectivités. Elle intervient alors que les vagues de chaleur se multiplient.",
+          "headline": "Violences et mobilisations sociales : craintes pour le 31 octobre",
+          "summary": "Les autorités redoutent des violences comparables à celles du 17 octobre lors des manifestations prévues samedi 31 octobre contre la vie chère. Environ 70 000 policiers et gendarmes sont mobilisés en France. Les commerçants craignent des fermetures et des dégradations. Le contexte d'Halloween ajoute une dimension particulière aux craintes de débordements.",
           "sources": [
-            "Le Monde",
-            "Mediapart",
+            "20 Minutes",
+            "Euronews",
             "France Info",
-            "Courrier International"
+            "Libération"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/10/30/le-gouvernement-met-fin-a-cinq-programmes-d-aide-a-la-renovation-energetique-des-logements-et-des-batiments-publics_6803122_3224.html"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4259093-20261030-manifestations-31-octobre-violences-comparables-celle-17-octobre-redoutees-autorites?at_medium=display&at_campaign=149"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/politique/301026/le-gouvernement-sabre-dans-les-programmes-de-renovation-energetique-des-ecoles"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/10/30/manifestations-en-france-des-violences-comparables-au-17-octobre-redoutees-par-les-autorit"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/culture/cinema/mort-de-patrick-stewart-trois-epoques-d-une-riche-carriere-de-comedien-de-shakespeare-a-star-trek-et-x-men_8260223.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/manifestations/nous-ne-pouvons-pas-etre-les-victimes-collaterales-de-ce-mouvement-alerte-une-representante-des-commercants-en-amont-de-la-mobilisation-du-31-octobre_8261525.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/une/une-du-jour-mort-de-patrick-stewart-star-trek-et-shakespeare-perdent-une-grande-voix_283275"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-20261031_E5MRNDK7TFFVNCW4QQYYAVGFCE/"
             }
           ],
-          "angles": "Le Monde présente cette décision comme une réorientation stratégique, tandis que Mediapart la qualifie de « non-sens écologique et social » et dénonce son impact sur les précaires énergétiques."
+          "angles": "Euronews et 20 Minutes insistent sur les craintes de violences et les mesures de sécurité, tandis que France Info met en avant les enjeux économiques pour les commerçants."
         }
       ]
     }
