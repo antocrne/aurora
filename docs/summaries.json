@@ -1,144 +1,163 @@
 {
-  "generated_at": "2026-11-01T20:42:59Z",
-  "edition": "1er novembre 2026",
+  "generated_at": "2026-11-02T12:46:15Z",
+  "edition": "2 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Midterms 2026 : Trump transforme l’élection en référendum",
-          "summary": "Les élections de mi-mandat aux États-Unis, le 3 novembre, voient Donald Trump en faire un enjeu personnel, accusant les démocrates de radicalité sur l’immigration et menaçant de frappes militaires contre l’Iran. Des candidats républicains, comme Maria Elvira Salazar en Floride, évitent désormais toute association avec lui. Des tensions persistent aussi au sein des démocrates, comme au Michigan où une élue soutenant un républicain a provoqué des divisions. La question migratoire, avec des arrestations massives par l’ICE, domine la campagne.",
+          "headline": "Crash mortel d’un jet privé en Floride",
+          "summary": "Neuf personnes ont péri dimanche 1er novembre dans le crash spectaculaire d’un avion d’affaires près de la résidence de Donald Trump, dans le comté de Palm Beach. Les conditions météo (orages et pluies) et les causes de l’accident font l’objet d’une enquête de la FAA. Une vidéo de dashcam montre l’embrasement immédiat après l’impact.",
           "sources": [
-            "Le Figaro",
             "France 24",
+            "Libération",
             "France Info",
-            "RFI",
-            "Libération"
+            "Le Monde",
+            "Euronews"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/midterms-aux-etats-unis-en-floride-ces-candidats-republicains-qui-font-campagne-loin-de-donald-trump-20261101"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-midterms-aux-%C3%A9tats-unis-trump-a-d%C3%A9cid%C3%A9-d-en-faire-un-r%C3%A9f%C3%A9rendum"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/aux-etats-unis-la-police-de-l-immigration-a-nouveau-sous-les-feux-des-projecteurs-a-l-approche-des-midterms_8221681.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-%C3%A9tats-unis-au-texas-la-vie-en-suspens-des-migrants-menac%C3%A9s-par-l-ice"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-%C3%A9tats-unis-neuf-morts-dans-le-crash-d-un-avion-en-floride"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/guerre-en-iran-donald-trump-menace-de-soccuper-dune-ou-deux-cibles-en-dix-minutes-20261101_LILL3SMPIZCKTPHAPHKMFOIWUY/"
-            }
-          ],
-          "angles": "Le Figaro et France Info soulignent la stratégie de Trump et ses impacts sur les candidats républicains, tandis que Libération et Le Monde analysent les divisions internes démocrates et les enjeux géopolitiques (Iran). France 24 et RFI insistent sur les conséquences concrètes pour les migrants et les électeurs. Le Monde réédite Tocqueville pour contextualiser les risques démocratiques."
-        },
-        {
-          "headline": "Crise au Sahara occidental : fin de la mission onusienne",
-          "summary": "La Mission des Nations unies pour l’organisation d’un référendum au Sahara occidental (Minurso) a pris fin ce 1er novembre après 35 ans, faute de reconduction par le Conseil de sécurité. Le Maroc, qui contrôle 80 % du territoire, salue cette décision comme un pas vers la clôture du dossier, tandis que le Front Polisario dénonce un abandon. Aucune solution politique n’est en vue.",
-          "sources": [
-            "France 24",
-            "RFI",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-sahara-occidental-fin-de-la-mission-onusienne"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261101-sahara-occidental-l-onu-acte-la-liquidation-de-la-minurso"
+              "url": "https://www.liberation.fr/international/amerique/en-floride-neuf-personnes-meurent-dans-le-crash-dun-avion-prive-20261102_XPR3GFT5ENBHTN2M2QAYAUZBTQ/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/usa/neuf-morts-dans-le-crash-d-un-jet-en-floride_8263673.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/video/2026/11/02/crash-d-avion-en-floride-l-enregistrement-de-la-pilote-avant-l-accident_6805186_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/02/floride-une-dashcam-filme-le-crash-mortel-dun-jet-prive-pres-dune-route-faisant-neuf-morts"
             }
           ]
         },
         {
-          "headline": "Menaces de frappes américaines contre l’Iran s’intensifient",
-          "summary": "Donald Trump a menacé de bombarder des sites iraniens, dont le mont Kolang, dès cette semaine, avec le soutien de Benjamin Netanyahou. Téhéran promet une riposte, tandis que des négociations indirectes se poursuivent à Doha. Les tensions s’inscrivent dans le contexte des midterms, où Trump cherche à mobiliser son électorat sur un enjeu sécuritaire.",
+          "headline": "Midterms 2026 : psychodrame démocrate au Michigan",
+          "summary": "À un jour du scrutin, la candidate démocrate Haley Stevens a rompu avec son parti pour soutenir le républicain Mike Rogers, fragilisant les espoirs démocrates de reprendre le Sénat. Donald Trump et Chuck Schumer ont dénoncé cette défection, tandis que les jeunes électeurs texans pourraient basculer vers les démocrates. Les enjeux incluent le contrôle du Congrès et la carte électorale redessinée sous pression républicaine.",
           "sources": [
             "France Info",
-            "Libération",
+            "France 24",
+            "RFI",
+            "Le Monde",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/a-quelques-heures-du-scrutin-des-midterms-une-elue-democrate-fait-defection-du-camp-d-abdul-el-sayed-et-rallie-son-adversaire-republicain-dans-le-michigan_8263841.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-les-jeunes-texans-tent%C3%A9s-par-le-camp-d%C3%A9mocrate"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261102-midterms-2026-la-candidature-du-d%C3%A9mocrate-abdul-el-sayed-divise-la-communaut%C3%A9-juive-du-michigan"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/02/midterms-2026-dans-le-michigan-l-incroyable-ralliement-de-l-opposante-democrate-d-abdul-el-sayed-au-candidat-republicain_6804838_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/midterms-aux-etats-unis-en-floride-ces-candidats-republicains-qui-font-campagne-loin-de-donald-trump-20261101"
+            }
+          ]
+        },
+        {
+          "headline": "Tensions USA-Iran : Trump menace de frappes",
+          "summary": "Donald Trump a averti, dimanche 1er novembre, que les États-Unis pourraient « donner un coup de massue » à l’Iran, évoquant des frappes ciblées. Téhéran a riposté en menaçant d’une guerre « plus longue » et propose de rouvrir le détroit d’Ormuz sous 48 heures si Washington accepte un cessez-le-feu et la levée des sanctions. Les prix du pétrole fluctuent selon les espoirs de désescalade.",
+          "sources": [
+            "France 24",
+            "BBC",
+            "Le Monde",
+            "Euronews",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-iran-le-pr%C3%A9sident-trump-avertit-devoir-%C3%A0-un-moment-donner-un-coup-de-massue-%C3%A0-t%C3%A9h%C3%A9ran"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/02/iran-teheran-se-dit-pret-a-rouvrir-le-detroit-d-ormuz-sous-deux-jours-si-washington-accepte-ses-conditions_6805241_3210.html"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/02/le-petrole-baisse-avec-les-espoirs-sur-hormuz-trump-maintient-loption-de-frappes-contre-li"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/face-aux-menaces-de-trump-liran-avertit-quune-nouvelle-guerre-pourrait-etre-plus-longue-20261102_VZESAWDVUBCJHDCM5Z5E6PXDBE/"
+            }
+          ],
+          "angles": "France 24 et Libération relaient les menaces de Trump comme un élément de campagne pré-électorale, tandis que Le Monde et Euronews analysent les réactions iraniennes et les risques géopolitiques. La BBC lie les tensions à l’impact sur les compagnies aériennes (Ryanair)."
+        },
+        {
+          "headline": "JOJ Dakar 2026 : l’Afrique brille sur la scène olympique",
+          "summary": "La cérémonie d’ouverture des Jeux olympiques de la jeunesse (JOJ) à Dakar, marquée par des symboles culturels africains, a enthousiasmé les 2 700 athlètes présents. L’Égyptien Ali Zain a remporté la première médaille d’or africaine (100 m papillon), tandis que la Côte d’Ivoire espère des performances en basket 3x3. Les JOJ, premiers en Afrique, mettent en avant une identité continentale forte.",
+          "sources": [
+            "France 24",
+            "RFI",
+            "Courrier International"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-joj-de-dakar-2026-une-c%C3%A9r%C3%A9monie-d-ouverture-%C3%A9mouvante"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/sports/20261101-joj-dakar-2026-l-%C3%A9gyptien-ali-zain-offre-%C3%A0-l-afrique-sa-premi%C3%A8re-m%C3%A9daille-d-or"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/reportage-avec-les-jeux-olympiques-de-la-jeunesse-au-senegal-l-afrique-se-raconte-elle-meme_284115"
+            }
+          ],
+          "angles": "France 24 et RFI insistent sur la dimension symbolique et sportive, tandis que Courrier International souligne l’aspect culturel et identitaire des JOJ comme outil de narration africaine."
+        },
+        {
+          "headline": "Sahara occidental : impasse diplomatique après la fin de la Minurso",
+          "summary": "Le mandat de la Mission des Nations unies au Sahara occidental (Minurso) a expiré sans renouvellement, après un veto russe bloquant une résolution américaine favorable au Maroc. Cette crise illustre les divisions du Conseil de sécurité, où Washington et Moscou soutiennent respectivement Rabat et Alger. Le risque d’affrontement direct entre les deux pays s’accroît.",
+          "sources": [
+            "Courrier International",
             "RFI"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/on-peut-faire-ca-en-10-minutes-donald-trump-menace-de-reprendre-les-bombardements-en-iran-avant-les-elections-de-mi-mandat_8262815.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/guerre-en-iran-donald-trump-menace-de-soccuper-dune-ou-deux-cibles-en-dix-minutes-20261101_LILL3SMPIZCKTPHAPHKMFOIWUY/"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/vu-de-guinee-au-sahara-occidental-le-risque-accru-d-un-affrontement-direct-entre-rabat-et-alger_284101"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261101-entre-les-%C3%A9tats-unis-et-l-iran-le-ton-a-chang%C3%A9-estime-le-chercheur-thierry-coville"
-            }
-          ],
-          "angles": "France Info et Libération relaient les déclarations de Trump et les réactions iraniennes, tandis que RFI ajoute une dimension diplomatique avec les pourparlers à Doha. Aucun média ne remet en cause la crédibilité des menaces, mais RFI souligne l’incertitude sur leur issue."
-        },
-        {
-          "headline": "Israël : soupçons de fraude électorale et blocages politiques",
-          "summary": "La commission électorale israélienne confirme des « soupçons graves » d’achat de voix via des financements qatariens pour deux listes arabes, sans remettre en cause les résultats. Dans le même temps, des manifestations appellent à un gouvernement « judéo-arabe », tandis que des contre-manifestations rejettent toute participation des partis arabes. L’impasse politique persiste malgré les législatives.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "Le Monde",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-la-commission-electorale-confirme-des-soupcons-graves-dirregularites-mais-ils-ne-remettront-pas-en-cause-les-resultats-20261101_52W3NBDLWFDDRGVTHCXX4EUCGI/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/01/en-israel-la-rue-divisee-face-a-l-impasse-politique_6804570_3210.html"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "France Info et Libération reprennent les déclarations officielles et les accusations de Netanyahou, tandis que Le Monde met l’accent sur la division sociale et les manifestations. Aucun média ne fournit de preuves concrètes des fraudes, mais tous soulignent leur portée politique."
-        },
-        {
-          "headline": "Piraterie maritime : renaissance des attaques en Somalie",
-          "summary": "Les pirates somaliens multiplient les attaques contre des navires, profitant du relâchement de la surveillance et des perturbations des routes maritimes liées à la guerre en Iran. Un bateau de pêche iranien a été capturé jeudi 29 octobre. L’ONU et les États côtiers peinent à coordonner une réponse efficace, malgré des opérations passées contre ce fléau.",
-          "sources": [
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/afrique/au-large-de-la-somalie-lessor-renouvele-de-la-piraterie-20261101_MYE6YJAQRFBY5DWZMUPBMNNETA/"
+              "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261102-la-liquidation-de-la-minurso-illustration-des-impasses-du-conseil-de-s%C3%A9curit%C3%A9"
             }
           ]
         },
         {
-          "headline": "Inde : manifestations contre la révision des listes électorales",
-          "summary": "Des milliers de personnes ont manifesté à New Delhi contre la révision controversée des listes électorales, accusée de favoriser le parti au pouvoir. Les partis d’opposition exigent la démission du chef de la Commission électorale, dans un contexte de tensions politiques accrues avant les prochaines élections.",
+          "headline": "Birmanie : la junte multiplie les violences en Rakhine",
+          "summary": "Des exilés rakhines en Malaisie témoignent de bombardements ciblant les civils et de conscriptions forcées par la junte birmane, qui cherche à écraser les résistances ethniques et pro-démocratie. La situation dans cet État du nord-ouest s’aggrave, malgré l’absence de couverture médiatique internationale.",
           "sources": [
-            "France 24"
+            "RFI"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-inde-des-milliers-de-manifestants-contre-la-r%C3%A9vision-des-listes-%C3%A9lectorales"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/asie-pacifique/20261102-birmanie-exil%C3%A9s-en-malaisie-des-habitants-de-l-%C3%A9tat-rakhine-t%C3%A9moignent-des-violences-de-la-junte"
             }
           ]
         }
@@ -150,18 +169,26 @@
       "topics": [
         {
           "headline": "Bulgarie : Iotova réélue présidente malgré faible participation",
-          "summary": "La présidente sortante Iliana Iotova, partisane d’un dialogue avec Moscou, a remporté le second tour de l’élection présidentielle en Bulgarie avec 52 à 59 % des voix, devant Andrey Gyurov (52 % selon estimations). La participation n’a atteint que 29 %, dans un contexte marqué par les tensions en mer Noire et la crise économique. Les résultats provisoires doivent être confirmés officiellement. Le scrutin oppose une candidate pro-russe à un europhile, reflétant les divisions du pays sur sa position face à la guerre en Ukraine.",
+          "summary": "Iliana Iotova, partisane du dialogue avec Moscou, a remporté dimanche 1ᵉʳ novembre l’élection présidentielle bulgare avec 57,6 % des voix face à Andrey Gyurov (39,4 %), dans un scrutin marqué par une participation de 29 %. La présidente sortante, déjà en fonction depuis la démission de son prédécesseur, mise sur un rôle de médiation dans la guerre en Ukraine. Son élection reflète les divisions géopolitiques en Europe de l’Est, entre fermeté envers la Russie et recherche de compromis.",
           "sources": [
             "Libération",
+            "Toute l'Europe",
+            "RFI",
             "Euronews",
-            "Le Monde",
-            "France 24",
-            "RFI"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/international/europe/presidentielle-en-bulgarie-un-duel-serre-sur-fond-de-tensions-avec-la-russie-en-mer-noire-20261101_PWOECFDJYVEDXCP7XGL4URBHZM/"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/election-presidentielle-en-bulgarie-victoire-sans-appel-de-la-presidente-sortante-iliana-iotova/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261101-bulgarie-la-pr%C3%A9sidente-sortante-iliana-iotova-remporte-l-%C3%A9lection-pr%C3%A9sidentielle"
             },
             {
               "source": "Euronews",
@@ -170,26 +197,107 @@
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261101-pr%C3%A9sidentielle-en-bulgarie-un-duel-serr%C3%A9-sur-fond-de-tensions-en-mer-noire"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261101-en-bulgarie-une-%C3%A9lection-pr%C3%A9sidentielle-sur-fond-de-tensions-en-mer-noire-et-de-guerre-en-ukraine"
             }
           ],
-          "angles": "Libération et Euronews soulignent le clivage géopolitique et la faible participation comme symptômes d’un désengagement citoyen. Le Monde met en avant le contexte sécuritaire et économique local, tandis que France 24 (via Euronews) insiste sur le duel idéologique sans approfondir les enjeux socio-économiques."
+          "angles": "Libération et Le Monde soulignent le clivage géopolitique (dialogue avec Moscou vs. ligne pro-européenne), tandis que RFI et Euronews insistent sur le contexte de la guerre en Ukraine et la faible participation comme symptôme de désintérêt. Toute l'Europe adopte un ton neutre, centré sur les résultats électoraux."
         },
         {
-          "headline": "Serbie : arrestation du chef de la police criminelle après les législatives",
-          "summary": "Marko Kricak, proche de l’ancien président Aleksandar Vučić, a été arrêté pour abus présumés lors d’une enquête sur un meurtre. Son arrestation s’inscrit dans une série de purges post-électorales après la victoire écrasante de la Liste étudiante aux législatives du 25 octobre, qui a mis fin à 14 ans de règne autoritaire. Les manifestations antigouvernementales avaient été réprimées avec brutalité sous son commandement. Le mouvement étudiant, désormais au pouvoir, le accuse de violences systématiques.",
+          "headline": "Crise politique en Pologne : affrontement autour du Tribunal constitutionnel",
+          "summary": "Un bras de fer oppose depuis vendredi 30 octobre le gouvernement centriste de Donald Tusk et le président Karol Nawrocki, ce dernier refusant de valider les nominations de juges conservateurs suspendus par l’exécutif. Des affrontements ont éclaté devant le Tribunal constitutionnel de Varsovie, où la police a intervenu. Cette crise, perçue comme une préparation aux législatives de 2027, illustre les tensions entre pouvoir judiciaire et exécutif en Pologne.",
           "sources": [
             "Euronews",
             "RFI",
-            "20 Minutes",
-            "Courrier International"
+            "Le Monde",
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/02/europe-today-crise-au-tribunal-constitutionnel-polonais-entre-tusk-et-nawrocki"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261102-pologne-la-crise-du-tribunal-constitutionnel-sert-%C3%A0-pr%C3%A9parer-les-l%C3%A9gislatives-de-2027"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/01/crise-en-pologne-ce-qu-il-faut-savoir_6804522_3210.html"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/pologne-confusion-totale-scenes-surrealistes-le-tribunal-constitutionnel-au-coeur-d-un-bras-de-fer-entre-le-premier-ministre-donald-tusk-et-le-president-karol-nawrocki/"
+            }
+          ],
+          "angles": "Euronews et RFI cadrent l’événement comme une bataille politique pré-électorale, tandis que Le Monde et Toute l’Europe détaillent les enjeux institutionnels et les réactions des deux camps. Aucun média ne prend parti, mais RFI évoque une « confusion totale » pour décrire le climat."
+        },
+        {
+          "headline": "Cyberattaques en Europe : frigos piratés et applications d’alerte ciblées",
+          "summary": "Des cyberattaques ont visé dimanche 1ᵉʳ novembre les systèmes de froid de supermarchés en Belgique, Suède et Luxembourg, provoquant des pertes alimentaires majeures. Parallèlement, l’Ukraine et la Russie ont subi des piratages de leurs applications d’alerte à la population, diffusant de fausses informations. Ces incidents, similaires à ceux subis par la France mi-octobre, s’inscrivent dans une escalade des cybermenaces en Europe, liée au conflit ukrainien.",
+          "sources": [
+            "France Info",
+            "Libération",
+            "BBC",
+            "France 24",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-refrigerateurs-affectes-par-une-cyberattaque-dans-des-magasins-carrefour-en-belgique-des-incidents-signales-dans-d-autres-enseignes_8264036.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/piratage-de-frigos-apres-la-france-et-les-etats-unis-des-dizaines-de-supermarches-touches-en-suede-et-en-belgique-20261102_BZIZVKQNMNDZLLZGLO7CDCY3VE/"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261102-europe-des-chaines-de-supermarches-victimes-incidents-informatiques-sur-refrigerateurs"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/02/cyberattaque-suspectee-contre-les-systemes-de-froid-des-supermarches-europeens"
+            }
+          ]
+        },
+        {
+          "headline": "Belgique : démission de De Wever bloquée par le roi Philippe",
+          "summary": "Le Premier ministre belge Bart De Wever a remis sa démission lundi 2 novembre au roi Philippe en raison de l’échec des négociations budgétaires au sein de sa coalition de cinq partis. Le monarque, qui n’a pas encore accepté la démission, a suspendu sa décision et doit recevoir De Wever vendredi pour de nouvelles consultations. Ce blocage budgétaire menace la stabilité du gouvernement à quelques mois des élections régionales.",
+          "sources": [
+            "Courrier International",
+            "Le Monde",
+            "Libération",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/politique-en-belgique-le-premier-ministre-remet-sa-demission-le-roi-temporise_284128"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/02/belgique-le-premier-ministre-bart-de-wever-presente-sa-demission-au-roi-sur-fond-de-blocage-budgetaire_6805239_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/belgique-le-premier-ministre-a-remis-sa-demission-au-roi-sous-fond-de-blocage-budgetaire-20261102_F3K462RPBFDVNA3IMDEVY56E5M/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/02/belgique-le-premier-ministre-bart-de-wever-remet-sa-demission-au-roi-philippe"
+            }
+          ],
+          "angles": "Le Monde et Libération détaillent les divisions internes à la coalition et le rôle du roi comme arbitre institutionnel, tandis que Courrier International et Euronews adoptent un angle plus politique, soulignant les risques pour la gouvernance belge. Aucun ton éditorial n’est détecté."
+        },
+        {
+          "headline": "Serbie : arrestation du chef de la police criminelle et commémoration tragique",
+          "summary": "Marko Kricak, ancien proche d’Aleksandar Vučić et connu pour sa répression des manifestations, a été arrêté lundi 2 novembre dans le cadre d’une enquête sur un meurtre. Parallèlement, la Serbie commémore les 16 victimes de l’effondrement de la gare de Novi Sad il y a deux ans, tandis que les nouveaux dirigeants étudiants promettent des comptes sur des soupçons de corruption. Ces événements illustrent la transition politique post-Vučić et les défis judiciaires du pays.",
+          "sources": [
+            "Euronews",
+            "RFI"
           ],
           "links": [
             {
@@ -199,121 +307,27 @@
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261101-serbie-arrestation-du-chef-de-la-police-criminelle-dans-le-sillage-des-l%C3%A9gislatives"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4259328-20261101-serbie-arrestation-chef-police-criminelle-sillage-legislatives?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/decryptage-ils-ont-redonne-confiance-comment-les-etudiants-serbes-ont-gagne-face-a-l-apathie-et-au-desespoir_282483"
             }
-          ],
-          "angles": "RFI et 20 Minutes mettent en avant le lien entre l’arrestation et le changement politique, soulignant une justice transitionnelle. Euronews se concentre sur l’aspect judiciaire sans évoquer le contexte des manifestations, tandis que Courrier International adopte un angle mobilisateur sur le rôle des étudiants dans la chute de Vučić."
+          ]
         },
         {
-          "headline": "Pologne : crise institutionnelle autour du Tribunal constitutionnel s’aggrave",
-          "summary": "La Commission européenne a soutenu le Premier ministre Donald Tusk en appelant le président Karol Nawrocki à valider la nomination de juges pour résoudre la crise politique. Le conflit oppose l’exécutif centriste à l’opposition nationaliste (PiS), qui contrôle le Tribunal constitutionnel. Des affrontements ont eu lieu vendredi devant le tribunal, diffusés en direct. Tusk a promis de défendre l’État de droit, tandis que Nawrocki refuse tout compromis, bloquant la nomination de magistrats indépendants.",
+          "headline": "UE : tensions énergétiques et cybermenaces pèsent sur l’hiver 2026-2027",
+          "summary": "L’Union européenne fait face à une double crise : la fermeture du détroit d’Ormuz a fait bondir les prix du gaz (jusqu’à 97 €/MWh), poussant les ministres à chercher des mesures pour réduire les factures des ménages. Parallèlement, des députés européens réclament 2 milliards d’euros supplémentaires pour sécuriser le transport maritime en mer Noire, cible d’attaques croissantes. Ces défis s’ajoutent aux risques cyber, comme les récentes attaques sur les infrastructures frigorifiques.",
           "sources": [
-            "France 24",
-            "RFI",
-            "Le Monde",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-pologne-pourquoi-ce-bras-de-fer-entre-tusk-et-nawrocki"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261031-pologne-le-bras-de-fer-s-intensifie-entre-le-premier-ministre-tusk-et-le-pr%C3%A9sident-navrocki"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/01/crise-en-pologne-ce-qu-il-faut-savoir_6804522_3210.html"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/10/31/crise-en-pologne-donald-tusk-promet-un-tribunal-fort-et-refuse-tout-compromis-avec-lillega"
-            }
-          ],
-          "angles": "France 24 et Euronews insistent sur l’ingérence de Bruxelles et le risque de dérive autoritaire, avec un ton alarmiste. Le Monde analyse les mécanismes juridiques et politiques du blocage, tandis que RFI adopte un angle plus descriptif des consultations en cours."
-        },
-        {
-          "headline": "Ukraine : fin de la trêve à Olechky, évacuations humanitaires sous tension",
-          "summary": "La trêve exceptionnelle de six jours à Olechky, occupée par la Russie, a pris fin dimanche soir, permettant à environ 700 civils d’être évacués vers l’Ukraine libre. Les habitants, privés de nourriture et de médicaments, décrivent des conditions extrêmes. Moscou a refusé de prolonger le cessez-le-feu, et Kiev prépare une reprise des combats. Une raffinerie russe a été frappée par une attaque ukrainienne dans la nuit de samedi à dimanche, illustrant l’escalade des frappes de part et d’autre.",
-          "sources": [
-            "France 24",
-            "Le Monde",
-            "BBC",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-attaque-d-une-raffinerie-russe-fin-de-la-treve-a-olechky-les-dernieres-informations-sur-le-conflit_6803934_3210.html"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261101-je-ne-sais-pas-comment-j-ai-surv%C3%A9cu-en-ukraine-le-retour-tant-attendu-des-r%C3%A9sidents-d-olechky"
-            }
-          ],
-          "angles": "France 24 et Le Monde mettent l’accent sur la dimension militaire et humanitaire, avec des témoignages poignants. La BBC et RFI insistent sur le côté symbolique de l’évacuation comme victoire tactique, tandis que Le Monde et France 24 combinent récits de survivants et analyse stratégique."
-        },
-        {
-          "headline": "Allemagne : manifestations de la Gen Z dégénèrent en émeutes",
-          "summary": "Des manifestations pacifiques organisées par le mouvement GenZ Regelt samedi ont tourné à l’émeute dans plusieurs villes, avec des pillages, des incendies et des blessés. Environ 120 000 personnes ont défilé, mais des groupes violents ont ciblé des commerces et des symboles institutionnels. Le gouvernement et les partis de gauche condamnent les violences tout en reconnaissant les revendications sociales. Les troubles rappellent ceux observés en France fin octobre, avec des appels à ne pas diaboliser toute la jeunesse.",
-          "sources": [
-            "France 24",
             "Euronews",
-            "France Info",
-            "Le Monde"
+            "EURACTIV"
           ],
           "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261101-allemagne-plusieurs-partis-condamnent-violences-appellent-%C3%A9couter-gen-z"
-            },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/01/allemagne-des-manifestations-de-la-generation-z-degenerent-en-emeutes-et-pillages"
+              "url": "https://fr.euronews.com/2026/11/02/quel-est-le-plan-de-lue-pour-reduire-votre-facture-denergie-posez-la-question-au-chatbot-i"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/01/manifestations-en-allemagne-la-gauche-condamne-les-violences-et-appelle-a-ne-pas-occulter-les-revendications_6804443_3210.html"
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/attaques-en-mer-noire-des-deputes-europeens-reclament-davantage-de-fonds-europeens/"
             }
-          ]
-        },
-        {
-          "headline": "Royaume-Uni : Burnham envisage des excuses officielles sur l’esclavage",
-          "summary": "Le Premier ministre Andy Burnham a déclaré être ouvert à des excuses officielles du Royaume-Uni pour son rôle dans la traite transatlantique, lors d’un déplacement dans les Caraïbes avec le roi Charles III. Il exclut toute réparation financière aux descendants d’esclaves. Cette déclaration intervient avant le sommet du Commonwealth (CHOGM), où le roi doit s’exprimer sur le sujet. La question divise la classe politique britannique, entre reconnaissance historique et réticences à assumer une responsabilité collective.",
-          "sources": [
-            "Libération",
-            "RFI"
           ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/une-violation-brutale-et-barbare-des-droits-humains-andy-burnham-ouvre-la-porte-a-des-excuses-officielles-du-royaume-uni-sur-lesclavage-20261101_6YPPPIIQG5AVFIO7ZQSCAR626Y/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261031-royaume-uni-le-premier-ministre-se-dit-ouvert-%C3%A0-des-excuses-officielles-sur-l-esclavage"
-            }
-          ]
+          "angles": "Euronews utilise un chatbot IA pour expliquer les mesures énergétiques, adoptant un ton pédagogique, tandis que EURACTIV insiste sur les revendications budgétaires et géopolitiques. Aucun média ne minimise l’urgence, mais Euronews ajoute une dimension interactive (sondage)."
         }
       ]
     },
@@ -322,172 +336,162 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Agression mortelle contre un pompier près de Marseille",
-          "summary": "Un sapeur-pompier de 51 ans a été grièvement blessé par balle dimanche près des Pennes-Mirabeau (Bouches-du-Rhône) lors d’une intervention pour éteindre un feu. Le tireur, retranché sur place, a été interpellé et remis aux autorités judiciaires. Un autre pompier et un véhicule ont également été touchés. Le ministre de l’Intérieur a condamné une « agression violente gratuite ». Les circonstances exactes de l’attaque restent floues.",
+          "headline": "Mobilisation lycéenne : blocages persistants malgré concessions",
+          "summary": "Plusieurs dizaines de lycées en France restent bloqués ce lundi 2 novembre, malgré les annonces gouvernementales de concessions. Les organisations lycéennes, comme Les Lycéens ! et l'Union syndicale lycéenne (USL), appellent à maintenir la pression pour faire aboutir leurs revendications. Le Premier ministre Sébastien Lecornu réitère sa disponibilité pour des rencontres la semaine prochaine, mais les mobilisations pourraient s’intensifier avec une journée noire prévue mardi 3 novembre. Les syndicats étudiants et lycéens préparent aussi une grève interprofessionnelle pour le 5 novembre.",
           "sources": [
-            "Le Figaro",
             "Libération",
             "France Info",
             "Le Monde",
-            "20 Minutes"
+            "20 Minutes",
+            "Le Figaro"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/marseille/un-sapeur-pompier-blesse-par-balle-dans-les-bouches-du-rhone-alors-qu-il-intervenait-sur-un-feu-20261101"
-            },
-            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/un-pompier-blesse-par-balle-lors-dune-intervention-pres-de-marseille-20261101_EMZOSQO5TJBJNO47KZODFM5BK4/"
+              "url": "https://www.liberation.fr/societe/education/en-direct-crise-lyceenne-une-rentree-des-vacances-de-la-toussaint-marquee-par-des-blocages-residuels-selon-edouard-geffray-20261102_M7EP7BDCTRBQNAAWWNI5AAPPNA/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/01/pompier-blesse-par-balle-pres-de-marseille-un-homme-interpelle-annonce-le-prefet_6804532_3224.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/02/sebastien-lecornu-se-dit-pret-a-recevoir-de-nouveau-les-representants-lyceens-la-semaine-prochaine-41-lycees-bloques-lundi-dont-plusieurs-a-paris-marseille-et-toulouse_6805152_823449.html"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4259355-20261101-bouches-rhone-pompier-blesse-balle-lors-intervention-raid-place?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/societe/4259543-20261102-direct-colere-sociale-executif-va-savoir-matin-niveau-tension-fait-rentree?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/en-direct-lycees-blocus-mobilisation-appel-greve-universites-blocages-six-seven-manifestation-20261102"
+            }
+          ],
+          "angles": "Libération et Le Monde soulignent l'insuffisance des mesures gouvernementales et la radicalisation des lycéens, tandis que France Info et 20 Minutes insistent sur les chiffres de blocages (1 % des établissements) et les réactions officielles. Le Figaro met en avant les appels à la mobilisation future (journée noire, grève)."
+        },
+        {
+          "headline": "Affaire TF1 : Mélenchon annule son 20H après polémique sur l'immigration",
+          "summary": "Jean-Luc Mélenchon a annulé sa venue au journal de 20 heures de TF1 lundi 2 novembre, accusant la chaîne de ne pas avoir interrompu Édouard Philippe lors d’une interview jugée « dégoûtante » sur l’immigration. TF1 affirme que son passage était déjà annulé et que la présentatrice Anne-Claire Coudray a mené l’entretien avec rigueur. La polémique s’inscrit dans le contexte de la campagne présidentielle 2027, où les débats sur l’immigration sont centraux. Mélenchon dénonce une « stratégie de division » et des « calomnies racistes ».",
+          "sources": [
+            "France Info",
+            "Le Monde",
+            "Libération",
+            "20 Minutes",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4259410-20261102-presidentielle-2027-accusant-tf1-menager-edouard-philippe-racisme-melenchon-annule-20h?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/accusee-de-calomnies-racistes-tf1-repond-a-jean-luc-melenchon-et-assure-son-soutien-a-anne-claire-coudray-20261102"
+            }
+          ],
+          "angles": "Libération et Le Monde insistent sur le ton accusateur de Mélenchon et le manque de réactivité de TF1, tandis que France Info et 20 Minutes relaient davantage les réponses de la chaîne et le contexte politique. Le Figaro aborde aussi la polémique mais sans analyse approfondie des propos d’Édouard Philippe."
+        },
+        {
+          "headline": "Kimi Antonelli sacré champion du monde de F1 à 20 ans",
+          "summary": "L’Italien Kimi Antonelli, 20 ans, est devenu le plus jeune champion du monde de l’histoire de la Formule 1 après sa troisième place au Grand Prix du Mexique dimanche 1er novembre. Pilote de Mercedes, il a remporté le titre avec 16 podiums en 19 courses lors de sa deuxième saison. Son sacre, marqué par une émotion visible après la course, a dominé les médias sportifs. L’événement a aussi été salué pour son impact médiatique et son symbole de jeunesse dans le sport automobile.",
+          "sources": [
+            "France 24",
+            "Libération",
+            "Euronews",
+            "20 Minutes",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-formule-1-kimi-antonelli-sacr%C3%A9-le-plus-jeune-champion-du-monde"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/sports/sports-mecaniques/on-la-fait-kimi-antonelli-devient-le-plus-jeune-champion-du-monde-de-lhistoire-de-la-formule-1-20261102_JRZVDHA2SBAZPPLHPAFTUHADZ4/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/02/kimi-antonelli-devient-le-plus-jeune-champion-du-monde-f1-a-mexico"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/f1/4259391-20261102-fait-antonelli-devient-plus-jeune-champion-monde-histoire-f1?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sports/formule-1/formule-1-dans-le-dernier-tour-j-ai-du-ralentir-parce-que-j-avais-du-mal-a-voir-la-piste-l-emotion-de-kimi-antonelli-apres-son-sacre-mondial-20261102"
             }
           ]
         },
         {
-          "headline": "Enquête pour tentative d’homicide après jet de cocktail Molotov",
-          "summary": "Une enquête pour « tentative d’homicide sur personnes dépositaires de l’autorité publique » a été ouverte après qu’un cocktail Molotov a blessé légèrement un gendarme à Paris, porte de Charenton, samedi 31 octobre. Le projectile a brièvement enflammé la jambière du militaire. Le parquet de Paris et le ministre de l’Intérieur ont qualifié l’acte de « tentative de meurtre ». 779 interpellations ont été recensées lors des manifestations du 31 octobre.",
+          "headline": "Attentat raciste de Trappes : hommage national et quête de justice",
+          "summary": "La famille de Pengo Bossio Wangi, tué lors de l’attentat raciste des Yvelines le 23 octobre, appelle à un hommage national pour « prendre conscience » du racisme en France. Le gouvernement a annoncé un hommage, sans préciser la date. La sœur du victime a témoigné publiquement pour la première fois, rendant hommage à son frère. Les débats sur la gestion politique de la violence raciste et les réactions médiatiques (comme celle de TF1) alimentent les tensions. Une pétition pour fermer CNews, liée à ces événements, a dépassé 500 000 signatures, ouvrant la possibilité d’un débat parlementaire.",
           "sources": [
-            "Le Monde",
+            "France Info",
             "20 Minutes",
-            "Libération",
             "Le Figaro",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4259318-20261101-manifestation-31-octobre-enquete-ouverte-tentative-homicide-apres-jet-cocktail-molotov?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/objet-incendiaire-lance-sur-des-gendarmes-a-paris-enquete-ouverte-pour-tentative-dhomicide-20261101_SCHEIFFOGJGITGLEX574BD6454/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/mobilisation-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-apres-le-jet-d-un-cocktail-molotov-sur-des-gendarmes-20261101"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent la gravité de l’attaque et son contexte lors des manifestations contre la vie chère, tandis que Le Figaro et 20 Minutes insistent sur les images virales et la réaction des autorités. France Info met en avant le bilan global des interpellations."
-        },
-        {
-          "headline": "Édouard Philippe rejette la primaire de la droite et du centre",
-          "summary": "Le candidat Horizons à la présidentielle 2027, Édouard Philippe, a de nouveau refusé dimanche de participer à une primaire de la droite et du centre, proposée par Gabriel Attal pour éviter une division. Il qualifie cette idée de « source de division » et de « confusion », arguant qu’elle rassemblerait des « gens qui ne sont pas d’accord ». Le débat oppose désormais les partisans d’une unification et ceux d’une candidature individuelle.",
-          "sources": [
-            "RFI",
-            "Le Figaro",
-            "France Info",
-            "Libération",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261101-pr%C3%A9sidentielle-fran%C3%A7aise-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-de-la-droite-et-du-centre"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/edouard-philippe-dit-encore-non-a-une-primaire-de-la-droite-et-du-centre-20261101_7GXIKX5P3ZGXRGN74DOPZ6KKGM/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4259366-20261101-presidentielle-2027-edouard-philippe-veut-vraiment-natacha-polony-devoile-soutien-poids?at_medium=display&at_campaign=149"
-            }
-          ],
-          "angles": "Le Figaro et RFI insistent sur l’opposition frontale de Philippe et son argumentaire politique, tandis que France Info et 20 Minutes relaient davantage ses déclarations directes lors de son intervention sur TF1. Libération aborde aussi le contexte stratégique de la campagne."
-        },
-        {
-          "headline": "Incendie criminel présumé à Clermont-Ferrand fait quatre morts",
-          "summary": "Deux hommes ont été mis en examen et écroués après l’incendie d’un immeuble à Clermont-Ferrand ayant tué quatre personnes dans la nuit du 24 au 25 octobre. Les enquêteurs évoquent une « origine criminelle possible ». Les victimes, dont les identités n’ont pas été divulguées, étaient piégées dans leur logement. Les circonstances exactes de l’incendie restent à élucider.",
-          "sources": [
-            "France Info",
             "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-des-yvelines-le-pere-de-l-homme-tue-souhaite-que-l-hommage-national-permette-une-prise-de-conscience-contre-le-racisme_8263964.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4259684-20261102-attentat-raciste-trappes-pere-pengo-bossio-wangi-espere-prise-conscience-apres-hommage-national?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/faits-divers/que-la-justice-soit-ferme-et-rende-hommage-a-mon-frere-la-soeur-de-pengo-bossio-wangi-tue-a-trappes-temoigne-pour-la-premiere-fois-20261102"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/incendie-mortel-a-clermont-ferrand-deux-hommes-mis-en-examen-et-places-en-detention-provisoire-20261101_7RBMX6MITVG5LOFHJWV33L2MWY/"
+              "url": "https://www.liberation.fr/economie/medias/cnews-nest-pas-une-chaine-dinformation-une-petition-reclamant-la-suppression-du-media-dextreme-droite-cartonne-sur-le-site-de-lassemblee-20261101_TMYHVXPZ75H6BM5G6OSMBX2HUM/"
             }
           ]
         },
         {
-          "headline": "Mobilisation lycéenne : blocages annoncés dès lundi malgré les mesures gouvernementales",
-          "summary": "Le mouvement lycéen « Les Lycéens ! » a appelé à bloquer les établissements dès la rentrée des vacances de la Toussaint, jugeant insuffisantes les annonces du gouvernement. Les organisations dénoncent une « politique de comptoir » et exigent des réformes structurelles. Édouard Philippe a invité les lycéens à « reprendre leur année scolaire », tandis que des incertitudes persistent sur la participation effective des élèves, notamment en période de baccalauréat.",
+          "headline": "Affaire des Dubaï Papers : procès pour fraude fiscale à grande échelle",
+          "summary": "Un procès s’ouvre lundi 2 novembre à Paris pour juger treize personnes et trois sociétés impliquées dans l’affaire des Dubaï Papers, un réseau présumé d’évasion fiscale ayant permis de dissimuler plus de 200 millions d’euros. Les accusés, dont des avocats et experts-comptables, sont accusés d’avoir aidé plus de 300 contribuables français à frauder via des montages sophistiqués. L’enquête, menée par la DGCCRF et le parquet national financier, vise à éclaircir les mécanismes de cette « officine » basée aux Émirats.",
           "sources": [
             "France 24",
-            "Libération",
-            "Le Figaro",
             "Le Monde"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261101-lyc%C3%A9es-seront-bloqu%C3%A9s-pour-rentr%C3%A9e-mouvement-lyc%C3%A9ens-appelle-mobilisation"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/education/mobilisation-sociale-lorganisation-les-lyceens-appelle-au-blocus-des-lycees-des-lundi-20261101_WRURVARV2REMXO6GISKMFA7PCQ/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101"
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/02/dubai-papers-l-heure-du-proces-pour-une-officine-de-fraude-fiscale-a-grande-echelle_6804884_4355770.html"
             }
           ]
         },
         {
-          "headline": "Tags racistes et « remigration » à Paris : le maire saisit la justice",
-          "summary": "Des inscriptions xénophobes et racistes reprenant le terme « remigration » ont été découvertes sur des commerces parisiens samedi 31 octobre. Le maire de Paris, Emmanuel Grégoire, a saisi la justice pour faire cesser ces actes, qualifiés d’incitation à la haine. Ces tags sont portés par des mouvements d’extrême droite. Parallèlement, une réunion clandestine du collectif « Objectif Remigration » a eu lieu dans un bistrot parisien malgré les interdictions préfectorales.",
+          "headline": "Budget 2027 : critiques et amendements dans un hémicycle clairsemé",
+          "summary": "Les débats sur le budget 2027 se poursuivent à l’Assemblée nationale, marquée par des critiques envers la politique économique macroniste après la publication de prévisions pessimistes de croissance par l’Insee. Les députés examinent des amendements au devenir incertain, dans un contexte de tensions sociales et de mobilisations. Un vote solennel sur le volet recettes est prévu mardi 3 novembre. Les discussions révèlent un mécontentement croissant face aux choix budgétaires et aux réformes en cours.",
           "sources": [
-            "RFI",
-            "Mediapart",
-            "Libération"
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261101-france-le-maire-de-paris-saisit-la-justice-apr%C3%A8s-la-d%C3%A9couverte-de-tags-racistes-promouvant-la-remigration"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/011126/une-semaine-sous-le-signe-de-la-haine-raciste-en-france"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/interdit-de-colloque-et-de-manifestation-le-collectif-objectif-remigration-se-rabat-sur-un-bistrot-parisien-20261101_YIQDAIHH7ZBFDFXMI2B2F436HY/"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/02/budget-2027-les-discussions-se-poursuivent-dans-un-hemicycle-clairseme-ou-les-deputes-votent-des-amendements-au-devenir-incertain_6805244_823448.html"
             }
           ]
         }
