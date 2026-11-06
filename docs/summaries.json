@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T22:12:24Z",
-  "edition": "5 novembre 2026",
+  "generated_at": "2026-11-06T12:21:32Z",
+  "edition": "6 novembre 2026",
   "categories": [
     {
       "id": "monde",
@@ -8,26 +8,22 @@
       "topics": [
         {
           "headline": "Crise bancaire au Paraguay : démission du président",
-          "summary": "Le président paraguayen Santiago Peña a démissionné jeudi 5 novembre après une crise bancaire majeure, impliquant la mise sous tutelle de la banque Ueno, dont les dépôts de 2,94 millions de clients ont été gelés. Sa destitution a été votée par le Parlement, et le vice-président Pedro Alliana lui succède. Les accusations portent sur des conflits d’intérêts et un exercice jugé défaillant de ses fonctions. La population attend la libération des fonds bloqués.",
+          "summary": "Le président paraguayen Santiago Peña a démissionné jeudi 5 novembre après la faillite de la banque Ueno, gelant les dépôts de trois millions de clients. Le Parlement a rejeté sa démission pour le destituer et engager des poursuites. Le vice-président Pedro Alliana lui succède. La crise bancaire a provoqué une perte de confiance massive dans le pouvoir.",
           "sources": [
+            "Courrier International",
             "France Info",
-            "France 24",
-            "Le Monde",
             "BBC",
-            "Euronews"
+            "Euronews",
+            "France 24"
           ],
           "links": [
             {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/crise-paraguay-le-president-presente-sa-demission-apres-la-faillite-d-une-grande-banque_285304"
+            },
+            {
               "source": "France Info",
               "url": "https://www.franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html"
             },
             {
               "source": "BBC",
@@ -36,140 +32,120 @@
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/05/santiago-pena-le-president-du-paraguay-demissionne-en-pleine-crise-bancaire"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-paraguay-santiago-pe%C3%B1a-l-%C3%A9conomiste-r%C3%A9put%C3%A9-d%C3%A9fait-par-une-crise-bancaire"
             }
-          ]
+          ],
+          "angles": "France Info et Euronews soulignent l'impact humain (gel des comptes) et la rapidité de la destitution, tandis que Courrier International et BBC insistent sur les liens entre Peña et la banque en faillite, ainsi que sur les procédures parlementaires."
         },
         {
-          "headline": "Midterms 2026 : défaite historique des républicains aux États-Unis",
-          "summary": "Les démocrates ont remporté une victoire écrasante lors des élections de mi-mandat, reprenant la majorité au Sénat et à la Chambre des représentants. Donald Trump, dont le parti a subi une défaite sans précédent, voit son pouvoir exécutif limité par un Congrès désormais hostile. Les analystes soulignent que cette défaite pourrait affaiblir sa candidature pour 2028 et renforcer les enquêtes contre lui. Les manifestations pour le pouvoir d’achat, réunissant 600 000 personnes, illustrent aussi les tensions sociales persistantes.",
+          "headline": "Midterms 2026 : victoire démocrate et chute des valeurs IA",
+          "summary": "Les démocrates ont remporté une majorité écrasante aux élections de mi-mandat aux États-Unis, assurant au moins 250 sièges à la Chambre et 54 sénateurs. Donald Trump accuse des fraudes sans preuve. Les marchés boursiers ont réagi en faisant chuter les valeurs liées à l'IA, craignant un ralentissement des projets de data centers. La jeunesse américaine exprime un regain d'optimisme politique.",
           "sources": [
-            "Le Figaro",
+            "France Info",
             "France 24",
-            "Libération",
-            "Le Monde",
+            "20 Minutes",
             "RFI"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/midterms-la-difficile-introspection-des-republicains-dans-lombre-de-donald-trump-20261105_ECWPUKJG6BBFVPNBGETSI7ZT5M/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/etats-unis/4260658-20261106-midterms-quoi-millennial-optimism-revivifie-defaite-donald-trump?at_medium=display&at_campaign=149"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261105-midterms-2026-la-victoire-d%C3%A9mocrate-va-t-elle-emp%C3%AAcher-trump-de-gouverner"
-            }
-          ],
-          "angles": "« Le Figaro insiste sur l’impact diplomatique et la résilience démocratique, tandis que Libération et Le Monde analysent les conséquences politiques internes et les divisions au sein du camp républicain. France 24 met en avant les revendications sociales parallèles aux midterms. »"
-        },
-        {
-          "headline": "Israël : Eisenkot en position pour former un gouvernement",
-          "summary": "Gadi Eisenkot, ancien chef d’état-major israélien, est soutenu par six partis représentant une majorité à la Knesset pour former le prochain gouvernement. Le président Isaac Herzog doit officialiser sa désignation dimanche 7 novembre. Cette situation suit des élections législatives sans majorité claire, opposant Eisenkot à Benyamin Netanyahou. La principale liste arabe a apporté son soutien à Eisenkot, un élément clé pour sa légitimité.",
-          "sources": [
-            "Libération",
-            "RFI",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261106-midterms-2026-la-vague-d%C3%A9mocrate-rebat-les-cartes-sur-le-plan-%C3%A9conomique"
             }
           ]
         },
         {
-          "headline": "Californie : abolition de la peine de mort pour 548 détenus",
-          "summary": "Le gouverneur démocrate Gavin Newsom a annoncé la commutation des peines de mort en prison à perpétuité pour les 548 condamnés de Californie, soit un quart des détenus sous sentence capitale aux États-Unis. Cette décision, justifiée par l’inequité du système judiciaire, intervient alors que Newsom se positionne comme candidat potentiel pour la présidentielle de 2028. La Californie détient historiquement le plus grand nombre de condamnés à mort dans le pays.",
+          "headline": "Israël : Eisenkot en position pour former le gouvernement",
+          "summary": "Le président israélien Isaac Herzog a annoncé que le centriste Gadi Eisenkot, soutenu par 67 députés, pourrait former le prochain gouvernement, contre 46 pour le Premier ministre sortant Benjamin Netanyahu. Eisenkot bénéficie du soutien des partis arabes, mais sa capacité à rassembler une coalition reste incertaine. La décision finale sera connue dimanche.",
           "sources": [
-            "Le Monde",
-            "Libération",
-            "BBC",
-            "France Info"
+            "France 24",
+            "Courrier International"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-gadi-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-apparait-en-position-de-force-pour-former-un-gouvernement_285354"
+            }
+          ]
+        },
+        {
+          "headline": "Kenya : condamnation historique du gourou du massacre de Shakahola",
+          "summary": "Paul Mackenzie, leader d'une secte, a été condamné à 200 ans de prison pour avoir ordonné la mort de 191 personnes, dont 190 enfants, dans la forêt de Shakahola en 2023. Les corps avaient été retrouvés affamés, Mackenzie affirmant vouloir les faire « rencontrer Jésus ». La peine évite la condamnation à mort, mais reste symbolique.",
+          "sources": [
+            "BBC",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique/20261106-massacre-de-shakahola-au-kenya-le-gourou-de-la-secte-condamn%C3%A9-%C3%A0-200-ans-de-prison-pour-le-meurtre-de-191-personnes"
+            }
+          ],
+          "angles": "RFI et BBC adoptent un ton factuel et dramatique, insistant sur l'ampleur du massacre et le profil psychologique du condamné, sans analyse supplémentaire."
+        },
+        {
+          "headline": "Californie : abolition de la peine de mort par le gouverneur",
+          "summary": "Gavin Newsom, gouverneur de Californie, a annoncé la commutation des peines de mort de 548 détenus en prison à perpétuité, invoquant l'incompatibilité avec les valeurs de l'État. Cette décision, prise à quelques semaines de la fin de son mandat, pourrait renforcer sa candidature à la présidentielle de 2028. Aucun nouveau condamné à mort n'a été exécuté en Californie depuis 2006.",
+          "sources": [
+            "France Info",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM/"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html#xtor=RSS-3-%5Bgeneral%5D"
-            }
-          ],
-          "angles": "« Le Monde et Libération soulignent l’aspect symbolique et politique de la décision, tandis que la BBC met en avant le contexte historique de la Californie en matière de peine capitale. »"
-        },
-        {
-          "headline": "Tensions au Moyen-Orient : incidents dans le détroit d’Ormuz",
-          "summary": "L’Iran a annoncé que cinq pétroliers et un remorqueur ont pris feu dans le détroit d’Ormuz, attribuant les incidents à des mines. Washington, qui considère le détroit comme déminé, impose en retour un blocus des ports iraniens. Ces événements s’inscrivent dans le cadre d’un conflit larvé entre Téhéran et les États-Unis, marqué par des sanctions et des provocations répétées. Les marchés financiers réagissent aussi à ces tensions, avec une baisse des valeurs technologiques liées à l’IA.",
-          "sources": [
-            "20 Minutes",
-            "France Info",
-            "BBC",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4260729-20261105-guerre-iran-cinq-petroliers-pris-feu-detroit-ormuz?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/deux-petroliers-et-un-remorqueur-ont-pris-feu-dans-le-detroit-d-ormuz-annonce-l-iran_8268932.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html"
             }
           ]
         },
         {
-          "headline": "Bolivie et Somalie : crises institutionnelles et mandats d’arrêt",
-          "summary": "En Bolivie, le président de la Cour suprême, Romer Saucedo, a fui le pays après un mandat d’arrêt pour narcotrafic, dénonçant une persécution politique. En Somalie, la Cour suprême a jugé illégal le maintien au pouvoir du président Hassan Sheikh Mohamud, qui a réagi en démettant le président de la Cour. Ces crises illustrent des tensions entre pouvoirs exécutif et judiciaire dans les deux pays, sans que les médias locaux tranchent sur la légitimité des accusations.",
+          "headline": "Voyage du pape Léon XIV en Amérique latine : enjeux politiques et religieux",
+          "summary": "Le pape Léon XIV, encore convalescent après une opération pour un cancer du poumon, entame un voyage en Uruguay, Argentine et Pérou du 6 au 17 novembre. Au Pérou, où il a vécu 20 ans, il est attendu comme une figure locale. En Argentine, sa visite crée des tensions avec le gouvernement d'extrême droite de Milei, aux antipodes idéologiques du Saint-Père.",
           "sources": [
+            "Le Monde",
             "Courrier International",
-            "Le Monde"
+            "RFI"
           ],
           "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/voyage-du-pape-en-amerique-latine-au-perou-leon-xiv-attendu-en-enfant-du-pays_6807725_3210.html"
+            },
             {
               "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/politique-en-bolivie-le-president-de-la-cour-supreme-prend-la-fuite_285287"
+              "url": "https://www.courrierinternational.com/article/politique-leon-xiv-en-argentine-un-moment-historique-et-genant-pour-le-gouvernement-milei_285292"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/05/en-somalie-la-cour-supreme-juge-illegal-le-maintien-au-pouvoir-du-president-hassan-sheikh-mohamud_6807324_3212.html"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261106-visite-du-pape-en-am%C3%A9rique-latine-un-programme-charg%C3%A9-pour-l%C3%A9on-xiv-encore-en-convalescence"
             }
-          ]
+          ],
+          "angles": "Le Monde met l'accent sur le lien personnel du pape avec le Pérou, tandis que Courrier International souligne le contraste idéologique avec le gouvernement argentin et son caractère historique."
         }
       ]
     },
@@ -178,124 +154,161 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Vague d'alertes à la bombe perturbe le ciel européen",
-          "summary": "Au moins 15 vols européens ont été visés par des fausses alertes à la bombe jeudi 5 novembre, dont un Airbus A320 Dublin-Rome dérouté vers Évreux en Normandie après un refus initial du pilote de se poser sur une base militaire. Les autorités suspectent une opération coordonnée, avec des escorts par avions de chasse et des enquêtes en cours. Le groupe masculiniste russe « État masculin » est évoqué comme possible origine des menaces.",
+          "headline": "Fausses alertes à la bombe perturbent l'Europe",
+          "summary": "Au moins 20 vols européens ont été visés par des alertes à la bombe jeudi 6 novembre, dont plusieurs en France, Italie, Portugal et Irlande. Les autorités évoquent un groupuscule russe, le Male State Group, comme suspect potentiel. Les vols ont été déroutés ou escortés par des avions de chasse, sans incident. L'UE active son mécanisme de partage d'informations sur la sûreté aérienne. Les médias irlandais et des aéroports ont aussi été ciblés.",
           "sources": [
+            "RFI",
+            "EURACTIV",
             "France 24",
-            "Libération",
-            "Le Figaro",
-            "Euronews",
-            "Le Monde"
+            "Le Monde",
+            "France Info"
           ],
           "links": [
             {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261106-fausses-alertes-%C3%A0-la-bombe-l-europe-vis%C3%A9e-par-une-s%C3%A9rie-de-menaces-une-enqu%C3%AAte-en-cours"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/lue-suit-de-pres-les-fausses-alertes-a-la-bombe-dans-les-avions/"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-un-airbus-a320-dublin-rome-d%C3%A9rout%C3%A9-vers-%C3%A9vreux-%C3%A0-cause-d-une-alerte-%C3%A0-la-bombe"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/avion-daer-lingus-deroute-le-pilote-aurait-refuse-datterrir-sur-la-base-militaire-devreux-une-enquete-ouverte-20261105_A2A3TZNP7ZEMXDTFVAFQQ5PXKQ/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/alerte-a-la-bombe-le-pilote-de-l-avion-deroute-reliant-dublin-a-rome-aurait-refuse-de-se-poser-a-evreux-une-enquete-ouverte-20261105"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/05/un-vol-reliant-dublin-a-rome-deroute-vers-une-base-aerienne-du-nord-de-la-france-apres-une"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-europe-au-moins-15-avions-perturb%C3%A9s-par-de-fausses-alertes-%C3%A0-la-bombe"
             },
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/russie/fausse-alerte-a-la-bombe-un-groupuscule-russe-en-cause_8270486.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ],
-          "angles": "Libération et Le Monde soulignent le refus du pilote et les risques d'une stratégie hybride, tandis que France 24 et Euronews insistent sur l'ampleur des perturbations et les réactions des autorités européennes. Le Figaro lie explicitement les alertes à un groupe d'extrême droite russe."
+          "angles": "France 24 et Le Monde soulignent l'ampleur des perturbations et les mesures de sécurité déployées, tandis que 20 Minutes et RFI insistent sur le profil du groupuscule russe suspecté, évoquant des motivations misogynes et nationalistes. Euractiv et France Info relaient davantage les réactions institutionnelles européennes."
         },
         {
-          "headline": "Russell Brand condamné pour viols et agressions sexuelles",
-          "summary": "L'ancien humoriste britannique Russell Brand, 51 ans, a été reconnu coupable jeudi 5 novembre par un tribunal londonien de viols et d'agressions sexuelles sur quatre femmes entre 1999 et 2009. Il encourt une peine à être fixée lundi. Deux nouvelles plaintes pour viol sont en cours d'examen par la police britannique. Le procès a révélé un profil de « prédateur manipulateur » selon les médias.",
-          "sources": [
-            "Le Monde",
-            "Courrier International",
-            "BBC",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/05/l-ancien-comedien-britannique-russell-brand-juge-coupable-d-un-viol-et-d-agressions-sexuelles_6807325_3210.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/justice-predateur-impitoyable-l-humoriste-britannique-russell-brand-reconnu-coupable-de-viol-et-agressions-sexuelles_285299"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/russell-brand-reconnu-coupable-de-viol-et-agressions-sexuelles-par-la-justice-britannique-20261105_MUGVJHBAGVAQFNLXQJ3TAUGTRU/"
-            }
-          ],
-          "angles": "Le Monde et Courrier International décrivent Brand comme un « prédateur calculateur », tandis que la BBC met en avant les investigations en cours et l'encouragement aux victimes potentielles à témoigner."
-        },
-        {
-          "headline": "Cristiano Ronaldo met fin à sa carrière internationale",
-          "summary": "Le Portugais Cristiano Ronaldo, 41 ans, a annoncé jeudi 5 novembre sur Instagram la fin de sa carrière en sélection nationale après 23 ans et cinq titres majeurs. Son retrait survient après un conflit public avec son sélectionneur et son absence à un rassemblement. La star, symbole du Portugal, quitte le terrain sur une note contrastée entre records et tensions.",
-          "sources": [
-            "France 24",
-            "20 Minutes",
-            "Libération",
-            "Euronews",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-portugal-cristiano-ronaldo-annonce-sa-retraite-internationale"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/football/diaporama-4260638-images-plus-grands-matchs-cristiano-ronaldo-portugal?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/football/cristiano-ronaldo-annonce-sa-retraite-internationale-20261105_VSBHQYGGUREWBE44GP5J22BVZ4/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/05/cristiano-ronaldo-annonce-quil-quitte-la-selection-portugaise"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261105-football-la-superstar-portugaise-cristiano-ronaldo-annonce-sa-retraite-internationale"
-            }
-          ]
-        },
-        {
-          "headline": "UE : élargissement des Balkans et défis budgétaires",
-          "summary": "Un sommet sur l'élargissement de l'UE aux Balkans occidentaux est prévu le 25 novembre à Bruxelles pour accélérer les réformes des pays candidats. Parallèlement, le commissaire européen au budget critique le manque de ressources propres pour financer l'Union, tandis que des eurodéputés débattent des critères d'adhésion. Les tensions persistent sur l'approche fragmentée de l'UE en matière de pourparlers de paix en Ukraine.",
+          "headline": "Trump annonce un accord Russie-Ukraine incluant l'Europe",
+          "summary": "Donald Trump a déclaré jeudi 5 novembre s'attendre à un « grand accord » entre la Russie et l'Ukraine, incluant « toute l'Europe », lors de pourparlers prévus les 10 et 11 novembre à Abou Dabi. Ses propos, perçus comme une pression sur Kiev, interviennent après sa défaite aux midterms et des concessions passées au Kremlin. L'Ukraine et ses alliés craignent une normalisation des relations avec Moscou. Les médias analysent cette stratégie comme une tentative de Trump de se repositionner sur la scène internationale.",
           "sources": [
             "Toute l'Europe",
-            "EURACTIV",
-            "Euronews"
+            "Le Figaro",
+            "20 Minutes",
+            "France Info",
+            "Le Monde"
           ],
           "links": [
             {
               "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/fonctionnement-de-l-ue/comment-l-ue-prepare-t-elle-l-adhesion-des-balkans-occidentaux/"
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/a-peine-remis-de-son-revers-aux-midterms-donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-englobant-toute-l-europe/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/comment-donald-trump-tord-le-bras-de-l-ukraine-20261106"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4260821-20261106-guerre-ukraine-trump-predit-grand-accord-russie-toute-europe?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-et-meme-sur-toute-l-europe_8269949.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html"
+            }
+          ],
+          "angles": "Le Figaro et France Info analysent les implications géopolitiques et les risques pour l'Ukraine, tandis que 20 Minutes et Toute l'Europe se concentrent sur l'annonce des pourparlers et les déclarations de Trump, sans approfondir le contexte stratégique. Aucun média ne remet en cause les faits, mais les angles varient entre analyse et compte-rendu."
+        },
+        {
+          "headline": "Crise politique en Belgique : le roi bloque la démission de De Wever",
+          "summary": "Le roi Philippe de Belgique a refusé vendredi 6 novembre la démission du Premier ministre Bart De Wever, lui demandant de reprendre les négociations budgétaires après un blocage au Parlement. De Wever, leader nationaliste flamand, exige un effort budgétaire de 10 milliards d'euros d'ici 2029, rejeté par son partenaire libéral. Parallèlement, une loi controversée autorisant des visites domiciliaires pour arrêter des sans-papiers a été adoptée, suscitant des critiques sur son assimilation à une mesure répressive.",
+          "sources": [
+            "Toute l'Europe",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/crise-politique-belge-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-les-negociations-budgetaires-reprennent/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/no-ice-in-belgium-les-deputes-belges-approuvent-un-projet-de-loi-critique-qui-autorise-la-police-a-arreter-les-sans-papiers-a-leur-domicile-20261106_NOZFPSG7NREURHEPWBCBGJT4OQ/"
+            }
+          ],
+          "angles": "Le Monde et Toute l'Europe mettent l'accent sur le blocage institutionnel et les enjeux budgétaires, tandis que Libération et Le Monde soulignent la dimension répressive de la loi sur les sans-papiers, qualifiée d'« ICE à la belge ». Les angles divergent entre crise gouvernementale et question migratoire."
+        },
+        {
+          "headline": "Enquête européenne sur fraudes aux fonds après le drame ferroviaire espagnol",
+          "summary": "Le Parquet européen a ouvert une enquête sur d'éventuelles fraudes aux subventions européennes destinées à la rénovation de la ligne Madrid-Séville, impliquée dans une collision mortelle le 28 octobre (69 morts). Cette enquête fait suite à une première investigation après un accident similaire en janvier. Les autorités suspectent des détournements affectant la sécurité et la signalisation. L'Espagne est sous pression pour expliquer ces dysfonctionnements répétés.",
+          "sources": [
+            "France Info",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-parquet-europeen-lance-une-enquete-sur-d-eventuelles-fraudes-aux-aides-apres-le-drame-ferroviaire-d-urda_8270771.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/06/catastrophe-ferroviaire-en-espagne-le-parquet-europeen-ouvre-une-enquete-quant-a-d-eventuelles-fraudes-sur-la-ligne-accidentee-a-urda_6807780_3210.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts"
+            }
+          ]
+        },
+        {
+          "headline": "Retraite internationale de Cristiano Ronaldo après 23 ans avec le Portugal",
+          "summary": "Cristiano Ronaldo a annoncé jeudi 5 novembre la fin de sa carrière internationale avec le Portugal, après 23 ans et 203 sélections. La presse portugaise salue une légende du football, tout en exprimant des regrets sur les circonstances de son départ, marqué par des tensions avec la fédération. Il laisse derrière lui un palmarès incluant l'Euro 2016 et deux Ligues des nations. Son héritage sportif et médiatique reste intact malgré une fin controversée.",
+          "sources": [
+            "Courrier International",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/football-les-adieux-doux-amers-du-portugal-a-cristiano-ronaldo-le-mythe-tire-sa-reverence_285387"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/football/diaporama-4260638-images-plus-grands-matchs-cristiano-ronaldo-portugal?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "Meloni critique l'absence de position commune européenne sur l'Ukraine",
+          "summary": "Giorgia Meloni a dénoncé vendredi 6 novembre l'absence de coordination de l'UE dans les négociations de paix sur l'Ukraine, jugeant cette fragmentation « inacceptable ». Ses propos interviennent alors que des pourparlers indirects entre Kiev et Moscou sont prévus à Abou Dabi. La présidente du Conseil italien appelle à une stratégie européenne unifiée, alors que les États membres restent divisés sur le soutien à l'Ukraine. La Commission européenne doit par ailleurs présenter son bilan annuel sur les migrations.",
+          "sources": [
+            "Euronews",
+            "EURACTIV",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/06/meloni-denonce-une-approche-europeenne-fragmentee-des-pourparlers-de-paix-sur-lukraine"
             },
             {
               "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/lue-affronte-la-tempete-avec-un-petit-parapluie-troue/"
+              "url": "https://www.rapporteur.com/fr/news/meloni-deplore-labsence-de-coordination-europeenne-sur-lukraine/"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/05/des-eurodeputes-debattent-de-lelargissement-de-lue-au-sommet-euronews-a-bruxelles"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261106-tgv-m-nouveau-train-sncf-concurrence-internationale"
             }
           ],
-          "angles": "Toute l'Europe et EURACTIV détaillent les enjeux institutionnels, tandis qu'Euronews met en avant les divisions politiques, notamment sur la crédibilité de l'UE face à la Russie, critiquée par Giorgia Meloni."
+          "angles": "Euronews et EURACTIV relaient principalement les déclarations de Meloni et son appel à l'unité européenne, sans approfondir les désaccords internes à l'UE. Aucun angle éditorial n'est identifiable, les faits sont rapportés de manière neutre."
         }
       ]
     },
@@ -304,194 +317,180 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Grève massive du 5 novembre : 575 000 manifestants",
-          "summary": "La France a connu une mobilisation historique jeudi 5 novembre avec entre 575 000 (chiffre officiel) et 1,6 million de manifestants (CGT) dans 200 villes, réclamant pouvoir d’achat et salaires. Sébastien Lecornu a annoncé une conférence sociale lundi 9 novembre avec syndicats et patronat. Les cortèges, globalement pacifiques, ont fait 448 interpellations. Les syndicats appellent à poursuivre la mobilisation.",
+          "headline": "Accident mortel de car dans l’Ain",
+          "summary": "Un car transportant des élèves et des adultes a quitté la route vendredi matin près de Bourg-en-Bresse (Ain), tuant une fillette de 7 ans et un homme de 18 ans, et blessant 16 personnes, dont trois grièvement. Le véhicule a percuté un arbre dans un fossé. La justice a ouvert une enquête pour déterminer les causes. Le ministre des Transports s’est rendu sur place. 43 personnes étaient à bord.",
           "sources": [
             "Le Figaro",
-            "Libération",
             "France Info",
-            "Mediapart",
-            "France 24"
+            "Libération",
+            "France 24",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/"
+              "url": "https://www.lefigaro.fr/lyon/en-direct-accident-de-car-dans-l-ain-au-moins-deux-morts-le-vehicule-a-quitte-la-route-et-heurte-un-arbre-20261106"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/un-accident-de-car-scolaire-dans-lain-fait-au-moins-plusieurs-dizaines-de-blesses-dont-des-enfants-20261106_V74YPGKBAND23KQ4FSAJJR65CE/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261106-accident-de-car-dans-l-ain-deux-jeunes-dont-un-mineur-tu%C3%A9s-3-bless%C3%A9s-graves"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4260859-20261106-direct-accident-car-ain-deux-morts-16-blesses-dont-trois-graves-enquete-homicide-routier?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "Mobilisation sociale : grèves et blocages lycéens",
+          "summary": "La journée de grève du 5 novembre a rassemblé entre 575 000 et 1,6 million de manifestants en France, selon les syndicats. Les lycéens maintiennent leur mouvement, avec des blocages et des incidents (incendies de poubelles, portes de lycées incendiées). Le gouvernement promet des sanctions contre les élèves perturbant les cours et annonce une conférence sociale lundi pour discuter des salaires et du pouvoir d’achat. Les gilets jaunes appellent à un rassemblement samedi.",
+          "sources": [
+            "Libération",
+            "Le Figaro",
+            "20 Minutes",
+            "France 24",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/en-direct-mouvement-social-le-ministre-du-travail-veut-essayer-de-franchir-la-barre-du-smic-a-1-500-euros-net-20261106_ZR72ANUTFNHKXEQVFZ4574GYFM/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://etudiant.lefigaro.fr/article/lycee/c-est-illegal-le-gouvernement-promet-des-sanctions-pour-les-lyceens-qui-empechent-l-acces-aux-salles-de-classe-20261106/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4260823-20261106-direct-colere-sociale-jeunes-gilets-jaunes-appellent-acte-iv-samedi?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-mobilisation-du-5-novembre-la-grogne-sociale-se-poursuit-en-france"
             },
             {
               "source": "Mediapart",
               "url": "https://www.mediapart.fr/journal/france/051126/c-est-une-greve-qu-attendait-depuis-longtemps-le-5-novembre-les-syndicats-reussissent-leur-mobilisation"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites"
             }
           ],
-          "angles": "Libération et Mediapart soulignent la jonction entre salariés, étudiants et retraités et la radicalisation des revendications, tandis que Le Figaro et France Info insistent sur les chiffres officiels et la réponse gouvernementale. France 24 et Euronews adoptent un ton plus neutre en mettant l’accent sur la diversité des cortèges et les réactions internationales."
+          "angles": "Libération et 20 Minutes soulignent la jonction entre lycéens et salariés, tandis que Le Figaro insiste sur les sanctions gouvernementales et le soutien aux enseignants."
         },
         {
-          "headline": "Incendie criminel dans un lycée de Tournefeuille",
-          "summary": "Un incendie a éclaté jeudi matin dans un lycée de Tournefeuille (près de Toulouse) après l’intrusion d’une trentaine de personnes munies de mortiers d’artifice. Les pompiers, pris pour cible, ont éteint les flammes sans faire de blessés. Les auteurs ont visé spécifiquement les locaux de la vie scolaire. Les élèves dénoncent une volonté de destruction systématique.",
+          "headline": "Inondations en Corse : deux morts noyés",
+          "summary": "Deux personnes sont mortes noyées dans leur voiture emportée par les inondations en Corse-du-Sud, où la vigilance orange pour pluie-inondation était maintenue. Une troisième passagère a été hospitalisée. Les pluies torrentielles ont provoqué des éboulements et des évacuations. La vigilance orange a été levée en Haute-Corse mais reste active dans le sud jusqu’à 16h.",
           "sources": [
-            "Euronews",
-            "France 24",
-            "20 Minutes",
             "France Info",
-            "Libération"
+            "Libération",
+            "20 Minutes"
           ],
           "links": [
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/05/incendie-tirs-de-mortiers-un-lycee-pres-de-toulouse-endommage-en-marge-des-manifestations"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-un-d%C3%A9but-d-incendie-dans-un-lyc%C3%A9e-pr%C3%A8s-de-toulouse"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/4260608-20261105-greve-5-novembre-lycee-incendie-pres-toulouse-pompiers-cibles-tirs-mortiers?at_medium=display&at_campaign=149"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lycee-de-tournefeuille-pres-de-toulouse-touche-par-un-incendie-apres-l-irruption-d-individus-munis-de-mortiers-d-artifice_8269217.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/deux-personnes-ont-ete-retrouvees-mortes-en-corse-du-sud-apres-que-leur-voiture-a-ete-emportee-par-les-inondations_8270402.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/285-000-victimes-de-violences-conjugales-ont-ete-enregistrees-en-france-en-2025-en-hausse-de-5-sur-un-an-20261105_KL5IMDV3DVBNVP3ZCMQM5VMW44/"
+              "url": "https://www.liberation.fr/environnement/climat/intemperies-en-corse-deux-personnes-sont-mortes-noyees-dans-leur-voiture-20261106_UOJNPVR6NNEFDO674IH7OWSIXE/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4260835-20261106-intemperies-corse-voiture-emportee-flots-deux-morts-retrouves?at_medium=display&at_campaign=149"
             }
-          ],
-          "angles": "France 24 et 20 Minutes insistent sur les violences envers les secours, tandis que France Info et Euronews mettent en avant la dimension symbolique de l’attaque et les réactions politiques locales (région Occitanie)."
+          ]
         },
         {
-          "headline": "Budget 2027 rejeté à l’unanimité par l’Assemblée",
-          "summary": "L’Assemblée nationale a rejeté mercredi 4 novembre, à l’unanimité des votes exprimés, le projet de budget 2027, renvoyant le texte au Sénat sans examen des dépenses. Jordan Bardella (RN) demande l’inscription d’une « règle d’or » constitutionnelle interdisant tout budget augmentant l’endettement. Le gouvernement doit désormais négocier avec les sénateurs.",
+          "headline": "Affaire Hamraoui : Aminata Diallo renvoyée en correctionnelle",
+          "summary": "L’ancienne joueuse du PSG Aminata Diallo et six autres personnes sont renvoyées en correctionnelle pour complicité de violences et association de malfaiteurs dans l’agression de Kheira Hamraoui en 2021. L’agresseur principal, déjà condamné, avait ciblé Hamraoui devant Diallo, alors co-équipière. Le procès est attendu dans les prochains mois.",
           "sources": [
             "France Info",
-            "France 24",
-            "Euronews",
             "20 Minutes",
             "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-budget-2027-l-assembl%C3%A9e-nationale-rejette-%C3%A0-l-unanimit%C3%A9-le-projet-de-budget-de-l-%C3%A9tat"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+              "url": "https://www.franceinfo.fr/sports/foot/sept-personnes-dont-l-ex-joueuse-du-psg-aminata-diallo-renvoyees-en-correctionnelle-dans-l-affaire-hamraoui_8270579.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/tennis/4260708-20261105-masters-1000-paris-assez-unique-luca-van-assche-joueur-frisson-france-attendait?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/sport/football/4260877-20261106-affaire-hamraoui-aminata-diallo-six-autres-personnes-renvoyees-correctionnelle?at_medium=display&at_campaign=149"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/turquie-un-homme-tue-au-moins-huit-personnes-dans-une-zone-rurale-de-louest-du-pays-20261105_ZQLQP4TJSRH3XJWVRW3LWIOSRE/"
+              "url": "https://www.liberation.fr/societe/police-justice/affaire-hamraoui-lex-joueuse-du-psg-aminata-diallo-et-six-autres-personnes-renvoyees-en-correctionnelle-20261106_HPAKNEWH5NBS5OZVLJW46VWRYY/"
             }
           ]
         },
         {
-          "headline": "Violences conjugales : +5 % de victimes en 2025",
-          "summary": "Le ministère de l’Intérieur recense 285 000 victimes de violences conjugales en France en 2025, soit une hausse de 5 % sur un an. 80 % des victimes sont des femmes, et 85 % des auteurs des hommes. Cette progression constante depuis 2016 interroge sur l’efficacité des politiques publiques.",
+          "headline": "Incendie criminel au lycée Mandela de Nantes",
+          "summary": "Deux élèves de 16 ans ont été mis en examen pour l’incendie volontaire du hall du lycée Nelson-Mandela à Nantes, survenu début octobre lors d’un blocage lycéen. Le parquet évoque une préparation « très organisée » et des faits passibles de 20 ans de prison. L’établissement avait subi des dégâts majeurs.",
           "sources": [
-            "20 Minutes",
             "Libération",
-            "France 24",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4260633-20261105-violences-conjugales-bondissent-5-285-000-victimes-2025-france?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/285-000-victimes-de-violences-conjugales-ont-ete-enregistrees-en-france-en-2025-en-hausse-de-5-sur-un-an-20261105_KL5IMDV3DVBNVP3ZCMQM5VMW44/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261105-en-france-le-nombre-de-victimes-de-violences-conjugales-repart-%C3%A0-la-hausse-en-2025"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/une-conference-du-depute-lfi-raphael-arnault-interdite-a-villeurbanne-le-prefet-du-rhone-evoque-des-risques-d-affrontements-entre-des-groupuscules-radicaux_8269784.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Réseau de trafic d’armes démantelé près de Toulouse",
-          "summary": "La police a saisi un fusil d’assaut, trois pistolets-mitrailleurs et 15 armes de poing dans un atelier clandestin à Cornebarrieu (près de Toulouse). Six personnes ont été interpellées. Les enquêteurs évoquent un trafic organisé avec des munitions de tous calibres, mais les filières de revente restent à élucider.",
-          "sources": [
-            "20 Minutes",
             "France Info",
-            "Libération",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4260802-20261105-fusil-pistolets-mitrailleurs-reseau-trafic-armes-demantele-pres-toulouse-six-individus-arretes?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/un-atelier-clandestin-de-fabrication-d-armes-demantele-pres-de-toulouse-six-personnes-arretees_8269904.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/manifestations-du-5-novembre-on-voit-que-ce-nest-pas-fini-20261105_OZT5RGYRKVGDHFP24UPDPVIISY/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-manifestations-dans-plusieurs-villes-ce-5-novembre"
-            }
-          ]
-        },
-        {
-          "headline": "Macron propose une coalition large pour éviter Le Pen-Mélenchon",
-          "summary": "Emmanuel Macron a évoqué mercredi une « coalition » allant de David Glucksmann (PS) à Édouard Philippe (LR) pour éviter un second tour opposant Jean-Luc Mélenchon et Marine Le Pen en 2027. Une idée rejetée par les prétendants à sa succession, qui y voient une manœuvre pour maintenir son influence. Le président refuse une primaire et mise sur un rassemblement programmatique.",
-          "sources": [
-            "Libération",
+            "20 Minutes",
             "Le Figaro",
-            "France Info",
-            "France 24",
             "Le Monde"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/pour-la-presidentielle-macron-veut-une-coalition-allant-de-raphael-glucksmann-a-david-lisnard-20261105_WZKJCENBGFDN7IUIWMV3P6PT2M/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plutot-qu-une-primaire-macron-veut-une-coalition-allant-de-glucksmann-a-lisnard-pour-dejouer-le-duel-le-pen-melenchon-20261104"
+              "url": "https://www.liberation.fr/societe/police-justice/incendie-volontaire-du-lycee-nelson-mandela-de-nantes-deux-eleves-suspects-bientot-presentes-a-un-juge-dinstruction-20261104_TMK7VJE26ZCT3CMOQKOM4AVCVM/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-millions-d-euros-voles-une-attaque-inedite-et-une-enquete-ouverte-ce-que-l-on-sait-du-piratage-du-credit-mutuel-arkea_8269124.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-adolescents-de-16-ans-mis-en-examen-dans-l-enquete-sur-l-incendie-du-lycee-mandela-de-nantes-en-marge-d-un-blocage_8270480.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-cyberattaque-du-groupe-cr%C3%A9dit-mutuel-ark%C3%A9a-une-enqu%C3%AAte-ouverte"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4260846-20261106-colere-lyceens-deux-eleves-16-ans-mis-examen-incendie-lycee-nelson-mandela-nantes?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jean-luc-melenchon-presente-son-programme-le-patronat-veut-entendre-les-candidats-le-8-mars-20261106"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/05/coalition-de-glucksmann-a-lisnard-l-idee-d-emmanuel-macron-ne-trouve-pas-d-echo-meme-chez-ses-heritiers_6807337_823448.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html"
             }
-          ]
+          ],
+          "angles": "Libération et France Info insistent sur la gravité des faits et l’organisation des suspects, tandis que 20 Minutes met en avant le contexte des blocages lycéens."
+        },
+        {
+          "headline": "Présidentielle 2027 : LFI dévoile son programme",
+          "summary": "La France insoumise a publié son programme pour l’élection présidentielle de 2027, intitulé L’Avenir en commun, axé sur la transition écologique et la lutte contre les discriminations. Jean-Luc Mélenchon propose une « nouvelle France » et évoque une possible alliance avec le PS. Le patronat a annoncé vouloir auditionner les candidats dès mars 2027. Des analyses soulignent son niveau de rejet élevé dans l’opinion.",
+          "sources": [
+            "Le Figaro",
+            "Le Monde",
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jean-luc-melenchon-presente-son-programme-le-patronat-veut-entendre-les-candidats-le-8-mars-20261106"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-si-melenchon-dispose-dun-socle-tres-solide-il-est-a-un-niveau-de-rejet-sans-equivalent-20261106_RMCTIM53B5D7RKJW32ABCTY76M/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/boxe/boxe-imane-khelif-fera-ses-debuts-professionnels-le-15-decembre-a-paris_8270768.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Le Monde et Libération analysent le positionnement politique, tandis que Le Figaro se concentre sur le contenu du programme et les réactions institutionnelles."
         }
       ]
     }
