@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T20:25:08Z",
-  "edition": "7 novembre 2026",
+  "generated_at": "2026-11-08T11:27:03Z",
+  "edition": "8 novembre 2026",
   "categories": [
     {
       "id": "monde",
@@ -8,177 +8,156 @@
       "topics": [
         {
           "headline": "Israël : Eisenkot chargé de former un gouvernement",
-          "summary": "Gadi Eisenkot, chef du bloc d'opposition à Benyamin Netanyahou, a été officiellement désigné dimanche pour former le prochain gouvernement israélien. Ancien chef d'état-major, il devra rassembler une coalition de 61 députés dans un paysage politique fragmenté. Netanyahou a critiqué cette alliance avec des partis arabes, estimant qu'elle 'démantèlerait' l'État d'Israël. La tâche s'annonce complexe après des élections législatives serrées en octobre.",
+          "summary": "Gadi Eisenkot, principal rival de Benjamin Netanyahu, a été missionné par le président Isaac Herzog pour tenter de former un gouvernement israélien après des élections législatives sans majorité claire. Il dispose de 28 jours pour constituer une coalition, une tâche rendue difficile par les divisions politiques et la nécessité d’inclure les partis arabes. Netanyahu a rejeté toute alliance avec ces derniers, estimant qu’elle « démantèlerait » Israël. Les observateurs estiment qu’il est prématuré de conclure à la fin de l’ère Netanyahu.",
           "sources": [
-            "20 Minutes",
-            "Le Figaro",
-            "France Info",
+            "France 24",
+            "Libération",
             "Le Monde",
-            "RFI"
+            "Le Figaro",
+            "Mediapart"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/israel/4261212-20261107-israel-gadi-eisenkot-charge-dimanche-former-gouvernement?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-isra%C3%ABl-eisenkot-rival-de-netanyahu-charg%C3%A9-de-former-le-prochain-gouvernement"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/israel-appele-a-former-un-gouvernement-ce-dimanche-eisenkot-promet-de-tout-faire-pour-repondre-a-lurgence-nationale-20261108_QGH2EGNPI5GY5OCP3ANGF4YHPY/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html"
             },
             {
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261107-isra%C3%ABl-la-pr%C3%A9sidence-va-charger-gadi-eisenkot-de-former-le-prochain-gouvernement"
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde soulignent les défis politiques et les divisions internes, tandis que Le Figaro et France 24 insistent sur l’affrontement direct entre Eisenkot et Netanyahu, avec un ton plus conflictuel. Mediapart et France Info analysent les enjeux géopolitiques et la pression sur les partis arabes."
         },
         {
-          "headline": "Crise bancaire au Paraguay : destitution de Peña",
-          "summary": "Le président paraguayen Santiago Peña a été destitué vendredi après un scandale bancaire impliquant la banque en ligne Ueno, gelant les dépôts de trois millions de clients. Son vice-président, Pedro Alliana, lui succède. Peña, assigné à résidence, doit comparaître pour des soupçons de collusion avec la finance. La crise a plongé le pays dans une instabilité économique majeure, avec des conséquences sociales immédiates.",
+          "headline": "Trump propose un proche du MMA comme porte-parole",
+          "summary": "Donald Trump a sollicité Dana White, président de l’UFC (arts martiaux mixtes), pour devenir porte-parole de la Maison Blanche, un poste vacant depuis le 16 octobre. White, figure conservatrice et proche du président depuis 20 ans, a soutenu Trump lors de ses campagnes. Cette nomination, annoncée après la défaite républicaine aux midterms, vise à renforcer la communication face à la gauche. White doit rencontrer Trump lundi pour discuter de cette proposition.",
           "sources": [
-            "Euronews",
-            "France Info",
             "Libération",
+            "Courrier International",
+            "Euronews",
             "Le Monde",
-            "Le Figaro"
+            "20 Minutes"
           ],
           "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/trump-veut-dana-white-patron-de-la-federation-de-mma-comme-porte-parole-de-la-maison-blanche-20261108_7RPDM2YUXFBKXLPKMH2JP2RVII/"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/politique-trump-propose-a-dana-white-l-influent-patron-de-l-ufc-de-devenir-le-porte-parole-de-la-maison-blanche_285684"
+            },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/07/pedro-alliana-investi-president-du-paraguay-apres-la-destitution-de-santiago-pena"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/ameriques/apres-une-crise-bancaire-majeure-le-paraguay-a-destitue-son-president-pour-en-reinvestir-un-autre_8272058.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/paraguay-apres-la-destitution-de-santiago-pena-pedro-alliana-investi-president-20261107_6D7BD6K2JFGYPGOZUWHPETBACU/"
+              "url": "https://fr.euronews.com/2026/11/08/trump-propose-a-dana-white-patron-dune-federation-de-mma-de-devenir-porte-parole-de-la-mai"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/au-paraguay-la-destitution-du-president-santiago-pena-met-en-lumiere-les-collusions-entre-le-pouvoir-politique-et-celui-de-la-finance_6808247_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html"
             },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/au-paraguay-le-president-santiago-pena-emporte-par-l-effondrement-d-une-banque-en-ligne-20261106"
-            }
-          ]
-        },
-        {
-          "headline": "Gaza : inondations catastrophiques parmi les déplacés",
-          "summary": "Des pluies diluviennes ont inondé environ 70 000 tentes abritant des dizaines de milliers de déplacés dans la bande de Gaza, privant des milliers de personnes d'abri. Les autorités locales alertent sur le risque de propagation de maladies et de catastrophe humanitaire. Les inondations surviennent dans un contexte de guerre prolongée et de conditions sanitaires déjà précaires. Les organisations humanitaires appellent à une aide urgente.",
-          "sources": [
-            "20 Minutes",
-            "France 24",
-            "Libération",
-            "Le Monde"
-          ],
-          "links": [
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4261199-20261107-gaza-pluies-diluviennes-privent-abri-dizaines-milliers-deplaces?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-gaza-des-pluies-diluviennes-privent-d-abri-des-dizaines-de-milliers-de-d%C3%A9plac%C3%A9s"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/a-gaza-des-inondations-privent-d-abri-des-dizaines-de-milliers-de-deplaces_6808287_3210.html"
+              "url": "https://www.20minutes.fr/monde/etats-unis/4261229-20261108-trump-veut-patron-mma-comme-porte-parole-maison-blanche?at_medium=display&at_campaign=149"
             }
           ],
-          "angles": "Libération et Le Monde mentionnent explicitement le risque sanitaire et la responsabilité des parties belligérantes, tandis que France 24 et 20 Minutes se concentrent sur l'urgence humanitaire immédiate."
+          "angles": "Libération et Le Monde mettent en avant le profil controversé de White et son lien avec l’extrémisme masculiniste, tandis que Courrier International et Euronews insistent sur la longue collaboration entre Trump et White, avec un ton plus neutre et factuel."
         },
         {
-          "headline": "États-Unis : Miller nommé directeur de cabinet de Trump",
-          "summary": "Donald Trump a nommé Stephen Miller, figure de la droite identitaire et architecte de sa politique migratoire restrictive, comme nouveau directeur de cabinet de la Maison Blanche. Cette nomination, intervenue après la défaite républicaine aux élections de mi-mandat, suscite des critiques des démocrates. Miller est connu pour ses positions controversées, notamment sur l'immigration et le suprémacisme blanc. Le poste, stratégique, pourrait intensifier les tensions avec le Congrès.",
+          "headline": "Séisme au Japon : 5,7 de magnitude, plusieurs blessés",
+          "summary": "Un séisme de magnitude 5,7 a frappé la nuit de samedi à dimanche la préfecture de Shizuoka, au centre du Japon, faisant plus de 20 blessés, dont une femme de 90 ans. L’épicentre se situait à environ 200 km à l’ouest de Tokyo. Le Japon, pays très exposé aux séismes, enregistre chaque année 18 % des tremblements de terre mondiaux en raison de sa position tectonique. Aucune alerte au tsunami n’a été émise.",
           "sources": [
-            "France Info",
             "20 Minutes",
+            "Le Monde",
             "RFI",
             "BBC"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/stephen-miller-un-reactionnaire-a-la-tete-de-l-administration-trump_8272337.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4261250-20261108-toujours-uruguay-pape-vante-mariage-natalite?at_medium=display&at_campaign=149"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4261138-20261107-etats-unis-stephen-voldemort-miller-nouveau-directeur-cabinet-donald-trump?at_medium=display&at_campaign=149"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261107-%C3%A9tats-unis-cerveau-de-donald-trump-stephen-miller-nomm%C3%A9-directeur-de-cabinet-de-la-maison-blanche"
+              "url": "https://www.rfi.fr/fr/asie-pacifique/20261108-nouvelle-z%C3%A9lande-des-l%C3%A9gislatives-tr%C3%A8s-serr%C3%A9es-des-r%C3%A9sultats-encore-incertains"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
             }
-          ],
-          "angles": "20 Minutes et RFI décrivent Miller comme une figure radicale et le présentent comme un 'cerveau' de Trump, tandis que la BBC et France Info insistent sur les risques de conflits institutionnels et les réactions démocrates. BBC souligne aussi les enjeux de 'clash' avec le Congrès."
+          ]
         },
         {
-          "headline": "Yémen : frappes saoudiennes font des dizaines de morts",
-          "summary": "Les Houthis ont annoncé 22 à 27 morts après des frappes saoudiennes dans la région de Sanaa, samedi. Les combats s'intensifient depuis la reprise des hostilités en juillet, avec des tirs quasi quotidiens de missiles et drones houthistes contre l'Arabie saoudite. Les autorités saoudiennes n'ont pas commenté ces attaques, tandis que les opérations de sauvetage se poursuivent. Le conflit, déjà ancien, semble entrer dans une phase plus violente.",
+          "headline": "Naufrage de migrants au large du Sénégal : 21 morts",
+          "summary": "Une pirogue transportant des migrants a fait naufrage au large du Sénégal, causant la mort d’au moins 21 personnes. Un rescapé a été retrouvé par les autorités. Ce drame s’inscrit dans le contexte des traversées périlleuses vers l’Europe, souvent organisées depuis les côtes africaines. Les conditions de ces embarcations, souvent surchargées et vétustes, restent un enjeu humanitaire majeur.",
           "sources": [
             "Libération",
-            "Le Monde",
-            "France Info",
-            "BBC"
+            "France 24"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/"
+              "url": "https://www.liberation.fr/economie/economie-numerique/avec-les-bons-parametres-on-peut-forger-les-bons-comportements-lia-renouveau-du-controle-social-a-la-chinoise-20261108_LIHAJDZGQBAOXISLSJL7KFOA7Y/"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/au-yemen-22-morts-apres-des-frappes-saoudiennes-dans-la-region-de-sanaa-annoncent-les-houthistes_6808280_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-des-frappes-saoudiennes-font-22-morts-selon-les-houthis_8272298.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia"
             }
-          ],
-          "angles": "Libération et Le Monde détaillent le contexte géopolitique et l'escalade récente, tandis que France Info se concentre sur le bilan humain et l'absence de réaction saoudienne. Les chiffres varient légèrement selon les sources (22 ou 27 morts)."
+          ]
         },
         {
-          "headline": "Iran : tensions militaires et menaces américaines",
-          "summary": "L'armée iranienne affirme être 'plus forte' qu'au début de la guerre au Moyen-Orient et prête à répondre 'sans limite géographique' à toute attaque, après des menaces américaines. Des explosions sur l'île de Qeshm, attribuées à des missiles, ont été signalées vendredi. Les États-Unis ont offert une récompense de 20 millions de dollars pour des informations sur le programme nucléaire iranien, relançant les craintes d'escalade. Téhéran maintient une posture défensive mais déterminée.",
+          "headline": "Escalade au Yémen : frappes houthis et riposte saoudienne",
+          "summary": "Les Houthis ont annoncé la mort de 27 civils dans des frappes saoudiennes sur Sanaa, tandis que Riyad a intercepté deux missiles balistiques visant son quartier financier, endommageant un bâtiment d’Aramco. Les tensions s’intensifient après des frappes houthis sur le Yémen ayant fait 33 morts selon le mouvement pro-iranien. L’Arabie saoudite accuse les Houthis de cibler délibérément des infrastructures civiles, tandis que ces derniers dénoncent une escalade militaire.",
           "sources": [
             "France 24",
             "France Info",
-            "BBC"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-iran-l-arm%C3%A9e-assure-%C3%AAtre-plus-forte-qu-au-d%C3%A9but-de-la-guerre"
+              "url": "https://www.france24.com/fr/culture/20261108-budget-pharaonique-r%C3%A9volution-graphique-pourquoi-gta-vi-peut-devenir-jeu-si%C3%A8cle-jeux-vid%C3%A9o-rockstar"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Paraguay : ex-président Peña en détention après l’effondrement d’Ueno Bank",
+          "summary": "Santiago Peña, président destitué du Paraguay, a été placé en détention provisoire après son inculpation dans l’effondrement de l’Ueno Bank, une banque en ligne où la moitié des Paraguayens détenaient un compte. Mis en cause pour sa gestion de l’établissement, il avait démissionné jeudi après la mise sous tutelle de la banque, causant des pertes massives pour les épargnants. Un juge a ordonné sa détention dans le cadre d’une enquête pour corruption et gestion délictueuse.",
+          "sources": [
+            "Le Figaro",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/guerre-d-algerie-bally-bagayoko-critique-par-marion-marechal-pour-sa-presence-a-une-commemoration-de-la-toussaint-rouge-20261108"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-prot%C3%A9ger-les-mers-et-oc%C3%A9ans-les-m%C3%A9ganavires-dans-viseur-des-ong"
             }
           ]
         }
@@ -189,142 +168,122 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Fusillade meurtrière à Cracovie : six morts",
-          "summary": "Un homme a ouvert le feu sur des passants samedi 7 novembre à Cracovie, en Pologne, faisant six morts et une dizaine de blessés. Le suspect, interpellé, aurait été influencé par des idéologies d’extrême droite. Les victimes incluent des étrangers et des policiers. Les autorités enquêtent sur les motivations exactes.",
+          "headline": "Attentat terroriste en Pologne : Cracovie sous le choc",
+          "summary": "Un homme de 24 ans, fasciné par l’extrême droite, a tué six personnes et blessé quinze autres samedi à Cracovie. Trois corps ont été retrouvés à son domicile. Le parquet a ouvert une enquête pour acte terroriste. Les autorités évoquent un acte isolé mais pointent des motivations idéologiques.",
           "sources": [
-            "Mediapart",
-            "France Info",
-            "Euronews",
             "Le Monde",
-            "Libération"
+            "Libération",
+            "France 24",
+            "20 Minutes",
+            "Le Figaro"
           ],
           "links": [
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/07/cracovie-pologne-au-moins-six-morts-dans-une-fusillade-au-centre-historique-selon-la-polic"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/"
+              "url": "https://www.liberation.fr/international/europe/pologne-des-corps-retrouves-chez-le-tireur-fascination-pour-lextreme-droite-ce-que-lon-sait-apres-lattentat-mortel-de-cracovie-20261108_X5EYERZROJAVTG4PWU44XJA5JI/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-pologne-un-tireur-fascin%C3%A9-par-l-extr%C3%AAme-droite-abat-six-personnes-%C3%A0-cracovie-1"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/pologne/4261256-20261108-fusillade-pologne-trois-corps-domicile-fascine-extreme-droite-sait-tireur?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/fusillade-en-pologne-3-corps-supplementaires-retrouves-au-domicile-du-tireur-20261107"
             }
           ],
-          "angles": "Mediapart et Le Monde soulignent l'influence présumée de l'extrême droite, tandis que France Info et Euronews insistent sur le bilan humain et les détails de l'attaque (lieu, méthode). Libération met en avant le choc émotionnel pour la ville."
+          "angles": "Libération et Le Monde insistent sur les liens présumés du tireur avec l’extrême droite et les détails de l’enquête. France 24 et 20 Minutes mettent en avant le profil du suspect et l’ampleur des dégâts humains. Le Figaro souligne l’ouverture officielle de l’enquête pour terrorisme."
         },
         {
-          "headline": "Russie frappe massivement les infrastructures ukrainiennes",
-          "summary": "La Russie a mené des frappes nocturnes « massives » contre les infrastructures énergétiques ukrainiennes dans la nuit du 5 au 6 novembre, provoquant des coupures de courant dans cinq régions, dont Kiev. Neuf blessés, dont un enfant, sont recensés. Zelensky accuse Moscou d'utiliser des missiles nord-coréens et de vouloir saboter les négociations de paix prévues à Abu Dhabi.",
+          "headline": "Frappe russe massive sur l’Ukraine : infrastructures énergétiques ciblées",
+          "summary": "Des attaques nocturnes russes ont visé des infrastructures énergétiques ukrainiennes, provoquant des coupures massives dans cinq régions, dont Dnipropetrovsk et Kharkiv. Au moins neuf personnes ont été blessées, dont un enfant. Kiev accuse Moscou d’utiliser des missiles nord-coréens pour intensifier la pression avant des négociations internationales.",
           "sources": [
-            "RFI",
-            "Libération",
-            "France 24",
             "Euronews",
-            "Courrier International"
+            "France 24",
+            "RFI",
+            "France Info",
+            "Le Monde"
           ],
           "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/07/ukraine-des-frappes-russes-touchent-la-region-de-kyiv-et-endommagent-des-infrastructures-c"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-l-ukraine-frapp%C3%A9e-par-des-frappes-nocturnes-russes-%C3%A0-kiev-et-sa-r%C3%A9gion"
+            },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261107-ukraine-de-nouvelles-frappes-nocturnes-russes-massives-contre-des-infrastructures-%C3%A9nerg%C3%A9tiques"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/lukraine-frappee-par-des-bombardements-nocturnes-russes-massives-contre-ses-infrastructures-energetiques-20261107_XUOSMUOROVBORMAZZESV3UUISQ/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261107-ukraine-un-pont-et-des-infrastructures-touch%C3%A9es-par-des-frappes-russes-%C3%A0-kiev-et-sa-r%C3%A9gion"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/07/frappes-russes-sur-kyiv-cinq-blesses-un-pont-et-des-infrastructures-energetiques-endommage"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/conflit-la-russie-bombarde-durement-l-ukraine-juste-avant-la-reprise-des-pourparlers_285618"
-            }
-          ],
-          "angles": "Libération et France 24 insistent sur l'impact humain et les dégâts matériels, tandis que Courrier International et RFI relient les frappes à la stratégie russe avant les pourparlers. Euronews et BBC soulignent le contexte des négociations trilatérales."
-        },
-        {
-          "headline": "Vague d'alertes à la bombe en Europe",
-          "summary": "Une série de fausses alertes à la bombe a touché plusieurs pays européens vendredi et samedi, ciblant vols commerciaux et médias. Les autorités suspectent une origine russe, sans preuve formelle. Ces incidents mobilisent les forces de sécurité et alimentent les tensions géopolitiques.",
-          "sources": [
-            "France 24",
-            "France Info",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-une-nouvelle-vague-de-fausses-alertes-%C3%A0-la-bombe-agite-l-europe"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/07/linfo-du-jour-7-novembre-2026-soir"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-kiev-et-moscou-disent-avoir-chacun-abattu-plus-d-une-centaine-de-drones-dans-la-nuit_6803934_3210.html"
             }
-          ]
+          ],
+          "angles": "France 24 et RFI détaillent l’ampleur des frappes et leurs conséquences logistiques. Le Monde et France Info soulignent l’utilisation présumée d’armes nord-coréennes et le contexte des négociations à venir. Euronews met en avant l’impact humanitaire immédiat."
         },
         {
-          "headline": "Contestation contre les centres de données en Europe",
-          "summary": "Des militants ont occupé un chantier de centre de données Microsoft à Amsterdam, rejoignant un mouvement européen contre ces infrastructures. L'UE accélère leur évaluation environnementale, suscitant des critiques sur leur impact écologique. Des appels à un moratoire sont lancés.",
+          "headline": "AfD propose un sommet Allemagne-Russie-USA sans l’Ukraine",
+          "summary": "Le parti d’extrême droite allemand AfD, en tête des sondages, propose un sommet trilatéral entre l’Allemagne, la Russie et les États-Unis, excluant Kiev. Cette initiative intervient alors que l’Allemagne reste le premier contributeur à l’aide militaire ukrainienne et que l’AfD prône une levée des sanctions contre Moscou.",
           "sources": [
-            "France 24",
-            "Mediapart",
-            "RFI"
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/ecologie/071126/l-ue-deploie-le-tapis-rouge-pour-les-centres-de-donnees"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261107-en-europe-la-contestation-contre-la-construction-de-centres-de-donn%C3%A9es-s-amplifie"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/08/le-parti-d-extreme-droite-allemand-afd-ambitionne-d-organiser-un-sommet-entre-l-allemagne-la-russie-et-les-etats-unis-mais-sans-l-ukraine_6808410_3210.html"
             }
           ]
         },
         {
-          "headline": "Report de la législation européenne sur le méthane",
-          "summary": "Les États membres de l'UE ont reporté d'un an l'entrée en vigueur d'une législation visant à réduire les émissions de méthane, un gaz à effet de serre puissant. Ce report intervient à trois jours de l'ouverture de la COP31, suscitant des critiques sur l'engagement climatique européen.",
-          "sources": [
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/environnement/20261107-les-%C3%A9tats-europ%C3%A9ens-reportent-d-un-an-l-entr%C3%A9e-en-vigueur-de-la-l%C3%A9gislation-sur-le-m%C3%A9thane"
-            }
-          ]
-        },
-        {
-          "headline": "Crise des retraites : pensions insuffisantes dans 22 pays européens",
-          "summary": "Selon l'OCDE, les travailleurs européens doivent épargner entre 600 et 1 000 euros par mois pour toucher 70 % de leur salaire à la retraite. Les écarts entre hommes et femmes persistent, avec des risques accrus pour les femmes. L'UE et les États sont pointés du doigt sur leur préparation insuffisante.",
+          "headline": "Risque de « dunkelflaute » en Europe : dépendance aux énergies polluantes",
+          "summary": "Une combinaison de temps nuageux et d’absence de vent pourrait réduire la production d’énergies renouvelables en Europe, forçant les réseaux à recourir à des centrales à charbon ou à gaz. Ce phénomène, appelé « dunkelflaute », menace la transition énergétique du continent.",
           "sources": [
             "Euronews"
           ],
           "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/07/retraite-dans-22-pays-europeens-les-pensions-obligatoires-insuffisantes-selon-locde"
+              "url": "https://fr.euronews.com/2026/11/08/leurope-risque-sa-premiere-dunkelflaute-le-boom-solaire-freine-les-prix-flambent"
+            }
+          ]
+        },
+        {
+          "headline": "Exercice militaire « Koalicja » : la Pologne accueille la Force multinationale pour l’Ukraine",
+          "summary": "Un exercice militaire baptisé « Koalicja » débutera lundi en Pologne, impliquant des troupes alliées de l’Ukraine, pilotées par la France et le Royaume-Uni. Cet entraînement de deux semaines vise à renforcer la coopération militaire en soutien à Kiev.",
+          "sources": [
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261107-la-force-multinationale-pour-l-ukraine-s-incarne-en-pologne-avec-l-exercice-militaire-koalicja"
+            }
+          ]
+        },
+        {
+          "headline": "Débat au Royaume-Uni : criminaliser les discussions sur l’identité de genre ?",
+          "summary": "Un projet de loi travailliste britannique vise à interdire les thérapies de conversion, suscitant des craintes chez les familles souhaitant discuter avec leurs enfants de leur orientation. Le texte pourrait être interprété comme une restriction des échanges ordinaires sur l’identité de genre.",
+          "sources": [
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/peut-on-encore-tenter-de-dissuader-son-enfant-de-changer-de-genre-le-debat-qui-secoue-le-royaume-uni-20261107"
             }
           ]
         }
@@ -335,149 +294,151 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Rugby : France-Fidji, un match d’ouverture chaotique",
-          "summary": "Le XV de France a entamé son match contre les Fidji (7 novembre, Lyon-Décines) dans le Championnat des nations avec des difficultés défensives, malgré le retour du duo Antoine Dupont-Romain Ntamack. Les Bleus, en quête de cohésion après un tour en hémisphère Sud, affrontent une équipe fidjienne réputée pour son jeu offensif. Les médias soulignent l’importance de ce match pour relancer le cycle des Bleus.",
-          "sources": [
-            "Le Figaro",
-            "Le Monde",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949584/france-fidji"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/rugby/4261136-20261107-direct-xv-france-fidji-excitante-rentree-bleus-retour-charniere-dupont-ntamack-suivez-match-20h45?at_medium=display&at_campaign=149"
-            }
-          ]
-        },
-        {
-          "headline": "Mobilisation sociale : baisse des participants, pression maintenue",
-          "summary": "Environ 146 000 manifestants selon le ministère de l’Intérieur (250 000 selon les syndicats) ont défilé samedi 7 novembre en France, dans un contexte de colère sociale persistante. Les cortèges, globalement calmes, visent à maintenir la pression avant la conférence sociale de lundi à Matignon. Les gilets jaunes se sont rassemblés à Paris malgré une interdiction, tandis que des incidents ponctuels ont été signalés en fin de journée.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "RFI",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261107-direct-col%C3%A8re-sociale-en-france-des-milliers-de-personnes-attendues-dans-la-rue-pour-maintenir-la-pression"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-col%C3%A8re-sociale-malgr%C3%A9-une-mobilisation-en-baisse-la-rue-veut-maintenir-la-pression"
-            }
-          ]
-        },
-        {
-          "headline": "Meeting LFI : Mélenchon mobilise 20 000 personnes au Bourget",
-          "summary": "Jean-Luc Mélenchon a réuni 17 000 à 20 000 militants au Bourget (Seine-Saint-Denis) pour un meeting samedi 7 novembre, où il a présenté son programme présidentiel et dénoncé la résignation politique. Le Parti communiste français (PCF) a réagi en rappelant que les députés communistes soutenant Mélenchon se placent « en dehors du parti ». Le candidat insoumis refuse toute ouverture à d’autres forces de gauche, malgré des critiques sur son manque de clarté stratégique.",
-          "sources": [
-            "Libération",
-            "Le Figaro",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-melenchon-lfi-la-france-insoumise-presidentielle-2027-campagne-edouard-philippe-gabriel-attal-rn-marine-le-pen-20261107"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et Le Figaro analysent la stratégie de Mélenchon comme un pari risqué, tandis que France Info et Libération soulignent les tensions internes au PCF. Le Figaro insiste sur le ton combatif de Mélenchon, alors que Libération questionne son refus de s’ouvrir à la gauche."
-        },
-        {
-          "headline": "Hommage à Pengo Bossio Wangi : solidarité après l’attentat raciste",
-          "summary": "Plusieurs centaines de personnes ont assisté aux obsèques de Pengo Bossio Wangi, 26 ans, tué lors de l’attentat raciste de Trappes (23 octobre), à Guyancourt (Yvelines). Les participants, unis malgré leurs différences, ont exprimé leur colère face à l’inaction politique. Cet hommage public marque la mobilisation citoyenne après un crime ciblant un jeune homme d’origine africaine.",
-          "sources": [
-            "Le Monde",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-d-anonymes-reunis-c-est-important-d-etre-la-pour-montrer-notre-solidarite-quelle-que-soit-la-religion-la-couleur_6808310_3224.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/"
-            }
-          ]
-        },
-        {
-          "headline": "Tennis : Van Assche éliminé en demi-finales du Masters 1000 de Paris",
-          "summary": "Luca Van Assche, 21 ans, a été battu par Ben Shelton (États-Unis) en demi-finales du Masters 1000 de Paris (7 novembre), mettant fin à son épopée après une semaine exceptionnelle. L’Américain, numéro 4 mondial, a dominé le Français en trois sets. Gaël Monfils, ancien numéro 6 mondial, a été nommé capitaine de l’équipe de France de Coupe Davis, succédant à Paul-Henri Mathieu.",
-          "sources": [
-            "20 Minutes",
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/tennis/4261198-20261107-masters-1000-paris-niveau-jouer-mecs-luca-van-assche-avenir-rose?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/tennis/masters-1000/l-epopee-du-francais-luca-van-assche-stoppee-en-demi-finales-du-masters-1000-de-paris-par-ben-shelton_8272385.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU/"
-            }
-          ]
-        },
-        {
-          "headline": "Enquête ouverte sur les alertes à la bombe ciblant des vols en France",
-          "summary": "Le parquet de Paris a ouvert une enquête pour identifier les auteurs des courriels à l’origine de fausses alertes à la bombe visant des vols commerciaux en Europe, dont certains survolant la France. Les investigations explorent un éventuel lien avec des puissances étrangères. Ces incidents, survenus depuis le début de la semaine, ont perturbé des dizaines de vols.",
+          "headline": "Route du Rhum : Laperche pulvérise le record",
+          "summary": "Tom Laperche, 29 ans, a remporté la Route du Rhum en solitaire en 6 jours, 13 heures et 27 minutes, battant le record de la traversée. Ce Breton, formé auprès de navigateurs expérimentés comme François Gabart, s’impose dès sa première participation. Son parcours, marqué par un génie précoce et un soutien technique exceptionnel, en fait le plus jeune vainqueur depuis Laurent Bourgnon en 2010.",
           "sources": [
             "France 24",
+            "20 Minutes",
+            "RFI",
             "France Info",
             "Le Figaro"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-le-fran%C3%A7ais-tom-laperche-triomphe-record-%C3%A0-la-cl%C3%A9"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/4261259-20261108-route-rhum-genie-precoce-mentors-xxl-tom-laperche-vainqueur-edition-2026?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/sports/20261108-voile-tom-laperche-s-impose-dans-la-route-du-rhum-et-bat-le-record-de-la-travers%C3%A9e"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-tom-laperche-la-consecration-du-premier-de-la-classe_8272541.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/cles-usb-infectees-invitations-compromettantes-ces-cadeaux-offerts-par-des-puissances-etrangeres-pour-pieger-l-economie-francaise-20261107"
+              "url": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-qui-est-tom-laperche-le-nouveau-prodige-de-la-course-au-large-20261108"
+            }
+          ]
+        },
+        {
+          "headline": "Mélenchon mobilise 20 000 personnes au Bourget",
+          "summary": "Jean-Luc Mélenchon a présenté son programme présidentiel devant 20 000 sympathisants au Bourget, réaffirmant sa volonté de « tout changer » et refusant tout compromis. Son discours, axé sur la radicalité et l’union de la gauche, s’inscrit dans une dynamique de campagne marquée par une forte mobilisation. Les propositions incluent le vote à 16 ans, une VIe République et un « nouvel état écologique ».",
+          "sources": [
+            "Le Figaro",
+            "Euronews",
+            "Mediapart",
+            "Libération",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/il-faut-tout-changer-au-bourget-jean-luc-melenchon-assume-sa-radicalite-et-s-offre-une-demonstration-de-force-20261107"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/07/jean-luc-melenchon-mise-sur-le-meeting-du-bourget-pour-imposer-son-programme-presidentiel"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-pr%C3%A9sidentielle-il-faut-tout-changer-lance-m%C3%A9lenchon-%C3%A0-son-meeting-au-bourget"
             }
           ],
-          "angles": "France Info et France 24 insistent sur la dimension internationale et sécuritaire, tandis que Le Figaro analyse les méthodes d’ingérence économique évoquées par la DGSI."
+          "angles": "Libération et Mediapart soulignent la radicalité comme condition de victoire et l'appel à rassembler la gauche, tandis que Le Figaro et Euronews insistent sur la démonstration de force et les mesures phares du programme."
+        },
+        {
+          "headline": "Incendies criminels ciblant policiers et institutions",
+          "summary": "Deux incendies criminels ont visé un domicile de policier dans le Gers et des locaux du Conseil départemental de Charente à Angoulême. Les autorités évoquent un lien direct avec la profession pour le premier cas, tandis que la piste criminelle est privilégiée pour le second. Ces actes s’inscrivent dans une série de violences à caractère politique ou professionnel.",
+          "sources": [
+            "Le Figaro",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/faits-divers/le-domicile-d-un-policier-incendie-dans-le-gers-laurent-nunez-denonce-un-acte-criminel-intolerable-20261108"
+            },
+            {
+              "source": "France Info",
+              "url": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]"
+            }
+          ]
+        },
+        {
+          "headline": "Manifestations sociales : 146 000 participants malgré le recul",
+          "summary": "Samedi 7 novembre, 146 000 personnes ont manifesté en France, dont 46 000 à Paris, pour dénoncer la vie chère et la précarité. Les syndicats estiment le chiffre à 250 000, soulignant un mouvement en baisse mais toujours actif. La mobilisation, marquée par des interpellations et une forte présence policière, s’inscrit dans un contexte de tensions sociales persistantes.",
+          "sources": [
+            "France 24",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-manifestations-146-000-personnes-ont-d%C3%A9fil%C3%A9-en-france-samedi"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/"
+            }
+          ],
+          "angles": "Libération et France 24 divergent sur les chiffres : les syndicats (cités par Libération) évoquent 250 000 participants, contre 146 000 selon le ministère de l’Intérieur (France 24)."
+        },
+        {
+          "headline": "Primaires contre les extrêmes : 66 parlementaires s’engagent",
+          "summary": "Soixante-six parlementaires, majoritairement macronistes, appellent à organiser une primaire pour éviter un second tour opposant La France insoumise et le Rassemblement national. Leur tribune, publiée dans La Tribune Dimanche, vise à rassembler les démocrates et républicains. Gabriel Attal et Annie Genevard, ministre de l’Agriculture, soutiennent cette initiative, tandis qu’Édouard Philippe la rejette.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/en-vue-de-la-presidentielle-plus-de-soixante-parlementaires-appellent-a-une-primaire-contre-les-extremes_8273075.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4261257-20261108-presidentielle-2027-france-avant-egos-signent-primaire-contre-extremes?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108"
+            }
+          ],
+          "angles": "France Info et 20 Minutes mettent en avant l’urgence politique et l’union des modérés, tandis que Le Figaro analyse les chances réelles de succès de cette primaire face aux divisions internes."
+        },
+        {
+          "headline": "Hommage national à Pengo Bossio Wangi après attentat raciste",
+          "summary": "Plusieurs centaines de personnes ont assisté aux obsèques de Pengo Bossio Wangi, 26 ans, tué lors d’un attentat raciste à Trappes le 23 octobre. La foule, unie dans le deuil, a rendu hommage à la victime, soulignant l’absence de soutien politique. Cet événement s’inscrit dans une série de violences racistes en France, alimentant les débats sur la sécurité et la cohésion sociale.",
+          "sources": [
+            "20 Minutes",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4261266-20261108-attentat-raciste-trappes-obseques-pengo-bossio-wangi-proches-anonymes-unis-pleurer?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/"
+            }
+          ],
+          "angles": "Libération et 20 Minutes adoptent un ton empathique, mettant en avant la dimension collective de l’hommage et le manque de réponses institutionnelles."
         }
       ]
     }
