@@ -1,157 +1,189 @@
 {
-  "generated_at": "2026-11-08T20:41:24Z",
-  "edition": "8 novembre 2026",
+  "generated_at": "2026-11-09T13:13:09Z",
+  "edition": "9 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Israël : Eisenkot chargé de former un gouvernement",
-          "summary": "Gadi Eisenkot, chef du principal bloc d'opposition israélien, a reçu le mandat du président Isaac Herzog de former le prochain gouvernement. Il doit réunir une majorité en 28 jours, mais les divisions sur les partis arabes et la conscription des ultraorthodoxes compliquent les négociations. Eisenkot a ouvert la porte à une coalition incluant le Likoud de Benyamin Netanyahou, tout en critiquant sa gestion de la crise politique. Les médias soulignent l'incertitude persistante sur la stabilité du futur exécutif.",
+          "headline": "Midterms 2026 : victoire démocrate et remises en question de Trump",
+          "summary": "Les démocrates ont remporté les élections de mi-mandat aux États-Unis, infligeant une défaite cuisante à Donald Trump et à son camp républicain. Le président américain a reconnu une politique migratoire « trop dure » et une communication défaillante, sans annoncer de changement concret. Les résultats pourraient influencer la présidentielle de 2028, avec une nouvelle génération de démocrates déjà en lice. Les électeurs hispaniques, cruciaux pour Trump, se sont massivement retournés contre lui.",
           "sources": [
-            "Libération",
-            "France Info",
-            "Le Monde",
+            "Toute l'Europe",
+            "Le Figaro",
+            "20 Minutes",
             "RFI",
-            "Le Figaro"
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/en-israel-gadi-eisenkot-a-lepreuve-des-contradictions-de-son-camp-20261108_ME7D6IMIVVEEHEKKCMEB4KIVDE/"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-les-democrates-reprennent-le-controle-du-congres-donald-trump-reconnait-la-defaite-de-son-camp/"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/etats-unis-face-a-donald-trump-les-democrates-en-ordre-de-bataille-pour-la-presidentielle-2028-20261108"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4261547-20261109-etats-unis-apres-midterms-trump-reconnait-politique-expulsions-immigres-trop-dure?at_medium=display&at_campaign=149"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261108-isra%C3%ABl-eisenkot-officiellement-charg%C3%A9-de-former-le-prochain-gouvernement-tend-la-main-%C3%A0-netanyahu"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-dans-une-interview-donald-trump-reconna%C3%AEt-une-politique-d-immigration-trop-s%C3%A9v%C3%A8re"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html"
+            }
+          ],
+          "angles": "Le Monde et Le Figaro soulignent l'impact sur la présidentielle 2028 et les divisions internes au Parti républicain. RFI et 20 Minutes insistent sur les déclarations de Trump, jugées ambiguës, tandis que Libération et France Info analysent le basculement des électeurs hispaniques comme un tournant politique. Toute l'Europe adopte un ton pédagogique avec des cartes et graphiques explicatifs."
+        },
+        {
+          "headline": "Affaire d'espionnage présumé : Nvidia et le PDG Jensen Huang dans la tourmente",
+          "summary": "Jensen Huang, PDG de Nvidia, est au cœur d’une enquête interne pour une possible opération d’espionnage chinois après avoir reconnu une liaison avec une femme soupçonnée d’être une agente de Pékin. La Chine dément toute implication, tandis que Washington s’inquiète des risques pour la sécurité nationale. L’affaire, révélée par le New York Times, mêle enjeux géopolitiques et personnels, avec des conséquences potentielles sur l’industrie technologique américaine.",
+          "sources": [
+            "France 24",
+            "Le Figaro",
+            "Euronews",
+            "Libération",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-nvidia-son-patron-au-c%C5%93ur-d-une-affaire-d-espionnage-chinois"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/le-patron-de-nvidia-aurait-il-ete-piege-par-une-espionne-chinoise-le-senat-americain-va-enqueter-20261108"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/09/nvidia-ouvre-une-enquete-sur-son-patron-apres-des-soupcons-despionnage-chinois"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/tempete-a-nvidia-dont-le-patron-aurait-accueilli-une-espionne-chinoise-dans-son-lit-20261109_LCFPHQ54HJG63LXHNUIPQYFUDY/"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "Le Figaro et Libération insistent sur l’aspect personnel (adultère) et politique, tandis que France 24 et Euronews mettent l’accent sur les risques pour la sécurité nationale et l’impact économique. La BBC adopte une approche factuelle et chronologique, sans jugement."
+        },
+        {
+          "headline": "Israël : Eisenkot chargé de former un gouvernement sans majorité claire",
+          "summary": "Gadi Eisenkot, chef du parti d’opposition Yashar, a 28 jours pour former un gouvernement en Israël après des élections législatives sans vainqueur. Son bloc n’a pas obtenu de majorité, et les divisions sur les partis arabes et la conscription des ultraorthodoxes compliquent les négociations. Benjamin Netanyahu pourrait rester au pouvoir en l’absence d’accord. Les chancelleries arabes observent avec prudence cette potentielle alternance.",
+          "sources": [
+            "RFI",
+            "France 24",
+            "Le Figaro",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261109-isra%C3%ABl-gadi-eisenkot-va-devoir-trahir-une-promesse"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-isra%C3%ABl-gadi-eisenkot-face-au-d%C3%A9fi-de-former-une-large-coalition"
             },
             {
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/international/en-israel-gadi-eisenkot-charge-de-former-un-gouvernement-avec-une-majorite-encore-introuvable-20261108"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/israel-apres-la-nomination-deisenkot-les-calculs-diplomatiques-prudents-des-pays-arabes-20261109_QUPV72NG3ZGEDDEF27MUFMDJUE/"
             }
           ],
-          "angles": "Libération et Le Monde insistent sur les contradictions politiques et les enjeux sociétaux (partis arabes, ultraorthodoxes), tandis que France Info et RFI mettent en avant la tentative d'ouverture d'Eisenkot envers Netanyahou et le Likoud, avec un ton plus conciliant."
+          "angles": "France 24 et Le Figaro analysent les obstacles politiques et les calculs stratégiques, tandis que RFI adopte un ton plus neutre, centré sur les délais et les enjeux constitutionnels. Libération met en avant les réactions diplomatiques arabes, perçues comme prudentes."
         },
         {
-          "headline": "Naufrage de migrants au large du Sénégal",
-          "summary": "Un naufrage de pirogue au large de Kébémer, dans le nord-ouest du Sénégal, a fait au moins 34 morts selon la majorité des sources, bien que RFI mentionne initialement 21 victimes. Un rescapé a été retrouvé, mais les recherches se poursuivent. Ce drame s'inscrit dans le contexte de la route migratoire atlantique vers l'Europe, marquée par des embarcations surchargées et vétustes. Les autorités sénégalaises et les ONG alertent sur la vulnérabilité des migrants en mer.",
+          "headline": "Gaza : inondations et détresse humanitaire aggravées par la guerre",
+          "summary": "Les pluies diluviennes ont submergé des dizaines de milliers d’abris de fortune à Gaza, faisant au moins neuf morts, dont des enfants, et aggravant la crise humanitaire. L’ONU alerte sur l’absence d’abris adaptés avant l’hiver pour près de deux millions de déplacés. Israël restreint toujours l’acheminement de l’aide, tandis que les conditions de vie se dégradent davantage.",
           "sources": [
             "Le Monde",
-            "Libération",
-            "RFI",
-            "France 24",
-            "France Info"
+            "France Info",
+            "Courrier International",
+            "BBC"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-au-moins-34-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3213.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/a-gaza-la-detresse-des-habitants-apres-les-pluies-diluviennes-qui-ont-submerge-des-dizaines-de-milliers-d-abris-de-fortune_6808645_3210.html"
             },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261108-s%C3%A9n%C3%A9gal-le-naufrage-d-une-pirogue-de-migrants-a-fait-au-moins-21-morts"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/afrique/20261108-au-large-du-s%C3%A9n%C3%A9gal-au-moins-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-%5Bgeneral%5D"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent le contexte structurel de la migration clandestine et les risques encourus, tandis que France 24 et RFI (initialement) privilégient le bilan humain et les opérations de secours, avec des chiffres divergents sur le nombre de morts."
-        },
-        {
-          "headline": "Arabie saoudite : attaques houthis sur Riyad",
-          "summary": "Les rebelles houthis du Yémen ont revendiqué des frappes contre le quartier d'affaires de Riyad, endommageant notamment un gratte-ciel d'Aramco. Deux missiles balistiques ont été interceptés par les forces saoudiennes, sans faire de victimes. Ces attaques s'inscrivent dans une escalade des frappes houthis contre des infrastructures saoudiennes depuis octobre. L'Arabie saoudite maintient une vigilance accrue, notamment autour de l'aéroport et des sites pétroliers stratégiques.",
-          "sources": [
-            "Euronews",
-            "France Info",
-            "RFI",
-            "Libération",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/08/ukraine-les-europeens-sinvitent-a-la-table-des-negociations-a-abu-dhabi-annonce-barrot"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261108-guerre-en-ukraine-les-europ%C3%A9ens-dont-la-france-seront-repr%C3%A9sent%C3%A9s-lors-des-n%C3%A9gociations-%C3%A0-abou-dhabi"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/paraguay-apres-la-destitution-de-santiago-pena-pedro-alliana-investi-president-20261107_6D7BD6K2JFGYPGOZUWHPETBACU/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive"
-            }
-          ]
-        },
-        {
-          "headline": "Trump propose Dana White comme porte-parole",
-          "summary": "Donald Trump a annoncé vouloir nommer Dana White, patron de l'UFC (arts martiaux mixtes), comme porte-parole de la Maison Blanche. Ce proche du président, connu pour ses positions conservatrices et masculinistes, doit le rencontrer lundi. La proposition intervient après la défaite républicaine aux midterms, dans un contexte de remaniement stratégique pour contrer les démocrates. Les médias soulignent leur longue collaboration et le profil controversé de White.",
-          "sources": [
-            "BBC",
-            "France Info",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-m-muscle-a-la-maison-blanche-20261108"
-            }
-          ]
-        },
-        {
-          "headline": "Midterms 2026 : victoire démocrate et réaction de Trump",
-          "summary": "Les élections de mi-mandat aux États-Unis ont confirmé une « vague bleue » historique, avec la perte du contrôle des deux chambres du Congrès par les républicains. Donald Trump a réagi en qualifiant ce résultat d'« énorme pas en arrière » pour l'Amérique. Les démocrates, portés par cette victoire, commencent déjà à envisager la présidentielle de 2028. Les médias analysent les conséquences sur la gouvernance et les tensions politiques internes aux États-Unis.",
-          "sources": [
-            "France Info",
-            "BBC",
-            "Le Monde"
-          ],
-          "links": [
             {
               "source": "France Info",
               "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html#xtor=RSS-3-%5Bgeneral%5D"
             },
             {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-les-pluies-diluviennes-aggravent-le-desastre-les-tentes-ne-nous-protegent-pas_285957"
+            },
+            {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "Le Monde et France Info décrivent la situation avec des témoignages poignants et des données humanitaires précises. Le Courrier International ajoute une dimension locale (éboulements de tentes) sans modifier le fond. Angles similaires, ton alarmiste mais factuel."
+        },
+        {
+          "headline": "Argentine : le pape Léon XIV critique l’ultralibéralisme de Milei",
+          "summary": "Lors de sa visite historique en Argentine, le pape Léon XIV a adressé un message voilé à Javier Milei, critiquant son modèle économique ultralibéral. Il a souligné que « l’économie doit servir la personne, et non l’inverse », lors d’un discours à Buenos Aires. Milei, accueilli officiellement, n’a pas réagi publiquement, mais le Vatican marque ainsi son opposition aux politiques sociales du gouvernement.",
+          "sources": [
+            "Euronews",
+            "Le Monde",
+            "RFI",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/09/argentine-javier-milei-accueille-le-pape-leon-xiv-pour-une-visite-historique"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/08/afrique-du-sud-l-anc-principal-parti-du-pays-enregistre-le-pire-score-de-son-histoire-aux-elections-municipales_6808463_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261109-en-argentine-le-pape-l%C3%A9on-xiv-attaque-%C3%A0-mots-couverts-la-politique-ultralib%C3%A9rale-de-javier-milei"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/a-buenos-aires-leon-xiv-s-inquiete-pour-l-avenir-de-la-democratie-en-argentine-20261109"
             }
-          ]
+          ],
+          "angles": "Le Monde et RFI insistent sur le contraste entre les discours du pape et les réformes de Milei, avec des citations précises. Euronews adopte un angle plus descriptif, centré sur l’événement symbolique de la visite papale."
+        },
+        {
+          "headline": "Crise migratoire : naufrage mortel au large du Sénégal",
+          "summary": "Au moins 35 personnes sont mortes dans le naufrage d’une pirogue de migrants au large du Sénégal, avec un seul rescapé retrouvé. Ce drame s’ajoute à la route dangereuse de l’Atlantique vers les îles Canaries, où des milliers tentent chaque année de rejoindre l’Europe. Les autorités sénégalaises et les ONG dénoncent les conditions de ces traversées, souvent mortelles.",
+          "sources": [
+            "France Info",
+            "Le Monde",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-au-moins-34-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3213.html"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "France Info et Le Monde utilisent des chiffres précis et des témoignages pour illustrer l’urgence humanitaire. Angles identiques, ton sobre et factuel."
         }
       ]
     },
@@ -160,130 +192,125 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Attentat d'extrême droite à Cracovie : six morts",
-          "summary": "Un homme de 24 ans, « fasciné par l’extrême droite », a tué six personnes et en a blessé quinze samedi 7 novembre sur la place centrale de Cracovie. Trois autres corps ont été retrouvés chez lui. Le parquet a ouvert une enquête pour terrorisme. Les autorités polonaises évoquent un acte isolé, mais le contexte politique polarisé alimente les débats.",
-          "sources": [
-            "RFI",
-            "Courrier International",
-            "Le Monde",
-            "Libération",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261108-pologne-autour-de-l-attentat-de-cracovie-la-d%C3%A9sinformation-et-la-r%C3%A9cup%C3%A9ration-politique-%C3%A0-l-%C5%93uvre"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/terrorisme-en-pologne-apres-l-attentat-de-cracovie-plus-rien-ne-sera-comme-avant_285750"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/pologne-des-corps-retrouves-chez-le-tireur-fascination-pour-lextreme-droite-ce-que-lon-sait-apres-lattentat-mortel-de-cracovie-20261108_X5EYERZROJAVTG4PWU44XJA5JI/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-pologne-un-tireur-fascin%C3%A9-par-l-extr%C3%AAme-droite-abat-six-personnes-%C3%A0-cracovie-1"
-            }
-          ],
-          "angles": "Libération et Le Monde insistent sur les liens idéologiques du tireur et le contexte politique préélectoral. France 24 et France Info soulignent l'aspect terroriste et le choc national. RFI et Le Figaro mettent en avant la récupération politique et la désinformation. Courrier International analyse l'impact sociétal à long terme."
-        },
-        {
-          "headline": "Frappe russe : 850 000 Ukrainiens privés d'électricité",
-          "summary": "Les régions de Dnipropetrovsk et Kharkiv ont subi des attaques massives de drones et missiles russes vendredi et samedi, plongeant 600 000 et 250 000 habitants dans le noir. Kiev dénonce une stratégie de destruction systématique des infrastructures critiques, à quelques jours de négociations internationales. L’Europe est invitée à participer aux pourparlers.",
-          "sources": [
-            "20 Minutes",
-            "Libération",
-            "France Info",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/des-centaines-de-milliers-dukrainiens-sans-electricite-apres-des-frappes-russes-20261108_ASWP57Z4IJA33IFUKSOIJOS7GM/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html"
-            }
-          ],
-          "angles": "Libération et France Info détaillent l'ampleur des coupures et les victimes civiles. 20 Minutes lie l'événement aux négociations diplomatiques à venir."
-        },
-        {
-          "headline": "Cyberattaque contre le ministre italien des Affaires étrangères",
-          "summary": "Antonio Tajani, ministre italien, a révélé samedi que ses données personnelles avaient été diffusées sur le dark Web. Il accuse des « hackers prorusses » et craint des opérations de désinformation avant les législatives. Le gouvernement italien dénonce une tentative de déstabilisation.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html"
-            }
-          ]
-        },
-        {
-          "headline": "Épidémie généralisée de VIH en Russie",
-          "summary": "Le VIH se propage désormais dans 27 régions russes au-delà des groupes à risque, selon l'agence sanitaire Rospotrebnadzor. De nombreuses infections restent indétectées, aggravant les risques de transmission. Les autorités russes peinent à contenir la progression du virus.",
-          "sources": [
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/08/russie-le-vih-atteint-un-stade-depidemie-generalisee-dans-27-regions"
-            }
-          ]
-        },
-        {
-          "headline": "Succession à la BCE : Knot et Hernandez de Cos en lice",
-          "summary": "Après l'annonce du départ anticipé de Christine Lagarde, le Néerlandais Klaas Knot et l'Espagnol Pablo Hernandez de Cos sont les deux candidats officiels pour diriger la Banque centrale européenne à partir de février 2027. Les négociations entre États membres sont en cours pour désigner le successeur.",
-          "sources": [
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261108-qui-sont-les-candidats-en-lice-pour-succ%C3%A9der-%C3%A0-christine-lagarde-%C3%A0-la-t%C3%AAte-de-la-bce"
-            }
-          ]
-        },
-        {
-          "headline": "Négociations Ukraine-Russie : l'Europe s'implique",
-          "summary": "La France et l'Union européenne seront représentées lors des pourparlers entre Russes et Ukrainiens prévus les 10 et 11 novembre à Abu Dhabi, sous médiation américaine. Le ministre français des Affaires étrangères, Jean-Noël Barrot, a annoncé cette participation pour éviter que des discussions ne se tiennent « en leur nom ». Il a également critiqué Jean-Luc Mélenchon pour ses propos jugés pro-russes sur le Donbass. Les détails sur la représentation française restent flous.",
+          "headline": "Tuerie de Cracovie : mort de l'assaillant",
+          "summary": "L'auteur de la fusillade du 7 novembre à Cracovie, Michal O., 24 ans, est décédé lundi 9 novembre à l'hôpital après avoir été grièvement blessé par la police. Il est suspecté d'avoir tué six personnes en ville et ses parents ainsi que sa sœur à son domicile. Les autorités polonaises enquêtent sur des motivations potentielles liées à l'extrême droite. L'attaque, qualifiée de terroriste, marque la première du genre en Pologne depuis la Seconde Guerre mondiale.",
           "sources": [
             "Euronews",
             "RFI",
+            "Libération",
+            "20 Minutes",
             "France Info"
           ],
           "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/08/bresil-dix-morts-dont-cinq-enfants-apres-la-chute-dune-voiture-surchargee-dans-un-lac"
+              "url": "https://fr.euronews.com/2026/11/09/pologne-lauteur-de-lattentat-de-cracovie-est-mort-a-lhopital"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261108-paraguay-les-%C3%A9pargnants-l%C3%A9s%C3%A9s-par-le-scandale-ueno-bank-commencent-%C3%A0-%C3%AAtre-rembours%C3%A9s"
+              "url": "https://www.rfi.fr/fr/europe/20261109-pologne-l-auteur-de-la-fusillade-%C3%A0-cracovie-est-mort-annonce-la-police"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/pologne-lauteur-de-la-tuerie-de-cracovie-est-mort-20261109_F4HYJ6EWTVC7RCS5564ZAMRNBM/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/pologne/4261541-20261109-fusillade-pologne-atteint-tirs-policiers-auteur-tuerie-fait-six-morts-decede?at_medium=display&at_campaign=149"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ],
-          "angles": "Euronews et RFI insistent sur la dimension diplomatique et l'affirmation de l'autonomie européenne, tandis que France Info met en avant la polémique autour de Mélenchon, avec un ton plus conflictuel."
+          "angles": "Libération et Euronews soulignent le contexte terroriste et les liens présumés avec l'extrême droite, tandis que France Info et RFI insistent sur les détails médicaux et judiciaires (décès, enquête en cours). 20 Minutes et France Info mentionnent explicitement le bilan total incluant les meurtres familiaux, absent des autres médias."
+        },
+        {
+          "headline": "Négociations Ukraine-Russie : l'UE s'invite à Abou Dhabi",
+          "summary": "Les pourparlers de paix entre la Russie et l'Ukraine, prévus les 10 et 11 novembre aux Émirats arabes unis sous égide américaine, excluent initialement les Européens. La France et l'UE ont réagi en annonçant une délégation commune pour y participer, affirmant ne pas laisser les Russes parler en leur nom. Jean-Luc Mélenchon est critiqué pour avoir relayé, selon Paris, la propagande russe sur le Donbass.",
+          "sources": [
+            "Libération",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/pourparlers-sur-lukraine-evinces-des-negociations-les-europeens-sous-pression-20261109_4D4HB5W7RBBU5IQFNX2HYJVQQE/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/08/ukraine-les-europeens-sinvitent-a-la-table-des-negociations-a-abu-dhabi-annonce-barrot"
+            }
+          ],
+          "angles": "Libération adopte un ton critique envers Mélenchon et met en avant la dimension diplomatique européenne, tandis qu'Euronews se concentre sur la réponse institutionnelle française et la composition de la délégation UE."
+        },
+        {
+          "headline": "Drame migratoire : 21 morts en mer Égée",
+          "summary": "Vingt-et-une personnes ont été retrouvées mortes dans deux embarcations au large de la Crète, principale route migratoire vers l'Union européenne. Les autorités grecques soulignent la dangerosité persistante de cette voie, souvent empruntée depuis la Turquie. L'événement survient dans un contexte de tensions accrues sur la gestion migratoire en Europe.",
+          "sources": [
+            "France Info",
+            "Le Monde",
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/09/douze-morts-decouverts-dans-une-embarcation-de-migrants-au-sud-de-la-crete_6808626_3210.html"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/environnement/union-europeenne-chine-etats-unis-qui-emet-le-plus-de-gaz-a-effet-de-serre/"
+            }
+          ]
+        },
+        {
+          "headline": "Exercices militaires en Pologne : test pour la coalition pro-ukrainienne",
+          "summary": "La Pologne accueille jusqu'au 22 novembre un exercice grandeur nature de la Force multinationale pour l'Ukraine, regroupant 2 800 soldats de dix pays. Pilotée par la France et le Royaume-Uni, cette coalition vise à démontrer sa capacité opérationnelle en soutien à Kiev. L'événement s'inscrit dans un contexte de tensions persistantes avec la Russie.",
+          "sources": [
+            "France 24",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261109-exercices-militaires-message-politique"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/en-pologne-la-coalition-des-volontaires-de-la-parole-aux-actes"
+            }
+          ],
+          "angles": "France 24 cadre l'exercice comme un message politique clair envers Moscou, tandis que RFI insiste sur son aspect opérationnel et logistique, soulignant sa première concrétisation depuis la création de la coalition en 2025."
+        },
+        {
+          "headline": "Hongrie : frère d'Orbán en garde à vue pour trafic d'êtres humains",
+          "summary": "Le frère du Premier ministre hongrois Viktor Orbán a été placé en garde à vue lundi 9 novembre dans le cadre d'une enquête pour trafic d'êtres humains. Plusieurs autres personnes ont été arrêtées à Budapest et sa région. Orbán a dénoncé un « jeu sale » et affirmé être la cible cachée de cette procédure, sans preuve publique à ce stade.",
+          "sources": [
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/hongrie-le-frere-de-viktor-orban-place-en-garde-a-vue-pour-soupcons-de-trafic-detres-humains-20261109_WB6ALOQMUBBWBNMZRXAOCQ5PKI/"
+            }
+          ]
+        },
+        {
+          "headline": "Espagne : Vox impose la 'priorité nationale' dans les politiques publiques",
+          "summary": "Le parti d'extrême droite espagnol Vox a obtenu l'inscription de la 'priorité nationale' dans les lois régionales de Valence, contournant les garde-fous constitutionnels. Ce concept, inspiré de l'extrême droite française, risque d'exclure les populations les plus précaires des aides publiques. La mesure s'applique déjà dans d'autres régions avec le soutien de Vox au Parti populaire.",
+          "sources": [
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/091126/en-espagne-l-extreme-droite-introduit-deja-la-priorite-nationale-dans-les-politiques-publiques"
+            }
+          ]
         }
       ]
     },
@@ -292,156 +319,176 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Tom Laperche remporte la Route du Rhum en record",
-          "summary": "Le navigateur breton Tom Laperche, 29 ans, a remporté la Route du Rhum dimanche 8 novembre à Pointe-à-Pitre en un temps record de 6 jours, 13 heures et 27 minutes. Il devance Thomas Coville et Louis Burton. C’est la première victoire du jeune skippeur, préparé depuis l’enfance par des mentors comme François Gabart. La course, marquée par des pépins techniques, consacre un nouveau talent précoce dans la voile.",
-          "sources": [
-            "Libération",
-            "France 24",
-            "20 Minutes",
-            "RFI",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/route-du-rhum-quinze-heures-apres-tom-laperche-thomas-coville-arrive-deuxieme-louis-burton-en-troisieme-position-20261108_GKORMUQNOBAOTNYZLX3ZUE4MKI/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-le-fran%C3%A7ais-tom-laperche-triomphe-record-%C3%A0-la-cl%C3%A9"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/4261259-20261108-route-rhum-genie-precoce-mentors-xxl-tom-laperche-vainqueur-edition-2026?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261108-voile-tom-laperche-s-impose-dans-la-route-du-rhum-et-bat-le-record-de-la-travers%C3%A9e"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-tom-laperche-la-consecration-du-premier-de-la-classe_8272541.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Accident mortel dans l’Ain : chauffeur mis en examen",
-          "summary": "Un chauffeur de 26 ans a été mis en examen pour homicide involontaire après s’être endormi au volant d’un car transportant 49 personnes, vendredi 6 novembre près de Bourg-en-Bresse. Deux passagers, une fillette de 7 ans et un étudiant de 18 ans, ont péri dans le crash. L’homme, sans antécédent judiciaire, a reconnu s’être assoupi. L’enquête se poursuit pour déterminer les causes exactes de l’accident.",
-          "sources": [
-            "Libération",
-            "Le Figaro",
-            "20 Minutes",
-            "Le Monde",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/accident-de-car-dans-lain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-20261108_Z6KTXMOAPRDHJG2OIETCJKYB64/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-20261108"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4261344-20261108-accident-car-ain-chauffeur-mis-examen-homicide-involontaire?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Carlos Alcaraz s’impose au Masters 1000 de Paris",
-          "summary": "L’Espagnol Carlos Alcaraz a remporté dimanche 8 novembre le Masters 1000 de Paris pour la première fois, battant Ben Shelton en finale (7-6, 7-5). À 23 ans, il compte désormais 29 titres en carrière et n’est plus qu’à une victoire de Jannik Sinner. Après cinq mois d’arrêt, il a mis en avant son instinct et son plaisir de jouer pour s’imposer. Ce succès renforce sa préparation pour les ATP Finals de Turin.",
-          "sources": [
-            "Le Monde",
-            "France 24",
-            "20 Minutes",
-            "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/sports/20261108-tennis-carlos-alcaraz-remporte-pour-la-premi%C3%A8re-fois-le-masters-1000-de-paris"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/tennis/4261303-20261108-carlos-alcaraz-desormais-tout-gagne-paris-shelton-rien-pu-faire-finale?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/tennis/masters-1-000-de-paris-carlos-alcaraz-titre-pour-la-premiere-fois-arthur-fils-qualifie-pour-les-atp-finals-20261108_CNNPGSGSNZDHZG4TQ3P4ZGKRHQ/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/tennis/masters-1000/carlos-alcaraz-remporte-le-masters-1000-de-paris-pour-la-premiere-fois-grace-a-son-succes-contre-ben-shelton-en-finale_8273420.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent son retour en forme après une pause, tandis que France 24 et 20 Minutes insistent sur son record et sa proximité avec l’égalité face à Sinner."
-        },
-        {
-          "headline": "Présidentielle 2027 : Roussel et Glucksmann campent sur leurs positions",
-          "summary": "Fabien Roussel (PCF) maintient sa candidature à l’Élysée malgré les défections de députés vers Jean-Luc Mélenchon, affirmant que son parti l’a désigné démocratiquement. Raphaël Glucksmann, candidat social-démocrate, a rejeté les accusations de proximité avec Macron et assuré avoir refusé le poste de Premier ministre en 2024. Les deux figures divisent la gauche à quelques mois du scrutin. Mélenchon, lui, a rassemblé samedi un meeting au Bourget avec une audience diversifiée.",
-          "sources": [
-            "Le Figaro",
-            "Libération",
-            "Le Monde",
-            "20 Minutes",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-malgre-les-defections-fabien-roussel-pcf-ira-jusqu-au-bout-20261108"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261108-pr%C3%A9sidentielle-en-france-jean-luc-m%C3%A9lenchon-pr%C3%A9sente-son-programme-lors-d-un-grand-meeting-au-bourget"
-            }
-          ],
-          "angles": "Libération et Le Monde analysent les stratégies des candidats, tandis que 20 Minutes et Le Figaro mettent l’accent sur les divisions internes à la gauche et les réactions des soutiens."
-        },
-        {
-          "headline": "Braquages de métaux précieux à Besançon : butin retrouvé",
-          "summary": "Le butin des braquages d’usines de métaux précieux à Besançon, estimé à plus de 6 millions d’euros, a été retrouvé. Huit personnes ont été mises en examen pour vols en bande organisée avec arme, dans le cadre d’opérations survenues en décembre 2025 et novembre 2026. La procureure anticriminalité organisée a confirmé dimanche la récupération intégrale des biens volés, mettant fin à une enquête complexe.",
+          "headline": "Teddy Riner annonce sa candidature à la présidentielle 2027",
+          "summary": "Le quintuple champion olympique de judo, Teddy Riner (37 ans), a officiellement annoncé sa candidature à l'élection présidentielle de 2027. Il se présente comme un candidat 'ni de droite ni de gauche', visant à 'fédérer' et 'redresser la France'. Sa déclaration, faite via les réseaux sociaux et confirmée par plusieurs médias, intervient dans un contexte de campagne déjà lancée par d'autres figures politiques. Riner assure vouloir concilier carrière sportive et engagement politique, sans préciser de retrait immédiat de la compétition.",
           "sources": [
             "France Info",
-            "Le Figaro"
+            "Le Figaro",
+            "Euronews",
+            "Libération",
+            "France 24"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/le-butin-de-braquages-d-usines-de-metaux-precieux-a-besancon-d-une-valeur-estimee-a-six-millions-d-euros-a-ete-retrouve_8273639.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/de-l-or-pour-plus-de-6-millions-d-euros-apres-les-braquages-de-metaux-precieux-a-besancon-la-totalite-du-butin-retrouve-20261108"
+              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/candidat-a-l-election-presidentielle-le-nouveau-combat-de-teddy-riner-20261109"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/09/presidentielle-de-2027-la-legende-du-judo-teddy-riner-candidat-pour-redresser-la-france"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/elections/teddy-riner-annonce-sa-candidature-a-la-presidentielle-au-parisien-20261109_BTPPXWNMZBCH5E3TGJXNHNIAXM/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle"
             }
           ]
+        },
+        {
+          "headline": "Conflit social : hausse du Smic et nouvelle journée de grève prévue",
+          "summary": "Le gouvernement a annoncé une hausse de 1,6 % du Smic (soit +24 €/mois à partir du 1ᵉʳ décembre), portant le salaire minimum à 1 502 € net. La CGT, qui dénonce des 'miettes', a appelé à une nouvelle journée de grève et de manifestation le 17 novembre, tandis que la CFDT et FO ne suivent pas encore. Les syndicats réclament des mesures plus ambitieuses pour répondre à la colère sociale, notamment sur les salaires et le pouvoir d’achat. Une conférence sociale a réuni partenaires sociaux et gouvernement pour tenter de désamorcer la tension.",
+          "sources": [
+            "Le Figaro",
+            "France Info",
+            "Libération",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/la-cgt-appelle-a-une-nouvelle-grande-journee-de-greve-et-de-manifestation-le-17-novembre-20261109"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/greve/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_8274494.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-la-hausse-du-smic-au-menu-de-la-conference-sociale-a-partir-de-9-h-30-20261109_GADMITB3HFBF7B4FVZXIE7INGU/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261109-en-direct-lecornu-re%C3%A7oit-syndicats-et-patronat-pour-tenter-de-r%C3%A9pondre-aux-revendications-sociales"
+            }
+          ],
+          "angles": "Libération et Le Monde soulignent la réaction critique de la CGT et le caractère insuffisant des mesures pour les fonctionnaires, tandis que Le Figaro et France Info mettent en avant l'annonce gouvernementale comme une réponse concrète, bien que limitée."
+        },
+        {
+          "headline": "Procès historique pour violences policières : affaire Michel Zecler",
+          "summary": "Trois policiers sont jugés depuis ce lundi devant la cour criminelle de Paris pour le passage à tabac de Michel Zecler, producteur de musique, en novembre 2020. Ils sont accusés de 'violences volontaires en réunion' et de 'faux en écriture publique'. L’affaire, rare procès pour violences policières, suscite une forte mobilisation, avec des soutiens comme des personnalités du monde culturel. Les trois agents ignoraient que l’aggression avait été filmée, ce qui a permis la plainte de la victime.",
+          "sources": [
+            "Libération",
+            "France 24",
+            "Mediapart",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/agression-de-michel-zecler-en-2020-trois-policiers-devant-la-cour-criminelle-de-paris-a-partir-de-ce-lundi-20261109_2IEP5AOUHRCQTD65E4YTKFMFMI/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261108-trois-policiers-jug%C3%A9s-pour-la-violente-agression-de-michel-zecler-en-2020"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/081126/six-ans-apres-les-policiers-qui-ont-tabasse-michel-zecler-juges-devant-une-cour-criminelle"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/le-proces-de-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-s-ouvre-a-paris_8274458.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération et Mediapart insistent sur le contexte des violences policières et leur rareté en procès, tandis que France 24 met en avant l’aspect symbolique et la mobilisation autour de l’affaire."
+        },
+        {
+          "headline": "Pétition pour fermer CNews dépasse le million de signatures",
+          "summary": "Une pétition exigeant la fermeture de la chaîne d’information CNews a franchi le seuil d’un million de signatures sur le site de l’Assemblée nationale. Les députés doivent voter mardi sur l’organisation d’un débat en hémicycle pour examiner cette demande. Lancée en juin, la pétition dénonce la chaîne comme une 'machine de propagande'. La décision dépendra de la commission des Affaires culturelles, qui pourrait classer le sujet sans suite ou l’étudier plus avant.",
+          "sources": [
+            "Libération",
+            "20 Minutes",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/medias/la-petition-appelant-a-fermer-cnews-depasse-le-million-de-signatures-sur-le-site-de-lassemblee-nationale-20261109_7HNUJ5F25NAVVJ6B7V7ROCACB4/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/assemblee_nationale/4261386-20261109-petition-appelant-fermer-cnews-passe-barre-million-signatures?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261108-cnews-la-p%C3%A9tition-appelant-%C3%A0-la-fermeture-de-la-cha%C3%AEne-d%C3%A9passe-le-million-de-signatures"
+            }
+          ]
+        },
+        {
+          "headline": "Crise lycéenne : cours de rattrapage proposés pendant les vacances",
+          "summary": "Face aux blocages persistants dans les lycées, le ministre de l’Éducation Édouard Geffray propose d’organiser des cours de rattrapage pendant les vacances de février ou de Pâques, avec des 'professeurs volontaires et rémunérés'. Cette mesure, déjà testée localement, vise à compenser les semaines de cours perdues. Les syndicats d’enseignants et d’élèves expriment cependant leur opposition, jugeant cette solution insuffisante et peu adaptée aux besoins des élèves.",
+          "sources": [
+            "20 Minutes",
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4261576-20261109-lycees-bloques-geffray-evoque-cours-rattrapage-pendant-vacances-scolaires-fevrier-paques?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-des-cours-de-rattrapage-possibles-pendant-les-vacances-de-fevrier-ou-de-paques-selon-le-ministre-20261109_FRW3NECNLRFLFBP3EBACBI5X2Y/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération précise les modalités et les critiques des syndicats, tandis que 20 Minutes met en avant le contexte des blocages et les propositions gouvernementales sans détailler les oppositions."
+        },
+        {
+          "headline": "Marine Le Pen minimise le racisme en France dans une interview aux États-Unis",
+          "summary": "Marine Le Pen, candidate du RN à la présidentielle 2027, a affirmé sur la chaîne américaine CBS que la France était 'le pays le moins raciste du monde', sans discrimination systémique. Elle a également lié immigration et chômage, estimant que la France 'ne peut plus importer des chômeurs'. Ces propos, contredits par des études comme celle du Défenseur des droits, ont suscité des réactions politiques et médiatiques. Elle a aussi évoqué une possible ouverture à la 'remigration' pour les étrangers en situation irrégulière.",
+          "sources": [
+            "Le Figaro",
+            "Le Monde",
+            "Libération",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/il-n-y-a-pas-de-discrimination-la-france-est-le-pays-le-moins-raciste-au-monde-soutient-marine-le-pen-20261109"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/pour-marine-le-pen-il-ny-a-pas-de-discriminations-en-france-qui-est-le-pays-le-moins-raciste-au-monde-20261109_STUPAFJLJVFJTBKRMXP265E43Q/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4261564-20261109-presidentielle-2027-marine-pen-france-pays-moins-raciste-monde?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "Le Monde et Libération soulignent les contradictions avec les données officielles et le contexte social, tandis que Le Figaro adopte un ton plus neutre en rapportant les déclarations sans les contextualiser davantage."
         }
       ]
     }
