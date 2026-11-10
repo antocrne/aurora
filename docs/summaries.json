@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:53:23Z",
+  "generated_at": "2026-11-10T21:53:18Z",
   "edition": "10 novembre 2026",
   "categories": [
     {
@@ -8,178 +8,136 @@
       "topics": [
         {
           "headline": "Procédure de destitution contre le ministre américain Hegseth",
-          "summary": "Le député républicain Thomas Massie a lancé une procédure de destitution contre le ministre de la Défense américain Pete Hegseth, critiquant son rôle dans la guerre en Iran. Cette initiative, rare parmi les républicains, survient après la défaite électorale du parti aux midterms. Hegseth, nommé par Donald Trump, est accusé d’avoir mal géré le conflit. La démarche divise les élus américains.",
+          "summary": "Le secrétaire américain à la Défense, Pete Hegseth, est visé par une procédure de destitution au Congrès pour sa gestion de la guerre en Iran, accusé d’avoir agi sans autorisation législative. Le député républicain Thomas Massie, opposant à Donald Trump, a lancé cette initiative. Hegseth dénonce une « mise en scène politique » et compare sa situation à celle de l’ancien président. La procédure survient dans un contexte de tensions internes au Parti républicain après les élections de mi-mandat.",
           "sources": [
             "France Info",
-            "Euronews",
-            "RFI",
-            "Courrier International",
-            "Libération"
+            "Le Monde",
+            "Libération",
+            "Le Figaro",
+            "Euronews"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/usa/le-ministre-de-la-defense-americain-pete-hegseth-vise-par-une-procedure-de-destitution-denonce-une-mise-en-scene-politique_8276519.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/etats-unis-pete-hegseth-ministre-de-la-defense-et-fusible-du-parti-republicain-20261110_QXCXT53VKBBQRMUNNOTMQRG7IU/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/etats-unis-pourquoi-le-chef-du-pentagone-pete-hegseth-est-vise-par-une-procedure-de-destitution-20261110"
             },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/10/le-ministre-americain-de-la-defense-face-a-une-procedure-de-destitution"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-pete-hegseth-ministre-defense-vis%C3%A9-proc%C3%A9dure-de-destitution-au-congr%C3%A8s"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/vu-des-etats-unis-la-destitution-de-hegseth-lancee-une-question-epineuse-pour-les-republicains-et-les-democrates_286047"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/etats-unis-le-ministre-de-la-defense-vise-par-une-procedure-de-destitution-lancee-au-congres-par-un-elu-republicain-20261109_4Z6ELZJHVVCI7JAZBPMZBEGEXE/"
             }
           ],
-          "angles": "France Info et Euronews insistent sur la dimension politique et les accusations précises (guerre en Iran), tandis que Courrier International souligne le clivage interne aux républicains et l’impact électoral. Libération et RFI reprennent les éléments factuels sans analyse approfondie."
+          "angles": "Libération et Le Monde soulignent les accusations juridiques et le contexte politique, tandis que France Info met davantage l’accent sur la réaction de Hegseth et son parallèle avec Donald Trump."
         },
         {
-          "headline": "France accuse l’Iran de cyberattaques contre des frigos",
-          "summary": "La France attribue à une unité cyber des Gardiens de la révolution iranienne les attaques ayant ciblé 700 sites de supermarchés en octobre, perturbant des réfrigérateurs connectés. Paris menace de sanctions (gel d’avoirs, interdictions de territoire) et a convoqué l’ambassadeur iranien. L’enquête pénale est en cours. L’Iran nie toute implication.",
+          "headline": "Condamnation de Kamel Daoud en Algérie pour plagiat",
+          "summary": "L’écrivain algérien Kamel Daoud et son épouse, psychiatre, ont été condamnés à cinq ans de prison ferme et 300 000 dinars d’amende chacun pour « divulgation du secret professionnel » et « atteinte à la vie privée ». Ils sont accusés d’avoir utilisé l’histoire d’une patiente, Saâda Arbane, pour son roman Houris, lauréat du prix Goncourt en 2024. Le couple reste sous mandat d’arrêt international. L’affaire oppose Daoud à une ancienne patiente ayant vécu la « décennie noire » algérienne (1992-2002).",
           "sources": [
-            "20 Minutes",
-            "France Info",
+            "Libération",
             "Le Monde",
-            "France 24",
-            "Libération"
+            "France Info"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4261838-20261110-apres-cyberattaque-contre-frigos-france-veut-riposter-contre-iran-interdit-rien?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/culture/livres/affaire-houris-kamel-daoud-condamne-a-cinq-ans-de-prison-en-algerie-20261110_WHP7GSOUIFBA3HZSPETRUUQITI/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/avec-lattribution-des-cyberattaques-contre-les-frigos-a-liran-la-france-hausse-dun-cran-sa-replique-20261110_O2MDF7TQCJFP5FEFHMCXR4RAGQ/"
-            }
-          ],
-          "angles": "Tous les médias (France Info, Le Monde, Libération, France 24) convergent sur les faits et les mesures annoncées, mais 20 Minutes et Libération soulignent l’aspect rare d’une attribution officielle par Paris, tandis que France 24 détaille la convocation diplomatique. Ton ferme et unanime sur la riposte."
-        },
-        {
-          "headline": "Affaire Jensen Huang : espionnage et liaison avec une Chinoise",
-          "summary": "Le PDG de Nvidia, Jensen Huang, reconnaît une liaison avec Alice Huang, soupçonnée d’espionnage pour la Chine. Les États-Unis enquêtent sur une possible fuite de secrets technologiques. Pékin dénonce une « machination ». Nvidia ouvre une enquête interne. Le scandale menace l’industrie de l’IA et les relations sino-américaines.",
-          "sources": [
-            "France 24",
-            "Libération",
-            "France Info",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-affaire-huang-soup%C3%A7ons-d-espionnage-chez-nvidia-roi-des-puces-d-ia"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/soupcons-despionnage-dans-laffaire-jensen-huang-patron-de-nvidia-la-chine-crie-au-complot-20261110_QILS6L3RM5BHRHYFYAB6JV7FWY/"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/10/le-romancier-kamel-daoud-condamne-a-cinq-ans-de-prison-en-algerie-pour-son-roman-houris_6808876_3212.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/jensen-huang-patron-de-nvidia-admet-une-liaison-avec-une-espionne-chinoise_8275190.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/09/alice-huang-la-maitresse-du-pdg-de-nvidia-soupconnee-despionnage"
-            }
-          ],
-          "angles": "Libération et France Info mettent l’accent sur l’aspect humain (liaison) et les soupçons d’espionnage, tandis que France 24 et Euronews insistent sur les implications géopolitiques et économiques. Libération ajoute une critique des restrictions américaines sur les exportations de puces, contournées par la Chine."
-        },
-        {
-          "headline": "Pape Léon XIV en Argentine : un message contre Milei",
-          "summary": "Le pape Léon XIV visite Buenos Aires et soutient les plus vulnérables (chômeurs, retraités), critiquant indirectement la politique d’austérité de Javier Milei. Deux millions de fidèles assistent à sa messe. Il dénonce les coupes budgétaires touchant les institutions caritatives. Son discours s’inscrit dans un contexte de tensions sociales accrues.",
-          "sources": [
-            "Courrier International",
-            "France Info",
-            "RFI",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/amerique-latine-en-argentine-le-pape-leon-xiv-envoie-un-message-politique-fort-a-javier-milei_286007"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-pape-leon-xiv-la-voix-politique-qu-on-n-attendait-pas_8254999.html#xtor=RSS-3-%5Bgeneral%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-argentine-plus-de-deux-millions-de-personnes-r%C3%A9unies-%C3%A0-buenos-aires-pour-une-messe-du-pape-l%C3%A9on-xiv"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/09/le-pape-leon-xiv-presse-javier-milei-de-proteger-les-argentins-les-plus-vulnerables"
+              "url": "https://www.franceinfo.fr/culture/livres/l-ecrivain-kamel-daoud-et-sa-femme-condamnes-par-contumace-en-algerie-a-cinq-ans-de-prison-ferme_8276420.html#xtor=RSS-3-[lestitres]"
             }
           ]
         },
         {
-          "headline": "Excédent commercial chinois : 1 000 milliards de dollars dépassés",
-          "summary": "La Chine a enregistré un excédent commercial de plus de 1 000 milliards de dollars en octobre, porté par les exportations d’IA et de voitures électriques (+35 % vers l’UE et les États-Unis). Malgré les droits de douane de Trump et les tentatives européennes, Pékin maintient sa domination commerciale. La demande intérieure reste faible.",
+          "headline": "Israël : commission d’enquête sur le 7 octobre 2023",
+          "summary": "Le parti de Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a déposé un projet de loi pour créer une commission d’enquête sur les défaillances sécuritaires ayant permis l’attaque du Hamas le 7 octobre 2023. Ce projet vise à examiner les responsabilités, notamment celle de Benyamin Nétanyahou. La Knesset pourrait adopter cette loi avant même la formation du gouvernement, malgré l’absence de majorité claire entre Eisenkot et Nétanyahou. Les manifestations d’extrême droite devant le Parlement reflètent les divisions politiques actuelles.",
           "sources": [
             "Libération",
             "RFI",
-            "Euronews"
+            "Le Monde",
+            "France Info"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/asie-pacifique/la-chine-franchit-le-cap-des-1-000-milliards-de-dollars-dexcedent-commercial-un-revers-pour-lue-et-les-etats-unis-20261110_ULSH5S7L2BFQNC33AZY3A676T4/"
+              "url": "https://www.liberation.fr/international/moyen-orient/en-israel-le-parti-deisenkot-a-depose-un-projet-de-loi-pour-creer-une-commission-denquete-sur-le-7-octobre-20261110_L34WCRVGPVHX7IF6I4HAPO3XCM/"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261110-exc%C3%A9dent-commercial-chinois-barre-des-1000-milliards-de-dollars-d%C3%A9pass%C3%A9e"
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261110-isra%C3%ABl-eisenkot-veut-une-commission-d-enqu%C3%AAte-sur-les-d%C3%A9faillances-s%C3%A9curitaires-li%C3%A9es-au-7-octobre"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/10/excedent-commercial-chinois-depasse-1-000-milliards-de-dollars-grace-au-boom-de-lia"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/10/israel-devant-la-knesset-gadi-eisenkot-promet-des-reformes-legislatives-rapides-avant-meme-la-formation-du-gouvernement_6808907_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/en-israel-le-president-isaac-herzog-appelle-au-compromis-pour-former-un-gouvernement-en-inaugurant-le-nouveau-parlement_8276426.html#xtor=RSS-3-%5Bmonde%5D"
             }
-          ],
-          "angles": "Libération, RFI et Euronews convergent sur les chiffres et les secteurs concernés, mais Euronews met en avant le boom de l’IA comme facteur clé, tandis que RFI et Libération soulignent l’échec des mesures protectionnistes occidentales. Ton factuel et critique implicite sur les déséquilibres commerciaux."
+          ]
         },
         {
-          "headline": "Israël : Eisenkot chargé de former un gouvernement post-Netanyahu",
-          "summary": "Le président israélien Isaac Herzog a confié à Gadi Eisenkot, ancien chef d’état-major et rival de Netanyahou, la mission de former une coalition à la Knesset. Cette étape marque la fin possible de 19 ans de pouvoir pour Benjamin Netanyahou. Eisenkot, issu de la communauté mizrahi, devra intégrer des partis arabes ou ultraorthodoxes. La crise morale de l’État hébreu s’aggrave.",
+          "headline": "Chute du président paraguayen après scandale bancaire",
+          "summary": "Le président paraguayen Santiago Peña a été destitué en 48 heures après la faillite de la banque Ueno, liée à des fonds publics et à son entourage. La banque, comptant trois millions de clients, a précipité sa chute dans un contexte de manifestations. Peña est désormais en détention provisoire. Ce scandale révèle des liens étroits entre le pouvoir et le secteur financier, aggravant une crise politique déjà profonde.",
+          "sources": [
+            "Courrier International",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/explainer/tout-s-explique-comment-la-faillite-de-la-banque-ueno-a-t-elle-precipite-la-chute-du-president-paraguayen_285991"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-ueno-bank-retour-sur-le-scandale-qui-a-provoqu%C3%A9-la-chute-%C3%A9clair-du-pr%C3%A9sident-paraguayen"
+            }
+          ]
+        },
+        {
+          "headline": "Nvidia en crise après scandale d’espionnage et chute boursière",
+          "summary": "Nvidia, leader des semi-conducteurs, a vu sa capitalisation boursière chuter de plus de 400 milliards de dollars après l’éclatement d’un scandale impliquant son PDG, Jensen Huang, accusé d’avoir eu une liaison avec une personne suspectée d’espionnage pour la Chine. L’entreprise a engagé un cabinet d’avocats pour enquêter. Cette affaire survient dans un contexte de ralentissement du secteur de l’intelligence artificielle, aggravant les inquiétudes des investisseurs.",
           "sources": [
             "BBC",
-            "20 Minutes",
-            "France 24",
-            "Libération"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/israel/4261866-20261110-israel-communaute-mizrahi-dont-fait-partie-gadi-eisenkot-potentiel-futur-premier-ministre?at_medium=display&at_campaign=149"
-            },
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html"
+            }
+          ],
+          "angles": "Le Monde détaille l’impact financier et sectoriel, tandis que la BBC se concentre sur les aspects juridiques et les risques pour la réputation de Nvidia."
+        },
+        {
+          "headline": "Violences et tensions au Bangladesh après la chute de Sheikh Hasina",
+          "summary": "Des heurts ont éclaté au Bangladesh après l’exil en Inde de l’ancienne Première ministre Sheikh Hasina, renversée en août. Ses partisans, qui réclament son retour, ont organisé des manifestations violentes. Le pays reste instable, avec des risques de radicalisation et de crise politique prolongée. Les autorités tentent de rétablir l’ordre, mais les divisions persistent entre les factions rivales.",
+          "sources": [
+            "BBC"
+          ],
+          "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/idees-et-debats/opinions/israel-en-pleine-crise-morale-par-serge-july-20261110_PJNAB5KT3VGCLMQNRZNMGT7REE/"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -190,19 +148,19 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Pourparlers Ukraine-Russie à Abou Dhabi : l'Europe reléguée",
-          "summary": "Les négociations de paix entre l'Ukraine et la Russie, sous médiation américaine, ont repris mardi 10 novembre à Abou Dhabi après neuf mois d'interruption. Les Européens, bien que représentés, ne participent pas aux discussions tripartites. Les États-Unis appellent à un nouveau cadre de sécurité incluant l'Europe, tandis que les divisions persistent sur les concessions territoriales. Les résultats des midterms américains alimentent les craintes d'un rapprochement entre Washington et Moscou.",
+          "headline": "Négociations Ukraine-Russie à Abu Dhabi : espoirs et blocages",
+          "summary": "Les pourparlers trilatéraux entre la Russie, l'Ukraine et les États-Unis se déroulent à Abu Dhabi les 10 et 11 novembre sous médiation américaine. Volodymyr Zelensky qualifie la première journée de « constructive et substantielle », évoquant des discussions sur les questions humanitaires et les garanties de sécurité. La délégation russe, dirigée par Vladimir Medinski, un historien nationaliste, insiste sur l'incorporation de territoires ukrainiens. L'Union européenne, bien que représentée, reste en retrait des discussions directes. Les États-Unis appellent à un « nouveau cadre de sécurité » incluant l'Europe.",
           "sources": [
-            "Le Monde",
+            "Le Figaro",
             "France 24",
             "France Info",
             "Euronews",
-            "Le Figaro"
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/10/sanctions-contre-la-russie-les-rates-de-l-union-europeenne_6808822_3210.html"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/a-abu-dhabi-les-etats-unis-s-entendent-avec-la-russie-pour-discuter-de-la-securite-europeenne-20261110"
             },
             {
               "source": "France 24",
@@ -210,137 +168,137 @@
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/10/lue-aux-pourparlers-sur-lukraine-a-abou-dhabi-la-course-pour-remplacer-lagarde-saccelere"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-vladimir-medinski-un-ideologue-a-la-tete-de-la-delegation-russe-aux-pourparlers-d-abu-dhabi-20261109"
-            }
-          ],
-          "angles": "France 24 et Euronews soulignent l'exclusion des Européens et l'engagement américain. Le Monde et Le Figaro insistent sur les positions ukrainiennes et les garanties de sécurité. France 24 et France Info analysent les exigences des deux parties."
-        },
-        {
-          "headline": "Bilan humain de la guerre en Ukraine : 400 000 morts russes révélés",
-          "summary": "Des hackers biélorusses et ukrainiens ont piraté les serveurs de Rosstat, l'institut russe des statistiques, révélant un bilan de 400 000 à 412 000 morts russes liés à l'« opération militaire spéciale » en Ukraine. Ces chiffres, sous-estimés selon les experts, proviennent de certificats de décès et confirment l'ampleur des pertes militaires russes après quatre ans de conflit. Moscou et Kiev maintiennent un silence sur leurs pertes réelles.",
-          "sources": [
-            "RFI",
-            "20 Minutes",
-            "Le Figaro",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261110-guerre-ukraine-groupes-de-hackers-au-moins-400000-russes-seraient-morts-au-combat"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4261835-20261110-guerre-ukraine-plus-400-000-soldats-russes-morts-revelent-hackers?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-hackeurs-revelent-la-mort-de-400-000-russes-au-combat-20261109"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-400-000-morts-russes"
+              "url": "https://www.lemonde.fr/international/article/2026/11/10/heraut-du-recit-imperialiste-russe-vladimir-medinski-le-negociateur-du-kremlin-aux-pourparlers-d-abou-dhabi-n-est-pas-enclin-au-compromis_6808782_3210.html"
             }
           ],
-          "angles": "Le Monde et Le Figaro mettent en avant le secret d'État brisé et l'ampleur des pertes. RFI et 20 Minutes insistent sur la méthode des hackers et les données piratées."
+          "angles": "Le Figaro et France Info soulignent les divergences stratégiques et le rôle marginal de l'UE, tandis que Euronews et France 24 mettent en avant les dynamiques diplomatiques et les enjeux humanitaires. Le Monde insiste sur le profil controversé de Medinski et ses positions idéologiques, contrastant avec l'approche pragmatique ukrainienne."
         },
         {
-          "headline": "Russell Brand condamné à 10 ans de prison pour viols et agressions",
-          "summary": "L'acteur et humoriste britannique Russell Brand a été condamné lundi à dix ans et six mois de prison pour un viol et trois agressions sexuelles commis entre 2005 et 2009. Ce procès, déclenché par des enquêtes journalistiques en 2023, s'inscrit dans la continuité du mouvement #MeToo. Brand, connu pour ses prises de position complotistes, voit sa carrière et son image publique s'effondrer.",
+          "headline": "Tempête Charles frappe le Portugal : alerte rouge et perturbations",
+          "summary": "La tempête Charles a provoqué des alertes rouges dans le sud du Portugal, notamment à Lisbonne, en raison de rafales pouvant dépasser 140 km/h et de risques d'inondations. Les autorités ont fermé écoles et services publics mercredi 11 novembre. Un phénomène rare, le sting jet, pourrait aggraver les vents à plus de 160 km/h. Le Web Summit a annulé son deuxième jour en raison des conditions météorologiques.",
           "sources": [
             "Le Monde",
-            "France 24",
-            "Euronews",
-            "EURACTIV",
-            "France Info"
+            "Libération",
+            "Euronews"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/10/la-tempete-charles-arrive-au-portugal-place-en-alerte-mercredi-par-crainte-de-phenomenes-meteorologiques-extremes_6808908_3210.html"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/tempete-charles-ecoles-et-services-publics-fermes-mercredi-au-portugal-20261110_XBUA53ZQQBCILEZ7I3SMNS55L4/"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/10/lue-debloque-50-millions-deuros-pour-un-pole-de-securite-maritime-en-mer-noire"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/pole-de-securite-maritime-en-mer-noire-lue-compte-accelerer-le-projet-grace-a-une-enveloppe-de-50-millions-deuros/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/russie/novaia-gazeta-le-journal-d-opposition-ferme-en-russie_8275184.html#xtor=RSS-3-%5Bgeneral%5D"
+              "url": "https://fr.euronews.com/2026/11/10/lisbonne-le-web-summit-annule-son-deuxieme-jour-a-cause-de-la-tempete-charles"
             }
           ],
-          "angles": "Le Monde lie la condamnation à l'héritage de #MeToo et à l'affaire Weinstein. France 24 et Euronews insistent sur les faits judiciaires et la carrière de Brand."
+          "angles": "Le Monde et Libération insistent sur les risques humains et les mesures d'urgence, tandis que Euronews ajoute une dimension météorologique rare avec le sting jet, absent des autres couvertures."
         },
         {
-          "headline": "L'Allemagne élit sa première femme présidente : Ilse Aigner désignée",
-          "summary": "Friedrich Merz, président du parti CDU, a finalement soutenu la candidature d'Ilse Aigner, femme politique bavaroise, pour la présidence allemande, prévue le 30 janvier 2027. Soutenue par la CDU, la CSU, le SPD et les Verts, elle deviendra la première femme à occuper ce poste essentiellement symbolique. Ce choix tardif révèle les divisions internes au sein de la CDU et les difficultés de Merz à imposer sa ligne.",
+          "headline": "Espagne : grève générale contre la crise du logement",
+          "summary": "Une grève générale est prévue en Espagne le 11 novembre pour dénoncer la spéculation immobilière et l'absence de logements sociaux. Le mouvement, inspiré par l'expulsion récente de Maricarmen Abascal, mobilise avant les législatives du 29 novembre. Les syndicats exigent un encadrement des loyers et des mesures urgentes. Le gouvernement est divisé sur la réponse à apporter.",
           "sources": [
-            "RFI",
-            "EURACTIV",
-            "France Info",
-            "Courrier International"
+            "Le Monde",
+            "Courrier International",
+            "Euronews"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261110-la-norv%C3%A8ge-impose-moratoire-connexion-au-r%C3%A9seau-%C3%A9lectrique-data-center-nouveaux-centres-de-donn%C3%A9es"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/la-norvege-suspend-lacces-au-reseau-electrique-pour-les-nouveaux-centres-de-donnees/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-%5Bgeneral%5D"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/10/en-espagne-l-acces-au-logement-au-c-ur-d-un-appel-a-la-greve-generale-concentre-les-coleres_6808898_3232.html"
             },
             {
               "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/fiscalite-avec-son-projet-d-exit-tax-giorgia-meloni-fait-couler-beaucoup-d-encre-en-italie_285997"
+              "url": "https://www.courrierinternational.com/article/social-en-espagne-une-greve-generale-atypique-a-l-approche-des-legislatives_286214"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/10/antonio-costa-tente-de-rassurer-friedrich-merz-apres-son-ultimatum-budgetaire-ue"
+            }
+          ],
+          "angles": "Le Monde analyse les racines sociales du mouvement, tandis que Courrier International met l'accent sur son impact politique à quelques semaines des élections."
+        },
+        {
+          "headline": "Royaume-Uni : arrestation d'un militaire pour espionnage pro-russe",
+          "summary": "Un militaire américain de 41 ans a été arrêté au Royaume-Uni le 10 novembre pour suspicion d'espionnage au profit de la Russie. L'interpellation, menée par la police antiterroriste, survient dans un contexte de tensions accrues entre Moscou et l'Occident. Les détails de son rôle et des preuves restent à confirmer.",
+          "sources": [
+            "RFI",
+            "Le Monde",
+            "20 Minutes",
+            "Euronews",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4261817-20261110-direct-guerre-ukraine-negociations-entre-kiev-moscou-particulierement-attendues-mardi?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/10/russell-brand-condamne-a-dix-ans-et-six-mois-de-prison-pour-viol-et-agressions-sexuelles"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/lauteur-jeunesse-et-comedien-britannique-david-walliams-accuse-de-predation-sexuelle-20261110_S4NRKFYFYFBFLKECH7R3LL6URE/"
+            }
+          ],
+          "angles": "RFI et Le Monde relaient l'information factuelle sans analyse, tandis que 20 Minutes l'intègre dans un bilan quotidien du conflit ukrainien, sans approfondissement spécifique."
+        },
+        {
+          "headline": "Crise migratoire aux Canaries : afflux record et état d'urgence",
+          "summary": "Près de 6 000 migrants sont arrivés aux Canaries en novembre, principalement sur l'île d'El Hierro (12 000 habitants), poussant les autorités espagnoles à décréter un état d'urgence. Cet afflux, lié à la fermeture d'autres routes migratoires, soulève des questions sur la gestion européenne des flux. Les îles, déjà sous pression, manquent de moyens pour accueillir les nouveaux arrivants.",
+          "sources": [
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/10/plusieurs-milliers-de-migrants-africains-arrivent-aux-canaries-l-etat-d-urgence-decrete-sur-l-une-des-iles-espagnoles_6808888_3212.html"
             }
           ]
         },
         {
-          "headline": "Crise migratoire en Grèce : 22 morts lors de traversées vers la Crète",
-          "summary": "Au moins 22 migrants sont morts entre le 8 et le 9 novembre lors de traversées depuis la Libye vers la Crète, selon les garde-côtes grecs. Athènes dénonce le manque de coopération des autorités libyennes et se prépare à une « crise migratoire ». Les opérations de secours ont permis de sauver 105 personnes, illustrant la périlleuse route empruntée par les migrants.",
+          "headline": "Bulgarie : carambolage meurtrier lié au brouillard",
+          "summary": "Deux carambolages impliquant une cinquantaine de véhicules ont fait 11 morts et 51 blessés en Bulgarie le 10 novembre. Un épais brouillard a aggravé les conditions de circulation sur une autoroute. Les images par drone montrent l'ampleur des dégâts, avec des véhicules écrasés entre des poids lourds. L'autoroute a été fermée dans les deux sens pour les investigations.",
           "sources": [
-            "Le Figaro",
+            "France Info",
             "Euronews",
-            "RFI"
+            "BBC"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/pologne-l-auteur-de-la-tuerie-de-cracovie-s-interessait-au-terroriste-neonazi-anders-behring-breivik-20261110"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/10/en-ouzbekistan-le-premier-parc-eolien-dasie-centrale-avec-batteries-approche-de-son-acheve"
+              "url": "https://fr.euronews.com/2026/11/10/bulgarie-au-moins-10-victimes-dans-un-accident-sur-une-autoroute-impliquant-plus-50-vehicu"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261110-guerre-en-ukraine-le-congr%C3%A8s-d%C3%A9mocrate-va-t-il-changer-la-donne"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss"
             }
-          ]
+          ],
+          "angles": "France Info et Euronews convergent sur les faits, mais Euronews ajoute des détails visuels (images par drone) absents de France Info, renforçant l'impact dramatique de l'événement."
         }
       ]
     },
@@ -349,186 +307,170 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Teddy Riner annonce sa candidature à l'Élysée",
-          "summary": "Le quintuple champion olympique de judo, Teddy Riner, a officiellement déclaré sa candidature à l'élection présidentielle de 2027. Il se présente comme ni de droite ni de gauche, mais ses prises de position passées suggèrent une proximité avec le macronisme. Sa candidature, perçue comme une surprise, s'ajoute à un champ déjà large de 30+ prétendants. Des questions persistent sur son positionnement politique et des dossiers fiscaux pourraient compliquer son entrée en campagne.",
+          "headline": "Zemmour annonce officiellement sa candidature à la présidentielle 2027",
+          "summary": "Éric Zemmour, président du parti Reconquête!, a confirmé mardi 10 novembre sa candidature à l'élection présidentielle de 2027 lors du journal télévisé de TF1. Il vise à 'enrayer le déclin' de la France et à 'conserver une France française', après avoir obtenu 7,07 % des voix en 2022. Sa candidature officialise son retour dans la course à l'Élysée, positionnant son parti parmi les forces d'extrême droite les plus radicales.",
           "sources": [
+            "Le Figaro",
+            "Euronews",
             "France 24",
-            "Libération",
-            "20 Minutes",
-            "Le Monde",
-            "Le Figaro"
+            "France Info",
+            "Libération"
           ],
           "links": [
             {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-teddy-riner-candidature-emmanuel-macron-election-sondage-melenchon-20261110"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/10/eric-zemmour-annonce-sa-candidature-a-la-presidentielle"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261110-france-teddy-riner-champion-judo-candidat-election-presidentielle-2027-macroniste"
+              "url": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/teddy-riner-entre-dans-la-presidentielle-avec-toute-la-panoplie-du-parfait-petit-macroniste-20261110_NRNHZAAMYFFQVE2JPVX46FOBTY/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4261694-20261110-presidentielle-2027-riner-va-aussi-combien-candidats-maximum-pourraient-theorie-presenter-election?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/le-plus-dur-commence-pascal-praud-est-curieux-et-impatient-de-decouvrir-la-campagne-presidentielle-de-teddy-riner-20261110"
+              "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY/"
             }
-          ],
-          "angles": "Libération et Le Monde soulignent son alignement supposé avec le macronisme et ses lacunes politiques, tandis que France 24 et 20 Minutes insistent sur l'aspect inattendu de sa candidature et les obstacles logistiques (signatures, concurrence)."
+          ]
         },
         {
-          "headline": "Mobilisations lycéennes : violences et blocages s'intensifient",
-          "summary": "Les lycéens, étudiants et enseignants ont appelé à une nouvelle journée de grève et manifestations mardi 10 novembre, près de deux mois après le début du mouvement. Des incidents graves ont été signalés, dont un jet de bouteille d'essence sur une élue en Seine-et-Marne, des incendies volontaires dans des lycées, et des blessures parmi les personnels (près de 300 selon le gouvernement). Le ministre de l'Éducation dénonce des 'comportements criminels'. Les discussions avec l'exécutif restent dans l'impasse.",
+          "headline": "Pétition pour fermer CNews classée sans suite à l'Assemblée",
+          "summary": "La pétition demandant la suppression de la chaîne CNews, soutenue par plus d'un million de signatures, a été classée sans suite par la commission des affaires culturelles de l'Assemblée nationale mardi 10 novembre. Les députés ont estimé ne pas avoir le pouvoir de fermer une chaîne, contrairement à l'Arcom. La pétition ne suscitera donc aucun débat dans l'hémicycle, malgré des divisions serrées (28 contre 25).",
           "sources": [
-            "Libération",
             "France Info",
-            "Euronews",
-            "RFI",
+            "Le Figaro",
+            "Libération",
+            "Mediapart",
             "France 24"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/a-l-assemblee-dans-un-climat-tendu-la-petition-visant-a-supprimer-cnews-ecartee-par-les-deputes-20261110"
+            },
+            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-les-lyceens-et-personnels-de-leducation-de-nouveau-appeles-a-manifester-ce-mardi-20261110_F6UT6DKGF5AR7FVVKSR3FEE5PM/"
+              "url": "https://www.liberation.fr/economie/medias/debattue-a-lassemblee-ou-classee-sans-suite-le-sort-de-la-petition-pour-supprimer-cnews-decide-ce-mardi-20261110_XE5MJOFYSJGMNLXQ73XJRPNBTU/"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/politique/101126/petition-contre-cnews-l-assemblee-etouffe-le-debat-public-suffoque"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261110-p%C3%A9tition-pour-supprimer-cnews-audiovisuel-fran%C3%A7ais-d%C3%A9put%C3%A9s-donnent-pas-suite"
+            }
+          ],
+          "angles": "Libération et Mediapart soulignent l'étouffement du débat public et la gangrène de l'espace démocratique, tandis que Le Figaro et France Info insistent sur le manque de pouvoir législatif des députés et le climat tendu lors du vote."
+        },
+        {
+          "headline": "Michel Houellebecq mis en examen pour propos islamophobes",
+          "summary": "L'écrivain Michel Houellebecq a été mis en examen mardi 10 novembre pour 'complicité de provocation à la discrimination, à la haine ou à la violence' à l'égard des musulmans, en raison de propos tenus en novembre 2022 dans la revue Front populaire. Ses avocats contestent ces poursuites, dénonçant une 'judiciarisation croissante des débats intellectuels'. Les propos incriminés évoquaient des tensions entre 'la population française de souche' et les musulmans.",
+          "sources": [
+            "Euronews",
+            "Le Monde",
+            "Libération",
+            "France Info",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/10/des-bataclan-a-lenvers-michel-houellebecq-inculpe-pour-les-propos-sur-les-musulmans"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/10/michel-houellebecq-mis-en-examen-pour-ses-propos-sur-les-musulmans-lors-d-un-entretien-dans-la-revue-front-populaire-en-2022_6808858_3224.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/michel-houellebecq-mis-en-examen-pour-des-propos-islamophobes-tenus-dans-la-revue-de-michel-onfray-front-populaire-20261110_XPZP5WJPD5F5LBDZHTC2PFJOJE/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-conseillere-regionale-porte-plainte-apres-avoir-ete-visee-par-un-jet-de-bouteille-d-essence-devant-un-lycee-a-chelles-en-banlieue-parisienne_8276198.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/culture/livres/houellebecq/michel-houellebecq-mis-en-examen-pour-complicite-de-provocation-a-la-discrimination-a-la-haine-ou-a-la-violence-apres-des-propos-sur-les-musulmans_8276459.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261110-l-%C3%A9crivain-michel-houellebecq-mis-en-examen-pour-des-propos-hostiles-aux-musulmans"
+            }
+          ]
+        },
+        {
+          "headline": "Procès des policiers accusés d'avoir roué de coups Michel Zecler : témoignages accablants",
+          "summary": "Le deuxième jour du procès des trois policiers accusés d'avoir agressé le producteur de musique Michel Zecler en 2020 a vu la diffusion de vidéos accablantes et un témoignage poignant de la victime. Zecler a décrit une agression violente, tandis que les policiers rejettent toute intention raciste. Ils sont poursuivis pour 'violences volontaires aggravées' et 'faux en écriture'. Le procès se poursuit sous haute tension médiatique.",
+          "sources": [
+            "RFI",
+            "France Info",
+            "Libération",
+            "20 Minutes",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261110-france-la-vid%C3%A9o-de-michel-zecler-rou%C3%A9-de-coups-par-des-policiers-d%C3%A9cortiqu%C3%A9e-au-deuxi%C3%A8me-jour-du-proc%C3%A8s"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/si-je-n-avais-pas-les-videos-je-ne-serais-pas-la-en-tant-que-victime-temoigne-michel-zecler-au-proces-des-policiers-accuses-de-l-avoir-roue-de-coups_8276522.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-ils-sont-rentres-et-ils-se-sont-dechaines-ils-mont-lynche-20261110_N56FKXO7YZA2TCMAP5EL57SKZ4/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4261996-20261110-cru-allais-mourir-images-accablantes-recit-glacant-michel-zecler-barre?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/101126/fatigue-mais-l-envie-de-revolte-reste-la-plusieurs-milliers-de-jeunes-poursuivent-le-mouvement"
+            }
+          ]
+        },
+        {
+          "headline": "Mobilisation étudiante et lycéenne : blocages, violences et soutien de Macron",
+          "summary": "Des milliers d'étudiants, lycéens et enseignants ont manifesté mardi 10 novembre dans toute la France, appelant à une nouvelle journée de grève. En Seine-et-Marne, une conseillère régionale a été aspergée d'essence devant un lycée bloqué, déclenchant une enquête pour 'tentative d'homicide'. Emmanuel Macron a condamné 'la violence', qui 'n’a pas sa place en démocratie', tout en appelant à des négociations. Les blocages persistent, avec des tensions croissantes entre occupants et présidents d'université.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
+            "Euronews",
+            "France 24",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-violence-n-a-pas-sa-place-en-democratie-condamne-emmanuel-macron-apres-l-agression-d-une-elue-devant-un-lycee-bloque-a-chelles_8276969.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4261818-20261110-direct-mobilisation-10-novembre-etudiants-lyceens-enseignants-appellent-manifester-mardi?at_medium=display&at_campaign=149"
             },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/10/on-ne-se-bat-pas-que-pour-nous-les-lyceens-de-nouveau-dans-la-rue-pour-accentuer-la-pressi"
             },
             {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-france-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants-appel%C3%A9s-%C3%A0-une-nouvelle-journ%C3%A9e-de-gr%C3%A8ve-par-l-interfac"
+            },
+            {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/france/20261110-direct-mobilisation-en-france-les-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants-%C3%A0-nouveau-au-front"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261109-france-nouvelle-journ%C3%A9e-d-action-%C3%A0-l-appel-des-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants"
             }
           ]
-        },
-        {
-          "headline": "Procès des policiers accusés du passage à tabac de Michel Zecler",
-          "summary": "Le procès de trois policiers, accusés d'avoir roué de coups le producteur Michel Zecler en novembre 2020, s'est ouvert lundi 9 novembre. Les accusés se défendent en affirmant être des fonctionnaires 'calmes et intègres', loin des messages racistes versés au dossier. L'agression, filmée et virale, avait relancé le débat sur les violences policières. Les témoignages et preuves pourraient révéler des contradictions entre leurs déclarations et les faits.",
-          "sources": [
-            "France Info",
-            "Mediapart",
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/ca-ne-represente-pas-mes-valeurs-les-trois-policiers-juges-pour-l-agression-de-michel-zecler-rejettent-tout-racisme-au-premier-jour-de-leur-proces_8275163.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/101126/affaire-michel-zecler-au-premier-jour-du-proces-trois-policiers-depeints-en-fonctionnaires-exemplaires"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-ouverture-du-proc%C3%A8s-de-trois-policiers-pour-le-passage-%C3%A0-tabac-du-producteur-michel-zecler"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sciences/article/2026/11/10/la-desintegration-extremement-rare-d-une-particule-suscite-l-espoir-de-decouvrir-une-nouvelle-physique_6808823_1650684.html"
-            }
-          ],
-          "angles": "Mediapart et France 24 contrastent les déclarations lisses des policiers avec les éléments du dossier, tandis que France Info adopte un ton plus neutre sur le déroulement du procès."
-        },
-        {
-          "headline": "Chômage stable mais en hausse sur un an",
-          "summary": "L'Insee a publié mardi 10 novembre un taux de chômage quasi stable à 8,2 % au troisième trimestre 2026, en légère baisse de 0,1 point par rapport au trimestre précédent, mais en hausse de 0,4 point sur un an. Les jeunes voient une légère amélioration, tandis que les plus de 50 ans subissent une dégradation. Le marché du travail reste sous tension malgré une économie globalement résiliente.",
-          "sources": [
-            "20 Minutes",
-            "Libération",
-            "France Info",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/economie/4261829-20261110-taux-chomage-quasi-stable-troisieme-trimestre-hausse-depuis-an?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/le-taux-de-chomage-en-france-quasiment-stable-au-troisieme-trimestre-a-82-20261110_J5RZHFO63FHFTFX6HPVCGDMTZE/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/emploi/chomage/le-taux-de-chomage-en-france-reste-quasiment-stable-au-troisieme-trimestre-a-8-2-selon-l-insee_8275856.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/10/la-reorganisation-du-ministere-de-la-transition-ecologique-voulue-par-monique-barbut-suscite-la-colere-des-syndicats_6808833_3244.html"
-            }
-          ]
-        },
-        {
-          "headline": "Marine Le Pen nie les discriminations en France",
-          "summary": "La candidate du Rassemblement National à la présidentielle 2027 a affirmé lors d'une interview à CBS qu'il 'n'y a pas de discriminations' en France, la présentant comme 'le pays le moins raciste au monde'. Ces propos, tenus après l'attentat raciste de Trappes, ont suscité des réactions vives. Ils contredisent des rapports indépendants et des données statistiques, alimentant les débats sur le déni des inégalités raciales en France.",
-          "sources": [
-            "RFI",
-            "Mediapart",
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261110-marine-le-pen-fait-pol%C3%A9mique-en-assurant-qu-il-n-y-a-pas-de-discriminations-en-france"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/091126/il-n-y-pas-de-discriminations-en-france-marine-le-pen-persiste-dans-la-manipulation-de-la-verite"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-nie-l-existence-de-discriminations-en-france-dans-une-interview-a-la-television-americaine_8274212.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/2027-le-camp-retailleau-le-pousse-a-faire-une-campagne-de-pirate-et-plus-dirty-20261110_UG6M2NVWYFALXBAGKFRDA65AYI/"
-            }
-          ],
-          "angles": "Mediapart dénonce une 'manipulation de la vérité' et cite des rapports, tandis que RFI et France Info relaient les propos sans contextualisation approfondie, mettant en avant la polémique immédiate."
-        },
-        {
-          "headline": "Fichage policier des lycéens brestois suscite polémique",
-          "summary": "La police a saisi les trombinoscopes de près de 4 500 élèves de trois lycées brestois, déclenchant une vive polémique sur un éventuel 'fichage'. Les parents, élèves et syndicats dénoncent une mesure disproportionnée, tandis que les autorités justifient cette action par une réquisition judiciaire. L'étendue et la légalité de cette opération restent floues, alimentant les craintes sur la surveillance des mineurs.",
-          "sources": [
-            "France Info",
-            "20 Minutes",
-            "Mediapart",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-la-saisie-par-la-police-des-trombinoscopes-de-plusieurs-lycees-a-brest-parents-eleves-et-syndicats-denoncent-un-fichage_8276006.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/4261834-20261110-brest-fichage-polemique-apres-saisie-police-trombinoscopes-lycees?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/091126/brest-la-police-saisit-les-trombinoscopes-des-eleves-de-la-cite-scolaire-kerichen"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/automobile/land-rover-attaque-byd-en-justice-pour-proteger-son-celebre-defender-20261110"
-            }
-          ],
-          "angles": "Mediapart et 20 Minutes insistent sur les questions de proportionnalité et de légalité, tandis que France Info adopte un ton plus factuel sur les modalités opérationnelles."
         }
       ]
     }
