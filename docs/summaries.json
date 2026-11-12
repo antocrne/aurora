@@ -1,131 +1,191 @@
 {
-  "generated_at": "2026-11-11T22:55:30Z",
-  "edition": "11 novembre 2026",
+  "generated_at": "2026-11-12T13:04:38Z",
+  "edition": "12 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Iran menace des bases américaines en Europe",
-          "summary": "L’Iran a menacé de frapper des installations militaires américaines en Europe si elles servent à lancer des attaques contre Téhéran. Cette escalade survient après huit mois de tensions entre Washington et Téhéran, sans progrès diplomatique visible. Donald Trump a évoqué le sujet lors des commémorations du 11 novembre. Les tensions persistent malgré les appels à la retenue.",
+          "headline": "Effondrement mortel à New York et frappe à Gaza",
+          "summary": "Un immeuble de trois étages s'est effondré à Brooklyn (New York) mercredi 11 novembre, faisant au moins six morts et 19 blessés, dont des enfants. Parallèlement, une frappe israélienne sur l'hôpital Nasser à Khan Younès (Gaza) a tué six Palestiniens et blessé une vingtaine, malgré les dénégations israéliennes visant un responsable du Hamas. Les causes de l'effondrement new-yorkais restent inconnues.",
           "sources": [
-            "20 Minutes",
             "France Info",
+            "Le Monde",
+            "Libération",
+            "RFI",
             "France 24"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4262238-20261111-iran-menace-frapper-bases-americaines-jusqu-europe?at_medium=display&at_campaign=149"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/l-iran-menace-de-frapper-des-bases-americaines-en-europe-si-elles-servent-a-lancer-des-attaques_8278151.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-%5Bmonde%5D"
             },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261111-iran-menace-r%C3%A9pr%C3%A9sailles-cas-attaques-am%C3%A9ricaines-depuis-bases-europe"
-            }
-          ]
-        },
-        {
-          "headline": "Mort de l’acteur Stacy Keach à 85 ans",
-          "summary": "Stacy Keach, connu pour son rôle dans la série Mike Hammer et ses interprétations théâtrales, est décédé à 85 ans. Acteur polyvalent, il a marqué le cinéma et la télévision américaine. Ses obsèques auront lieu aux États-Unis. Son héritage artistique inclut aussi des rôles dans Prison Break et des pièces de Shakespeare.",
-          "sources": [
-            "Le Monde",
-            "Libération",
-            "Euronews"
-          ],
-          "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/disparitions/article/2026/11/11/l-acteur-americain-stacy-keach-detective-de-la-serie-mike-hammer-est-mort-a-85-ans_6808977_3382.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/culture/cinema/mort-de-lamericain-stacy-keach-a-85-ans-un-acteur-multifacettes-de-mike-hammer-a-hamlet-20261111_3MPGYRZVGVH4VMRJN4DJBKNTHY/"
+              "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261112-gaza-une-frappe-isra%C3%A9lienne-fait-six-morts-dans-le-sud-de-l-enclave"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-au-moins-deux-morts-suite-%C3%A0-l-effondrement-d-un-immeuble"
+            }
+          ],
+          "angles": "Libération et RFI insistent sur le contexte humanitaire et la réponse israélienne à Gaza, tandis que France Info et Le Monde détaillent le bilan humain et les opérations de secours à New York."
+        },
+        {
+          "headline": "Refoulement d'un responsable des colons israéliens en France",
+          "summary": "Yossi Dagan, dirigeant d'une structure représentant les colonies juives en Cisjordanie occupée, a été refoulé à son arrivée en France le 11 novembre pour son rôle dans la colonisation. Israël a réagi en exigeant des explications, dénonçant une mesure « inacceptable ». Cet incident s'inscrit dans un climat de tensions diplomatiques accrues entre Paris et Tel-Aviv.",
+          "sources": [
+            "Libération",
+            "Euronews",
+            "20 Minutes",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/un-responsable-des-colons-israeliens-en-cisjordanie-occupee-refoule-a-son-arrivee-en-france-20261112_TVROMQCX5ZCJ3KIS7YDAOP6ULE/"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/lacteur-americain-stacy-keach-star-de-mike-hammer-et-prison-break-est-mort-a-85-ans"
+              "url": "https://fr.euronews.com/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-occupee-refoule-a-son-arrivee-en-france"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262266-20261112-france-refoule-responsable-colons-israeliens-cisjordanie?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france"
             }
           ]
         },
         {
-          "headline": "Quatre Français interdits de séjour en Russie",
-          "summary": "Deux députés (Sacha Houlié, Arthur Delaporte) et deux journalistes (Le Monde, France Info) ont été déclarés personae non gratae par Moscou pour leur rôle dans l’affaire Xenia Fedorova, propagandiste du Kremlin. Paris a annoncé de nouvelles sanctions européennes contre la Russie dès lundi. Les autorités françaises qualifient cette mesure de réponse à des tentatives d’ingérence.",
-          "sources": [
-            "Le Monde",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/affaire-xenia-fedorova-deux-deputes-et-deux-journalistes-francais-interdits-dentree-en-rus"
-            }
-          ],
-          "angles": "Le Monde souligne le contexte démocratique français ; Euronews met en avant la réaction officielle de Jean-Noël Barrot."
-        },
-        {
-          "headline": "Israël : tensions internes sur la réponse à l’Iran",
-          "summary": "Gadi Eisenkot, chef de l’opposition israélienne, a appelé Benyamin Nétanyahou à la prudence face à une éventuelle attaque contre l’Iran, évoquant une « menace nucléaire ». Son parti a déposé un projet de loi pour une commission d’enquête sur l’attaque du 7 octobre. La Knesset s’est réunie dans un climat tendu, avec des annulations de discussions prévues.",
-          "sources": [
-            "Le Monde",
-            "Courrier International"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/politique-en-israel-eisenkot-lance-une-offensive-legislative-contre-netanyahou_286311"
-            }
-          ],
-          "angles": "Le Monde insiste sur l’appel à la retenue ; Courrier International détaille les tensions législatives."
-        },
-        {
-          "headline": "Pape Léon XIV au Pérou : retour après 20 ans",
-          "summary": "Le pape Léon XIV, ancien évêque du Pérou, arrive dans le pays pour une visite marquée par son passé local (1985–2023). Il y rencontrera des fidèles dans des lieux symboliques comme Cuzco et l’Amazonie. L’Église péruvienne, bien que moins influencée par l’Opus Dei, conserve des tendances conservatrices. La visite s’inscrit dans une tournée latino-américaine.",
+          "headline": "Premier sénateur noir du Mississippi depuis 150 ans",
+          "summary": "Scott Colom, démocrate, a remporté le siège de sénateur du Mississippi après un scrutin serré, devenant le premier Afro-Américain élu à ce poste dans cet État du Sud depuis près de 150 ans. Cette victoire renforce la majorité démocrate au Sénat, deux ans après la réélection de Donald Trump dans cet État conservateur.",
           "sources": [
             "France 24",
-            "Libération"
+            "Libération",
+            "Le Figaro",
+            "France Info",
+            "RFI"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-p%C3%A9ruviens-attendent-la-venue-du-pape-l%C3%A9on-xiv"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-midterms-2026-scott-colom-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/au-perou-les-retrouvailles-de-avec-une-eglise-aux-tentations-conservatrices-20261111_KY54AKJMKFCWHFRTJM7WQL4CYE/"
-            }
-          ]
-        },
-        {
-          "headline": "Procédure de destitution du chef du Pentagone bloquée",
-          "summary": "Les républicains ont bloqué la mise en accusation de Pete Hegseth, secrétaire américain à la Défense, accusé de négligences dans les opérations militaires (Yémen, Iran). Hegseth a défendu ses actions, les qualifiant de « nécessaires », et dénoncé un « spectacle politique ». Son refus de coopérer avec les enquêteurs a alimenté les tensions au Congrès.",
-          "sources": [
-            "Euronews",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/les-republicains-bloquent-la-procedure-de-destitution-de-pete-hegseth"
+              "url": "https://www.liberation.fr/international/amerique/midterms-le-democrate-scott-colom-premier-senateur-noir-du-mississipi-depuis-pres-dun-siecle-et-demi-20261112_76PBRGYYX5DYVOCQFJGO5HUMRU/"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/etats-unis-pourquoi-le-chef-du-pentagone-pete-hegseth-est-vise-par-une-procedure-de-destitution-20261110"
+              "url": "https://www.lefigaro.fr/international/midterms-2026-les-democrates-remportent-une-victoire-historique-dans-le-mississippi-20261112"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-l-issue-des-elections-de-mi-mandat-aux-etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-apres-les-elections-de-mi-mandat_8278790.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
             }
           ],
-          "angles": "Euronews met l’accent sur les déclarations de Hegseth ; Le Figaro analyse le contexte politique américain."
+          "angles": "France 24 et Libération soulignent l'aspect historique et symbolique, tandis que Le Figaro et France Info mettent en avant le contexte politique national et la dynamique des midterms."
+        },
+        {
+          "headline": "Retour triomphal du pape Léon XIV au Pérou",
+          "summary": "Le pape Léon XIV, d'origine péruvienne, a été accueilli en héros à Lima le 11 novembre, après y avoir vécu près de 20 ans. Il a appelé les Péruviens à surmonter les divisions passées lors de son premier discours dans le pays, marquant la dernière étape de sa tournée en Amérique du Sud.",
+          "sources": [
+            "France 24",
+            "Euronews",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-p%C3%A9rou-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-retour-dans-sa-patrie"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/12/perou-le-pape-leo-xiv-revient-dans-sa-patrie-adoptive-pour-clore-sa-tournee-sud-americaine"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-en-visite-dans-sa-patrie-au-p%C3%A9rou-l%C3%A9on-xiv-appelle-%C3%A0-surmonter-les-divisions-du-pass%C3%A9"
+            }
+          ]
+        },
+        {
+          "headline": "Paquebot historique coulé pour créer un récif artificiel",
+          "summary": "Le SS United States, paquebot emblématique des années 1950, a été sabordé au large de la Floride le 11 novembre pour devenir le plus grand récif artificiel du monde. Long de 300 mètres, il sera une destination touristique pour les plongeurs, dans le cadre d'un projet estimé à 13,5 millions de dollars.",
+          "sources": [
+            "Libération",
+            "Euronews",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/environnement/un-prestigieux-paquebot-coule-au-large-de-la-floride-pour-devenir-le-plus-grand-recif-artificiel-du-monde-20261112_ZR6DXBUW5VF5HA4HNI72VDXZJ4/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/12/ss-united-states-historique-coule-au-large-de-la-floride-futur-plus-grand-recif-artificiel"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/un-paquebot-americain-coule-au-large-de-la-floride-pour-devenir-le-plus-grand-recif-artificiel-du-monde_6809049_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Crise humanitaire à Gaza aggravée par les pluies",
+          "summary": "Les pluies diluviennes à Gaza ont causé au moins cinq morts, dont trois enfants, selon les secours. Ces intempéries s'ajoutent à la détresse des habitants déjà frappés par la guerre, tandis qu'une frappe israélienne sur un hôpital a tué six Palestiniens et blessé 20 autres, malgré les dénégations israéliennes sur une cible militaire.",
+          "sources": [
+            "France Info",
+            "Libération",
+            "RFI",
+            "Le Monde",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261112-gaza-une-frappe-isra%C3%A9lienne-fait-six-morts-dans-le-sud-de-l-enclave"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-au-moins-deux-morts-suite-%C3%A0-l-effondrement-d-un-immeuble"
+            }
+          ],
+          "angles": "Libération et RFI insistent sur le contexte humanitaire et les accusations de crimes de guerre, tandis que France Info met l'accent sur le bilan immédiat des intempéries."
         }
       ]
     },
@@ -134,14 +194,14 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Alertes à la bombe dans 3 pays européens",
-          "summary": "Des milliers d’écoles en Italie, Irlande et Royaume-Uni ont reçu des alertes à la bombe mercredi 11 novembre, provoquant des évacuations massives. Les autorités italiennes évoquent une « stratégie visant à semer la panique », tandis que les messages, signés par un certain Mikhail Andropov, proviendraient d’une adresse liée à une université taïwanaise. Aucun danger concret n’a été identifié, mais les écoles écossaises et irlandaises ont aussi été touchées.",
+          "headline": "Europe frappée par des alertes à la bombe",
+          "summary": "Des milliers d’écoles en Italie, Irlande et Écosse ont reçu des alertes à la bombe mercredi 11 novembre, provoquant des évacuations. Aucune menace concrète n’a été identifiée. L’origine des messages, envoyés depuis un domaine taïwanais, reste inconnue. L’Italie renforce sa cybersécurité et sensibilise aux risques de guerre hybride. Emmanuel Macron exclut pour l’instant une implication extérieure.",
           "sources": [
             "France Info",
-            "Libération",
-            "France 24",
             "Le Monde",
-            "Euronews"
+            "Le Figaro",
+            "Libération",
+            "Toute l'Europe"
           ],
           "links": [
             {
@@ -149,95 +209,118 @@
               "url": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/apres-les-menaces-d-alertes-a-la-bombe-l-italie-veut-rassurer-et-renforcer-sa-cybersecurite-20261111"
+            },
+            {
               "source": "Libération",
               "url": "https://www.liberation.fr/international/europe/alerte-a-la-bombe-en-italie-au-moins-300-ecoles-evacuees-20261111_LZK4MBES6RGMTPXJDP2NTWNTZI/"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-des-%C3%A9coles-%C3%A9vacu%C3%A9es-dans-toute-l-italie-apr%C3%A8s-des-alertes-%C3%A0-la-bombe"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/italie-royaume-uni-irlande-des-milliers-d-ecoles-visees-par-de-fausses-alertes-a-la-bombe/"
+            }
+          ],
+          "angles": "Libération et Le Monde soulignent l’ampleur des canulars et leur caractère coordonné, tandis que Le Figaro et France Info insistent sur la réponse politique italienne et la réaction d’Emmanuel Macron, minimisant les risques d’une origine extérieure. La Repubblica (via Toute l'Europe) détaille les modalités techniques des attaques."
+        },
+        {
+          "headline": "Grève générale en Espagne pour le logement",
+          "summary": "Une grève générale historique a mobilisé des centaines de milliers de personnes en Espagne mercredi 11 novembre, pour dénoncer la crise du logement et le pouvoir d’achat. À Madrid, 120 000 manifestants ont défilé sous la pluie. Le gouvernement de gauche soutient le mouvement, tandis que la droite accuse les organisateurs de manipuler l’opinion à trois semaines des législatives anticipées du 29 novembre.",
+          "sources": [
+            "Libération",
+            "Le Monde",
+            "Courrier International",
+            "Euronews",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/en-espagne-la-greve-generale-pour-le-droit-au-logement-attire-les-foules-20261111_2W64YTAVANCRHEXZJMUXFZ4AUY/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-italie-des-centaines-d-ecoles-evacuees-a-la-suite-de-fausses-alertes-a-la-bombe-des-messages-menacants-envoyes-a-des-etablissements-scolaires-au-royaume-uni_6808968_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/espagne-une-greve-generale-sur-fond-de-crise-du-logement-et-de-colere-sur-le-pouvoir-d-achat_6809018_3210.html"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/colere-greve-generale-en-espagne-des-millions-de-personnes-mobilisees-contre-la-crise-du-logement_286476"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/italie-environ-300-ecoles-evacuees-apres-des-alertes-a-la-bombe-envoyees-par-e-mail"
+              "url": "https://fr.euronews.com/video/2026/11/11/espagne-120-000-sous-la-pluie-pour-un-logement-abordable-et-de-meilleurs-salaires"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/121126/espagne-le-socialiste-sanchez-espere-profiter-de-l-elan-de-la-greve-pour-le-logement"
             }
           ],
-          "angles": "Libération et Le Monde soulignent le caractère coordonné et inquiétant des menaces, tandis que France Info et France 24 insistent sur l’absence de danger avéré et les réactions politiques (Meloni). Euronews met en avant l’aspect transnational et la possible origine taïwanaise des messages."
+          "angles": "Libération et Le Monde mettent en avant la dimension sociale et électorale, tandis que Courrier International (via Euronews) insiste sur l’ampleur inédite de la mobilisation. Mediapart analyse les enjeux politiques pour le Parti socialiste de Sánchez."
         },
         {
-          "headline": "Pourparlers Ukraine-Russie à Abou Dhabi : échange de prisonniers acté",
-          "summary": "Les négociations directes entre Kiev et Moscou, sous médiation américaine, ont abouti mercredi 11 novembre à un accord sur un échange massif de prisonniers, seul résultat concret après deux jours de discussions à Abou Dhabi. Les émissaires américains Jared Kushner et Steve Witkoff doivent rencontrer jeudi Vladimir Poutine à Moscou, puis Volodymyr Zelensky en Irlande. Aucun progrès sur un cessez-le-feu ou les différends territoriaux n’a été annoncé, malgré des déclarations « constructives » des deux camps.",
+          "headline": "Négociations Ukraine-Russie : échange de prisonniers et tensions persistantes",
+          "summary": "Un accord pour un vaste échange de prisonniers a été trouvé lors des pourparlers d’Abou Dhabi entre Ukraine et Russie, sous médiation américaine. Les émissaires Jared Kushner et Steve Witkoff doivent rencontrer Vladimir Poutine à Moscou puis Volodymyr Zelensky à Dublin jeudi 12 novembre. Zelensky évoque une « fenêtre d’opportunité » pour un cessez-le-feu, mais aucun progrès n’est enregistré sur les différends territoriaux ou un cessez-le-feu global.",
           "sources": [
+            "France Info",
             "France 24",
-            "RFI",
             "Euronews",
             "Le Monde",
             "BBC"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
               "source": "France 24",
               "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-fin-des-pourparlers-d-abou-dhabi"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261111-ukraine-russie-fin-annonc%C3%A9e-pourparlers-sous-m%C3%A9diation-am%C3%A9ricaine-%C3%A0-abou-dhabi"
-            },
-            {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/abou-dhabi-des-pourparlers-juges-constructifs-mais-aucun-cessez-le-feu-en-vue"
+              "url": "https://fr.euronews.com/2026/11/11/ukraine-russie-un-accord-sur-un-echange-de-prisonniers-a-abu-dhabi"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/11/alexandre-dartchiev-l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement-a-66-ans_6809012_3210.html"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "angles": "Le Monde et France 24 détaillent les limites des négociations et l’absence de percée diplomatique, tandis que RFI et Euronews insistent sur le rôle des médiateurs américains et les prochaines étapes. La BBC souligne l’absence de consensus sur la sécurité post-guerre en Europe."
+          "angles": "France Info et France 24 soulignent l’aspect diplomatique et les espoirs ukrainiens, tandis que Le Monde et Euronews insistent sur l’absence de avancées concrètes. La BBC (via Euronews) détaille les difficultés logistiques, comme les perturbations des liaisons Starlink en Ukraine."
         },
         {
-          "headline": "Grève générale en Espagne pour le logement et le pouvoir d’achat",
-          "summary": "Une grève générale de 24 heures a mobilisé des dizaines de milliers de personnes mercredi 11 novembre à Madrid et Barcelone, pour dénoncer la crise du logement et la baisse du pouvoir d’achat. Portée par les syndicats et les associations de locataires, cette mobilisation survient à 18 jours des élections législatives anticipées du 29 novembre. Les autorités espagnoles évoquent 120 000 manifestants, mais certains médias parlent de millions de participants.",
+          "headline": "L’UE durcit les règles contre les pratiques trompeuses en ligne",
+          "summary": "La Commission européenne propose une « loi sur l’équité numérique » pour lutter contre les techniques de vente en ligne manipulatoires, comme les défilements infinis ou les faux compteurs de stock. Les amendes pourraient atteindre 6 % du chiffre d’affaires mondial des plateformes contrevenantes. Le texte vise aussi les influenceurs et les interfaces trompeuses sur les réseaux sociaux.",
           "sources": [
-            "Le Monde",
-            "RFI",
-            "France 24",
-            "Libération",
-            "Courrier International"
+            "Euronews",
+            "Toute l'Europe",
+            "Le Monde"
           ],
           "links": [
             {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/12/union-europeenne-bruxelles-veut-sattaquer-aux-pieges-du-commerce-en-ligne"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/abonnements-pieges-fausses-promotions-reseaux-sociaux-l-union-europeenne-veut-mieux-proteger-les-consommateurs-en-ligne/"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_6808962_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261111-espagne-gr%C3%A8ve-g%C3%A9n%C3%A9rale-pour-d%C3%A9fendre-l-acc%C3%A8s-au-logement-%C3%A0-l-approche-des-l%C3%A9gislatives"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261110-en-pleine-campagne-%C3%A9lectorale-les-espagnol-font-gr%C3%A8ve-pour-d%C3%A9fendre-l-acc%C3%A8s-au-logement"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/en-espagne-la-greve-generale-pour-le-droit-au-logement-attire-les-foules-20261111_2W64YTAVANCRHEXZJMUXFZ4AUY/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/colere-greve-generale-en-espagne-des-millions-de-personnes-mobilisees-contre-la-crise-du-logement_286476"
+              "url": "https://www.lemonde.fr/economie/article/2026/11/11/influenceurs-interfaces-trompeuses-jeux-video-l-ue-veut-mieux-proteger-les-consommateurs-en-ligne_6808994_3234.html"
             }
-          ],
-          "angles": "Libération et Le Monde cadrent le mouvement comme un baromètre du mécontentement social avant les élections, tandis que France 24 et RFI insistent sur l’aspect transversal (logement, salaires) et la pression sur le gouvernement de gauche. Courrier International amplifie le chiffre de participants, sans source précise."
+          ]
         },
         {
-          "headline": "Hongrie : frère de Viktor Orbán placé en détention pour trafic d’êtres humains",
-          "summary": "Aron Orbán, frère du Premier ministre hongrois, a été arrêté lundi dans le cadre d’une enquête pour trafic d’êtres humains visant des Vietnamiens ayant obtenu des visas en 2024 contre rémunération. Viktor Orbán dénonce un « coup bas » et une « cible cachée » dans cette procédure. Les autorités hongroises suspectent un réseau impliquant plusieurs complices.",
+          "headline": "Hongrie : détention du frère de Viktor Orbán pour trafic d’êtres humains",
+          "summary": "Aron Orbán, frère du Premier ministre hongrois, a été placé en détention provisoire pour soupçons de trafic d’êtres humains. Il est accusé d’avoir aidé des Vietnamiens à obtenir des visas en 2024 contre rémunération. Viktor Orbán dénonce un « coup bas » et une cible politique cachée. L’enquête vise aussi d’autres complices.",
           "sources": [
             "Le Monde",
             "Libération"
@@ -252,19 +335,6 @@
               "url": "https://www.liberation.fr/international/europe/hongrie-le-frere-de-viktor-orban-place-en-garde-a-vue-pour-soupcons-de-trafic-detres-humains-20261109_WB6ALOQMUBBWBNMZRXAOCQ5PKI/"
             }
           ]
-        },
-        {
-          "headline": "Suède : Parlement ouvre la voie à la déchéance de nationalité pour binationaux",
-          "summary": "Le Parlement suédois a adopté une révision constitutionnelle permettant la déchéance de nationalité pour les binationaux condamnés pour crimes graves ou fraude. Les modalités d’application restent à définir par le prochain gouvernement. Cette mesure vise à renforcer la sécurité nationale, mais suscite des débats sur son application pratique et ses implications juridiques.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html"
-            }
-          ]
         }
       ]
     },
@@ -273,137 +343,116 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Mobilisation étudiante : Lecornu propose 5 000 places supplémentaires",
-          "summary": "Le gouvernement a annoncé la création de 5 000 places supplémentaires en licence pour apaiser les tensions sociales, une mesure jugée insuffisante par les syndicats étudiants qui réclament 250 000 places. La proposition a été formalisée dans un courrier adressé aux présidents d’université. Les mobilisations, en cours depuis septembre, restent actives malgré cette annonce.",
+          "headline": "Bardella porte plainte pour faux et usage de faux",
+          "summary": "Jordan Bardella, président du Rassemblement national, a déposé plainte pour faux et usage de faux après les accusations d’antisémitisme publiées par Mediapart. Il conteste l’authenticité des textes qui lui sont attribués et avait déjà engagé une procédure en diffamation contre le média en septembre 2026. L’affaire oppose le RN à un site d’investigation, amplifiant les tensions politiques autour des accusations de discours haineux.",
           "sources": [
-            "Le Monde",
-            "20 Minutes",
             "France Info",
-            "Le Figaro"
+            "Le Figaro",
+            "Le Monde",
+            "France 24"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4262225-20261111-colere-sociale-lecornu-tente-apaiser-mobilisation-etudiante-5-000-places-supplementaires?at_medium=display&at_campaign=149"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/jordan-bardella/le-president-du-rassemblement-national-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-portees-par-mediapart_8279252.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/colere-lyceenne-sebastien-lecornu-formalise-la-creation-de-5000-places-supplementaires-en-licence-20261111"
+              "url": "https://www.lefigaro.fr/politique/jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-20261112"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261112-france-accusations-antisemitisme-jordan-bardella-a-porte-plainte-pour-faux-et-usage-de-faux"
             }
           ]
         },
         {
-          "headline": "Attentat raciste à Trappes : liste de cibles et motivations du suspect",
-          "summary": "Kévin Tessier, auteur de l’attentat raciste des 2 et 3 novembre à Trappes et La Verrière (un mort, sept blessés), a avoué avoir ciblé des personnes selon leur ethnie ou religion. Une liste de personnalités de gauche (dont David Guiraud, Assa Traoré, Aymeric Caron et Sandrine Rousseau) a été retrouvée chez lui, mais les enquêteurs n’ont pas identifié de projet concret contre elles. Il affirme avoir agi « pour la France ».",
-          "sources": [
-            "20 Minutes",
-            "France Info",
-            "Le Figaro",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4262232-20261111-attentat-raciste-trappes-quatre-personnalites-gauche-fichees-chez-suspect?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/j-agis-pour-la-france-l-auteur-de-l-attentat-raciste-des-yvelines-dit-avoir-agi-par-patriotisme-20261111"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/je-me-suis-dit-que-ca-pouvait-peut-etre-servir-un-jour-une-liste-de-personnalites-de-gauche-retrouvee-chez-le-tireur-de-lattentat-des-yvelines-20261111_XQWHT2WZRBCZ7FL7Z5TRLOA7KQ/"
-            }
-          ],
-          "angles": "20 Minutes et Le Figaro mettent en avant les déclarations du suspect et son profil, tandis que France Info et Libération détaillent les éléments judiciaires et les réactions politiques."
-        },
-        {
-          "headline": "Procès du triple narcotrafic : perpétuité requise contre les accusés",
-          "summary": "La cour d’assises d’Aix-en-Provence a requis la prison à perpétuité pour quatre accusés dans l’affaire du triple narcotrafic de Marseille en 2020, dont Amine Oualane (chef présumé) et Karim Harrat (donneur d’ordre). L’accusation évoque des « meurtres d’une sauvagerie sans nom ». Le procès, sous haute tension, se poursuit après trois semaines d’audience.",
+          "headline": "Expulsion temporaire des Balkany de leur moulin de Giverny",
+          "summary": "Les époux Balkany ont été expulsés fin octobre de leur moulin à Giverny (Eure), suite à leur condamnation en 2023 pour blanchiment de fraude fiscale. La décision, rendue effective début novembre, est présentée comme « temporaire » : un accord permettrait leur réintégration à court terme. Le tribunal de Louviers leur a aussi imposé une indemnité d’occupation rétroactive de plus de 10 000 euros par mois depuis mai 2024.",
           "sources": [
             "Libération",
-            "France 24",
+            "Le Figaro",
+            "France Info",
             "Le Monde"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/au-proces-du-narchomicide-du-demi-frere-damine-kessaci-la-perpetuite-requise-contre-quatre-accuses-20261111_OOWADC5RUZDVRIWH62D7VZAZBQ/"
+              "url": "https://www.liberation.fr/societe/police-justice/les-epoux-balkany-expulses-de-leur-moulin-de-giverny-20261112_EAZ3FYFURZBLBHPJJ3JLBQHRZ4/"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261111-la-perp%C3%A9tuit%C3%A9-requise-contre-quatre-accus%C3%A9s-dont-deux-barons-de-la-drogue-marseillais"
+              "source": "Le Figaro",
+              "url": "https://immobilier.lefigaro.fr/article/les-epoux-balkany-ont-ete-expulses-de-leur-residence-principale-avant-la-treve-hivernale-20261112"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/affaire/affaire-balkany/patrick-et-isabelle-balkany-expulses-de-leur-moulin-de-giverny-dans-l-eure_8279321.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/12/les-balkany-pries-de-quitter-leur-moulin-de-giverny-n-en-ayant-plus-l-usufruit-apres-une-condamnation-pour-fraude-fiscale_6809103_3224.html"
+            }
+          ],
+          "angles": "Libération souligne l’aspect 'temporaire' et l’accord trouvé, tandis que Le Figaro insiste sur la condamnation financière et les détails juridiques."
+        },
+        {
+          "headline": "Deux gardes républicains s’effondrent près d’Emmanuel Macron",
+          "summary": "Deux membres de la garde républicaine se sont écroulés coup sur coup sur le parvis de l’Élysée, mercredi soir, lors de la réception du président slovaque Peter Pellegrini par Emmanuel Macron. Les malaises, survenus à quelques secondes d’intervalle, ont été qualifiés de « pris de malaise » par les autorités. Aucune information n’indique un lien entre ces incidents ou une cause médicale précise.",
+          "sources": [
+            "Le Figaro",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/deux-membres-de-la-garde-republicaine-s-ecroulent-coup-sur-coup-pres-d-emmanuel-macron-sur-le-parvis-de-l-elysee-20261112"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262327-20261112-elysee-deux-membres-garde-republicaine-effondrent-devant-emmanuel-macron?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Présidentielle 2027 : Teddy Riner, nouveau candidat soutenu par Macron",
-          "summary": "Teddy Riner, champion de judo, a officialisé sa candidature à l’élection présidentielle de 2027, une annonce saluée par Emmanuel Macron, qui y voit des similitudes avec sa première campagne. Edouard Philippe et Gabriel Attal, bien que favorables, pourraient être marginalisés par son positionnement perçu comme trop macroniste. Riner est aussi rattrapé par un contentieux fiscal.",
+          "headline": "Présidentielle 2027 : Zemmour propose de supprimer 800 000 postes de fonctionnaires",
+          "summary": "Dans le cadre du « grand oral » sur les services publics organisé par France Télévisions et Radio France, Eric Zemmour a annoncé jeudi 12 novembre vouloir supprimer 800 000 postes de fonctionnaires s’il était élu. D’autres candidats se sont aussi exprimés : Gabriel Attal défend Parcoursup, Fabien Roussel propose 500 000 recrutements en cinq ans, et Raphaël Glucksmann prône une « refonte de l’école publique ». Ces déclarations cadrent la campagne sur un enjeu clé du scrutin.",
           "sources": [
-            "Le Monde",
-            "Libération",
-            "20 Minutes",
-            "Le Figaro"
+            "France Info",
+            "Le Monde"
           ],
           "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]"
+            },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-comment-emmanuel-macron-a-adoube-la-candidature-de-teddy-riner_6809010_823448.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/a-droite-riner-seme-le-trouble-20261111_A33KEHULKBBR5NEWLIECFAZV2I/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4262226-20261111-presidentielle-2026-peine-candidat-teddy-riner-rattrape-fisc?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-christine-lagarde-creditee-de-14-au-premier-tour-si-elle-est-candidate-20261111"
+              "url": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html"
             }
-          ],
-          "angles": "Le Monde et Libération analysent les stratégies politiques et les divisions à droite, tandis que 20 Minutes et Le Figaro relèvent les aspects concrets (fiscalité, image médiatique) de sa candidature."
+          ]
         },
         {
-          "headline": "11 novembre 2026 : commémorations marquées par des messages politiques",
-          "summary": "À l’occasion du 108e anniversaire de l’armistice de 1918, Emmanuel Macron a présidé la cérémonie sous l’Arc de Triomphe, tandis que Marine Le Pen et Jean-Luc Mélenchon ont choisi des lieux symboliques pour porter leurs messages respectifs (unité nationale pour Le Pen, paix pour Mélenchon). Les commémorations interviennent à cinq mois du premier tour de la présidentielle.",
+          "headline": "Violences près des lycées : le gouvernement durcit les sanctions",
+          "summary": "Le gouvernement demande une saisine « systématique » de la justice pour les actes délictueux commis près des lycées, après une hausse des violences depuis la reprise des cours. Deux lycées de Montpellier ont été visés par des incendies volontaires jeudi 12 novembre, sans que les auteurs soient formellement identifiés comme des lycéens. Plus de 600 blessés ont été recensés depuis le début des mobilisations, dont 360 élèves. Valérie Pécresse propose aussi des caméras dans 50 lycées d’Île-de-France.",
           "sources": [
-            "Euronews",
             "Libération",
             "Le Figaro"
           ],
           "links": [
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/11-novembre-entre-memoire-nationale-et-pacifisme-les-hommages-de-macron-le-pen-et-melencho"
-            },
-            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/11-novembre-la-der-pour-macron-lunite-pour-le-pen-et-la-paix-pour-melenchon-20261111_2ZTOOXWLZZDQJAFGLF6TA2KYNM/"
+              "url": "https://www.liberation.fr/societe/le-gouvernement-veut-mettre-fin-aux-violences-pres-des-lycees-et-demande-une-saisine-systematique-de-la-justice-20261112_P2CAVY7E5JCX7DWJ3PQY24ECMI/"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/le-pen-a-henin-beaumont-melenchon-dans-la-creuse-le-match-a-distance-sur-fond-de-commemorations-20261111"
+              "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-souhaite-une-saisine-systematique-de-la-justice-pour-les-actes-delictueux-pres-des-lycees-20261112"
             }
           ],
-          "angles": "Libération et Euronews opposent les discours de Mélenchon (pacifisme) et Le Pen (unité nationale), tandis que Le Figaro met en avant la dimension mémorielle et politique de Macron."
+          "angles": "Libération met l’accent sur les violences et les blessés, tandis que Le Figaro insiste sur la réponse institutionnelle et les mesures proposées par Pécresse."
         }
       ]
     }
