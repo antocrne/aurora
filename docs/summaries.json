@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:04:38Z",
+  "generated_at": "2026-11-12T22:24:14Z",
   "edition": "12 novembre 2026",
   "categories": [
     {
@@ -7,185 +7,180 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Effondrement mortel à New York et frappe à Gaza",
-          "summary": "Un immeuble de trois étages s'est effondré à Brooklyn (New York) mercredi 11 novembre, faisant au moins six morts et 19 blessés, dont des enfants. Parallèlement, une frappe israélienne sur l'hôpital Nasser à Khan Younès (Gaza) a tué six Palestiniens et blessé une vingtaine, malgré les dénégations israéliennes visant un responsable du Hamas. Les causes de l'effondrement new-yorkais restent inconnues.",
+          "headline": "Démission de Jensen Huang : chute du patron de Nvidia",
+          "summary": "Jensen Huang, cofondateur et PDG de Nvidia, a démissionné ce 12 novembre après des révélations sur deux liaisons extraconjugales, dont une avec une femme d’affaires chinoise soupçonnée d’espionnage pour la Chine. Son départ fragilise l’entreprise, leader dans les puces pour l’intelligence artificielle, et interroge sur l’avenir de ses projets stratégiques, notamment en Europe. Les médias évoquent aussi des montages financiers controversés. La Chine dément les accusations d’espionnage.",
           "sources": [
             "France Info",
-            "Le Monde",
-            "Libération",
-            "RFI",
-            "France 24"
+            "BBC",
+            "Le Figaro",
+            "Courrier International",
+            "Euronews"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/economie/entreprises/effondrement-en-bourse-revelations-du-new-york-times-la-chute-de-jensen-huang-le-patron-de-nvidia-proche-de-donald-trump_8280008.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/la-perte-de-jensen-huang-est-un-veritable-coup-dur-la-chute-du-patron-de-nvidia-provoque-un-seisme-sur-la-planete-ia-20261112"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/ia-longtemps-intouchable-jensen-huang-puissant-patron-du-geant-nvidia-a-fini-par-chuter_286196"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/12/demission-de-jensen-huang-quelles-prochaines-etapes-pour-nvidia-et-lia"
+            }
+          ],
+          "angles": "Libération et Courrier International insistent sur les aspects financiers et géopolitiques (espionnage, influence chinoise), tandis que Le Figaro et Euronews soulignent l’impact sur l’écosystème technologique et les relations avec Washington. France Info et BBC adoptent un ton plus neutre, centré sur les conséquences pour Nvidia et l’IA."
+        },
+        {
+          "headline": "Israël interdit l’entrée à Mélenchon et Panot",
+          "summary": "Israël a interdit l’entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot, respectivement leader et députée de La France insoumise, en raison de leur « position extrêmement hostile » envers Israël. La mesure, annoncée ce 12 novembre, survient après le refoulement en France d’un responsable des colons israéliens. La France dénonce une décision « démagogique ». Mélenchon affirme ne pas changer son discours.",
+          "sources": [
+            "RFI",
+            "Le Figaro",
+            "Libération",
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261112-france-le-leader-insoumis-jean-luc-m%C3%A9lenchon-et-la-d%C3%A9put%C3%A9e-mathilde-panot-interdits-d-entr%C3%A9e-en-isra%C3%ABl"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/israel-interdit-d-entree-jean-luc-melenchon-dont-le-parti-est-juge-extremement-hostile-20261112"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/"
+              "url": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html"
+            }
+          ],
+          "angles": "Libération et Le Monde mettent en avant le contexte diplomatique et la réaction française, tandis que Le Figaro et France Info relaient davantage la position israélienne et les déclarations de Mélenchon. RFI adopte un ton factuel, sans cadrage particulier."
+        },
+        {
+          "headline": "Effondrement d’un immeuble à New York : 8 morts",
+          "summary": "Un immeuble de trois étages s’est effondré à Brooklyn (New York) le 11 novembre, faisant au moins 8 morts et 19 blessés. Les recherches se poursuivent pour retrouver d’éventuelles autres victimes. Les causes de l’effondrement ne sont pas encore établies. L’immeuble, construit en 1930, était situé près d’un chantier. Les secours ont mobilisé plus de 250 personnes pour les opérations de sauvetage.",
+          "sources": [
+            "France Info",
+            "Courrier International",
+            "Libération",
+            "Euronews",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-de-trois-etages-s-ecroule-a-new-york-au-moins-quatre-morts-et-une-vingtaine-de-blesses_8279408.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/video/video-un-immeuble-s-effondre-a-new-york-faisant-au-moins-huit-morts-et-19-blesses_286709"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/un-immeuble-seffondre-a-new-york-au-moins-deux-morts-et-17-blesses-20261112_QJR2MEAFEBGJ7A3JI7YP7SSGS4/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/12/effondrement-dun-immeuble-a-new-york-au-moins-deux-morts-et-17-blesses"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique-foot/20261112-%C3%A9liminatoires-can-2027-la-c%C3%B4te-d-ivoire-et-le-cameroun-assurent-le-s%C3%A9n%C3%A9gal-s-amuse"
+            }
+          ]
+        },
+        {
+          "headline": "Frappe israélienne sur l’hôpital Nasser à Gaza : 11 morts",
+          "summary": "Une attaque israélienne sur l’hôpital Nasser à Khan Younès (Gaza) a fait 11 morts, dont 6 lors de la frappe du 11 au 12 novembre, selon les autorités palestiniennes. Israël affirme avoir ciblé un haut responsable du Hamas, que ce dernier nie. L’hôpital, déjà dévasté, voit ses infrastructures médicales gravement endommagées. Les tensions s’aggravent alors que l’Iran évoque ouvertement une sortie du Traité de non-prolifération nucléaire.",
+          "sources": [
+            "Euronews",
+            "RFI",
+            "France Info",
+            "Libération",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/12/gaza-un-raid-israelien-ravage-lhopital-nasser-et-fait-plusieurs-morts"
             },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/moyen-orient/20261112-gaza-une-frappe-isra%C3%A9lienne-fait-six-morts-dans-le-sud-de-l-enclave"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-au-moins-deux-morts-suite-%C3%A0-l-effondrement-d-un-immeuble"
-            }
-          ],
-          "angles": "Libération et RFI insistent sur le contexte humanitaire et la réponse israélienne à Gaza, tandis que France Info et Le Monde détaillent le bilan humain et les opérations de secours à New York."
-        },
-        {
-          "headline": "Refoulement d'un responsable des colons israéliens en France",
-          "summary": "Yossi Dagan, dirigeant d'une structure représentant les colonies juives en Cisjordanie occupée, a été refoulé à son arrivée en France le 11 novembre pour son rôle dans la colonisation. Israël a réagi en exigeant des explications, dénonçant une mesure « inacceptable ». Cet incident s'inscrit dans un climat de tensions diplomatiques accrues entre Paris et Tel-Aviv.",
-          "sources": [
-            "Libération",
-            "Euronews",
-            "20 Minutes",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html#xtor=RSS-3-%5Bmonde%5D"
+            },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/un-responsable-des-colons-israeliens-en-cisjordanie-occupee-refoule-a-son-arrivee-en-france-20261112_TVROMQCX5ZCJ3KIS7YDAOP6ULE/"
+              "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-occupee-refoule-a-son-arrivee-en-france"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4262266-20261112-france-refoule-responsable-colons-israeliens-cisjordanie?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france"
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/121126/gaza-et-en-cisjordanie-israel-perpetue-sa-politique-de-devastation"
             }
-          ]
+          ],
+          "angles": "France Info et Libération soulignent le bilan humain et les accusations de crime de guerre, tandis que RFI et Euronews adoptent un ton plus neutre en citant les versions israélienne et palestinienne. Mediapart insiste sur le contexte de dévastation globale à Gaza et en Cisjordanie."
         },
         {
-          "headline": "Premier sénateur noir du Mississippi depuis 150 ans",
-          "summary": "Scott Colom, démocrate, a remporté le siège de sénateur du Mississippi après un scrutin serré, devenant le premier Afro-Américain élu à ce poste dans cet État du Sud depuis près de 150 ans. Cette victoire renforce la majorité démocrate au Sénat, deux ans après la réélection de Donald Trump dans cet État conservateur.",
+          "headline": "Mississippi : premier sénateur noir élu depuis 150 ans",
+          "summary": "Scott Colom, candidat démocrate, a remporté le siège de sénateur du Mississippi, devenant le premier Afro-Américain élu dans cet État du Sud depuis la Reconstruction (fin XIXe siècle). Sa victoire, dans un État traditionnellement républicain, marque un tournant symbolique et politique. Colom, procureur connu pour son franc-parler, a axé sa campagne sur le pouvoir d’achat et les droits civiques.",
           "sources": [
             "France 24",
-            "Libération",
             "Le Figaro",
-            "France Info",
-            "RFI"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-midterms-2026-scott-colom-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/midterms-le-democrate-scott-colom-premier-senateur-noir-du-mississipi-depuis-pres-dun-siecle-et-demi-20261112_76PBRGYYX5DYVOCQFJGO5HUMRU/"
+              "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat"
             },
             {
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/international/midterms-2026-les-democrates-remportent-une-victoire-historique-dans-le-mississippi-20261112"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-l-issue-des-elections-de-mi-mandat-aux-etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-apres-les-elections-de-mi-mandat_8278790.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
-            }
-          ],
-          "angles": "France 24 et Libération soulignent l'aspect historique et symbolique, tandis que Le Figaro et France Info mettent en avant le contexte politique national et la dynamique des midterms."
-        },
-        {
-          "headline": "Retour triomphal du pape Léon XIV au Pérou",
-          "summary": "Le pape Léon XIV, d'origine péruvienne, a été accueilli en héros à Lima le 11 novembre, après y avoir vécu près de 20 ans. Il a appelé les Péruviens à surmonter les divisions passées lors de son premier discours dans le pays, marquant la dernière étape de sa tournée en Amérique du Sud.",
-          "sources": [
-            "France 24",
-            "Euronews",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-p%C3%A9rou-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-retour-dans-sa-patrie"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/12/perou-le-pape-leo-xiv-revient-dans-sa-patrie-adoptive-pour-clore-sa-tournee-sud-americaine"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-en-visite-dans-sa-patrie-au-p%C3%A9rou-l%C3%A9on-xiv-appelle-%C3%A0-surmonter-les-divisions-du-pass%C3%A9"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/byron-donalds-premier-gouverneur-noir-de-floride_6809139_4500055.html"
             }
           ]
         },
         {
-          "headline": "Paquebot historique coulé pour créer un récif artificiel",
-          "summary": "Le SS United States, paquebot emblématique des années 1950, a été sabordé au large de la Floride le 11 novembre pour devenir le plus grand récif artificiel du monde. Long de 300 mètres, il sera une destination touristique pour les plongeurs, dans le cadre d'un projet estimé à 13,5 millions de dollars.",
+          "headline": "Arabie saoudite : une Kényane condamnée à 100 coups de fouet",
+          "summary": "Esther Wanja Muthoni, une travailleuse domestique kényane, a été condamnée à 100 coups de fouet par un tribunal saoudien pour avoir eu un enfant hors mariage. Cette peine illustre les risques encourus par les travailleuses étrangères, souvent célibataires et précaires, malgré les réformes récentes sur les droits des femmes. Environ 1,5 million de femmes étrangères travaillent dans ces conditions en Arabie saoudite.",
           "sources": [
-            "Libération",
-            "Euronews",
-            "Le Monde"
+            "Le Figaro",
+            "Courrier International"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/environnement/un-prestigieux-paquebot-coule-au-large-de-la-floride-pour-devenir-le-plus-grand-recif-artificiel-du-monde-20261112_ZR6DXBUW5VF5HA4HNI72VDXZJ4/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/l-arabie-saoudite-condamne-une-femme-a-100-coups-de-fouet-pour-avoir-eu-un-enfant-hors-mariage-20261112"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/12/ss-united-states-historique-coule-au-large-de-la-floride-futur-plus-grand-recif-artificiel"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/un-paquebot-americain-coule-au-large-de-la-floride-pour-devenir-le-plus-grand-recif-artificiel-du-monde_6809049_3210.html"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/droits-humains-en-arabie-saoudite-une-kenyane-condamnee-a-cent-coups-de-fouet-pour-grossesse-hors-mariage_286675"
             }
           ]
-        },
-        {
-          "headline": "Crise humanitaire à Gaza aggravée par les pluies",
-          "summary": "Les pluies diluviennes à Gaza ont causé au moins cinq morts, dont trois enfants, selon les secours. Ces intempéries s'ajoutent à la détresse des habitants déjà frappés par la guerre, tandis qu'une frappe israélienne sur un hôpital a tué six Palestiniens et blessé 20 autres, malgré les dénégations israéliennes sur une cible militaire.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "RFI",
-            "Le Monde",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261112-gaza-une-frappe-isra%C3%A9lienne-fait-six-morts-dans-le-sud-de-l-enclave"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-au-moins-deux-morts-suite-%C3%A0-l-effondrement-d-un-immeuble"
-            }
-          ],
-          "angles": "Libération et RFI insistent sur le contexte humanitaire et les accusations de crimes de guerre, tandis que France Info met l'accent sur le bilan immédiat des intempéries."
         }
       ]
     },
@@ -194,12 +189,46 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Europe frappée par des alertes à la bombe",
-          "summary": "Des milliers d’écoles en Italie, Irlande et Écosse ont reçu des alertes à la bombe mercredi 11 novembre, provoquant des évacuations. Aucune menace concrète n’a été identifiée. L’origine des messages, envoyés depuis un domaine taïwanais, reste inconnue. L’Italie renforce sa cybersécurité et sensibilise aux risques de guerre hybride. Emmanuel Macron exclut pour l’instant une implication extérieure.",
+          "headline": "Négociations Ukraine-Russie : blocages persistants",
+          "summary": "Les émissaires américains Jared Kushner et Steve Witkoff, après des entretiens infructueux avec Vladimir Poutine à Moscou, se sont rendus jeudi 12 novembre à Dublin pour rencontrer Volodymyr Zelensky. Poutine maintient ses exigences et exige l’arrêt de l’aide militaire européenne à l’Ukraine avant toute participation des Européens aux pourparlers. Zelensky juge possible une avancée avant fin 2026, mais les restrictions récentes sur le système Starshield (SpaceX) compliquent la défense ukrainienne. Les pourparlers d’Abou Dhabi (10-11 novembre) n’ont pas abouti à une paix durable.",
           "sources": [
             "France Info",
             "Le Monde",
             "Le Figaro",
+            "Courrier International",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-pour-la-delegation-russe-a-abou-dhabi-les-europeens-sont-venus-en-touristes_286643"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4262513-20261112-guerre-ukraine-poutine-inflexible-face-americains-starshield-nouveau-bride?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France Info et Le Monde soulignent les inflexibilités de Poutine et l’absence de progrès concret, tandis que Le Figaro insiste sur les concessions symboliques (opération humanitaire à Kostiantynivka) et les tensions avec les États-Unis. Le Courrier International adopte un ton critique envers les Européens, qualifiés de 'touristes' par la délégation russe."
+        },
+        {
+          "headline": "Fausses alertes à la bombe : panique dans les écoles européennes",
+          "summary": "Des milliers d’écoles en Italie (6 300 établissements), Irlande et Royaume-Uni ont reçu des alertes à la bombe par e-mail mercredi 11 novembre, provoquant des évacuations massives. Aucun danger réel n’a été identifié, mais les autorités italiennes évoquent une 'guerre hybride'. La France a aussi été touchée (3 établissements). L’origine des messages, envoyés depuis un domaine taïwanais, reste inconnue. Emmanuel Macron exclut pour l’instant une implication étrangère.",
+          "sources": [
+            "France Info",
+            "France 24",
+            "Le Monde",
             "Libération",
             "Toute l'Europe"
           ],
@@ -209,101 +238,113 @@
               "url": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-italie-des-milliers-d-%C3%A9coles-vis%C3%A9es-par-des-alertes-%C3%A0-la-bombe"
+            },
+            {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/apres-les-menaces-d-alertes-a-la-bombe-l-italie-veut-rassurer-et-renforcer-sa-cybersecurite-20261111"
-            },
-            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/alerte-a-la-bombe-en-italie-au-moins-300-ecoles-evacuees-20261111_LZK4MBES6RGMTPXJDP2NTWNTZI/"
+              "url": "https://www.liberation.fr/international/europe/alertes-a-la-bombe-1-800-ecoles-de-nouveau-ciblees-en-italie-macron-juge-quil-est-trop-tot-pour-determiner-les-responsables-20261112_T5ZUBJ734FAVDJK2AA6HVA53P4/"
             },
             {
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/italie-royaume-uni-irlande-des-milliers-d-ecoles-visees-par-de-fausses-alertes-a-la-bombe/"
             }
           ],
-          "angles": "Libération et Le Monde soulignent l’ampleur des canulars et leur caractère coordonné, tandis que Le Figaro et France Info insistent sur la réponse politique italienne et la réaction d’Emmanuel Macron, minimisant les risques d’une origine extérieure. La Repubblica (via Toute l'Europe) détaille les modalités techniques des attaques."
+          "angles": "France Info et Le Monde relaient les déclarations officielles et minimisent les risques, tandis que Libération et Toute l’Europe détaillent les dysfonctionnements logistiques (ex. : domaine taïwanais) et les craintes de cyberattaques, sans attribuer de responsabilité. France 24 lie ces incidents à une stratégie de 'guerre hybride' plus large."
         },
         {
-          "headline": "Grève générale en Espagne pour le logement",
-          "summary": "Une grève générale historique a mobilisé des centaines de milliers de personnes en Espagne mercredi 11 novembre, pour dénoncer la crise du logement et le pouvoir d’achat. À Madrid, 120 000 manifestants ont défilé sous la pluie. Le gouvernement de gauche soutient le mouvement, tandis que la droite accuse les organisateurs de manipuler l’opinion à trois semaines des législatives anticipées du 29 novembre.",
-          "sources": [
-            "Libération",
-            "Le Monde",
-            "Courrier International",
-            "Euronews",
-            "Mediapart"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/en-espagne-la-greve-generale-pour-le-droit-au-logement-attire-les-foules-20261111_2W64YTAVANCRHEXZJMUXFZ4AUY/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/espagne-une-greve-generale-sur-fond-de-crise-du-logement-et-de-colere-sur-le-pouvoir-d-achat_6809018_3210.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/colere-greve-generale-en-espagne-des-millions-de-personnes-mobilisees-contre-la-crise-du-logement_286476"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/11/espagne-120-000-sous-la-pluie-pour-un-logement-abordable-et-de-meilleurs-salaires"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/121126/espagne-le-socialiste-sanchez-espere-profiter-de-l-elan-de-la-greve-pour-le-logement"
-            }
-          ],
-          "angles": "Libération et Le Monde mettent en avant la dimension sociale et électorale, tandis que Courrier International (via Euronews) insiste sur l’ampleur inédite de la mobilisation. Mediapart analyse les enjeux politiques pour le Parti socialiste de Sánchez."
-        },
-        {
-          "headline": "Négociations Ukraine-Russie : échange de prisonniers et tensions persistantes",
-          "summary": "Un accord pour un vaste échange de prisonniers a été trouvé lors des pourparlers d’Abou Dhabi entre Ukraine et Russie, sous médiation américaine. Les émissaires Jared Kushner et Steve Witkoff doivent rencontrer Vladimir Poutine à Moscou puis Volodymyr Zelensky à Dublin jeudi 12 novembre. Zelensky évoque une « fenêtre d’opportunité » pour un cessez-le-feu, mais aucun progrès n’est enregistré sur les différends territoriaux ou un cessez-le-feu global.",
+          "headline": "Hongrie : avancées et reculs sur les droits des femmes",
+          "summary": "La Hongrie va ratifier la Convention d’Istanbul contre les violences faites aux femmes, une première sous Viktor Orbán. Le Premier ministre Péter Magyar a aussi supprimé une mesure controversée obligeant les femmes à écouter les battements du cœur fœtal avant un avortement. Ces annonces interviennent dans un contexte de tensions judiciaires accrues contre le clan Orbán, avec des placements en détention provisoire pour des membres proches du pouvoir.",
           "sources": [
             "France Info",
-            "France 24",
-            "Euronews",
             "Le Monde",
-            "BBC"
+            "Le Figaro"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-fin-des-pourparlers-d-abou-dhabi"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/11/ukraine-russie-un-accord-sur-un-echange-de-prisonniers-a-abu-dhabi"
+              "url": "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/alexandre-dartchiev-l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement-a-66-ans_6809012_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/droits-des-femmes-la-hongrie-prevoit-de-ratifier-la-convention-d-istanbul_6809118_3210.html"
             },
             {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/c-est-moi-la-cible-mon-frere-n-est-qu-un-instrument-en-hongrie-la-justice-durcit-le-ton-avec-le-clan-de-viktor-orban-20261112"
             }
-          ],
-          "angles": "France Info et France 24 soulignent l’aspect diplomatique et les espoirs ukrainiens, tandis que Le Monde et Euronews insistent sur l’absence de avancées concrètes. La BBC (via Euronews) détaille les difficultés logistiques, comme les perturbations des liaisons Starlink en Ukraine."
+          ]
         },
         {
-          "headline": "L’UE durcit les règles contre les pratiques trompeuses en ligne",
-          "summary": "La Commission européenne propose une « loi sur l’équité numérique » pour lutter contre les techniques de vente en ligne manipulatoires, comme les défilements infinis ou les faux compteurs de stock. Les amendes pourraient atteindre 6 % du chiffre d’affaires mondial des plateformes contrevenantes. Le texte vise aussi les influenceurs et les interfaces trompeuses sur les réseaux sociaux.",
+          "headline": "Espagne : loi logement adoptée malgré l’opposition",
+          "summary": "Le Parlement espagnol a voté jeudi 12 novembre un décret-loi suspendant les expulsions locatives pour les personnes vulnérables jusqu’en 2030 et ciblant les fonds 'vautour'. Ce texte, nommé 'Maricarmen', intervient après une grève générale et des manifestations massives en septembre. L’opposition de droite promet son abrogation en cas de victoire aux prochaines élections. Le gouvernement Sanchez agit dans un contexte préélectoral tendu.",
           "sources": [
-            "Euronews",
-            "Toute l'Europe",
+            "France Info",
+            "Le Monde",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/espagne/apres-une-greve-generale-en-espagne-le-parlement-adopte-des-mesures-pour-proteger-le-droit-au-logement_8279756.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/12/apres-la-greve-en-espagne-le-parlement-adopte-des-mesures-pour-proteger-le-droit-au-logement_6809110_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261112-logement-en-espagne-le-premier-ministre-pedro-sanchez-fait-valider-le-d%C3%A9cret-loi-maricarmen"
+            }
+          ],
+          "angles": "Le Monde met en avant les mesures concrètes (suspension des expulsions, régulation des fonds spéculatifs), tandis que France Info insiste sur le contexte social (grève générale, mobilisations). Les deux médias soulignent le rejet de l’opposition sans différence majeure de cadrage."
+        },
+        {
+          "headline": "Europe : exclusion des athlètes russes des compétitions",
+          "summary": "La Norvège et la Finlande ont annoncé jeudi 12 novembre interdire aux sportifs russes et biélorusses de participer à des compétitions sur leur sol, invoquant leur lien avec le régime de Moscou. La Norvège justifie cette décision par l’impossibilité de dissocier le sport de haut niveau de la guerre en Ukraine. Les deux pays appellent les autres nations européennes à les suivre. La Finlande accueillera les championnats du monde de patinage artistique en 2027, où seuls les athlètes sous bannière neutre seront autorisés.",
+          "sources": [
+            "Libération",
+            "France Info",
             "Le Monde"
           ],
           "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/en-norvege-et-en-finlande-les-sportifs-professionnels-russes-desormais-interdits-de-competitions-20261112_JFG2APX73BAHBCQIZRO6XOLIRE/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/sport/article/2026/11/12/helsinki-annonce-bloquer-les-visas-des-athletes-russes-qui-n-ont-rien-a-faire-en-finlande-alors-que-s-y-profilent-les-championnats-du-monde-de-patinage-artistique_6809152_3242.html"
+            }
+          ],
+          "angles": "Libération et Le Monde adoptent un ton factuel, mettant en avant les justifications officielles (liens entre sport et guerre). France Info ajoute une dimension symbolique ('impossible de dissocier le sport de la politique'), sans modifier le fond."
+        },
+        {
+          "headline": "UE : protection des consommateurs et régulation du commerce en ligne",
+          "summary": "La Commission européenne propose de renforcer la lutte contre les pratiques commerciales trompeuses en ligne, comme les abonnements piégés ou les fausses promotions ('23 personnes regardent cet article'). Ces mesures visent à encadrer les plateformes et les influenceurs. Parallèlement, l’UE explore des sanctions contre l’Iran pour des cyberattaques attribuées au groupe Shahid Kaveh, ciblant notamment les réfrigérateurs de supermarchés européens. Ces actions s’inscrivent dans une stratégie plus large contre la 'guerre hybride'.",
+          "sources": [
+            "France 24",
+            "France Info",
+            "Euronews",
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261112-guerre-hybride-comment-riposter"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/entre-sabotages-cyberattaques-et-agents-au-service-des-puissances-rivales-comment-l-europe-se-retrouve-sous-la-pression-de-la-guerre-hybride_8279402.html#xtor=RSS-3-%5Bmonde%5D"
+            },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/video/2026/11/12/union-europeenne-bruxelles-veut-sattaquer-aux-pieges-du-commerce-en-ligne"
@@ -311,30 +352,9 @@
             {
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/economie-et-social/abonnements-pieges-fausses-promotions-reseaux-sociaux-l-union-europeenne-veut-mieux-proteger-les-consommateurs-en-ligne/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/11/influenceurs-interfaces-trompeuses-jeux-video-l-ue-veut-mieux-proteger-les-consommateurs-en-ligne_6808994_3234.html"
             }
-          ]
-        },
-        {
-          "headline": "Hongrie : détention du frère de Viktor Orbán pour trafic d’êtres humains",
-          "summary": "Aron Orbán, frère du Premier ministre hongrois, a été placé en détention provisoire pour soupçons de trafic d’êtres humains. Il est accusé d’avoir aidé des Vietnamiens à obtenir des visas en 2024 contre rémunération. Viktor Orbán dénonce un « coup bas » et une cible politique cachée. L’enquête vise aussi d’autres complices.",
-          "sources": [
-            "Le Monde",
-            "Libération"
           ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/11/en-hongrie-aron-orban-frere-de-viktor-orban-place-en-detention-provisoire-dans-une-enquete-pour-trafic-d-etres-humains_6809025_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/hongrie-le-frere-de-viktor-orban-place-en-garde-a-vue-pour-soupcons-de-trafic-detres-humains-20261109_WB6ALOQMUBBWBNMZRXAOCQ5PKI/"
-            }
-          ]
+          "angles": "France 24 lie explicitement ces propositions à une stratégie de défense européenne contre les cybermenaces, tandis que Toute l’Europe et Euronews se concentrent sur les mécanismes concrets (régulation des plateformes, protection des consommateurs) sans mentionner l’Iran. France Info associe les deux aspects dans un même bloc thématique ('guerre hybride')."
         }
       ]
     },
@@ -343,116 +363,115 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Bardella porte plainte pour faux et usage de faux",
-          "summary": "Jordan Bardella, président du Rassemblement national, a déposé plainte pour faux et usage de faux après les accusations d’antisémitisme publiées par Mediapart. Il conteste l’authenticité des textes qui lui sont attribués et avait déjà engagé une procédure en diffamation contre le média en septembre 2026. L’affaire oppose le RN à un site d’investigation, amplifiant les tensions politiques autour des accusations de discours haineux.",
+          "headline": "Affaire Lyhanna : Darmanin saisie le CSM",
+          "summary": "Gérald Darmanin a saisi le Conseil supérieur de la magistrature (CSM) contre une substitut du procureur d'Auch pour « manquement à son devoir de conscience professionnelle » dans le traitement de l'affaire Lyhanna, le meurtre d'une fillette de 11 ans. Cette décision fait suite à une enquête administrative de l'Inspection générale de la justice. Les manquements concernent aussi des dossiers de violences sur mineurs, remettant en cause la rigueur des procédures locales. La magistrate est visée pour son rôle dans l'enquête contre Jérôme Barella.",
           "sources": [
-            "France Info",
-            "Le Figaro",
+            "20 Minutes",
             "Le Monde",
-            "France 24"
+            "Libération",
+            "France Info"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/jordan-bardella/le-president-du-rassemblement-national-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-portees-par-mediapart_8279252.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-20261112"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4262524-20261112-affaire-lyhanna-darmanin-saisit-conseil-magistrature-cas-magistrate-parquet-auch?at_medium=display&at_campaign=149"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261112-france-accusations-antisemitisme-jordan-bardella-a-porte-plainte-pour-faux-et-usage-de-faux"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-dauch-20261112_R7YZEZF7HVBKLP77VULAGHIGAA/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-superieur-de-la-magistrature-contre-une-substitut-du-procureur-d-auch-pour-ne-pas-avoir-verifie-les-antecedents-du-suspect_8279870.html#xtor=RSS-3-[lestitres]"
             }
           ]
         },
         {
-          "headline": "Expulsion temporaire des Balkany de leur moulin de Giverny",
-          "summary": "Les époux Balkany ont été expulsés fin octobre de leur moulin à Giverny (Eure), suite à leur condamnation en 2023 pour blanchiment de fraude fiscale. La décision, rendue effective début novembre, est présentée comme « temporaire » : un accord permettrait leur réintégration à court terme. Le tribunal de Louviers leur a aussi imposé une indemnité d’occupation rétroactive de plus de 10 000 euros par mois depuis mai 2024.",
+          "headline": "Teddy Riner candidat à la présidentielle 2027",
+          "summary": "Teddy Riner, quintuple champion olympique de judo, a officiellement annoncé sa candidature à l'élection présidentielle de 2027. Son entrée dans la course suscite des réactions mitigées, y compris dans le milieu du judo. Plusieurs sponsors, comme Saxo Bank, ont déjà suspendu leur collaboration. La primaire de la droite et du centre se précise, avec des réunions en coulisses entre les directeurs de campagne des candidats Renaissance. Emmanuel Macron a salué cette candidature, estimant qu'elle pourrait dynamiser le camp présidentiel.",
           "sources": [
+            "France 24",
             "Libération",
-            "Le Figaro",
-            "France Info",
-            "Le Monde"
+            "20 Minutes",
+            "RFI"
           ],
           "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261112-candidature-de-teddy-riner-primaire-de-la-droite-et-du-centre"
+            },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/les-epoux-balkany-expulses-de-leur-moulin-de-giverny-20261112_EAZ3FYFURZBLBHPJJ3JLBQHRZ4/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://immobilier.lefigaro.fr/article/les-epoux-balkany-ont-ete-expulses-de-leur-residence-principale-avant-la-treve-hivernale-20261112"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/affaire/affaire-balkany/patrick-et-isabelle-balkany-expulses-de-leur-moulin-de-giverny-dans-l-eure_8279321.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/12/les-balkany-pries-de-quitter-leur-moulin-de-giverny-n-en-ayant-plus-l-usufruit-apres-une-condamnation-pour-fraude-fiscale_6809103_3224.html"
-            }
-          ],
-          "angles": "Libération souligne l’aspect 'temporaire' et l’accord trouvé, tandis que Le Figaro insiste sur la condamnation financière et les détails juridiques."
-        },
-        {
-          "headline": "Deux gardes républicains s’effondrent près d’Emmanuel Macron",
-          "summary": "Deux membres de la garde républicaine se sont écroulés coup sur coup sur le parvis de l’Élysée, mercredi soir, lors de la réception du président slovaque Peter Pellegrini par Emmanuel Macron. Les malaises, survenus à quelques secondes d’intervalle, ont été qualifiés de « pris de malaise » par les autorités. Aucune information n’indique un lien entre ces incidents ou une cause médicale précise.",
-          "sources": [
-            "Le Figaro",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/deux-membres-de-la-garde-republicaine-s-ecroulent-coup-sur-coup-pres-d-emmanuel-macron-sur-le-parvis-de-l-elysee-20261112"
+              "url": "https://www.liberation.fr/sports/quelle-est-lhistoire-quil-se-raconte-a-lui-meme-apres-la-candidature-de-teddy-riner-le-monde-du-judo-reste-dubitatif-20261112_KJEDGVU3L5C2LPRH5WJIKDCJ7E/"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4262327-20261112-elysee-deux-membres-garde-republicaine-effondrent-devant-emmanuel-macron?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/sport/4262470-20261112-presidentielles-2027-saxo-bank-suspend-collaboration-teddy-riner-apres-candidature?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261112-pr%C3%A9sidentielle-2027-primaire-d%C3%A9signer-candidat-de-droite-centre-edouard-philippe"
             }
-          ]
+          ],
+          "angles": "Libération adopte un ton critique en questionnant la légitimité politique de Riner et son projet, tandis que France 24 et RFI se concentrent sur l'impact stratégique de sa candidature et l'organisation de la primaire. 20 Minutes met en avant les conséquences immédiates sur ses partenariats commerciaux."
         },
         {
-          "headline": "Présidentielle 2027 : Zemmour propose de supprimer 800 000 postes de fonctionnaires",
-          "summary": "Dans le cadre du « grand oral » sur les services publics organisé par France Télévisions et Radio France, Eric Zemmour a annoncé jeudi 12 novembre vouloir supprimer 800 000 postes de fonctionnaires s’il était élu. D’autres candidats se sont aussi exprimés : Gabriel Attal défend Parcoursup, Fabien Roussel propose 500 000 recrutements en cinq ans, et Raphaël Glucksmann prône une « refonte de l’école publique ». Ces déclarations cadrent la campagne sur un enjeu clé du scrutin.",
+          "headline": "Inondations en Haute-Corse : vigilance orange levée",
+          "summary": "La Haute-Corse est passée en vigilance orange aux crues jeudi 12 et vendredi 13 novembre en raison d'une montée rapide du fleuve Tavignano, avec une hausse de près de neuf mètres en trois heures. Météo France a alerté sur une crue majeure dans le secteur de Corte. La vigilance a été levée jeudi soir après la baisse des niveaux d'eau, mais les risques persistent dans les zones inondables. Les autorités appellent à la prudence malgré l'amélioration de la situation.",
           "sources": [
             "France Info",
-            "Le Monde"
+            "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/environnement/meteo/le-departement-de-la-haute-corse-place-en-vigilance-orange-aux-crues_8279591.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/environnement/climat/depression-charles-la-haute-corse-placee-en-vigilance-orange-aux-crues-jeudi-et-vendredi-20261112_YA4W4M6XMVGQ7G54J35OLS7DI4/"
             }
           ]
         },
         {
-          "headline": "Violences près des lycées : le gouvernement durcit les sanctions",
-          "summary": "Le gouvernement demande une saisine « systématique » de la justice pour les actes délictueux commis près des lycées, après une hausse des violences depuis la reprise des cours. Deux lycées de Montpellier ont été visés par des incendies volontaires jeudi 12 novembre, sans que les auteurs soient formellement identifiés comme des lycéens. Plus de 600 blessés ont été recensés depuis le début des mobilisations, dont 360 élèves. Valérie Pécresse propose aussi des caméras dans 50 lycées d’Île-de-France.",
+          "headline": "Affaire Quentin Deranque : un suspect libéré sous contrôle judiciaire",
+          "summary": "Un homme de 27 ans, mis en examen pour « homicide volontaire » dans l'affaire de la mort de Quentin Deranque à Lyon en février 2024, a été remis en liberté jeudi 12 novembre sous contrôle judiciaire. Le parquet de Lyon a fait appel de cette décision, estimant que les risques de récidive ou d'entrave à la justice n'étaient pas suffisamment pris en compte. Le suspect avait reconnu sa participation aux violences mais nié avoir porté les coups mortels.",
           "sources": [
-            "Libération",
+            "20 Minutes",
             "Le Figaro"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/le-gouvernement-veut-mettre-fin-aux-violences-pres-des-lycees-et-demande-une-saisine-systematique-de-la-justice-20261112_P2CAVY7E5JCX7DWJ3PQY24ECMI/"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4262529-20261112-mort-quentin-deranque-suspects-remis-liberte?at_medium=display&at_campaign=149"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-souhaite-une-saisine-systematique-de-la-justice-pour-les-actes-delictueux-pres-des-lycees-20261112"
+              "url": "https://www.lefigaro.fr/faits-divers/mort-de-quentin-deranque-a-lyon-la-justice-ordonne-la-remise-en-liberte-d-un-des-suspects-le-parquet-fait-appel-20261112"
             }
+          ]
+        },
+        {
+          "headline": "Collision moto-police : enquête de l'IGPN ouverte",
+          "summary": "L'Inspection générale de la police nationale (IGPN) enquête sur les circonstances d'une collision entre un jeune motard de 19 ans et une voiture de police à Chaville (Hauts-de-Seine) samedi 7 novembre. Le jeune, hospitalisé dans un état grave sans casque, a été percuté par le véhicule policier. Les circonstances exactes de l'accident restent floues, et les témoignages divergent sur les responsabilités. L'IGPN doit déterminer si des manquements ont été commis par les forces de l'ordre.",
+          "sources": [
+            "20 Minutes",
+            "Libération"
           ],
-          "angles": "Libération met l’accent sur les violences et les blessés, tandis que Le Figaro insiste sur la réponse institutionnelle et les mesures proposées par Pécresse."
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262525-20261112-hauts-seine-enquete-igpn-apres-collision-entre-jeune-moto-voiture-police?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/une-enquete-confiee-a-ligpn-apres-la-collision-entre-un-jeune-a-moto-et-une-voiture-de-police-pres-de-paris-20261112_DWEK4QGT2VCYRDO3D6QJ4IHLSY/"
+            }
+          ]
         }
       ]
     }
