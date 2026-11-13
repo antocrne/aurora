@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:29:19Z",
+  "generated_at": "2026-11-13T22:05:30Z",
   "edition": "13 novembre 2026",
   "categories": [
     {
@@ -7,130 +7,164 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Démission de Jensen Huang : Nvidia en crise",
-          "summary": "Jensen Huang, fondateur et PDG de Nvidia, a démissionné jeudi 12 novembre après des révélations sur des relations extraconjugales, dont une avec une femme d’affaires chinoise suspectée d’espionnage pour la Chine. Il doit témoigner devant le Congrès américain en décembre, tout comme le secrétaire au Commerce Howard Lutnick. Ces scandales relancent les débats sur les contrôles des exportations de puces avancées et les liens entre Nvidia et le gouvernement américain.",
+          "headline": "Panne aérienne aux États-Unis paralyse le trafic",
+          "summary": "La Federal Aviation Administration (FAA) a ordonné vendredi 13 novembre l'arrêt de tous les vols aux États-Unis en raison d'un problème de communication affectant les centres de contrôle aérien. Près de 7 000 vols ont été annulés ou retardés. Les techniciens enquêtent sur l'origine du dysfonctionnement, sans précision sur sa nature ou sa durée. Les autorités évoquent des « circonstances exceptionnelles et des raisons de sécurité ».",
           "sources": [
             "Le Figaro",
-            "BBC",
-            "Euronews",
+            "France Info",
             "Le Monde",
-            "France 24"
+            "RFI",
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/secteur/high-tech/l-ex-patron-de-nvidia-jensen-huang-soupconne-d-une-troisieme-relation-extraconjugale-avec-une-autre-employee-20261113"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/lex-pdg-de-nvidia-huang-et-le-ministre-us-lutnick-convoques-a-temoigner-devant-le-congres"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261113-l-ex-patron-de-nvidia-convoqu%C3%A9-devant-le-congr%C3%A8s-am%C3%A9ricain-en-d%C3%A9cembre"
-            }
-          ],
-          "angles": "Libération et Le Monde insistent sur les dimensions d’espionnage et de relations extraconjugales, tandis que France 24 et Euronews mettent davantage l’accent sur les conséquences pour Nvidia et les interrogations du Congrès américain. Le Figaro et la BBC soulignent l’impact sur le secteur technologique et l’IA."
-        },
-        {
-          "headline": "Intervention militaire salvadorienne en Haïti : premiers résultats",
-          "summary": "Deux mille soldats salvadoriens déployés en Haïti depuis octobre ont permis à la police locale de reprendre le contrôle du stade Sylvio-Cator de Port-au-Prince, occupé depuis deux ans par des gangs. Cette opération, menée sous l’égide du président Nayib Bukele, marque une avancée symbolique dans la lutte contre la criminalité, après des décennies d’échecs des autorités haïtiennes. Les médias locaux saluent une première étape, mais sans garantie de durabilité.",
-          "sources": [
-            "Courrier International",
-            "Libération",
-            "France 24",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/opinion-en-haiti-bukele-mene-la-danse-contre-les-gangs_286752"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/haiti-la-police-aidee-de-militaires-salvadoriens-reprend-le-controle-du-principal-stade-de-pays-aux-gangs-20261113_HIWSZJGJRRC2FFV2QI6OTB7XIE/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261113-haiti-police-reprend-gangs-stade-equipe-nationale-football-sylvio-cator-salvador"
+              "url": "https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ],
-          "angles": "Courrier International adopte un ton optimiste en citant des espoirs locaux, tandis que France 24 et Libération adoptent un angle plus factuel, soulignant les limites de cette intervention et son contexte contesté."
-        },
-        {
-          "headline": "Tensions en Cisjordanie : violences et spoliations persistent",
-          "summary": "Depuis les élections législatives israéliennes du 27 octobre, la situation en Cisjordanie occupée s’est dégradée, avec une multiplication des attaques contre les Palestiniens, des exactions commises par des colons et des opérations militaires israéliennes. Aucun gouvernement stable n’étant formé en Israël, cette escalade sécuritaire et territoriale se poursuit sans perspective de résolution immédiate.",
-          "sources": [
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261113-gaza-au-moins-11-morts-apr%C3%A8s-des-frappes-isra%C3%A9liennes-malgr%C3%A9-le-cessez-le-feu"
+              "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/etats-unis/4262797-20261113-etats-unis-faa-suspend-tous-vols-pays-jusqu-nouvel-ordre?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Xi Jinping réaffirme sa position sur Taïwan lors d’un hommage à Sun Yat-sen",
-          "summary": "À l’occasion de la commémoration de la naissance de Sun Yat-sen, Xi Jinping a réitéré jeudi 12 novembre son appel à une réunification « pacifique » avec Taïwan, tout en maintenant une pression militaire accrue. Des avions de chasse chinois ont été déployés en patrouille autour de l’île, tandis que les révélations sur les scandales de Jensen Huang, figure taïwanaise, captent davantage l’attention locale que ces manœuvres.",
+          "headline": "Démission de Jensen Huang chez Nvidia relance le scandale d’espionnage",
+          "summary": "Le PDG de Nvidia, Jensen Huang, a démissionné jeudi 12 novembre après des révélations sur ses relations extraconjugales avec Alice Huang, suspectée d’avoir transmis illégalement des puces électroniques vers la Chine. La capitalisation boursière de Nvidia a chuté de 1 800 milliards de dollars depuis octobre. Les autorités américaines enquêtent sur des soupçons d’espionnage industriel, tandis que Pékin dément toute implication. Le départ de Huang soulève des questions sur la gouvernance du géant technologique.",
           "sources": [
             "Courrier International",
-            "Le Monde"
+            "Le Figaro",
+            "Euronews",
+            "France Info",
+            "BBC"
           ],
           "links": [
             {
               "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/geopolitique-xi-jinping-invoque-la-memoire-de-sun-yat-sen-pour-justifier-ses-ambitions-sur-taiwan_286872"
+              "url": "https://www.courrierinternational.com/article/economie-qu-est-ce-que-jensen-huang-va-faire-de-ses-milliards-de-dollars-d-actions-chez-nvidia_287136"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/a-taiwan-les-ecarts-de-jensen-huang-suscitent-davantage-d-interet-que-les-grandes-man-uvres-navales-chinoises_6809308_3210.html"
-            }
-          ],
-          "angles": "Courrier International met l’accent sur la dimension symbolique et politique de la commémoration, tandis que Le Monde souligne le contraste entre l’indifférence locale face aux manœuvres militaires et l’intérêt pour l’affaire Huang."
-        },
-        {
-          "headline": "Crise politique en Indonésie : démission du vice-président Gibran Rakabuming Raka",
-          "summary": "La démission de Gibran Rakabuming Raka, fils de l’ancien président Joko Widodo, consomme la rupture avec Prabowo Subianto, successeur de ce dernier en 2024. Ce départ aggrave la crise politique indonésienne, où la popularité de Subianto, déjà faible, n’a cessé de décliner depuis son arrivée au pouvoir. Les tensions entre les deux factions pourraient rebattre les cartes de la présidence et de la stabilité du pays.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
+              "source": "Le Figaro",
+              "url": "https://bourse.lefigaro.fr/actu-conseils/nvidia-le-depart-de-jensen-huang-revele-d-inquietantes-failles-de-gouvernance-chez-le-geant-americain-des-puces-electroniques-20261113"
+            },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/en-indonesie-la-demission-du-vice-president-rebat-les-cartes-de-la-presidence_6809315_3210.html"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/13/nvidia-1-800-milliards-envoles-quel-avenir-sans-jensen-huang"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "headline": "Grève des camionneurs au Chili : blocages persistants",
-          "summary": "Au Chili, les camionneurs maintiennent leur grève depuis mardi 10 novembre pour protester contre la hausse des prix du carburant, sous le gouvernement d’extrême droite de José Antonio Kast. Les perturbations des axes routiers affectent l’économie du pays, déjà fragilisée par les politiques économiques controversées du gouvernement. Les négociations entre les parties restent au point mort.",
+          "headline": "Pape Léon XIV acclamé au Pérou lors d’une visite historique",
+          "summary": "Le pape Léon XIV a été accueilli par une foule estimée à un million de personnes lors de son passage à Lima, jeudi 12 novembre. Il a rencontré des milliers de jeunes au stade national, une génération marquée par des manifestations contre la corruption politique. Le Vatican souligne l’engouement populaire, tandis que les autorités locales saluent une mobilisation inédite. La visite s’inscrit dans le cadre d’un tour en Amérique latine.",
           "sources": [
+            "Le Monde",
+            "RFI",
+            "Euronews",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/au-perou-le-pape-leon-xiv-de-retour-dans-son-ancien-diocese-acclame-par-une-foule-gigantesque-de-fideles_6809380_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-p%C3%A9rou-pape-l%C3%A9on-xiv-jeunesse-martyrs"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/13/perou-le-pape-leon-xiv-anime-une-veillee-de-priere-avec-des-jeunes-a-lima"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "headline": "Burkina Faso : mandats d’arrêt contre des journalistes et opposants en exil",
+          "summary": "La junte burkinabè a émis des mandats d’arrêt contre une vingtaine de personnes, dont des journalistes et d’anciens ministres, pour « faits de terrorisme ». Parmi les visés figurent un chroniqueur de RFI et des proches de l’ex-président Blaise Compaoré. Les autorités demandent leur extradition, dans un contexte de lutte accrue contre l’insécurité dans la région du Sahel. Les procédures ciblent aussi une quarantaine d’autres individus.",
+          "sources": [
+            "Le Monde",
             "RFI"
           ],
           "links": [
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
+            },
+            {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-chili-le-gouvernement-de-jos%C3%A9-antonio-kast-face-%C3%A0-la-gr%C3%A8ve-des-camionneurs"
+              "url": "https://www.rfi.fr/fr/afrique/20261113-burkina-faso-mandats-d-arr%C3%AAt-contre-des-journalistes-et-activistes-en-exil-pour-faits-de-terrorisme"
             }
           ]
+        },
+        {
+          "headline": "Attaques terroristes au Niger et en RDC font des dizaines de morts",
+          "summary": "Au Niger, une attaque près de Téra (région de Tillabéri) a fait plus de 30 morts civils jeudi 12 novembre, selon des sources locales. En République démocratique du Congo, les rebelles des ADF ont tué au moins 44 civils dans le Nord-Kivu et 100 autres en une semaine dans l’Ituri, selon des bilans contradictoires. Ces violences s’ajoutent à la crise humanitaire locale, notamment dans une zone touchée par une épidémie d’Ebola. Les groupes armés ciblent systématiquement des zones civiles.",
+          "sources": [
+            "RFI",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/afrique/dans-lest-de-la-rdc-au-moins-100-civils-tues-en-une-semaine-dans-des-raids-meurtriers-du-groupe-terroriste-adf-20261113_USFUXTESDVCBPGNRNOA2TSDJGY/"
+            }
+          ],
+          "angles": "RFI et Libération soulignent l’ampleur des attaques et leur impact humanitaire, tandis que les chiffres varient selon les sources (44 ou 100 morts en RDC). Aucun bilan officiel n’est confirmé par les autorités."
+        },
+        {
+          "headline": "Microsoft : panne mondiale prolongée, excuses et exclusion d’une cyberattaque",
+          "summary": "La panne mondiale des services Microsoft, survenue jeudi soir, a perturbé des millions d’utilisateurs dans plus de 70 pays, notamment Outlook et Teams. Vendredi 13 novembre, l’entreprise a présenté ses excuses et écarté la piste d’une cyberattaque, invoquant un « problème technique ». Les experts estiment que l’incident révèle la dépendance critique du monde aux géants du numérique. La restauration des services reste en cours après près de 24 heures d’interruption.",
+          "sources": [
+            "France Info",
+            "Euronews",
+            "BBC",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/13/panne-mondiale-de-microsoft-les-reactions-les-plus-droles-en-ligne"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261113-panne-mondiale-microsoft-la-firme-pr%C3%A9sente-ses-excuses-et-%C3%A9carte-la-piste-d-une-cyberattaque"
+            }
+          ],
+          "angles": "France Info et Euronews relaient les réactions utilisateurs et l’ampleur des perturbations, tandis que la BBC et RFI analysent les risques systémiques et les causes techniques. Aucun média ne mentionne de responsable ou de détail technique précis."
         }
       ]
     },
@@ -139,144 +173,147 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Négociations Ukraine-Russie : l'Europe enfin incluse ?",
-          "summary": "Les émissaires américains Jared Kushner et Steve Witkoff ont rencontré Vladimir Poutine et Volodymyr Zelensky pour inclure l'Europe dans les prochaines négociations de paix sur l'Ukraine. Moscou reste inflexible sur ses exigences, notamment l'exclusion de troupes étrangères en Ukraine. Kiev et Washington affirment que les Européens seront présents aux prochains pourparlers, malgré le silence du Kremlin. Les discussions se poursuivent à Dublin après des échanges à Abou Dhabi.",
-          "sources": [
-            "France Info",
-            "Le Figaro",
-            "France 24",
-            "RFI",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-affirment-des-lib%C3%A9rations-de-prisonniers"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261112-guerre-ukraine-mediateurs-etats-unis-moscou-dublin-conseil-politique-ue-zelensky"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/qui-representera-lue-lors-des-negociations-sur-lukraine-la-question-divise-les-europeens"
-            }
-          ]
-        },
-        {
-          "headline": "Guerre hybride : cyberattaques et ingérences en Europe",
-          "summary": "L'Europe subit une vague de fausses alertes à la bombe dans des écoles (Italie, Irlande, Royaume-Uni, France) et des cyberattaques attribuées à l'Iran, comme celles visant les réfrigérateurs de supermarchés. Le ministre français de l'Intérieur, Laurent Nuñez, évoque une « possibilité d'ingérence étrangère ». Les autorités françaises demandent des sanctions européennes contre Téhéran, qui nie toute implication. La Russie est aussi pointée pour des sabotages en Europe centrale.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "France 24",
-            "Euronews",
-            "Toute l'Europe"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/fausses-alertes-a-la-bombe-laurent-nunez-evoque-une-possibilite-dingerence-etrangere-20261113_JTJESC7XEVFUJJIHKCTXN47DLU/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261112-guerre-hybride-comment-riposter"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/royaume-uni-jusqua-14-ans-de-prison-pour-saboter-les-cables-sous-marins"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/societe/comment-l-union-europeenne-lutte-t-elle-contre-le-terrorisme/"
-            }
-          ],
-          "angles": "Libération et France Info relient explicitement les fausses alertes à une possible ingérence étrangère, tandis que France 24 et France Info élargissent le cadre à une guerre hybride incluant cyberattaques et recrutement d'agents. France Info et Euronews mentionnent aussi des sabotages attribués à la Russie, absents des autres sources."
-        },
-        {
-          "headline": "Hongrie : avancées sur les droits des femmes et déblocage des fonds européens",
-          "summary": "La Hongrie va ratifier la Convention d'Istanbul contre les violences faites aux femmes et supprimer une réglementation imposant aux femmes d'écouter les battements du cœur de leur fœtus avant un avortement. Parallèlement, la Commission européenne débloque 10 milliards d'euros de fonds de relance gelés sous Viktor Orbán, après des réformes sur l'État de droit. Ces mesures interviennent dans un contexte de tensions avec Bruxelles sur les valeurs démocratiques.",
+          "headline": "L'Europe divisée face aux négociations sur l'Ukraine",
+          "summary": "La France, l'Allemagne, le Royaume-Uni, l'Italie et la Pologne représenteront l'Europe lors des prochaines négociations sur l'Ukraine, malgré les conditions russes. Moscou maintient son veto, tandis que Kiev et Washington saluent cette initiative. Les Européens peinent à s'accorder sur une voix unique et craignent des pièges diplomatiques. Les pourparlers pourraient inclure des discussions sur la sécurité européenne, une demande russe perçue comme une victoire par le Kremlin.",
           "sources": [
             "France Info",
             "Le Monde",
-            "Euronews"
+            "RFI",
+            "Euronews",
+            "BBC"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/12/droits-des-femmes-la-hongrie-prevoit-de-ratifier-la-convention-d-istanbul_6809118_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-france-l-allemagne-le-royaume-uni-l-italie-et-la-pologne-representeront-les-europeens-lors-des-prochains-pourparlers-sur-l-ukraine_6808609_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261113-guerre-en-ukraine-les-europ%C3%A9ens-seront-pr%C3%A9sents-aux-prochaines-n%C3%A9gociations-kiev-moscou-zelensky"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/la-commission-europeenne-va-debloquer-les-10-milliards-deuros-du-plan-de-relance-hongrois"
-            }
-          ]
-        },
-        {
-          "headline": "Crise industrielle en Allemagne : Mercedes-Benz suspend ses investissements",
-          "summary": "Mercedes-Benz gèle ses investissements en Allemagne et envisage des fermetures d'usines pour réduire ses coûts face à une baisse de la demande et une concurrence accrue. Volkswagen et Audi annoncent aussi des plans d'économies. Cette décision renforce les pressions sur les salariés et les syndicats, comme IG Metall. Le secteur automobile allemand est en difficulté malgré une offre mondiale de pétrole excédentaire.",
-          "sources": [
-            "Libération",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/transports/mercedes-benz-envisage-des-fermetures-dusines-en-allemagne-et-y-suspend-ses-investissements-20261113_6UCUMV2BYBHMFJCPMU5CAATRG4/"
+              "url": "https://fr.euronews.com/2026/11/13/lue-integre-litalie-et-la-pologne-a-lequipe-de-paix-sur-lukraine-au-detriment-de-kaja-kall"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/12/mercedes-benz-gele-ses-investissements-en-allemagne-et-envisage-de-fermer-des-usines"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "angles": "Libération et Euronews mentionnent les conséquences sociales et syndicales, tandis qu'Euronews lie aussi cette crise à la hausse des coûts énergétiques en Hongrie et Slovaquie, absente de Libération."
+          "angles": "France Info et Le Monde insistent sur l'unité européenne et la légitimité des cinq pays choisis, tandis que RFI et Euronews soulignent les divisions internes et les réticences russes. BBC met en avant les exigences accrues de Poutine comme un signe de durcissement."
         },
         {
-          "headline": "Serbie : la victoire étudiante ouvre une ère d'incertitude politique",
-          "summary": "La percée historique de la Liste étudiante aux législatives serbes, après 14 ans de pouvoir autoritaire d'Aleksandar Vucic, suscite des attentes immenses. Les jeunes veulent transformer leur succès en révolution démocratique durable, mais le système politique reste à reconstruire. Cette victoire pourrait aussi influencer les perspectives d'adhésion de la Serbie à l'UE, déjà fragilisées par les tensions régionales.",
+          "headline": "L'Allemagne renforce ses services secrets face à la Russie",
+          "summary": "Le Bundestag a adopté une réforme majeure des services de renseignement allemands, leur accordant des pouvoirs étendus de surveillance, de riposte et de sabotage numérique. Cette mesure vise à contrer les menaces hybrides russes, mais suscite des critiques sur les risques pour l'État de droit. Un ancien chef du BND est par ailleurs soupçonné d'avoir vendu des secrets.",
           "sources": [
-            "Libération"
+            "RFI",
+            "Le Monde",
+            "Mediapart"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/il-faut-que-tout-le-systeme-se-remette-a-fonctionner-en-serbie-les-immenses-attentes-apres-la-victoire-du-mouvement-des-etudiants-20261113_Z6W4M3AIJNHGVGNC6YVIIMYBXA/"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261113-l-allemagne-approuve-une-r%C3%A9forme-musclant-ses-services-de-renseignement-face-%C3%A0-la-menace-russe"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/131126/l-allemagne-veut-de-vrais-services-secrets-mais-ses-espions-trahissent-encore"
             }
-          ]
+          ],
+          "angles": "RFI et Le Monde adoptent un ton factuel, mais Le Monde ajoute une dimension critique sur les dérives potentielles pour les libertés publiques."
         },
         {
-          "headline": "Ukraine : frappes russes et appel à l'aide agricole européenne",
-          "summary": "Des drones russes ont frappé un hôpital à Kyiv et fait deux morts à Odessa dans la nuit. Parallèlement, Kiev sollicite une aide agricole urgente auprès de l'UE, ses exportations céréalières étant en difficulté. Les frappes nocturnes se multiplient malgré les tentatives de négociation, tandis que des millions d'hectares pourraient rester en friche sans soutien extérieur.",
+          "headline": "Panne mondiale de Microsoft perturbe santé et administrations en Europe",
+          "summary": "La panne d'Outlook et d'Exchange, survenue jeudi, paralyse les services publics au Royaume-Uni et au Portugal, retardant soins médicaux, administrations et écoles. Microsoft signale des progrès, mais des interruptions persistent. Les dépendances européennes aux outils américains sont mises en lumière.",
           "sources": [
             "Euronews",
-            "EURACTIV"
+            "Toute l'Europe",
+            "Courrier International"
           ],
           "links": [
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/13/ukraine-des-drones-russes-frappent-un-hopital-a-kyiv-et-font-un-mort-a-odessa"
+              "url": "https://fr.euronews.com/2026/11/13/outlook-microsoft-annonce-un-retablissement-partiel-apres-une-panne-mondiale"
             },
             {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/panne-mondiale-d-outlook-quels-pays-europeens-dependent-le-plus-de-microsoft-et-des-services-de-messagerie-americains/"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/societe-la-panne-de-microsoft-perturbe-le-systeme-de-sante-au-royaume-uni-difficile-de-faire-notre-travail_287038"
+            }
+          ],
+          "angles": "Euronews et Toute l'Europe analysent l'impact sectoriel, tandis que Courrier International se concentre sur les conséquences pour le NHS britannique, soulignant les vulnérabilités des systèmes critiques."
+        },
+        {
+          "headline": "La Finlande rejette les exigences russes de quitter l'OTAN",
+          "summary": "La Finlande a fermement rejeté les demandes russes de quitter l'OTAN, qualifiées de « scandaleuses ». Ce positionnement renforce l'alliance atlantique et discrédite les ambitions russes de marginaliser l'Europe. La Géorgie, quant à elle, voit son opposition politique muselée avant des élections législatives en 2028, réduisant ses chances d'adhésion à l'UE.",
+          "sources": [
+            "EURACTIV",
+            "Le Monde"
+          ],
+          "links": [
+            {
               "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/kiev-sollicite-laide-agricole-de-lue-alors-que-ses-exportations-chancellent/"
+              "url": "https://www.rapporteur.com/fr/news/la-finlande-fait-voler-en-eclats-le-fantasme-russe-dune-sortie-de-lotan/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html"
             }
           ]
+        },
+        {
+          "headline": "L'Espagne en campagne : Begoña Gómez entre en lice malgré une affaire judiciaire",
+          "summary": "La femme du Premier ministre espagnol Pedro Sánchez, Begoña Gómez, participe activement à la campagne pour les législatives du 29 novembre, malgré une procédure judiciaire pour détournement de fonds. Les sondages donnent favori le Parti populaire et Vox, mais Sánchez mise sur son charisme pour surprendre. Les élections anticipées pourraient redessiner le paysage politique espagnol.",
+          "sources": [
+            "Courrier International",
+            "RFI",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/politique-espagne-begona-gomez-la-femme-de-pedro-sanchez-entre-dans-la-campagne-des-legislatives_286983"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261113-l%C3%A9gislatives-en-espagne-pedro-sanchez-esp%C3%A8re-cr%C3%A9er-la-surprise-malgr%C3%A9-des-sondages-d%C3%A9favorables"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ],
+          "angles": "RFI adopte un angle stratégique sur les enjeux électoraux, tandis que Courrier International met en avant le rôle potentiel de Begoña Gómez comme atout mobilisateur pour le PSOE."
+        },
+        {
+          "headline": "L'UE face aux défis de l'IA : souveraineté et régulation",
+          "summary": "Les dirigeants européens, réunis à Dublin, débattent des enjeux de l'intelligence artificielle, entre ambition de souveraineté technologique et nécessité de régulation. Le patron de Mistral AI, Arthur Mensch, appelle à des décisions rapides pour ne pas perdre le leadership face aux États-Unis et à la Chine. Les budgets et les divergences entre États compliquent les avancées.",
+          "sources": [
+            "Le Monde",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ],
+          "angles": "Le Monde adopte un ton analytique sur les défis institutionnels, tandis que France Info met en avant l'urgence industrielle soulevée par Mistral AI."
         }
       ]
     },
@@ -285,168 +322,139 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Panne mondiale d'Outlook : Microsoft en difficulté",
-          "summary": "Une panne majeure touche depuis jeudi 12 novembre les services Microsoft (Outlook, Teams, Copilot) dans 72 pays, dont la France. Le géant américain évoque une « charge élevée » sur ses infrastructures et exclut une cyberattaque, tout en signalant des « améliorations progressives ». Les conséquences sont multiples : perturbations des entreprises, examens, transports et communications. La panne persiste malgré les efforts de résolution.",
-          "sources": [
-            "20 Minutes",
-            "Toute l'Europe",
-            "Euronews",
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/high-tech/by-the-web/4262680-20261113-panne-mondiale-chez-microsoft-pays-principaux-services-perturbes-vendredi?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/economie-et-social/panne-mondiale-d-outlook-quels-pays-europeens-dependent-le-plus-de-microsoft-et-des-services-de-messagerie-americains/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/panne-mondiale-de-microsoft-les-reactions-les-plus-droles-en-ligne"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/panne-mondiale-doutlook-manifs-des-proviseurs-les-syndicats-de-fonctionnaires-a-matignon-les-bleus-battus-lactu-de-ce-vendredi-13-novembre-au-matin-20261113_ZI5XR5ZL7FGPRKYC4A3WFHN55Y/"
-            }
-          ],
-          "angles": "Libération et Le Figaro insistent sur les conséquences concrètes pour les utilisateurs et les entreprises, tandis que France Info et Euronews adoptent un ton plus neutre en mettant l'accent sur les déclarations de Microsoft et les réactions en ligne. 20 Minutes et Toute l'Europe soulignent la dépendance des pays européens aux services américains."
-        },
-        {
-          "headline": "Présidentielle 2027 : Teddy Riner lance sa campagne sur la santé",
-          "summary": "Teddy Riner, candidat surprise à l'élection présidentielle, a effectué son premier déplacement de campagne vendredi 13 novembre à l'hôpital Delafontaine de Saint-Denis, axé sur la santé. Il se rendra samedi au salon du Made in France. Le judoka, ni de droite ni de gauche, mise sur ce thème pour structurer sa campagne. Aucun autre candidat n'a encore adopté une stratégie similaire.",
-          "sources": [
-            "France 24",
-            "France Info",
-            "20 Minutes",
-            "Libération",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261113-teddy-riner-lance-sa-campagne-pr%C3%A9sidentielle-dans-un-h%C3%B4pital-de-saint-denis"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/teddy-riner-va-effectuer-son-premier-deplacement-de-campagne-samedi-au-salon-made-in-france-a-paris_8280578.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4262577-20261113-presidentielle-2027-choix-teddy-riner-deux-premiers-deplacements-campagne?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/teddy-riner-fera-son-premier-deplacement-de-campagne-au-salon-du-made-in-france-20261113_JRWNH5A7QRASRKMAFXWLDPTRNI/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html"
-            }
-          ]
-        },
-        {
-          "headline": "Attentat de Trappes : le RN porte plainte contre Marine Tondelier",
-          "summary": "Le Rassemblement national (RN) annonce déposer « très prochainement » une plainte en diffamation contre Marine Tondelier, présidente des Écologistes, après ses propos liant l'attentat raciste de Trappes au parti d'extrême droite. Des autocollants RN avaient été retrouvés chez l'auteur des faits. Le ton employé par Tondelier a provoqué une réaction ferme du parti.",
+          "headline": "France-Afrique du Sud : les Bleus en difficulté face aux Springboks",
+          "summary": "Le XV de France affronte l’Afrique du Sud, double championne du monde, ce vendredi 13 novembre au Stade de France pour le Championnat des nations. Malgré des offensives sud-africaines, les Bleus, menés par Antoine Dupont et privés de plusieurs joueurs blessés, tentent de résister. La presse sud-africaine évoque une revanche symbolique pour les Bleus. Le forfait de dernière minute de Julien Marchand aggrave leur situation. Des essais de Grandidier-Nkanang et LBB sont mis en avant.",
           "sources": [
             "Le Figaro",
-            "France Info",
-            "20 Minutes"
+            "Le Monde",
+            "20 Minutes",
+            "Courrier International"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/soupconne-d-avoir-reconstitue-le-groupuscule-antifasciste-la-jeune-garde-l-assistant-parlementaire-de-raphael-arnault-place-en-garde-a-vue-20261113"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/l-assistant-parlementaire-de-raphael-arnault-place-en-garde-a-vue-pour-des-soupcons-de-reconstitution-du-groupe-antifasciste-la-jeune-garde_8280614.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4262556-20261113-direct-colere-sociale-avant-greve-mardi-lecornu-recoit-syndicats-fonction-publique?at_medium=display&at_campaign=149"
-            }
-          ]
-        },
-        {
-          "headline": "Garde à vue pour reconstitution de la Jeune Garde",
-          "summary": "Robin Chalendard, assistant parlementaire de Raphaël Arnault, a été placé en garde à vue vendredi pour soupçons de reconstitution du groupe antifasciste dissous la Jeune Garde, lié à la mort de Quentin Deranque. Il n'est plus en détention. L'enquête vise plusieurs proches du mouvement, dissous en mai 2025. Aucune charge n'a encore été retenue contre lui.",
-          "sources": [
-            "Le Figaro",
-            "France Info",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/tous-les-candidats-ont-du-mal-bruno-retailleau-n-a-pas-de-pret-bancaire-pour-financer-sa-campagne-et-accuse-matignon-20261113"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949588/france-afrique-du-sud"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/article/2026/11/13/l-athlete-auriana-lazraq-khlass-suspendue-pour-vingt-deux-mois-en-raison-de-manquements-a-ses-obligations-de-localisation-antidopage_6809317_3242.html"
+              "url": "https://www.lemonde.fr/sport/live/2026/11/13/en-direct-france-afrique-du-sud-suivez-le-choc-du-championnat-des-nations-de-rugby_6809376_3242.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/rugby/4262307-20261113-direct-france-afrique-sud-enorme-defi-dupont-bleus-face-machine-concasser-sud-africaine-suivez-match?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/rugby-france-afrique-du-sud-encore-une-histoire-de-vengeance-pour-les-bleus_286712"
             }
           ]
         },
         {
-          "headline": "Colère sociale : Lecornu ouvre des discussions sur les salaires",
-          "summary": "Sébastien Lecornu a reçu vendredi les syndicats de la fonction publique pour discuter d'une « revalorisation des bas salaires », après les mouvements sociaux et le coup de pouce au SMIC. Les syndicats demandent une hausse du point d'indice, tandis que le gouvernement reste réticent. Une mobilisation est prévue le 17 novembre. Les tensions persistent entre les parties.",
+          "headline": "13 novembre 2015 : hommage national aux victimes des attentats",
+          "summary": "Onze ans après les attentats du 13 novembre 2015, la France rend hommage aux 132 morts et 400 blessés lors de cérémonies officielles à Paris et Saint-Denis. Le Stade de France a organisé une commémoration sportive avec des drones et des projections lumineuses. La menace terroriste reste active, avec une radicalisation élargie et des profils plus jeunes. Un hommage citoyen est prévu en fin de journée.",
           "sources": [
-            "Euronews",
             "France Info",
-            "Libération",
-            "Le Monde"
+            "Euronews",
+            "Le Figaro"
           ],
           "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/onze-ans-apres-les-attaques-du-13-novembre-ou-en-est-la-menace-terroriste-en-france_8281658.html#xtor=RSS-3-[lestitres]"
+            },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes"
             },
             {
-              "source": "France Info",
-              "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/attentats-du-13-novembre-2015-a-paris-et-a-saint-denis-comment-vont-se-derouler-ce-vendredi-les-ceremonies-d-hommage-aux-victimes-3448230.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/fonction-publique-les-syndicats-recus-ce-vendredi-par-un-sebastien-lecornu-retif-a-tout-degel-du-point-dindice-20261113_GTPQ45IBJBEA5PPHRQSMZDX4NY/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/13-novembre-le-puissant-hommage-du-stade-de-france-aux-victimes-des-attentats-20261113"
             }
           ]
         },
         {
-          "headline": "Interdiction d'entrée en Israël pour Mélenchon",
-          "summary": "Israël a interdit l'entrée à Jean-Luc Mélenchon, candidat à la présidentielle, qualifiant son parti de « extrêmement hostile ». La France dénonce une « décision démagogique », évoquant un contexte tendu après le refoulement d'un responsable des colons israéliens à Paris. Mélenchon regrette cette mesure, qui pourrait influencer sa campagne.",
+          "headline": "Violences scolaires : les proviseurs manifestent leur colère",
+          "summary": "Plus de 2 000 chefs d’établissement se sont rassemblés vendredi dans 30 villes pour dénoncer les violences et blocages dans les lycées, après plusieurs dizaines de blessés depuis septembre. Le SNPDEN-Unsa appelle à un « stop » aux lycéens tout en soulignant la dégradation des conditions de travail. Certains lycées, comme celui de Rennes, restent fermés en raison de dégradations. Le ministère minimise le nombre d’établissements concernés.",
+          "sources": [
+            "Le Monde",
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-les-personnels-de-direction-mobilises-pour-dire-leur-boule-au-ventre-face-aux-blocages-et-aux-violences-20261113_H5ST6Y6U7ZBTRMBON56JLKGPKU/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-peur-pour-soi-on-a-peur-pour-nos-familles-le-cri-de-colere-des-proviseurs_8281616.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération et Le Monde mettent l’accent sur la colère des proviseurs et les conditions de travail, tandis que France Info souligne les chiffres contestés par les syndicats et les dégradations matérielles."
+        },
+        {
+          "headline": "Panne mondiale de Microsoft : Outlook et Teams paralysés",
+          "summary": "Une panne mondiale des services Microsoft (Outlook, Teams) a perturbé des millions d’utilisateurs depuis jeudi soir. L’entreprise exclut une cyberattaque et évoque un problème technique. Les entreprises, administrations et écoles sont contraintes d’utiliser des alternatives ou des outils obsolètes. La dépendance aux géants technologiques américains est remise en question.",
           "sources": [
             "Libération",
-            "France 24",
-            "Le Figaro"
+            "Euronews",
+            "France Info"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/"
+              "url": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/13/panne-mondiale-de-microsoft-outlook-et-teams-inaccessibles-dans-74-pays"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/ne-pas-baisser-la-garde-laurent-nunez-promet-un-gros-dispositif-reactif-et-percutant-pour-un-nouveau-samedi-de-colere-sociale-a-hauts-risques-20261113"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/panne-mondiale-d-outlook-sommes-nous-trop-dependants-de-ces-outils_8281646.html#xtor=RSS-3-[lestitres]"
             }
           ]
+        },
+        {
+          "headline": "Terrorisme : une néonazie espagnole arrêtée pour projet d’attentat à Paris",
+          "summary": "Isabel Peralta, porte-parole du groupuscule néonazi espagnol Núcleo Nacional, a été arrêtée après qu’El País a révélé qu’elle projetait une fusillade à Paris. Des armes et objets nazis ont été retrouvés chez elle. Les autorités espagnoles enquêtent sur ses liens avec des réseaux d’extrême droite européens.",
+          "sources": [
+            "Libération",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/avec-trois-chargeurs-jen-tue-60-une-neonazie-espagnole-arretee-apres-avoir-projete-une-fusillade-a-paris-20261113_SFV2SO5C7ZE6JEQPFU3RIRCDXI/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4262771-20261113-neonazie-espagnole-voulait-commettre-attentat-paris-arretee?at_medium=display&at_campaign=149"
+            }
+          ]
+        },
+        {
+          "headline": "Fonction publique : les syndicats maintiennent la grève du 17 novembre",
+          "summary": "Après une réunion tendue avec Sébastien Lecornu, les syndicats de la fonction publique (CFDT incluse) ont rejeté la proposition de discussion d’un mois sur la revalorisation des bas salaires, sans dégel du point d’indice. Ils appellent à une grève le 17 novembre pour dénoncer l’insuffisance des mesures gouvernementales. Les agents publics expriment leur mécontentement face à une inflation persistante.",
+          "sources": [
+            "Mediapart",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/fil-dactualites/131126/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-et-maintiennent-l-appel-la-greve-le"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/fonction-publique-les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-lappel-a-la-greve-le-17-novembre-20261113_RL3E4D7CT5BCXHNSO2ZZSOFAWI/"
+            }
+          ],
+          "angles": "Mediapart et Libération soulignent l’échec des négociations et la radicalisation des syndicats, tandis que les deux médias convergent sur le ton critique envers le gouvernement."
         }
       ]
     }
