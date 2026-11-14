@@ -1,170 +1,172 @@
 {
-  "generated_at": "2026-11-13T22:05:30Z",
-  "edition": "13 novembre 2026",
+  "generated_at": "2026-11-14T11:40:21Z",
+  "edition": "14 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Panne aérienne aux États-Unis paralyse le trafic",
-          "summary": "La Federal Aviation Administration (FAA) a ordonné vendredi 13 novembre l'arrêt de tous les vols aux États-Unis en raison d'un problème de communication affectant les centres de contrôle aérien. Près de 7 000 vols ont été annulés ou retardés. Les techniciens enquêtent sur l'origine du dysfonctionnement, sans précision sur sa nature ou sa durée. Les autorités évoquent des « circonstances exceptionnelles et des raisons de sécurité ».",
+          "headline": "Panne historique du contrôle aérien américain",
+          "summary": "Les États-Unis ont suspendu vendredi 14 novembre tous les décollages pendant plusieurs heures en raison d'une panne de communication affectant les centres de contrôle aérien, provoquant l'annulation de près de 6 000 vols. Le trafic a repris dans la nuit, mais les compagnies aériennes et les passagers subissent encore les conséquences. Les autorités attribuent la panne à du matériel obsolète, soulignant les faiblesses structurelles du système. Les retards persistent samedi, avec des appels à une modernisation urgente.",
           "sources": [
+            "France 24",
             "Le Figaro",
             "France Info",
-            "Le Monde",
-            "RFI",
-            "20 Minutes"
+            "20 Minutes",
+            "Libération"
           ],
           "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-reprise-du-trafic-a%C3%A9rien-apr%C3%A8s-une-panne-du-contr%C3%B4le-a%C3%A9rien"
+            },
             {
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication"
+              "url": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4262797-20261113-etats-unis-faa-suspend-tous-vols-pays-jusqu-nouvel-ordre?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/monde/etats-unis/4262830-20261114-etats-unis-apres-annulation-6-000-vols-raison-vieux-materiel-espace-aerien-rouvert?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI/"
             }
-          ]
+          ],
+          "angles": "France 24 et Le Figaro insistent sur les causes techniques et l'obsolescence du matériel, tandis que 20 Minutes et Libération mettent en avant l'impact humain et les retards persistants. Le Monde et France Info adoptent un ton factuel neutre, sans accent particulier."
         },
         {
-          "headline": "Démission de Jensen Huang chez Nvidia relance le scandale d’espionnage",
-          "summary": "Le PDG de Nvidia, Jensen Huang, a démissionné jeudi 12 novembre après des révélations sur ses relations extraconjugales avec Alice Huang, suspectée d’avoir transmis illégalement des puces électroniques vers la Chine. La capitalisation boursière de Nvidia a chuté de 1 800 milliards de dollars depuis octobre. Les autorités américaines enquêtent sur des soupçons d’espionnage industriel, tandis que Pékin dément toute implication. Le départ de Huang soulève des questions sur la gouvernance du géant technologique.",
+          "headline": "Rencontre inédite Trump-Xi-Poutine en Chine",
+          "summary": "Donald Trump, Xi Jinping et Vladimir Poutine se rencontreront jeudi 19 novembre à Shenzhen, en Chine, en marge du sommet de l'APEC. La Maison Blanche annonce que les discussions porteront sur le désarmement nucléaire et l'Iran, mais excluent l'Ukraine. Ni Pékin ni Moscou n'ont confirmé la rencontre, qui pourrait marquer un symbole diplomatique sans résultats concrets attendus. Les experts jugent peu probable un accord substantiel.",
           "sources": [
-            "Courrier International",
-            "Le Figaro",
             "Euronews",
-            "France Info",
-            "BBC"
+            "Libération",
+            "France 24",
+            "Le Monde",
+            "France Info"
           ],
           "links": [
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/economie-qu-est-ce-que-jensen-huang-va-faire-de-ses-milliards-de-dollars-d-actions-chez-nvidia_287136"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://bourse.lefigaro.fr/actu-conseils/nvidia-le-depart-de-jensen-huang-revele-d-inquietantes-failles-de-gouvernance-chez-le-geant-americain-des-puces-electroniques-20261113"
-            },
-            {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/nvidia-1-800-milliards-envoles-quel-avenir-sans-jensen-huang"
+              "url": "https://fr.euronews.com/2026/11/14/trump-rencontrera-xi-et-poutine-en-chine-la-semaine-prochaine-selon-la-maison-blanche"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/trump-xi-et-poutine-se-reuniront-pour-la-premiere-fois-la-semaine-prochaine-20261114_CIW7BCBPCRGHHB6OOJYO52HCJM/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html#xtor=RSS-3-%5Bmonde%5D"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde soulignent le caractère symbolique et les limites des discussions, tandis que France 24 et Euronews se concentrent sur les sujets abordés (nucléaire, Iran) et le contexte géopolitique. Aucun média ne mentionne de divergence sur le fond."
         },
         {
-          "headline": "Pape Léon XIV acclamé au Pérou lors d’une visite historique",
-          "summary": "Le pape Léon XIV a été accueilli par une foule estimée à un million de personnes lors de son passage à Lima, jeudi 12 novembre. Il a rencontré des milliers de jeunes au stade national, une génération marquée par des manifestations contre la corruption politique. Le Vatican souligne l’engouement populaire, tandis que les autorités locales saluent une mobilisation inédite. La visite s’inscrit dans le cadre d’un tour en Amérique latine.",
+          "headline": "Crise politique autour de Nvidia et Trump",
+          "summary": "La démission de Jensen Huang, patron de Nvidia, sur fond de soupçons d'espionnage et de liaison avec une entrepreneuse chinoise, expose les liens entre la Maison Blanche et le géant des semi-conducteurs. Donald Trump est directement mis en cause pour son inaction face aux risques identifiés dès mai. Colette Kress, directrice financière, assure désormais l'intérim. L'affaire fragilise le secteur clé de l'IA et la crédibilité de l'administration américaine.",
           "sources": [
+            "Libération",
             "Le Monde",
-            "RFI",
-            "Euronews",
-            "BBC"
+            "Le Figaro",
+            "RFI"
           ],
           "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/affaire-nvidia-les-liaisons-dangereuses-de-donald-trump-20261114_ME42HBWJDBEANORJWKPNET4HPI/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/affaire-nvidia-qui-est-colette-kress-la-remplacante-par-interim-de-jensen-huang-20261113"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-le-gouvernement-trump-sera-t-il-%C3%A9clabouss%C3%A9-par-les-cons%C3%A9quences-de-l-affaire-nvidia"
+            }
+          ],
+          "angles": "Libération et Le Monde insistent sur les implications politiques pour Trump, tandis que Le Figaro se focalise sur le profil de la remplaçante de Huang. Aucun traitement éditorialisé n'est détecté."
+        },
+        {
+          "headline": "Pape Léon XIV acclamé au Pérou",
+          "summary": "Le pape Léon XIV, en visite au Pérou, a été accueilli vendredi 13 novembre par une foule estimée à 1 million de personnes à Chiclayo, ville où il fut évêque pendant dix ans. Considéré comme sa « seconde patrie », il a présidé une messe géante devant 500 000 fidèles. Le Vatican évoque une ferveur religieuse exceptionnelle, marquant l'apogée de sa tournée en Amérique latine.",
+          "sources": [
+            "France 24",
+            "RFI",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-en-visite-au-p%C3%A9rou-le-pape-l%C3%A9on-xiv-retrouve-son-dioc%C3%A8se-de-chiclayo"
+            },
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/13/au-perou-le-pape-leon-xiv-de-retour-dans-son-ancien-diocese-acclame-par-une-foule-gigantesque-de-fideles_6809380_3210.html"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-p%C3%A9rou-pape-l%C3%A9on-xiv-jeunesse-martyrs"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/video/2026/11/13/perou-le-pape-leon-xiv-anime-une-veillee-de-priere-avec-des-jeunes-a-lima"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/leon-xiv-porte-aux-nues-sur-ses-anciennes-terres-du-perou-20261114_5ZMGZWUYS5EWVPH7KBXXX7X3HM/"
             }
           ]
         },
         {
-          "headline": "Burkina Faso : mandats d’arrêt contre des journalistes et opposants en exil",
-          "summary": "La junte burkinabè a émis des mandats d’arrêt contre une vingtaine de personnes, dont des journalistes et d’anciens ministres, pour « faits de terrorisme ». Parmi les visés figurent un chroniqueur de RFI et des proches de l’ex-président Blaise Compaoré. Les autorités demandent leur extradition, dans un contexte de lutte accrue contre l’insécurité dans la région du Sahel. Les procédures ciblent aussi une quarantaine d’autres individus.",
+          "headline": "Collision entre navire et bateau de croisière à La Nouvelle-Orléans",
+          "summary": "Un porte-conteneurs a percuté un bateau de croisière amarré au port de La Nouvelle-Orléans vendredi 14 novembre, blessant 32 passagers sur 200. Aucun décès n'est à déplorer, mais 12 personnes ont dû être sorties de l'eau. Les autorités locales et fédérales enquêtent sur les causes de l'accident, survenu sur le Mississippi.",
           "sources": [
             "Le Monde",
-            "RFI"
+            "BBC",
+            "France Info"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261113-burkina-faso-mandats-d-arr%C3%AAt-contre-des-journalistes-et-activistes-en-exil-pour-faits-de-terrorisme"
-            }
-          ]
-        },
-        {
-          "headline": "Attaques terroristes au Niger et en RDC font des dizaines de morts",
-          "summary": "Au Niger, une attaque près de Téra (région de Tillabéri) a fait plus de 30 morts civils jeudi 12 novembre, selon des sources locales. En République démocratique du Congo, les rebelles des ADF ont tué au moins 44 civils dans le Nord-Kivu et 100 autres en une semaine dans l’Ituri, selon des bilans contradictoires. Ces violences s’ajoutent à la crise humanitaire locale, notamment dans une zone touchée par une épidémie d’Ebola. Les groupes armés ciblent systématiquement des zones civiles.",
-          "sources": [
-            "RFI",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/afrique/dans-lest-de-la-rdc-au-moins-100-civils-tues-en-une-semaine-dans-des-raids-meurtriers-du-groupe-terroriste-adf-20261113_USFUXTESDVCBPGNRNOA2TSDJGY/"
-            }
-          ],
-          "angles": "RFI et Libération soulignent l’ampleur des attaques et leur impact humanitaire, tandis que les chiffres varient selon les sources (44 ou 100 morts en RDC). Aucun bilan officiel n’est confirmé par les autorités."
-        },
-        {
-          "headline": "Microsoft : panne mondiale prolongée, excuses et exclusion d’une cyberattaque",
-          "summary": "La panne mondiale des services Microsoft, survenue jeudi soir, a perturbé des millions d’utilisateurs dans plus de 70 pays, notamment Outlook et Teams. Vendredi 13 novembre, l’entreprise a présenté ses excuses et écarté la piste d’une cyberattaque, invoquant un « problème technique ». Les experts estiment que l’incident révèle la dépendance critique du monde aux géants du numérique. La restauration des services reste en cours après près de 24 heures d’interruption.",
-          "sources": [
-            "France Info",
-            "Euronews",
-            "BBC",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/panne-mondiale-de-microsoft-les-reactions-les-plus-droles-en-ligne"
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261113-panne-mondiale-microsoft-la-firme-pr%C3%A9sente-ses-excuses-et-%C3%A9carte-la-piste-d-une-cyberattaque"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html#xtor=RSS-3-%5Bmonde%5D"
             }
           ],
-          "angles": "France Info et Euronews relaient les réactions utilisateurs et l’ampleur des perturbations, tandis que la BBC et RFI analysent les risques systémiques et les causes techniques. Aucun média ne mentionne de responsable ou de détail technique précis."
+          "angles": "Le Monde adopte un ton factuel avec des détails sur les blessés, tandis que la BBC se concentre sur les opérations de sauvetage et les images de l'accident. Aucun angle éditorial n'est présent."
+        },
+        {
+          "headline": "Sécheresse au Tchad : risque de famine généralisée",
+          "summary": "Le Tchad traverse une sécheresse qualifiée de pire depuis 40 ans, avec un déficit de pluies en 2026 aggravant les pénuries alimentaires. Les ONG et les autorités locales alertent sur des poches de famine imminentes dans plusieurs régions. La crise s'ajoute aux défis humanitaires existants, dans un contexte de vulnérabilité accrue des populations.",
+          "sources": [
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-tchad-la-s%C3%A9cheresse-fait-craindre-des-poches-de-famine"
+            }
+          ]
         }
       ]
     },
@@ -173,14 +175,48 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "L'Europe divisée face aux négociations sur l'Ukraine",
-          "summary": "La France, l'Allemagne, le Royaume-Uni, l'Italie et la Pologne représenteront l'Europe lors des prochaines négociations sur l'Ukraine, malgré les conditions russes. Moscou maintient son veto, tandis que Kiev et Washington saluent cette initiative. Les Européens peinent à s'accorder sur une voix unique et craignent des pièges diplomatiques. Les pourparlers pourraient inclure des discussions sur la sécurité européenne, une demande russe perçue comme une victoire par le Kremlin.",
+          "headline": "Ukraine : concessions territoriales américaines évoquées",
+          "summary": "Volodymyr Zelensky affirme que les États-Unis ont proposé à l'Ukraine de céder le Donbass en échange d'une adhésion à l'OTAN. Le président ukrainien, de retour des pourparlers de paix à Abou Dhabi et Dublin, déclare que cette offre est inédite et qu'il consultera son peuple. Kiev maintient son refus de retirer ses troupes et exige des garanties de sécurité de l'OTAN et de l'UE. Moscou rejette toute participation européenne aux négociations, malgré l'annonce d'une délégation de cinq pays (France, Allemagne, Royaume-Uni, Pologne, Italie) désignée par l'UE.",
           "sources": [
             "France Info",
             "Le Monde",
+            "France 24",
+            "Le Figaro",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-les-etats-unis-ont-propose-a-kiev-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan-annonce-zelensky-20261114"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261113-pourparlers-paix-ukraine-europe-qu%C3%AAte-voix-unie-face-%C3%A0-moscou"
+            }
+          ],
+          "angles": "France Info et Le Monde insistent sur la nouveauté de la proposition américaine et la réaction ukrainienne, tandis que France 24 et Le Figaro soulignent l'ouverture de Zelensky à un référendum national. RFI et Euronews mettent en avant les divisions européennes et russes sur la participation aux négociations."
+        },
+        {
+          "headline": "Europe divisée sur sa représentation aux négociations ukrainiennes",
+          "summary": "L'UE a désigné cinq pays (France, Allemagne, Italie, Pologne, Royaume-Uni) pour représenter l'Europe aux prochaines négociations sur l'Ukraine, sans désigner de porte-parole unique. La Russie maintient son veto à une participation européenne, malgré les avancées diplomatiques annoncées lors du sommet de Dublin. Les Européens cherchent à éviter les 'pièges' de Moscou, tandis que les États-Unis poussent à une implication européenne. Les institutions de l'UE et l'OTAN seront aussi associées aux discussions.",
+          "sources": [
+            "France Info",
+            "France 24",
+            "Libération",
             "RFI",
-            "Euronews",
-            "BBC"
+            "Mediapart"
           ],
           "links": [
             {
@@ -188,31 +224,59 @@
               "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-france-l-allemagne-le-royaume-uni-l-italie-et-la-pologne-representeront-les-europeens-lors-des-prochains-pourparlers-sur-l-ukraine_6808609_3210.html"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261113-pourparlers-sur-l-ukraine-cinq-pays-europ%C3%A9ens-invit%C3%A9s-aux-prochaines-n%C3%A9gociations"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/negociations-de-paix-sur-lukraine-leurope-saccorde-sur-une-equipe-pour-trouver-une-voix-20261113_KQIDEFCBAVEEHEYFZBCPDKUQ64/"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261113-guerre-en-ukraine-les-europ%C3%A9ens-seront-pr%C3%A9sents-aux-prochaines-n%C3%A9gociations-kiev-moscou-zelensky"
+              "url": "https://www.rfi.fr/fr/europe/20261113-pourparlers-paix-ukraine-europe-qu%C3%AAte-voix-unie-face-%C3%A0-moscou"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/131126/italie-pour-son-dernier-budget-avant-les-elections-giorgia-meloni-met-en-scene-un-combat-contre-la"
+            }
+          ],
+          "angles": "Libération et RFI soulignent les désaccords internes européens et la stratégie russe, tandis que France 24 et France Info insistent sur le format retenu et les garanties de sécurité demandées par Kiev."
+        },
+        {
+          "headline": "Panne mondiale Microsoft : l'Europe dépendante des géants américains",
+          "summary": "Une panne majeure d'Outlook et Exchange touche depuis jeudi des millions d'utilisateurs en Europe, révélant une dépendance accrue aux services cloud américains. Microsoft annonce un rétablissement partiel, mais des perturbations persistent. L'incident relance le débat sur la souveraineté européenne face aux géants technologiques, avec des propositions pour favoriser les alternatives locales. Les enseignants, soignants et entreprises subissent des perturbations majeures dans leur quotidien.",
+          "sources": [
+            "France 24",
+            "Euronews",
+            "France Info",
+            "Toute l'Europe"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261113-panne-mondiale-chez-microsoft-l-europe-sous-d%C3%A9pendance"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/lue-integre-litalie-et-la-pologne-a-lequipe-de-paix-sur-lukraine-au-detriment-de-kaja-kall"
+              "url": "https://fr.euronews.com/2026/11/13/outlook-microsoft-annonce-un-retablissement-partiel-apres-une-panne-mondiale"
             },
             {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/temoignages-c-est-chomage-technique-enseignants-soignants-et-formateurs-racontent-comment-la-panne-mondiale-de-microsoft-affecte-leur-quotidien_8281034.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/panne-mondiale-d-outlook-quels-pays-europeens-dependent-le-plus-de-microsoft-et-des-services-de-messagerie-americains/"
             }
           ],
-          "angles": "France Info et Le Monde insistent sur l'unité européenne et la légitimité des cinq pays choisis, tandis que RFI et Euronews soulignent les divisions internes et les réticences russes. BBC met en avant les exigences accrues de Poutine comme un signe de durcissement."
+          "angles": "France 24 et Euronews analysent les risques géopolitiques, tandis que France Info et Toute l'Europe détaillent les impacts concrets sur les utilisateurs et les solutions européennes en développement."
         },
         {
-          "headline": "L'Allemagne renforce ses services secrets face à la Russie",
-          "summary": "Le Bundestag a adopté une réforme majeure des services de renseignement allemands, leur accordant des pouvoirs étendus de surveillance, de riposte et de sabotage numérique. Cette mesure vise à contrer les menaces hybrides russes, mais suscite des critiques sur les risques pour l'État de droit. Un ancien chef du BND est par ailleurs soupçonné d'avoir vendu des secrets.",
+          "headline": "Allemagne : renforcement des services de renseignement face à la Russie",
+          "summary": "Le Parlement allemand a adopté une réforme musclant les pouvoirs des services de renseignement, incluant des autorisations de riposte contre des cyberattaques et des opérations clandestines. Cette mesure vise à contrer les menaces russes, notamment en matière de sabotage numérique. L'opposition critique ces dispositions, estimant qu'elles menacent l'État de droit. La Lituanie, confrontée à des survols de drones, renforce aussi sa défense anti-aérienne.",
           "sources": [
             "RFI",
-            "Le Monde",
-            "Mediapart"
+            "Le Monde"
           ],
           "links": [
             {
@@ -222,83 +286,31 @@
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/131126/l-allemagne-veut-de-vrais-services-secrets-mais-ses-espions-trahissent-encore"
-            }
-          ],
-          "angles": "RFI et Le Monde adoptent un ton factuel, mais Le Monde ajoute une dimension critique sur les dérives potentielles pour les libertés publiques."
-        },
-        {
-          "headline": "Panne mondiale de Microsoft perturbe santé et administrations en Europe",
-          "summary": "La panne d'Outlook et d'Exchange, survenue jeudi, paralyse les services publics au Royaume-Uni et au Portugal, retardant soins médicaux, administrations et écoles. Microsoft signale des progrès, mais des interruptions persistent. Les dépendances européennes aux outils américains sont mises en lumière.",
-          "sources": [
-            "Euronews",
-            "Toute l'Europe",
-            "Courrier International"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/outlook-microsoft-annonce-un-retablissement-partiel-apres-une-panne-mondiale"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/economie-et-social/panne-mondiale-d-outlook-quels-pays-europeens-dependent-le-plus-de-microsoft-et-des-services-de-messagerie-americains/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/societe-la-panne-de-microsoft-perturbe-le-systeme-de-sante-au-royaume-uni-difficile-de-faire-notre-travail_287038"
-            }
-          ],
-          "angles": "Euronews et Toute l'Europe analysent l'impact sectoriel, tandis que Courrier International se concentre sur les conséquences pour le NHS britannique, soulignant les vulnérabilités des systèmes critiques."
-        },
-        {
-          "headline": "La Finlande rejette les exigences russes de quitter l'OTAN",
-          "summary": "La Finlande a fermement rejeté les demandes russes de quitter l'OTAN, qualifiées de « scandaleuses ». Ce positionnement renforce l'alliance atlantique et discrédite les ambitions russes de marginaliser l'Europe. La Géorgie, quant à elle, voit son opposition politique muselée avant des élections législatives en 2028, réduisant ses chances d'adhésion à l'UE.",
-          "sources": [
-            "EURACTIV",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/la-finlande-fait-voler-en-eclats-le-fantasme-russe-dune-sortie-de-lotan/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html"
             }
           ]
         },
         {
-          "headline": "L'Espagne en campagne : Begoña Gómez entre en lice malgré une affaire judiciaire",
-          "summary": "La femme du Premier ministre espagnol Pedro Sánchez, Begoña Gómez, participe activement à la campagne pour les législatives du 29 novembre, malgré une procédure judiciaire pour détournement de fonds. Les sondages donnent favori le Parti populaire et Vox, mais Sánchez mise sur son charisme pour surprendre. Les élections anticipées pourraient redessiner le paysage politique espagnol.",
+          "headline": "Hongrie : saisie record de 17,7 millions d’euros dans une enquête anticorruption",
+          "summary": "Les autorités hongroises ont saisi 17,7 millions d'euros en liquide, dont une partie enterrée dans des forêts, dans le cadre d'une enquête ciblant Miklós Szeszák, ministre sous Viktor Orbán. Cette opération s'inscrit dans une campagne anticorruption lancée après la chute du gouvernement nationaliste en avril 2026. Le Premier ministre Péter Magyar a promis une lutte sans relâche contre les pratiques illégales de l'ère Orbán.",
           "sources": [
-            "Courrier International",
-            "RFI",
-            "France Info"
+            "Euronews",
+            "BBC"
           ],
           "links": [
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/politique-espagne-begona-gomez-la-femme-de-pedro-sanchez-entre-dans-la-campagne-des-legislatives_286983"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/14/hongrie-17-millions-deuros-en-liquide-saisis-dans-une-enquete-anticorruption-sur-lere-orba"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261113-l%C3%A9gislatives-en-espagne-pedro-sanchez-esp%C3%A8re-cr%C3%A9er-la-surprise-malgr%C3%A9-des-sondages-d%C3%A9favorables"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "angles": "RFI adopte un angle stratégique sur les enjeux électoraux, tandis que Courrier International met en avant le rôle potentiel de Begoña Gómez comme atout mobilisateur pour le PSOE."
+          "angles": "Euronews et la BBC relaient les détails de la saisie, sans divergence majeure sur les faits, mais la BBC insiste sur le contexte politique post-Orbán."
         },
         {
-          "headline": "L'UE face aux défis de l'IA : souveraineté et régulation",
-          "summary": "Les dirigeants européens, réunis à Dublin, débattent des enjeux de l'intelligence artificielle, entre ambition de souveraineté technologique et nécessité de régulation. Le patron de Mistral AI, Arthur Mensch, appelle à des décisions rapides pour ne pas perdre le leadership face aux États-Unis et à la Chine. Les budgets et les divergences entre États compliquent les avancées.",
+          "headline": "IA en Europe : souveraineté technologique et régulation en débat",
+          "summary": "Les dirigeants européens, réunis à Dublin, discutent des enjeux de l'intelligence artificielle, entre ambition de souveraineté et besoin de régulation. Le patron de Mistral AI, Arthur Mensch, appelle à des décisions rapides pour rester compétitifs face aux États-Unis et à la Chine. L'UE explore des solutions pour réduire la dépendance aux géants américains du cloud, tout en encadrant les risques liés à l'IA. Les budgets et les compétences restent des défis majeurs.",
           "sources": [
             "Le Monde",
             "France Info"
@@ -310,10 +322,10 @@
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             }
           ],
-          "angles": "Le Monde adopte un ton analytique sur les défis institutionnels, tandis que France Info met en avant l'urgence industrielle soulevée par Mistral AI."
+          "angles": "Le Monde met l'accent sur les divisions européennes et les défis budgétaires, tandis que France Info souligne l'urgence d'agir selon Arthur Mensch et les propositions concrètes pour l'IA."
         }
       ]
     },
@@ -322,139 +334,185 @@
       "label": "France",
       "topics": [
         {
-          "headline": "France-Afrique du Sud : les Bleus en difficulté face aux Springboks",
-          "summary": "Le XV de France affronte l’Afrique du Sud, double championne du monde, ce vendredi 13 novembre au Stade de France pour le Championnat des nations. Malgré des offensives sud-africaines, les Bleus, menés par Antoine Dupont et privés de plusieurs joueurs blessés, tentent de résister. La presse sud-africaine évoque une revanche symbolique pour les Bleus. Le forfait de dernière minute de Julien Marchand aggrave leur situation. Des essais de Grandidier-Nkanang et LBB sont mis en avant.",
+          "headline": "Agression à l'arme blanche d'un vice-président d'université",
+          "summary": "Un vice-président de l'université de Versailles-Saint-Quentin-en-Yvelines a été agressé à l'arme blanche dans son bureau vendredi soir. La victime, âgée de 41 ans, a été blessée au front et à la main, mais son pronostic vital n'est pas engagé. Le suspect reste en fuite. Le ministre de l'Enseignement supérieur évoque un contexte de violences accrues dans les campus, marqué par des mobilisations étudiantes. L'identité et le mobile de l'agresseur ne sont pas encore connus.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
+            "Le Monde",
+            "Libération",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/le-vice-president-d-une-universite-en-ile-de-france-agresse-a-l-arme-blanche_8281703.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4262832-20261114-ile-france-responsable-universite-agresse-arme-blanche?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/14/un-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-pas-de-blessures-graves_6809950_3224.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/le-vice-president-de-luniversite-versailles-saint-quentin-agresse-a-larme-blanche-dans-son-bureau-20261114_P5FQSS6AGZFPJMR56AVGQPDFTI/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/14/france-un-vice-president-duniversite-agresse-a-larme-blanche-dans-son-bureau"
+            }
+          ],
+          "angles": "Libération et Le Monde soulignent le contexte de tensions étudiantes et les mobilisations récentes, tandis que France Info et 20 Minutes insistent sur les détails médicaux et la recherche du suspect."
+        },
+        {
+          "headline": "Début de campagne de Teddy Riner pour 2027",
+          "summary": "Teddy Riner a lancé sa campagne présidentielle dans un hôpital de Saint-Denis, mettant l'accent sur la santé comme priorité. L'ancien ministre François Braun, initialement soutenu par le judoka, s'est retiré six jours après le début de la campagne. Riner, candidat ni de droite ni de gauche, a choisi un premier déplacement discret, malgré l'attente médiatique. Son équipe cherche à crédibiliser sa candidature face à une menace extrême droite perçue comme forte.",
           "sources": [
             "Le Figaro",
-            "Le Monde",
-            "20 Minutes",
-            "Courrier International"
+            "RFI",
+            "Libération",
+            "France 24",
+            "France Info"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949588/france-afrique-du-sud"
+              "url": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/live/2026/11/13/en-direct-france-afrique-du-sud-suivez-le-choc-du-championnat-des-nations-de-rugby_6809376_3242.html"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261113-pr%C3%A9sidentielle-2027-pour-son-premier-d%C3%A9placement-de-campagne-teddy-riner-met-l-accent-sur-la-sant%C3%A9"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/rugby/4262307-20261113-direct-france-afrique-sud-enorme-defi-dupont-bleus-face-machine-concasser-sud-africaine-suivez-match?at_medium=display&at_campaign=149"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-teddy-riner-poids-lourd-ou-poids-plume-20261113_3GUNMQ7S5JBNPLAK7MENDYAVBE/"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/rugby-france-afrique-du-sud-encore-une-histoire-de-vengeance-pour-les-bleus_286712"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261113-teddy-riner-lance-sa-campagne-pr%C3%A9sidentielle-dans-un-h%C3%B4pital-de-saint-denis"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle-2027-a-peine-entre-en-campagne-teddy-riner-perd-le-soutien-de-l-ex-ministre-de-la-sante-francois-braun-qui-se-met-en-retrait_8282237.html#xtor=RSS-3-[lestitres]"
             }
-          ]
+          ],
+          "angles": "Le Figaro et RFI analysent le retrait de Braun comme un signe de fragilité, tandis que Libération et France 24 mettent en avant le positionnement politique inédit de Riner et les enjeux de sa campagne."
         },
         {
-          "headline": "13 novembre 2015 : hommage national aux victimes des attentats",
-          "summary": "Onze ans après les attentats du 13 novembre 2015, la France rend hommage aux 132 morts et 400 blessés lors de cérémonies officielles à Paris et Saint-Denis. Le Stade de France a organisé une commémoration sportive avec des drones et des projections lumineuses. La menace terroriste reste active, avec une radicalisation élargie et des profils plus jeunes. Un hommage citoyen est prévu en fin de journée.",
+          "headline": "Vigilance orange pour pluies et inondations en Méditerranée",
+          "summary": "Les départements du Gard et des Bouches-du-Rhône sont placés en vigilance orange « pluie-inondation » à partir de samedi soir, avec des risques de ruissellements et de phénomènes tourbillonnaires. Météo-France prévoit des pluies intenses et n'exclut pas une aggravation de la vigilance pour l'Hérault. Les autorités redoutent des inondations rapides entre samedi et dimanche matin.",
           "sources": [
+            "Le Monde",
+            "Libération",
             "France Info",
-            "Euronews",
+            "20 Minutes",
             "Le Figaro"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/onze-ans-apres-les-attaques-du-13-novembre-ou-en-est-la-menace-terroriste-en-france_8281658.html#xtor=RSS-3-[lestitres]"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3244.html"
             },
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/environnement/climat/orages-et-fortes-pluies-le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-dans-la-soiree-20261114_4LXU2ENXP5DXJLM7VCSFSGUGSA/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-pluie-inondation-des-20-heures-samedi_8282258.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262844-20261114-intemperies-departements-bouches-rhone-gard-vigilance-orange?at_medium=display&at_campaign=149"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/13-novembre-le-puissant-hommage-du-stade-de-france-aux-victimes-des-attentats-20261113"
+              "url": "https://www.lefigaro.fr/faits-divers/clermont-ferrand-un-jeune-spectateur-tue-lors-d-une-course-de-voitures-illegale-20261114"
             }
           ]
         },
         {
-          "headline": "Violences scolaires : les proviseurs manifestent leur colère",
-          "summary": "Plus de 2 000 chefs d’établissement se sont rassemblés vendredi dans 30 villes pour dénoncer les violences et blocages dans les lycées, après plusieurs dizaines de blessés depuis septembre. Le SNPDEN-Unsa appelle à un « stop » aux lycéens tout en soulignant la dégradation des conditions de travail. Certains lycées, comme celui de Rennes, restent fermés en raison de dégradations. Le ministère minimise le nombre d’établissements concernés.",
-          "sources": [
-            "Le Monde",
-            "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/campus/article/2026/11/13/mouvement-lyceen-le-cri-d-alarme-des-proviseurs-a-bout-face-aux-violences_6809386_4401467.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-les-personnels-de-direction-mobilises-pour-dire-leur-boule-au-ventre-face-aux-blocages-et-aux-violences-20261113_H5ST6Y6U7ZBTRMBON56JLKGPKU/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-peur-pour-soi-on-a-peur-pour-nos-familles-le-cri-de-colere-des-proviseurs_8281616.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et Le Monde mettent l’accent sur la colère des proviseurs et les conditions de travail, tandis que France Info souligne les chiffres contestés par les syndicats et les dégradations matérielles."
-        },
-        {
-          "headline": "Panne mondiale de Microsoft : Outlook et Teams paralysés",
-          "summary": "Une panne mondiale des services Microsoft (Outlook, Teams) a perturbé des millions d’utilisateurs depuis jeudi soir. L’entreprise exclut une cyberattaque et évoque un problème technique. Les entreprises, administrations et écoles sont contraintes d’utiliser des alternatives ou des outils obsolètes. La dépendance aux géants technologiques américains est remise en question.",
+          "headline": "Mort d'un adolescent lors d'une course illégale près de Clermont-Ferrand",
+          "summary": "Un jeune spectateur de 15 ans a été tué vendredi soir lors d'une course de voitures sauvage à Gerzat, près de Clermont-Ferrand. Le conducteur, en fuite, est recherché par les services de police. Une enquête pour homicide routier aggravé a été ouverte. Le drame survient dans un contexte de rodéos urbains récurrents dans la région.",
           "sources": [
             "Libération",
-            "Euronews",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/13/panne-mondiale-de-microsoft-outlook-et-teams-inaccessibles-dans-74-pays"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/panne-mondiale-d-outlook-sommes-nous-trop-dependants-de-ces-outils_8281646.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Terrorisme : une néonazie espagnole arrêtée pour projet d’attentat à Paris",
-          "summary": "Isabel Peralta, porte-parole du groupuscule néonazi espagnol Núcleo Nacional, a été arrêtée après qu’El País a révélé qu’elle projetait une fusillade à Paris. Des armes et objets nazis ont été retrouvés chez elle. Les autorités espagnoles enquêtent sur ses liens avec des réseaux d’extrême droite européens.",
-          "sources": [
-            "Libération",
+            "Le Figaro",
             "20 Minutes"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/avec-trois-chargeurs-jen-tue-60-une-neonazie-espagnole-arretee-apres-avoir-projete-une-fusillade-a-paris-20261113_SFV2SO5C7ZE6JEQPFU3RIRCDXI/"
+              "url": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/menacee-de-mort-pour-avoir-refuse-la-validation-automatique-du-semestre-de-ses-etudiants-la-presidente-de-l-universite-de-lorraine-porte-plainte-20261114"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/4262771-20261113-neonazie-espagnole-voulait-commettre-attentat-paris-arretee?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/societe/4262788-20261114-direct-manifestation-14-novembre-70-000-policiers-gendarmes-mobilises-acte-v-jusqu-60-000-manifestants-attendus-paris?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Fonction publique : les syndicats maintiennent la grève du 17 novembre",
-          "summary": "Après une réunion tendue avec Sébastien Lecornu, les syndicats de la fonction publique (CFDT incluse) ont rejeté la proposition de discussion d’un mois sur la revalorisation des bas salaires, sans dégel du point d’indice. Ils appellent à une grève le 17 novembre pour dénoncer l’insuffisance des mesures gouvernementales. Les agents publics expriment leur mécontentement face à une inflation persistante.",
+          "headline": "Menaces de mort contre la présidente de l'université de Lorraine",
+          "summary": "La présidente de l'université de Lorraine a porté plainte après avoir reçu des menaces de mort liées à son refus de valider automatiquement le semestre perturbé par les mobilisations étudiantes. Elle a dû prendre des mesures pour protéger ses proches. Les intimidations visent à forcer la main sur la gestion des cours dans un contexte de grogne étudiante persistante.",
           "sources": [
-            "Mediapart",
+            "Libération",
+            "Le Figaro",
+            "20 Minutes",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/une-filiere-franco-belge-de-trafic-darmes-demantelee-dans-les-ardennes-20261114_IY5EJCERPBCVPAEYBCKQCPMGIY/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/manifestation-du-14-novembre-a-paris-le-parcours-entre-republique-et-nation-autorise-selon-les-organisateurs-20261113"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4262838-20261114-ardennes-filiere-trafic-armes-feu-entre-belgique-france-demantelee-huit-personnes-mises-examen?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération et Le Figaro détaillent les menaces et leur contexte, tandis que Le Figaro insiste sur les mesures de protection prises par la présidente."
+        },
+        {
+          "headline": "Acte V du mouvement contre la vie chère : 70 000 policiers mobilisés",
+          "summary": "Entre 50 et 60 cortèges sont attendus samedi en France pour l'acte V du mouvement contre la vie chère, avec des revendications variées : pouvoir d'achat, protection des enfants, opposition au « permis de tuer », et moyens pour l'enseignement. Jusqu'à 60 000 manifestants sont attendus à Paris, et 70 000 policiers et gendarmes déployés. Le mouvement agrège des organisations de jeunesse et des Gilets jaunes.",
+          "sources": [
+            "RFI",
+            "France 24",
+            "France Info",
             "Libération"
           ],
           "links": [
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/fil-dactualites/131126/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-et-maintiennent-l-appel-la-greve-le"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261114-mobilisation-en-france-un-acte-v-du-mouvement-social-ce-samedi-avec-des-revendications-vari%C3%A9es"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/appel-a-temoins-reconstitution-adn-trente-ans-apres-la-disparition-de-marion-wagon-l-enquete-relancee_8280797.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/fonction-publique-les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-lappel-a-la-greve-le-17-novembre-20261113_RL3E4D7CT5BCXHNSO2ZZSOFAWI/"
+              "url": "https://www.liberation.fr/societe/police-justice/trente-ans-apres-la-disparition-de-marion-wagon-lidentification-de-son-adn-et-un-temoignage-inedit-font-naitre-de-nouvelles-esperances-20261113_HK2JYFTSXBBEJFEBVYXPZWNYQE/"
             }
-          ],
-          "angles": "Mediapart et Libération soulignent l’échec des négociations et la radicalisation des syndicats, tandis que les deux médias convergent sur le ton critique envers le gouvernement."
+          ]
         }
       ]
     }
