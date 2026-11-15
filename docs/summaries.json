@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:08:59Z",
+  "generated_at": "2026-11-15T21:09:49Z",
   "edition": "15 novembre 2026",
   "categories": [
     {
@@ -7,19 +7,18 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Iran frappe à nouveau Bahreïn, tensions au Golfe",
-          "summary": "Les Gardiens de la Révolution iraniens ont revendiqué une attaque de drones contre une base militaire américaine à Bahreïn dimanche 15 novembre, une deuxième en trois jours. Téhéran cible ainsi un système de radar de défense aérienne, tandis que Manama assure avoir intercepté tous les drones avant qu’ils n’atteignent leurs cibles. Cette escalade confirme une reprise des tensions régionales après une période de relative accalmie.",
+          "headline": "Iran revendique une attaque de drones contre une base américaine à Bahreïn",
+          "summary": "L'Iran a revendiqué une attaque de drones contre une base militaire américaine à Bahreïn tôt ce dimanche 15 novembre, ciblant un système de radar de défense aérienne. Les autorités bahreïnites affirment avoir intercepté tous les drones avant qu'ils n'atteignent leurs cibles. Cette frappe survient dans un contexte de tensions régionales persistantes, après une précédente attaque annoncée par Téhéran vendredi dernier.",
           "sources": [
             "France 24",
             "France Info",
             "Libération",
-            "20 Minutes",
             "Le Monde"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261115-iran-revendique-frappes-drones-contre-base-am%C3%A9ricaine-au-bahre%C3%AFn"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine"
             },
             {
               "source": "France Info",
@@ -30,128 +29,127 @@
               "url": "https://www.liberation.fr/international/moyen-orient/liran-revendique-une-nouvelle-attaque-contre-une-base-militaire-des-etats-unis-a-bahrein-20261115_VSADW3X4B5BTBJTSUPFQTRM2LU/"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4262932-20261115-explosions-bahrein-iran-revendique-attaque-contre-base-americaine?at_medium=display&at_campaign=149"
-            },
-            {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html"
             }
           ]
         },
         {
-          "headline": "Panne aérienne aux États-Unis : des câbles défectueux en cause",
-          "summary": "La paralysie du trafic aérien américain samedi 12 novembre, qui a cloué au sol des milliers d’avions, serait due à un remplacement raté de câbles en cuivre par de la fibre optique. Les autorités évoquent des « problèmes de communication » avec les avions et des radars affectés, soulignant une vulnérabilité structurelle du système. L’administration Trump enquête sur les responsabilités.",
+          "headline": "Houthis avancent vers Aden, gouvernement yéménite renforce ses positions",
+          "summary": "Les Houthis ont progressé vers Aden, la capitale provisoire du Yémen, et ne se trouvent plus qu’à 60 km de la ville. Le gouvernement internationalement reconnu a déployé des renforts autour d’Aden pour contrer cette avancée. Les combats s’intensifient dans le sud du pays, où les rebelles chiites consolident leur contrôle du détroit stratégique de Bab Al-Mandab.",
           "sources": [
-            "20 Minutes",
-            "France Info",
+            "Le Monde",
+            "France 24",
             "Libération",
-            "BBC",
-            "Courrier International"
+            "France Info"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4262938-20261115-etats-unis-cables-cuivre-vetustes-origine-arret-trafic-aerien?at_medium=display&at_campaign=149"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/conflit-au-yemen-les-houthis-aux-portes-daden-20261115_Z5CWNOHU4ZEKDPFGRDIZ6UADDQ/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ],
+          "angles": "Libération met l'accent sur l'imminence de la menace pour Aden, tandis que France 24 et Le Monde soulignent le redéploiement militaire gouvernemental et ses enjeux stratégiques."
+        },
+        {
+          "headline": "Crise humanitaire à Gaza : blocage des aides aggravé par les pluies",
+          "summary": "Le Royaume-Uni, l’Italie, l’Australie et le Canada ont appelé Israël à permettre un accès humanitaire « immédiat et sans entrave » à Gaza, où des pluies diluviennes ont inondé des milliers de tentes de déplacés. Près de 150 000 tentes et fournitures vitales sont bloquées à la frontière, selon les diplomaties occidentales. La situation sanitaire et humanitaire se dégrade dans l’enclave palestinienne.",
+          "sources": [
+            "Le Monde",
+            "Le Figaro",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/londres-rome-ottawa-et-canberra-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-a-gaza-20261115"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/nouvelle-journee-de-mobilisation-premier-bain-de-foule-pour-teddy-riner-panne-aerienne-aux-etats-unis-lactu-de-ce-week-end-des-14-et-15-novembre-20261115_QKPIMJWDVZER7DS76BM24XURJQ/"
+            }
+          ],
+          "angles": "Le Monde et Le Figaro adoptent un ton urgent et factuel, insistant sur l'ampleur des besoins humanitaires, tandis que Libération met en avant la responsabilité d'Israël dans le blocage des aides."
+        },
+        {
+          "headline": "Arrestation d’un journaliste de l’AFP en Cisjordanie par Israël",
+          "summary": "Un pigiste de l’Agence France-Presse a été arrêté par les forces israéliennes en Cisjordanie occupée, soupçonné de « liens avec le Hamas ». L’armée israélienne n’a fourni aucune preuve pour étayer cette accusation. L’incident soulève des inquiétudes sur la liberté de la presse dans les territoires palestiniens, déjà sous haute tension depuis le début de la guerre à Gaza.",
+          "sources": [
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/15/en-cisjordanie-un-pigiste-de-l-agence-france-presse-arrete-par-les-forces-israeliennes_6811047_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/un-journaliste-collaborateur-regulier-de-lafp-a-ete-arrete-par-les-forces-israeliennes-en-cisjordanie-occupee-20261115_3Z4K72QEHNGKNPJSQBXFBCBHQE/"
+            }
+          ]
+        },
+        {
+          "headline": "Épidémie d’Ebola en RDC : six mois de crise sanitaire persistante",
+          "summary": "Six mois après le déclenchement de l’épidémie d’Ebola en RDC, plus de 5 400 morts ont été recensés. Le virus s’étend désormais à huit provinces du pays, malgré les efforts de vaccination et de traitement. Des humanitaires et soignants locaux racontent leur combat quotidien face à cette crise, aggravée par des difficultés logistiques et sécuritaires.",
+          "sources": [
+            "Le Monde",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique/20261115-ebola-en-rdc-six-mois-apr%C3%A8s-son-apparition-l-%C3%A9pid%C3%A9mie-poursuit-sa-progression"
+            }
+          ]
+        },
+        {
+          "headline": "Crise aérienne aux États-Unis : câbles défectueux à l’origine des perturbations",
+          "summary": "Les perturbations massives du trafic aérien aux États-Unis, qui ont paralysé le pays vendredi et samedi, seraient dues à un remplacement défectueux de câbles en cuivre vétustes. Plus de 18 000 vols ont été annulés, et des milliers restent perturbés dimanche. Le retour à la normale est attendu pour lundi, selon les autorités. Donald Trump a critiqué la gestion de Joe Biden, qualifiant la situation de « désastre ».",
+          "sources": [
+            "Libération",
+            "France Info",
+            "BBC",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/"
             },
             {
               "source": "France Info",
               "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/"
-            },
-            {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/etats-unis-la-panne-historique-ayant-paralyse-le-trafic-aerien-americain-serait-due-a-une-operation-de-maintenance_287268"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html"
             }
           ]
-        },
-        {
-          "headline": "Jordanie : trois condamnés à mort pour attaque contre une église",
-          "summary": "Trois hommes ont été condamnés à mort par pendaison en Jordanie pour l’attaque meurtrière contre une église grecque-orthodoxe à Karak le 23 octobre, faisant neuf morts et 25 blessés. Le roi Abdallah II avait promis des peines « les plus sévères ». Les condamnés peuvent encore faire appel. Cette attaque, sans précédent contre les chrétiens du royaume, avait provoqué une vague d’indignation internationale.",
-          "sources": [
-            "France 24",
-            "20 Minutes",
-            "Le Monde",
-            "BBC",
-            "Courrier International"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261115-jordanie-assaillants-attaque-%C3%A9glise-orthodoxe-karak-peine-de-mort"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4262930-20261115-jordanie-trois-hommes-condamnes-mort-pendaison-attaque-meurtriere-eglise?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/15/jordanie-trois-hommes-condamnes-a-mort-pour-l-attaque-meurtriere-d-une-eglise-orthodoxe-en-octobre_6810998_3210.html"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/etats-unis-la-panne-historique-ayant-paralyse-le-trafic-aerien-americain-serait-due-a-une-operation-de-maintenance_287268"
-            }
-          ]
-        },
-        {
-          "headline": "Israël : blocage politique entre Netanyahou et Eisenkot",
-          "summary": "La formation du prochain gouvernement israélien est paralysée par un duel entre Benjamin Netanyahou, qui prône un gouvernement d’union nationale pour faire face à la menace iranienne, et Gadi Eisenkot, chargé de former la coalition. Ce dernier accuse Netanyahou d’entraver les négociations. Les discussions entre leurs partis sont prévues dimanche 15 novembre, sans garantie de succès.",
-          "sources": [
-            "RFI",
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html"
-            }
-          ],
-          "angles": "France 24 et Le Monde soulignent le contexte sécuritaire iranien comme enjeu central, tandis que RFI met davantage l’accent sur la dimension politique interne et les manœuvres de Netanyahou."
-        },
-        {
-          "headline": "Sommet de la Francophonie : crise autour de la succession à l’OIF",
-          "summary": "Le XXe sommet de la Francophonie, ouvert dimanche 15 novembre à Phnom Penh, est marqué par des tensions autour de la désignation du prochain secrétaire général de l’OIF. Emmanuel Macron a appelé le Rwanda à retirer sa candidature au profit de la Roumanie, tandis que Kinshasa s’oppose à la reconduction de Louise Mushikiwabo. La question divise les 88 États membres et risque de prolonger les débats au-delà du sommet.",
-          "sources": [
-            "France 24",
-            "Le Monde",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-sommet-de-la-francophonie-la-rivalit%C3%A9-rd-congo-rwanda-au-c%C5%93ur-des-d%C3%A9bats"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions"
-            }
-          ],
-          "angles": "France 24 et Le Monde insistent sur les enjeux géopolitiques (RDC vs Rwanda), tandis que RFI met en avant le rôle d’Emmanuel Macron dans la médiation."
         }
       ]
     },
@@ -160,13 +158,112 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Portugal : manifestations massives contre la crise du logement",
-          "summary": "Des milliers de Portugais ont manifesté samedi 14 novembre dans plusieurs villes, dont Lisbonne, contre la hausse des loyers et le manque de logements abordables. Les prix ont augmenté de 60,8 % par rapport aux revenus des ménages depuis 2015, selon Le Monde. Les organisateurs, la plateforme Casa para Viver, réclament un plafonnement des loyers et plus de logements publics. La grogne suit l’adoption d’un projet de réforme facilitant les expulsions locatives.",
+          "headline": "L'Estonie ferme sa frontière avec la Russie",
+          "summary": "L'Estonie a annoncé la fermeture de tous ses postes-frontières avec la Russie à partir du 1er décembre 2026, après avoir déjoué une tentative d'incendie dans une usine de drones, attribuée au renseignement militaire russe (GRU). Cette décision survient dans un contexte de tensions accrues entre les deux pays, avec des accusations croisées de sabotage et d'ingérence. Le ministre estonien des Affaires étrangères a évoqué des « preuves manifestes » de l'implication russe. La mesure vise à renforcer la sécurité nationale et à contrer les activités hybrides russes.",
           "sources": [
+            "France Info",
             "RFI",
             "Euronews",
             "Le Monde",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/15/lestonie-denonce-une-tentative-dincendie-dune-usine-de-drones-orchestree-par-moscou-et-fer"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4262981-20261115-guerre-ukraine-raffinerie-russe-bombardee-ukraine-estonie-ferme-frontieres-russie?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France Info et RFI insistent sur le contexte sécuritaire et les preuves estoniennes, tandis que Le Monde et 20 Minutes lient cette décision à la guerre en Ukraine et aux frappes ukrainiennes en Russie. Euronews met en avant la dimension rétorsion directe."
+        },
+        {
+          "headline": "Manifestations massives en République tchèque contre la réforme médiatique",
+          "summary": "Environ 400 000 personnes ont manifesté à Prague contre le projet de réforme de l'audiovisuel public du gouvernement tchèque, qui prévoit la suppression de la redevance audiovisuelle. Les manifestants dénoncent une menace pour l'indépendance des médias publics et une dépendance accrue au pouvoir politique. Le Premier ministre Andrej Babiš, milliardaire et figure controversée, est visé par cette mobilisation, la plus importante contre son gouvernement. Les organisateurs accusent la réforme de menacer la démocratie et la liberté de la presse.",
+          "sources": [
+            "RFI",
+            "Euronews",
             "France Info"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/15/des-dizaines-de-milliers-de-personnes-a-prague-contre-la-politique-mediatique-du-gouvernem"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ],
+          "angles": "RFI et Euronews soulignent le caractère historique de la mobilisation, tandis que RFI et France Info insistent sur les risques pour l'indépendance médiatique et la légitimité démocratique."
+        },
+        {
+          "headline": "Crise diplomatique : l'Otan au cœur des négociations sur l'Ukraine",
+          "summary": "Les États-Unis auraient proposé à l'Ukraine de renoncer au contrôle du Donbass en échange d'une adhésion à l'Otan, selon des informations relayées par Volodymyr Zelensky. La Russie exige quant à elle un recul de l'Otan en Europe, bloquant ainsi les négociations. Cette proposition divise les Européens, notamment la France, qui craint une escalade ou une légitimation de l'occupation russe. Les pourparlers à Abu Dhabi impliquent Américains, Russes, Ukrainiens et Européens, mais aucun accord n'est encore en vue. Zelensky a également appelé à lever les restrictions sur Starlink pour renforcer la défense ukrainienne.",
+          "sources": [
+            "Le Figaro",
+            "France Info",
+            "BBC",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/l-otan-au-coeur-des-negociations-diplomatiques-entre-l-ukraine-la-russie-et-les-etats-unis-20261115"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-etats-unis-auraient-propose-un-retrait-ukrainien-du-donbass-en-echange-d-une-adhesion-a-l-otan_8283569.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261115-que-pensent-les-ukrainiens-de-la-proposition-d-%C3%A9changer-le-donbass-contre-l-int%C3%A9gration-%C3%A0-l-otan"
+            }
+          ],
+          "angles": "Le Figaro analyse les enjeux stratégiques et les risques d'une telle proposition, tandis que France Info et RFI mettent en avant les réactions ukrainiennes et européennes. Zelensky, via la BBC, insiste sur l'urgence humanitaire et militaire."
+        },
+        {
+          "headline": "Pays-Bas : perturbations GPS et suspicions de cyberattaques russes",
+          "summary": "Le 9 novembre 2026, des dizaines d'avions aux Pays-Bas ont perdu leur signal GPS, un incident attribué à la présence d'un navire russe en mer du Nord. Les autorités néerlandaises suspectent une perturbation intentionnelle des systèmes de navigation, dans un contexte de tensions accrues entre l'Occident et la Russie. Aucune confirmation officielle n'a été donnée par Moscou, mais les experts évoquent des capacités croissantes de guerre électronique russe. Cet incident s'inscrit dans une série de cybermenaces et d'ingérences hybrides attribuées à la Russie en Europe.",
+          "sources": [
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261115-pays-bas-des-avions-perdent-le-signal-gps-dans-le-ciel-des-bateaux-russes-en-mer-du-nord-suspect%C3%A9s"
+            }
+          ]
+        },
+        {
+          "headline": "Crise du logement : des milliers de Portugais manifestent",
+          "summary": "Des milliers de manifestants ont défilé au Portugal contre la crise du logement, qui s'aggrave avec une hausse de 60,8 % des prix par rapport aux revenus des ménages depuis 2015. Les organisateurs, regroupés sous la plateforme Casa para Viver, réclament un plafonnement des loyers, plus de logements sociaux et une meilleure protection des locataires. Les mobilisations, parmi les plus importantes depuis des années, reflètent une grogne sociale croissante dans un pays où l'accès au logement est devenu un luxe pour une partie de la population. Le gouvernement est sous pression pour agir.",
+          "sources": [
+            "RFI",
+            "Euronews",
+            "Le Monde"
           ],
           "links": [
             {
@@ -180,116 +277,20 @@
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-%5Bmonde%5D"
             }
-          ]
+          ],
+          "angles": "RFI, Euronews et Le Monde convergent sur les revendications sociales et économiques, mais Le Monde ajoute une dimension comparative avec les autres pays de l'UE, soulignant l'ampleur de la crise portugaise."
         },
         {
-          "headline": "Ukraine : Washington évoquerait des concessions territoriales pour l’OTAN",
-          "summary": "Volodymyr Zelensky affirme que les États-Unis ont proposé à l’Ukraine une adhésion à l’OTAN en échange de la cession du Donbass, lors de négociations à Abou Dhabi. Moscou a rejeté une trêve énergétique et maintient ses exigences territoriales. Zelensky précise vouloir consulter la population et dénonce des restrictions sur le réseau militaire Starshield, perturbant les défenses ukrainiennes. Les États-Unis n’ont pas confirmé ces propos.",
+          "headline": "Allemagne : réforme des services secrets pour contrer les menaces extérieures",
+          "summary": "L'Allemagne renforce ses services de renseignement pour faire face aux menaces hybrides, notamment celles émanant de la Russie. Une réforme récente vise à placer le renseignement allemand au niveau de partenaires comme la CIA ou le Mossad, selon l'entourage du chancelier Friedrich Merz. Le texte, adopté malgré l'opposition de l'extrême-droite et de l'extrême-gauche pro-russes, inclut des mesures pour lutter contre le sabotage d'armements et les cyberattaques. Cette modernisation s'inscrit dans un contexte de montée des tensions géopolitiques et d'activités d'espionnage accrues en Europe.",
           "sources": [
-            "France Info",
-            "Courrier International",
-            "Euronews",
-            "RFI",
-            "Le Monde"
+            "Le Figaro"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/guerre-selon-zelensky-washington-a-suggere-d-integrer-l-ukraine-a-l-otan-si-elle-cede-le-donbass_287235"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/14/volodymyr-zelensky-affirme-que-washington-evoque-une-cession-de-territoires-en-echange-dun"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261114-ukraine-washington-aurait-propos%C3%A9-des-concessions-territoriales-en-%C3%A9change-d-une-adh%C3%A9sion-du-pays-%C3%A0-l-otan"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html"
-            }
-          ]
-        },
-        {
-          "headline": "Italie : amende record de 805 millions contre Meta pour violation de données",
-          "summary": "Meta a été condamnée à une amende de 805 millions d’euros par l’Autorité italienne de protection des données pour avoir accédé sans consentement aux bibliothèques d’images de 20 millions d’utilisateurs de Facebook depuis 2023. Cette sanction, parmi les plus lourdes jamais infligées en Europe, s’ajoute aux procédures en cours aux États-Unis. L’affaire illustre les tensions croissantes autour de la protection des données personnelles.",
-          "sources": [
-            "France Info",
-            "RFI",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/donnees-personnelles-meta-ecope-d-une-amende-de-805-millions-d-euros-en-italie_8283257.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261114-italie-facebook-%C3%A9cope-d-une-amende-de-805-millions-d-euros-pour-avoir-acc%C3%A9d%C3%A9-%C3%A0-des-photos-sans-consentement"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/article/2026/11/14/la-maison-mere-de-facebook-meta-ecope-d-une-lourde-amende-en-italie-pour-avoir-accede-a-des-photos-sans-consentement-specifique_6810412_4408996.html"
-            }
-          ]
-        },
-        {
-          "headline": "Hongrie : saisie de 17,7 millions d’euros dans une affaire de corruption",
-          "summary": "L’agence anticorruption hongroise a saisi 17,7 millions d’euros en liquide, dont une partie enterrée dans des forêts, lors de perquisitions ciblant Miklos Sesztak, ancien ministre sous Viktor Orbán. Il est soupçonné d’avoir accepté des pots-de-vin. Cette enquête s’inscrit dans une série de démantèlements de réseaux corrompus depuis la défaite électorale du Fidesz en mars 2026. Le frère de l’ancien Premier ministre, László Orbán, purge déjà une peine de prison.",
-          "sources": [
-            "France 24",
-            "RFI",
-            "Mediapart"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-hongrie-17-7-millions-d-euros-saisis-dans-une-enqu%C3%AAte-visant-un-ancien-ministre"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261114-hongrie-plus-de-dix-sept-millions-d-euros-en-liquide-saisis-par-l-agence-anticorruption"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/141126/hongrie-l-agence-anticorruption-deterre-le-butin-d-un-ministre-d-orban-dans-une-foret"
-            }
-          ],
-          "angles": "France 24 et RFI mettent l’accent sur le montant spectaculaire et les méthodes de dissimulation (argent enterré). Mediapart relie cette affaire à la transition politique post-Orbán, soulignant l’ampleur des réseaux corrompus démantelés depuis 2026."
-        },
-        {
-          "headline": "Royaume-Uni : deux affaires de violences sexuelles relancent le débat sur la « culture du silence »",
-          "summary": "Deux affaires impliquant un humoriste populaire et une ex-star de télévision ont resurgi au Royaume-Uni, révélant des cas de violences sexuelles non élucidés. Ces révélations ont relancé les critiques sur la protection des femmes dans le milieu du divertissement et la lenteur des enquêtes judiciaires. Les victimes dénoncent un système tolérant les abus et un manque de soutien institutionnel.",
-          "sources": [
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-deux-affaires-de-violences-sexuelles-relancent-le-debat-sur-la-culture-du-silence-dans-le-monde-du-divertissement_8282621.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ]
-        },
-        {
-          "headline": "Europe : tensions autour des câbles sous-marins, talon d’Achille numérique",
-          "summary": "Un rapport met en lumière la vulnérabilité des infrastructures critiques européennes, notamment les câbles sous-marins essentiels à Internet. Ces réseaux, cibles potentielles d’espionnage ou de sabotage, pourraient être exploités par des puissances étrangères pour paralyser les économies et les communications. L’Union européenne est invitée à renforcer leur protection face à cette « guerre silencieuse ».",
-          "sources": [
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-radio/livre-actu/la-guerre-silencieuse-menace-sur-la-civilisation-numerique_8242231.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/sabotage-d-armements-contre-attaques-numeriques-face-aux-menaces-exterieures-l-allemagne-muscle-ses-services-secrets-20261115"
             }
           ]
         }
@@ -300,177 +301,143 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Cyberattaque massive chez Maileva : 22 millions de données volées",
-          "summary": "La filiale de La Poste Maileva a subi une cyberattaque mi-septembre entraînant le vol des coordonnées de 22 millions de personnes. Une enquête judiciaire est en cours, et le groupe a déposé plainte. Il s’agit de l’une des plus graves fuites de données en France. Les données exposées incluent noms, prénoms et adresses postales.",
+          "headline": "France-Turquie : les Bleus en quête d’un match nul décisif",
+          "summary": "L’équipe de France affronte la Turquie ce dimanche 15 novembre à Bordeaux en Ligue des nations, avec l’objectif d’un match nul pour se qualifier en quarts de finale. Après leur défaite en Italie jeudi, les Bleus, menés par Didier Deschamps, doivent éviter une nouvelle erreur. Le match est suivi en direct par plusieurs médias, avec un focus sur la pression et les enjeux sportifs. Une minute d’applaudissements a été observée en hommage aux pompiers de Gironde avant le match.",
           "sources": [
             "Le Figaro",
-            "Euronews",
-            "Libération",
+            "20 Minutes",
             "France 24",
-            "20 Minutes"
+            "France Info",
+            "Euronews"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115"
+              "url": "https://www.lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/sport/football/ligue-nations/4262474-20261115-direct-france-turquie-retour-mbappe-bleus-quete-confiance-bordeaux?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Euronews",
               "url": "https://fr.euronews.com/2026/11/15/cyberattaque-sur-maileva-filiale-de-la-poste-22-millions-de-personnes-touchees-par-des-vol"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/une-filiale-de-la-poste-piratee-22-millions-de-personnes-concernees-20261115_YHARNQX345BADFNXBPGKU2FY6Y/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261114-la-cyberattaque-d-une-filiale-de-la-poste-entra%C3%AEne-un-vol-de-donn%C3%A9es-touchant-22-millions-de-personnes"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4262898-20261114-maileva-groupe-poste-touche-cyberattaque-22-millions-personnes-concernees?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Teddy Riner rejette l’étiquette macroniste et critique Macron",
-          "summary": "Le candidat à la présidentielle Teddy Riner a qualifié de « baiser empoisonné » les félicitations d’Emmanuel Macron pour sa candidature. Lors d’un déplacement au salon du Made in France, il a insisté sur son positionnement « ni de droite ni de gauche » et rejeté toute filiation avec le chef de l’État. Son entrée en campagne suscite des réactions contrastées.",
+          "headline": "Cyberattaque massive : 22 millions de données volées chez Maileva",
+          "summary": "La filiale de La Poste, Maileva, a subi une cyberattaque mi-septembre entraînant le vol de données personnelles de 22 millions de personnes. Une enquête judiciaire a été ouverte pour « atteinte à un système de traitement automatisé de données ». Le groupe a déposé plainte et la brigade de lutte contre la cybercriminalité est chargée de l’enquête.",
           "sources": [
-            "Euronews",
-            "France 24",
-            "Le Figaro",
             "Libération",
-            "France Info"
+            "Euronews",
+            "France Info",
+            "RFI",
+            "20 Minutes"
           ],
           "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/sciences/espace/spacex-reussit-pour-la-premiere-fois-a-recuperer-letage-superieur-de-starship-20261115_JOFBITPBVVEE5KCJCMJZ6WH45M/"
+            },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/15/teddy-riner-qualifie-de-baiser-empoisonne-les-felicitations-du-chef-de-letat-pour-sa-candi"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/je-ne-suis-pas-un-macroniste-teddy-riner-qualifie-les-felicitations-de-macron-a-sa-candidature-de-baiser-empoisonne-20261114"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/presidentielle-au-salon-du-made-in-france-teddy-riner-coupe-le-cordon-avec-macron-mais-ne-donne-toujours-pas-de-programme-20261114_CJ3ZTFA4P5A35EHP75BUXHTZXU/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et Le Figaro soulignent son rejet explicite de Macron et son positionnement politique, tandis que France 24 et Euronews insistent sur la dimension symbolique de sa visite au salon du Made in France comme étape clé de sa campagne."
-        },
-        {
-          "headline": "Revalorisation des bas salaires : 1 milliard d’euros de coût pour l’État",
-          "summary": "Le gouvernement a annoncé une hausse de 1,6 % du SMIC et des salaires des fonctionnaires les plus modestes, coûtant « un peu plus d’un milliard d’euros ». Les agents concernés toucheront 350 euros brut supplémentaires par an. Les syndicats réclament toujours le dégel du point d’indice. Ces mesures interviennent en pleine crise sociale.",
-          "sources": [
-            "Libération",
-            "Le Monde",
-            "20 Minutes",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4262935-20261115-finances-publiques-revalorisations-smic-bas-salaires-couteront-plus-milliard-euros?at_medium=display&at_campaign=149"
+              "url": "https://fr.euronews.com/2026/11/15/spacex-reussit-une-premiere-historique-en-capturant-le-vaisseau-starship"
             },
             {
               "source": "France Info",
               "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/science/20261115-spacex-rattrape-l-%C3%A9tage-sup%C3%A9rieur-de-sa-m%C3%A9gafus%C3%A9e-starship-une-premi%C3%A8re-et-une-prouesse-technique"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4262935-20261115-finances-publiques-revalorisations-smic-bas-salaires-couteront-plus-milliard-euros?at_medium=display&at_campaign=149"
             }
-          ]
+          ],
+          "angles": "Libération et Euronews soulignent l’ampleur de la fuite et son impact sur les victimes, tandis que France Info détaille les aspects juridiques et les suites judiciaires."
         },
         {
-          "headline": "Interdiction des mortiers d’artifice jusqu’au 27 novembre",
-          "summary": "Le gouvernement a interdit la vente des artifices de catégories F2 et F3 jusqu’au 27 novembre pour éviter des « troubles graves à l’ordre public » lors des manifestations et blocages lycéens. La mesure, publiée au Journal officiel, vise à prévenir les risques d’incidents liés à ces engins.",
+          "headline": "Revalorisation des bas salaires : un coût d’1 milliard d’euros",
+          "summary": "Le gouvernement annonce une hausse de 0,6 % du Smic et une revalorisation des salaires des fonctionnaires les plus modestes, estimée à 350 euros brut par an. Les syndicats, insatisfaits, réclament le dégel du point d’indice. Cette mesure s’inscrit dans un contexte de tensions sociales et de mobilisations. Les médias relaient les annonces officielles et les réactions syndicales.",
           "sources": [
             "France Info",
-            "Libération",
-            "Le Figaro",
-            "Le Monde"
+            "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/le-gouvernement-interdit-la-vente-de-mortiers-dartifice-jusqua-fin-novembre-20261115_JABUS45GTZD6VC35B4P76OLO2Y/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/15/la-vente-des-mortiers-d-artifice-interdite-jusqu-au-27-novembre-par-le-gouvernement_6810775_3224.html"
+              "url": "https://www.liberation.fr/politique/elections/edouard-philippe-veut-batir-quatre-millions-de-logements-en-dix-ans-20261115_TJLSGMJ45VDJZJ5ZGOYMWCTI3E/"
             }
           ]
         },
         {
-          "headline": "Présidentielle 2027 : Teddy Riner en tête des nouveaux entrants, Le Pen reste favorite",
-          "summary": "Un sondage crédite Teddy Riner de 4,5 % des intentions de vote, devant David Lisnard (+4 points) et Bruno Retailleau. Marine Le Pen conserve une large avance, tandis que Jean-Luc Mélenchon progresse. Les écologistes et Raphaël Glucksmann reculent. Les résultats varient selon les scénarios testés.",
+          "headline": "Blocages lycéens : Paris interdit les rassemblements près des établissements",
+          "summary": "La préfecture de police de Paris a interdit les rassemblements non déclarés autour de 10 lycées et 5 universités du 16 au 20 novembre, en raison des blocages et violences. Ces mesures visent à garantir le droit à l’instruction. Les médias soulignent la radicalisation des mouvements et la colère des parents d’élèves. Le gouvernement interdit aussi la vente de mortiers d’artifice jusqu’au 27 novembre pour éviter des troubles.",
           "sources": [
-            "France 24",
+            "Le Figaro",
             "20 Minutes",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4262902-20261115-presidentielle-2027-teddy-riner-renverse-table-selon-sondage?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114"
-            }
-          ],
-          "angles": "France 24 et 20 Minutes mettent en avant la progression de Riner et la stabilité de Le Pen, tandis que Le Figaro souligne aussi l’évolution de Mélenchon et la baisse de Glucksmann, sans mentionner de contradictions entre les scénarios."
-        },
-        {
-          "headline": "Macron dénonce un rationnement de l’aide à l’Ukraine",
-          "summary": "Emmanuel Macron a critiqué samedi les propositions de Marine Le Pen, favorite des sondages pour 2027, qui prévoit de suspendre l’aide financière à l’Ukraine après six mois. Le président français y voit une stratégie pour imposer une « paix injuste » et met en garde contre les conséquences d’un affaiblissement de Kiev. Cette position divise la classe politique française, de la gauche à la droite modérée.",
-          "sources": [
-            "Euronews",
-            "France 24",
-            "Le Monde",
+            "Libération",
             "France Info"
           ],
           "links": [
             {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/15/emmanuel-macron-denonce-ceux-qui-veulent-rationner-laide-a-lukraine-pour-lobliger-a-une-pa"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-centaine-de-personnes-placees-en-garde-a-vue-a-paris-dont-38-mineurs-20261115"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262946-20261115-manifestation-14-novembre-paris-centaine-gardes-vue-dont-38-mineurs?at_medium=display&at_campaign=149"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/en-seine-saint-denis-trois-personnes-interpellees-apres-la-decouverte-dun-corps-sans-vie-dans-un-garage-automobile-20261115_PVPDI2ZLL5GTRPMVQ5V3U5S7UU/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]"
+            }
+          ]
+        },
+        {
+          "headline": "Violences et faits divers : une semaine marquée par des drames",
+          "summary": "Plusieurs événements graves ont marqué la semaine : un mort et des blessés lors de tirs en rafale aux Abymes (Guadeloupe), un féminicide après des brûlures près de Bordeaux, et un crypto-rapt de 900 000 euros dans les Yvelines. Une femme de 50 ans a aussi été retrouvée morte en Seine-Saint-Denis. Les enquêtes judiciaires sont en cours. Les médias relatent ces faits avec des angles variés, entre faits divers et analyses sociétales.",
+          "sources": [
+            "Le Figaro",
+            "France Info",
+            "20 Minutes",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/la-pauvrete-atteint-des-niveaux-inedits-les-restos-du-coeur-tirent-la-sonnette-d-alarme-avant-la-presidentielle-20261115"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/societe/4262991-20261115-guillaume-pley-agresseur-spectacle-fondateur-legend-perturbe-militantes-feministes?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme"
             }
           ]
         }
