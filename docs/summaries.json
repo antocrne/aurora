@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:23:51Z",
+  "generated_at": "2026-11-17T13:43:21Z",
   "edition": "17 novembre 2026",
   "categories": [
     {
@@ -7,133 +7,111 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Avancée houthiste au Yémen : Aden en danger",
-          "summary": "Les rebelles houthis, soutenus par l'Iran, progressent vers Aden, siège du gouvernement yéménite, à seulement 60 kilomètres de la ville. Les forces gouvernementales, aidées par l'Arabie saoudite, se replient pour protéger la capitale provisoire. Cette avancée pourrait aggraver les tensions régionales et avoir des répercussions économiques mondiales, selon la BBC.",
+          "headline": "New York dissout une unité policière controversée",
+          "summary": "Le maire de New York, Eric Adams, a annoncé la dissolution du Groupe de réponse stratégique (SRG), une unité policière accusée d’utiliser des méthodes brutales, dont les nasses et le gaz lacrymogène. Cette décision s’inscrit dans une réforme plus large des forces de l’ordre, promue par le maire progressiste. La mesure vise à répondre aux critiques sur les violences policières et à restaurer la confiance dans les institutions.",
           "sources": [
-            "Libération",
-            "Courrier International",
-            "RFI",
-            "BBC"
+            "20 Minutes",
+            "Libération"
           ],
           "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4263559-20261117-etats-unis-plus-nassage-ni-lacrymo-new-york-mamdani-dissout-unite-police-controversee?at_medium=display&at_campaign=149"
+            },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/yemen-les-forces-gouvernementales-abandonnent-les-cotes-de-la-mer-rouge-pour-defendre-aden-20261116_LJKYITAKUVF4FOPU2GKYPLIBDM/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/moyen-orient-au-yemen-les-forces-gouvernementales-se-replient-pour-proteger-la-ville-cle-d-aden_287598"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261116-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-si%C3%A8ge-du-gouvernement-qui-masse-des-renforts-pour-prot%C3%A9ger-la-ville"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Libération et RFI soulignent les enjeux militaires et sécuritaires, tandis que Courrier International aborde aussi les conséquences humanitaires et géopolitiques."
-        },
-        {
-          "headline": "États-Unis : un juge bloque les restrictions de visa pour étudiants et journalistes",
-          "summary": "Un juge fédéral américain a annulé les limites de séjour imposées par Donald Trump aux étudiants et journalistes étrangers, jugées 'arbitraires'. Le gouvernement républicain a immédiatement fait appel de cette décision. Ces restrictions visaient à limiter les séjours à quatre ans pour les étudiants et à environ un an pour les journalistes.",
-          "sources": [
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html"
+              "url": "https://www.liberation.fr/international/amerique/zohran-mamdani-sattaque-aux-methodes-brutales-de-la-police-de-new-york-20261117_X7ZSMADMNNB33GW67A4OX3P3TU/"
             }
           ]
         },
         {
-          "headline": "Crise à la Francophonie : blocage de l'élection du secrétaire général",
-          "summary": "Le 20e sommet de l'Organisation internationale de la francophonie (OIF), tenu au Cambodge, n'a pas permis d'élire un nouveau secrétaire général en raison des tensions entre la République démocratique du Congo (RDC) et le Rwanda. Louise Mushikiwabo, actuelle secrétaire générale rwandaise, voit son troisième mandat contesté. Cette paralysie interroge sur l'avenir de l'institution, composée de 90 États.",
+          "headline": "Trump en Asie : rumeurs d’une rencontre avec Kim Jong-un",
+          "summary": "Donald Trump, en déplacement à Manille avant un sommet avec Xi Jinping et Vladimir Poutine en Chine, a évoqué une possible rencontre avec le dirigeant nord-coréen Kim Jong-un. Les rumeurs s’appuient sur des déclarations de Trump et des observations de Kim près de la frontière chinoise, où il a été photographié en train de skier. Une quatrième rencontre entre les deux hommes pourrait avoir lieu en marge du sommet de l’Apec à Shenzhen.",
           "sources": [
-            "Le Figaro",
-            "Libération",
+            "France Info",
+            "BBC",
             "France 24",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/un-possible-sommet-entre-donald-trump-et-kim-jong-un-en-chine_8265071.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-trump-arrive-%C3%A0-manille-avant-un-sommet-avec-xi-et-poutine-en-chine"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/coree_du_nord/4263439-20261117-coree-nord-kim-jong-fait-ski-pres-frontiere-chinoise-alimentant-rumeur-rencontre-trump?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France Info insiste sur l’aspect diplomatique et les rumeurs, tandis que la BBC met l’accent sur les déclarations directes de Trump et les indices visuels concernant Kim Jong-un."
+        },
+        {
+          "headline": "Chine et Canada réduisent leurs droits de douane",
+          "summary": "La Chine et le Canada ont annoncé des réductions réciproques des droits de douane, renforçant leurs échanges commerciaux. Les allégements chinois concernent 256 millions d’euros d’exportations canadiennes, en échange d’une prolongation de deux ans des exonérations pour certains produits chinois. Cette mesure s’inscrit dans une stratégie canadienne de diversification de ses partenariats économiques, loin de la dépendance aux États-Unis.",
+          "sources": [
+            "RFI",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/le-sommet-de-la-cacophonie-au-cambodge-l-organisation-de-la-francophonie-paralysee-par-l-opposition-entre-le-rwanda-et-la-rdc-20261116"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/otage-du-conflit-entre-le-rwanda-et-la-rdc-lorganisation-internationale-de-la-francophonie-vacille-20261116_IG7IJLS4RRGT3BMFEVAZLMYCEY/"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/asie-pacifique/20261117-la-chine-et-le-canada-s-entendent-sur-de-nouvelles-r%C3%A9ductions-des-droits-de-douane"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/la-chine-et-le-canada-s-accordent-sur-des-nouvelles-reductions-des-droits-de-douane_6812924_3210.html"
             }
-          ],
-          "angles": "Le Figaro et Libération mettent en avant les tensions diplomatiques entre la RDC et le Rwanda, tandis que France 24 et Le Monde soulignent les enjeux institutionnels et la crise de légitimité de l'OIF."
+          ]
         },
         {
-          "headline": "Sommet historique Xi-Trump-Poutine en marge de l'APEC",
-          "summary": "Xi Jinping, Vladimir Poutine et Donald Trump se réuniront cette semaine en Chine pour un sommet trilatéral en marge du sommet de l'APEC. Cette première depuis leur arrivée au pouvoir suscite des craintes, notamment de la part de Volodymyr Zelensky, qui redoute des discussions sur l'Ukraine sans sa présence. Le Japon tente de maintenir les États-Unis dans son alliance, mais cette dynamique pourrait s'avérer difficile.",
+          "headline": "Nvidia : tensions autour du retour de Jensen Huang",
+          "summary": "Donald Trump a déclaré ne pas s’opposer à un retour de Jensen Huang à la tête de Nvidia, malgré les scandales d’espionnage et de contrebande de puces vers la Chine. Cependant, le conseil d’administration de Nvidia n’envisage pas cette option pour l’instant. Les États-Unis ont par ailleurs annoncé des mesures pour renforcer le contrôle des exportations de puces, tandis que Nvidia publie ses résultats financiers sous pression.",
           "sources": [
             "France 24",
-            "Courrier International",
             "Euronews",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-donald-trump-pr%C3%AAt-%C3%A0-revoir-jensen-huang-aux-commandes-de-nvidia"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/17/nvidia-le-board-ne-prevoit-pas-le-retour-de-jensen-huang-comme-ceo-malgre-trump"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/affaire-nvidia-les-etats-unis-annoncent-des-mesures-lentreprise-presente-ses-comptes-20261117_J2J22PWCONANRF4C3BYP7H4G2Q/"
+            }
+          ],
+          "angles": "France 24 et Euronews soulignent l’ambivalence des positions politiques, tandis que Libération met l’accent sur les enjeux économiques et les mesures américaines."
+        },
+        {
+          "headline": "Turquie : répression accrue contre les médias d’opposition",
+          "summary": "La chaîne Sözcü TV, l’une des dernières grandes chaînes d’opposition en Turquie, a été placée sous tutelle par les autorités après une perquisition et des arrestations. Cette mesure s’ajoute à une série de restrictions visant les médias critiques, dans un contexte de crise financière et de tensions politiques. Les défenseurs des libertés dénoncent un durcissement autoritaire du régime.",
+          "sources": [
+            "Le Monde",
             "RFI"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-apec-2026-vers-un-sommet-xi-trump-poutine"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/geopolitique-avec-le-sommet-xi-poutine-trump-le-japon-craint-d-etre-mis-sur-la-touche_287561"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/trump-evoque-une-possible-rencontre-avec-kim-jong-un-en-chine-cette-semaine"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/turquie-sozcu-tv-derniere-grande-chaine-d-opposition-mise-sous-tutelle-par-les-autorites-apres-une-perquisition_6812975_3210.html"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommets-de-l-asean-et-de-l-apec-la-france-et-les-europ%C3%A9ens-%C3%A0-l-%C3%A9cart-des-grandes-rencontres-en-asie"
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261117-la-turquie-arr%C3%AAte-les-directeurs-d-une-cha%C3%AEne-de-t%C3%A9l%C3%A9vision-d-opposition-et-lui-impose-un-administrateur"
             }
-          ],
-          "angles": "France 24 et Courrier International insistent sur les implications géopolitiques et les risques d'isolement du Japon, tandis que Euronews aborde aussi les enjeux économiques liés à l'APEC."
-        },
-        {
-          "headline": "Négociations à l'ONU pour encadrer les 'robots tueurs'",
-          "summary": "Une conférence internationale réunissant 128 pays se tient à Genève pour tenter d'adopter des règles strictes sur les armes autonomes, capables de prendre des décisions de vie ou de mort sans intervention humaine. Le secrétaire général de l'ONU et le pape Léon XIV ont appelé à un encadrement urgent, soulignant les 'problématiques morales et éthiques' posées par ces technologies.",
-          "sources": [
-            "Euronews",
-            "France Info",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/conference-de-lonu-a-geneve-vers-des-negociations-sur-les-robots-tueurs"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/armee-securite-defense/une-tres-grosse-problematique-morale-et-ethique-128-pays-reunis-a-l-onu-pour-tenter-d-encadrer-les-robots-tueurs_8284838.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Euronews met l'accent sur l'aspect technologique et les risques futurs, tandis que France Info souligne davantage les enjeux éthiques et moraux, ainsi que l'appel des autorités religieuses et internationales."
+          ]
         }
       ]
     },
@@ -142,161 +120,195 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "L'UE lance un hub de retour pour migrants au Rwanda",
-          "summary": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé la création d'un centre au Rwanda pour renvoyer les demandeurs d'asile déboutés de l'UE. Cette initiative, présentée comme une « seconde chance », suscite des critiques des défenseurs des droits humains. Les modalités des expulsions ne sont pas encore précisées. L'accord a été révélé lors d'une conférence de presse en Autriche le 16 novembre 2026.",
-          "sources": [
-            "France Info",
-            "Le Monde",
-            "Libération",
-            "Mediapart",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/migrants/cinq-pays-devoilent-leur-projet-de-hub-de-retour-au-rwanda-pour-des-personnes-migrantes-expulsees-de-l-union-europeenne_8285039.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/hubs-de-retour-cinq-pays-de-lue-veulent-envoyer-des-migrants-au-rwanda-20261116_23Z6HE6QVRG5ZLHJB2NFNN257U/"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/161126/cinq-pays-europeens-pourraient-envoyer-des-exiles-au-rwanda-toujours-plus-loin-dans-le-cynisme"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/cinq-pays-de-lue-vont-creer-des-centres-de-deportation-au-rwanda-pour-les-migrants-irregul"
-            }
-          ],
-          "angles": "Libération et Mediapart soulignent le cynisme politique et les risques pour les droits humains, tandis que Le Monde et France Info insistent sur le tournant de la politique migratoire européenne. Euronews adopte un ton plus neutre en incluant d'autres sujets européens."
-        },
-        {
-          "headline": "Royaume-Uni : grâce automatique pour les femmes condamnées pour avortement",
-          "summary": "Le gouvernement britannique a effacé les condamnations pour avortement hors délai (après 24 semaines) des casiers judiciaires des femmes concernées, après la dépénalisation partielle de l'IVG en 2025. Cette mesure s'applique rétroactivement, bien que le délai légal pour avorter reste inchangé. La loi de 1861 sur les atteintes à la personne a été abrogée en 2025.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "Le Monde",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-britannique-gracie-les-femmes-condamnees-pour-avoir-avorte-apres-l-entree-en-vigueur-d-une-loi-depenalisant-l-ivg-hors-delai_8285327.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/le-gouvernement-britannique-gracie-les-femmes-condamnees-pour-avoir-avorte-apres-24-semaines-20261116_LK2KS4YQOJBBRDVTODE7F4T6WE/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/au-royaume-uni-les-femmes-condamnees-pour-avoir-avorte-seront-graciees-apres-l-entree-en-vigueur-d-une-loi-depenalisant-l-ivg-hors-delai_6811996_3210.html"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/royaume-uni-les-femmes-condamnees-pour-avortement-illegal-automatiquement-graciees"
-            }
-          ],
-          "angles": "France Info et Libération mettent en avant l'aspect justice et droits des femmes, tandis que Le Monde et Euronews soulignent la dimension historique et symbolique de la mesure."
-        },
-        {
-          "headline": "Estonie ferme sa frontière avec la Russie après une tentative de sabotage",
-          "summary": "L'Estonie a annoncé la fermeture de tous ses points de passage frontaliers avec la Russie à partir du 1er décembre 2026, après une tentative d'incendie d'une usine de drones attribuée au renseignement militaire russe (GRU). Cette décision fait suite à une escalade des tensions et des actes de sabotage présumés. La Russie nie toute implication.",
+          "headline": "L’UE et le Rwanda créent un centre de retour pour migrants",
+          "summary": "Cinq pays européens (Allemagne, Danemark, Grèce, Autriche, Pays-Bas) ont signé un accord avec le Rwanda pour y installer un centre d’accueil et de retour des migrants expulsés. Soutenu par Bruxelles, ce projet controversé est dénoncé par les défenseurs des droits humains. La France refuse cette initiative, jugée contraire à ses valeurs. L’accord prévoit une ouverture en 2027.",
           "sources": [
             "France 24",
             "France Info",
-            "Euronews",
             "Toute l'Europe",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-l-estonie-ferme-sa-fronti%C3%A8re-avec-la-russie"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/russie/moscou-fustige-la-decision-de-l-estonie-de-fermer-sa-frontiere-avec-la-russie_8284766.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/lestonie-va-fermer-sa-frontiere-avec-la-russie-apres-une-nouvelle-tentative-de-sabotage"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/nous-ne-nous-laisserons-pas-intimider-l-estonie-fermera-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4263186-20261116-guerre-ukraine-pays-europeens-gardent-frontieres-ouvertes-russie?at_medium=display&at_campaign=149"
-            }
-          ],
-          "angles": "France 24 et Euronews insistent sur la réponse estonienne et les risques de guerre hybride, tandis que France Info et Toute l'Europe mettent en avant le contexte géopolitique et les réactions russes. 20 Minutes propose une analyse cartographique des frontières européennes avec la Russie."
-        },
-        {
-          "headline": "Frappes russes sur Kiev : deux ponts touchés, infrastructures critiques endommagées",
-          "summary": "Des frappes russes ont endommagé les ponts Nord et Sud de Kiev le 16 novembre 2026, selon le maire Vitali Klitschko. La Russie a confirmé avoir frappé le pont de Crimée pour la deuxième fois en deux jours. L'Ukraine a riposté en ciblant le pont reliant la Russie à la Crimée, provoquant des dégâts mineurs selon Moscou. Ces attaques s'inscrivent dans une escalade récente.",
-          "sources": [
-            "France 24",
-            "Le Monde",
-            "France Info",
-            "RFI",
+            "EURACTIV",
             "Le Figaro"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-kigali-signe-un-accord-pour-accueillir-des-migrants-expuls%C3%A9s-d-europe"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-a-frappe-contre-le-pont-reliant-la-russie-a-la-crimee-et-lance-plus-600-drones-dans-la-region-de-moscou_8284412.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+              "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/un-centre-au-rwanda-pour-les-migrants-expulses-d-europe_8286497.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261116-l-ukraine-frappe-le-pont-reliant-la-russie-%C3%A0-la-crim%C3%A9e-annex%C3%A9e-par-moscou"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/une-rupture-avec-les-valeurs-europeennes-cinq-pays-de-l-union-europeenne-s-accordent-avec-le-rwanda-sur-un-projet-de-centre-de-retour-pour-migrants/"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/centres-de-retour-au-rwanda-cinq-pays-de-lue-passent-a-la-vitesse-superieure/"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-ponts-de-kiev-touches-par-des-frappes-russes-20261116"
+              "url": "https://www.lefigaro.fr/international/cela-ne-correspond-pas-aux-principes-qui-sont-les-notres-la-france-rejette-le-projet-de-centre-de-retour-pour-migrants-au-rwanda-20261116"
             }
           ],
-          "angles": "France 24 et Le Monde adoptent un ton factuel avec des détails sur les infrastructures touchées, tandis que RFI et France Info insistent sur la riposte ukrainienne et les réactions russes. Les angles diffèrent peu sur les faits, mais France Info ajoute une dimension stratégique."
+          "angles": "France 24 et Le Figaro soulignent le rejet français et le cadre légal européen, tandis que Toute l'Europe et EURACTIV insistent sur la rupture symbolique avec les valeurs migratoires traditionnelles de l’UE. France Info et Le Monde adoptent un ton factuel, centré sur les détails logistiques et les réactions internationales."
         },
         {
-          "headline": "Soldats français déployés en Ukraine dans une mission secrète",
-          "summary": "Plusieurs dizaines de militaires français opèrent en Ukraine depuis au moins l'été 2026 dans le cadre de la mission « Volia », distincte de la mission « Gerfaut » en Pologne. Leur rôle consiste à former les soldats ukrainiens et entretenir du matériel, sans participer aux combats. Cette présence, révélée par RFI, suscite des questions sur son impact géopolitique.",
+          "headline": "L’Ukraine détruit partiellement le pont de Crimée",
+          "summary": "L’armée ukrainienne a ciblé à deux reprises le pont de Kertch, reliant la Crimée à la Russie, causant des dégâts majeurs. Volodymyr Zelensky a qualifié l’opération d’« inédite », préparée sur plusieurs semaines. Moscou promet de restaurer l’ouvrage, stratégique pour ses liaisons avec la péninsule annexée. Les frappes interviennent avant une réunion tripartite Russie-États-Unis-Chine à Shenzhen.",
           "sources": [
+            "RFI",
+            "Euronews",
+            "Libération",
+            "20 Minutes",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261117-comment-l-ukraine-a-en-partie-d%C3%A9truit-le-pont-de-kertch"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/video/2026/11/17/ukraine-diffuse-la-frappe-de-drones-qui-endommage-le-pont-de-kertch"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/la-russie-frappe-deux-ponts-majeurs-a-kiev-lukraine-cible-a-nouveau-celui-de-crimee-20261117_6MXWAQM2PRHO7NNIMIAVS3FSHM/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4263473-20261117-guerre-ukraine-operation-precedent-kiev-detruit-partiellement-pont-crimee-missile-flamingo?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-la-russie-frappe-deux-ponts-majeurs-%C3%A0-kiev-l-ukraine-cible-%C3%A0-nouveau-la-crim%C3%A9e"
+            }
+          ],
+          "angles": "Libération et Le Monde mettent en avant l’aspect symbolique et politique de l’attaque, tandis que Euronews et 20 Minutes détaillent les modalités techniques (missiles Flamingo). France 24 et RFI insistent sur l’impact stratégique et les réactions russes. BBC adopte un angle similaire à Le Monde, avec une focus sur la réponse de Poutine."
+        },
+        {
+          "headline": "Robert Pattinson devient le nouveau James Bond",
+          "summary": "Amazon MGM Studios a annoncé que Robert Pattinson incarnera James Bond, succédant à Daniel Craig. Ce choix, destiné à séduire la génération Z, marque une rupture avec les acteurs traditionnels. Le contrat souligne l’ambition de moderniser la franchise. Les médias britanniques spéculent déjà sur le reste du casting et l’impact culturel de cette annonce.",
+          "sources": [
+            "Courrier International",
+            "20 Minutes",
+            "Euronews",
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/une/une-du-jour-robert-pattinson-est-deja-une-star-quel-james-bond-sera-t-il_288231"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/arts-stars/cinema/4263472-20261117-robert-pattinson-meilleur-choix-role-james-bond?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/17/robert-pattinson-devient-le-nouveau-james-bond-un-choix-inspire-mais-tres-sur"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/culture/robert-pattinson-en-nouveau-james-bond-amazon-mise-sur-le-chouchou-de-la-gen-z-20261117_G7Z67ROCLRET3PVQLLMFPJ4QLQ/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/culture/cinema/de-twilight-a-james-bond-en-passant-par-le-cinema-independant-l-ambitieux-parcours-de-robert-pattinson_8285045.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération et France Info insistent sur le profil moderne de Pattinson et son attrait pour les jeunes, tandis que Euronews et 20 Minutes adoptent un ton plus neutre, questionnant la pertinence du choix. Courrier International se concentre sur les réactions de la presse britannique et les spéculations autour du film."
+        },
+        {
+          "headline": "Militaires français secrètement déployés en Ukraine",
+          "summary": "Des dizaines de soldats français opèrent en Ukraine depuis l’été 2026 dans le cadre d’une mission confidentielle nommée Volia, dédiée à la maintenance d’équipements livrés à Kiev. Officiellement, Paris communique sur la mission Gerfaut, basée en Pologne. Moscou dénonce cette présence comme une « participation directe » à la guerre, tandis que Paris maintient un silence relatif sur les détails opérationnels.",
+          "sources": [
+            "Euronews",
+            "RFI",
             "France Info",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/17/moscou-qualifie-la-presence-de-militaires-francais-en-ukraine-de-participation-directe-a-l"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261117-guerre-en-ukraine-que-cache-la-mission-secr%C3%A8te-des-militaires-fran%C3%A7ais"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plusieurs-dizaines-de-militaires-francais-deployes-secretement-dans-le-pays_8285432.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261117-serbie-la-majorit%C3%A9-issue-du-mouvement-%C3%A9tudiant-a-pr%C3%AAt%C3%A9-serment-au-parlement"
+            }
+          ],
+          "angles": "RFI et France Info révèlent les contours de Volia et son rôle logistique, tandis que Euronews se concentre sur la réaction russe et le risque d’escalade. Aucun média ne remet en cause les faits, mais France Info ajoute une dimension stratégique absente chez RFI."
+        },
+        {
+          "headline": "Victoire historique des étudiants en Serbie",
+          "summary": "La Liste étudiante, mouvement issu des manifestations anticorruption, a remporté les élections législatives serbes et fait son entrée au Parlement. Ses membres, issus de la société civile, prévoient une purge de l’administration et des enquêtes sur des contrats juteux passés avec des groupes européens et chinois. Des arrestations et démissions ont déjà secoué l’appareil d’État depuis leur victoire.",
+          "sources": [
+            "RFI",
             "Le Monde",
-            "France 24",
+            "Libération",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261117-c-est-un-jour-historique-en-serbie-le-mouvement-des-%C3%A9tudiants-fait-son-entr%C3%A9e-au-parlement"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/en-serbie-la-liste-etudiante-fait-ses-premiers-pas-au-parlement-20261117_XKN32ZD67JEE5GY5GB2JVOCLUI/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261117-serbie-la-majorit%C3%A9-issue-du-mouvement-%C3%A9tudiant-a-pr%C3%AAt%C3%A9-serment-au-parlement"
+            }
+          ],
+          "angles": "Le Monde et Libération soulignent l’ampleur du changement politique et les défis à venir, tandis que RFI adopte un ton plus descriptif, centré sur les symboles de la transition. Libération ajoute une dimension sociale (réactions des pompiers, arrestations), absente chez Le Monde."
+        },
+        {
+          "headline": "Russie dénonce une participation française en Ukraine",
+          "summary": "La Russie accuse la France de « participation directe » au conflit ukrainien en raison du déploiement de soldats français pour des missions de formation et d’entretien de matériel. Moscou a adressé une mise en garde à Paris, confirmant la présence de dizaines de militaires français sur place depuis plusieurs mois. Ces accusations interviennent alors que la France maintient une aide militaire indirecte à Kiev.",
+          "sources": [
+            "Le Monde",
+            "France Info",
+            "Le Figaro",
+            "Libération",
             "RFI"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plusieurs-dizaines-de-militaires-francais-deployes-secretement-dans-le-pays_8285432.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html"
+              "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-la-russie-denonce-une-participation-directe-de-la-france-au-conflit_6810982_3210.html"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-guerre-en-ukraine-l-arm%C3%A9e-fran%C3%A7aise-joue-t-elle-un-r%C3%B4le-actif-dans-le-pays"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/soldats-francais-deployes-en-ukraine-moscou-met-en-garde-paris-et-denonce-une-participation-directe-au-conflit-20261117"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/soldats-francais-deployes-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit-20261117_2CANBP4NJJGFRNFF6IMDWBYWJE/"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261116-soldats-fran%C3%A7ais-en-ukraine-nous-ne-sommes-pas-cobellig%C3%A9rants-rappelle-le-s%C3%A9nateur-ps-rachid-temal"
+              "url": "https://www.rfi.fr/fr/europe/20261117-soldats-fran%C3%A7ais-d%C3%A9ploy%C3%A9s-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit"
             }
           ]
         }
@@ -307,191 +319,129 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Diallo défie Infantino pour la présidence de la FIFA",
-          "summary": "Philippe Diallo, président de la Fédération française de football (FFF), a été désigné candidat par l'UEFA pour briguer la présidence de la FIFA face au sortant Gianni Infantino. L'élection aura lieu le 18 mars 2027 à Rabat, au Maroc. Diallo incarne une opposition à Infantino, soutenu par plusieurs confédérations européennes. Le comité exécutif de l'UEFA a validé sa candidature après une réunion le 16 novembre.",
+          "headline": "Grèves massives dans la fonction publique",
+          "summary": "Des manifestations ont lieu ce 17 novembre dans toute la France, avec un cortège parisien de 60 000 personnes attendu, pour réclamer des hausses salariales face à l’inflation. Les syndicats appellent à une nouvelle journée d’action après des mesures jugées insuffisantes. Les tensions persistent, avec des craintes de débordements en fin de cortège. Les CRS, en nombre réduit, font face à des arrêts maladie en cascade, notamment à Marseille. Les lycéens et étudiants soutiennent le mouvement depuis deux mois.",
           "sources": [
-            "Le Monde",
-            "Euronews",
-            "RFI",
-            "20 Minutes",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/le-francais-philippe-diallo-va-defier-gianni-infantino-pour-la-presidence-de-la-fifa"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/football/4263359-20261116-fifa-coup-tonnerre-uefa-choisit-patron-fff-philippe-diallo-tenter-detroner-gianni-infantino?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/football/congres-de-la-fifa-le-president-de-la-federation-francaise-philippe-diallo-dans-la-course-contre-gianni-infantino-20261116_QVO7ZDIJWVDD7EHHP6QB5YV44Q/"
-            }
-          ]
-        },
-        {
-          "headline": "Macron reconnaît des erreurs après dix ans à l’Élysée",
-          "summary": "À six mois de la fin de son mandat, Emmanuel Macron a publié un message sur X pour marquer les dix ans de son annonce de candidature à la présidentielle en 2016. Il a reconnu avoir commis « des erreurs » tout en affirmant avoir agi « pour l’intérêt supérieur du pays ». Ce bilan intervient dans un contexte de préparation à la passation de pouvoir.",
-          "sources": [
-            "Le Figaro",
             "France Info",
-            "Libération",
+            "Le Figaro",
+            "Le Monde",
+            "Mediapart",
             "France 24"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/j-ai-fait-de-mon-mieux-dix-ans-apres-sa-candidature-macron-reconnait-des-erreurs-sans-renier-son-action-pour-l-interet-superieur-du-pays-20261116"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/jai-fait-de-mon-mieux-malgre-des-erreurs-assure-macron-dix-ans-apres-lannonce-de-sa-candidature-20261116_NW3265WTHJDMXDNLREHDF7Z2FI/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-toutes-les-organisations-appellent-a-se-mobiliser-massivement-ce-mardi-pour-transformer-l-essai-20261117"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/171126/manifestations-du-17-novembre-suivez-la-journee-en-direct"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-france-une-nouvelle-journ%C3%A9e-de-mobilisation-sociale"
             }
           ]
         },
         {
-          "headline": "Débat présidentiel : clash sur pouvoir d’achat et précarité",
-          "summary": "Cinq candidats à la présidentielle 2027 (Mélenchon, Glucksmann, Attal, Retailleau, Le Pen) ont débattu sur TF1 et LCI le 16 novembre, abordant les thèmes de la solidarité, du logement et des inégalités. Les propositions ont été critiquées pour leur financement, avec des accusations de « magie budgétaire ». Le débat s’est tenu dans un entrepôt des Restos du Cœur, en présence de bénéficiaires.",
+          "headline": "Marine Le Pen dévoile sa réforme des retraites",
+          "summary": "La candidate du RN propose un système basé sur la progressivité, une part de capitalisation et un âge de départ entre 60 et 62 ans, avec l’abolition de la réforme Borne dès 2028. Elle évoque aussi un possible référendum pour faire adopter son projet. Bruno Retailleau critique cette réforme, jugée « injustes et bancale ». Le débat sur les retraites s’intègre dans la campagne présidentielle 2027, où les propositions des candidats divergent fortement.",
           "sources": [
             "Le Figaro",
-            "France 24",
-            "20 Minutes",
+            "Le Monde",
+            "Euronews",
             "Libération",
-            "Toute l'Europe"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-impots-logement-associations-ce-qu-il-faut-retenir-du-grand-debat-entre-cinq-candidats-sur-la-vie-chere-20261116"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4263396-20261116-presidentielle-2027-clash-magicien-grand-perdant-faut-retenir-debat-tf1-lci?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-candidats-horaires-themes-ce-qu-il-faut-savoir-sur-le-debat-du-16-novembre-sur-tf1-et-lci/"
-            }
-          ],
-          "angles": "Libération et 20 Minutes soulignent les tensions et les réactions des candidats sur le terrain social, tandis que Le Figaro et France 24 insistent sur les divergences stratégiques et les accusations de manque de crédibilité financière. France 24 met en avant l'appel à une primaire de droite émanant d'Attal et Retailleau pour éviter un duel Le Pen-Mélenchon."
-        },
-        {
-          "headline": "Condamnations à perpétuité dans l’affaire du triple narcomicide marseillais",
-          "summary": "Deux figures du narcotrafic marseillais ont été condamnées à la perpétuité pour un triple assassinat commis en 2020, dont la victime était le frère d’Amine Kessaci, militant antitrafic. Trois autres accusés ont écopé de 18 à 30 ans de prison. Le verdict, rendu à Aix-en-Provence, a été salué comme un « message à la narcocratie ». Les peines incluent une période de sûreté.",
-          "sources": [
-            "RFI",
-            "France 24",
-            "20 Minutes",
-            "Euronews",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261116-france-deux-condamnations-%C3%A0-perp%C3%A9tuit%C3%A9-%C3%A0-l-issue-du-proc%C3%A8s-du-triple-narchomicide-pr%C3%A8s-de-marseille"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261116-triple-narchomicide-%C3%A0-marseille-en-2020-deux-accus%C3%A9s-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4262982-20261116-triple-assassinat-marseille-condamnation-perpetuite-deux-principaux-accuses-figure-narcobanditisme?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/triple-narchomicide-pres-de-marseille-verdict-attendu-au-proces-de-la-dz-mafia-quatre-perp"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/proces-du-triple-narchomicide-a-aix-deux-des-cinq-accuses-condamnes-a-la-perpetuite-20261116_HUQBG7MLBBCIRPE7C4QOQYJPDY/"
-            }
-          ]
-        },
-        {
-          "headline": "Depardieu définitivement condamné pour agressions sexuelles",
-          "summary": "Gérard Depardieu a renoncé à son procès en appel et présenté des « excuses » aux deux victimes d’agressions sexuelles commises sur le tournage des Volets verts en 2021. Il est désormais définitivement condamné à 18 mois de prison avec sursis. L’acteur, absent de l’audience, a reconnu s’être « longtemps caché derrière la provocation ». Sa condamnation est la première majeure du mouvement #MeToo en France.",
-          "sources": [
-            "France Info",
-            "Euronews",
-            "Mediapart",
-            "France 24",
             "20 Minutes"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-detaille-ce-mardi-son-projet-de-reforme-des-retraites-20261117"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html"
             },
             {
               "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/16/gerard-depardieu-renonce-a-faire-appel-de-sa-condamnation-pour-agressions-sexuelles"
+              "url": "https://fr.euronews.com/2026/11/17/dose-de-capitalisation-depart-de-60-a-62-ans-marine-le-pen-devoile-sa-reforme-des-retraite"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/161126/gerard-depardieu-definitivement-condamne-pour-agressions-sexuelles"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261116-g%C3%A9rard-depardieu-se-d%C3%A9siste-proc%C3%A8s-appel-agressions-sexuelles-pr%C3%A9sente-excuses"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/elections/marine-le-pen-presente-son-projet-de-reforme-des-retraites-20261117_4PGOZBOHAJGRTN5SP3MQA6OCYE/"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4263170-20261116-gerard-depardieu-desiste-appel-condamnation-presente-excuses-victimes?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/politique/4263434-20261117-direct-presidentielle-2027-pen-melenchon-echarpent-hausse-smic?at_medium=display&at_campaign=149"
             }
-          ]
+          ],
+          "angles": "Le Monde et Libération détaillent les mécanismes de la réforme et son financement, tandis que Le Figaro et Euronews mettent l’accent sur les symboles politiques (référendum, opposition à Borne) et les réactions des rivaux."
         },
         {
-          "headline": "Grève massive prévue le 17 novembre dans la fonction publique",
-          "summary": "Les syndicats (CGT, CFDT, etc.) appellent à une grève et des manifestations le 17 novembre pour réclamer des hausses de salaires et une revalorisation des agents publics. Les transports (trains, ports) et les cours scolaires seront perturbés dans plusieurs régions. Le gouvernement n’a pas convaincu les syndicats malgré des annonces récentes. Des rassemblements sont interdits près de dix lycées parisiens.",
+          "headline": "Dîner controversé de Mélenchon avec grands patrons",
+          "summary": "Jean-Luc Mélenchon, candidat LFI, a accepté une invitation du club Entreprise & Cité, regroupant des grands patrons comme Bernard Arnault (LVMH) et Patrick Pouyanné (TotalEnergies), pour un dîner ce 17 novembre. Cette initiative, similaire à celle organisée pour Marine Le Pen en avril, suscite des critiques sur les liens entre les candidats et le monde économique. Le débat sur les inégalités et la pauvreté, où Mélenchon a dénoncé l’explosion des fortunes, reste central.",
           "sources": [
             "France Info",
-            "Libération",
-            "Le Figaro",
-            "Le Monde"
+            "20 Minutes",
+            "Libération"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4263467-20261117-presidentielle-2027-oui-jean-luc-melenchon-va-diner-bernard-arnault-patrick-pouyanne?at_medium=display&at_campaign=149"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/greve-dans-les-transports-a-quoi-faut-il-sattendre-mardi-16-novembre-20261116_UZBEOYFBCVFN5JJHTCCJXOPMIA/"
-            },
+              "url": "https://www.liberation.fr/politique/un-diner-chez-drouant-ce-mardi-entre-jean-luc-melenchon-bernard-arnault-et-patrick-pouyanne-20261117_HKHJG34XLZFVXCQJIBE7THWFQQ/"
+            }
+          ],
+          "angles": "20 Minutes et Libération soulignent le contraste entre les discours de Mélenchon et sa participation à un dîner avec des milliardaires, tandis que France Info se concentre sur l’aspect symbolique de l’invitation sans approfondir les critiques."
+        },
+        {
+          "headline": "Procès en appel de Maylis Daubon",
+          "summary": "Maylis Daubon, accusée d’avoir empoisonné ses deux filles (dont une est morte) et tenté d’assassiner son ex-mari, clame à nouveau son innocence lors de son procès en appel. Elle encourt 30 ans de réclusion criminelle. Le parquet maintient une position ferme, qualifiant ses actes de « monstrueux ». Le procès, sous haute tension, se poursuit à Aix-en-Provence.",
+          "sources": [
+            "Le Figaro",
+            "France Info"
+          ],
+          "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116"
+              "url": "https://www.lefigaro.fr/faits-divers/mesdames-et-messieurs-les-jures-j-ai-peur-lors-de-son-proces-en-appel-maylis-daubon-clame-a-nouveau-son-innocence-20261117"
             },
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/justice-proces/maylis-daubon-la-mere-accusee-d-avoir-empoisonne-ses-filles-continue-de-clamer-son-innocence-lors-de-son-proces-en-appel_8286500.html#xtor=RSS-3-[lestitres]"
+            }
+          ]
+        },
+        {
+          "headline": "Baisse des prix des carburants confirmée",
+          "summary": "Le gouvernement annonce une baisse des prix du diesel (plus de 20 centimes) et de l’essence (10 centimes) dans plus de 90 % des stations-service, grâce à la vente à prix coûtant de barils de gazole issus des stocks stratégiques depuis le 1er novembre. Cette mesure, étalée sur trois mois, vise à atténuer la hausse des coûts pour les ménages. Les résultats sont jugés positifs par Mathieu Lefèvre, ministre délégué à la transition écologique.",
+          "sources": [
+            "Le Monde",
+            "France Info"
+          ],
+          "links": [
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html"
+              "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/17/carburant-une-baisse-du-prix-dans-plus-de-90-des-stations-service-selon-mathieu-lefevre_6812943_1656968.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-annonce-une-baisse-du-prix-des-carburants-dans-plus-de-90-des-stations-service_8286197.html#xtor=RSS-3-[lestitres]"
             }
           ]
         }
