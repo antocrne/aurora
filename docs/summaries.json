@@ -1,171 +1,117 @@
 {
-  "generated_at": "2026-11-18T13:18:23Z",
-  "edition": "18 novembre 2026",
+  "generated_at": "2026-11-18T23:01:46Z",
+  "edition": "19 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Sommet tripartite Trump-Poutine-Xi en Chine",
-          "summary": "Donald Trump, Vladimir Poutine et Xi Jinping se réunissent jeudi 19 novembre à Shenzhen, en marge du sommet de la Coopération économique Asie-Pacifique (APEC). Première rencontre entre les trois dirigeants depuis plus d’un an, ce sommet inédit intervient dans un contexte géopolitique tendu. Kim Jong-un pourrait également y assister. Les médias chinois dépeignent Trump et Poutine comme des figures opposées, reflétant les intérêts stratégiques de Pékin.",
+          "headline": "Hakeem Jeffries, premier Afro-Américain speaker de la Chambre",
+          "summary": "Hakeem Jeffries, élu démocrate de New York, a été désigné pour devenir le premier président noir de la Chambre des représentants américaine en janvier 2027. Cette nomination historique intervient après la victoire démocrate aux élections de mi-mandat, où il dirigera la chambre basse du Congrès pour les deux dernières années du mandat de Donald Trump. Son parcours, marqué par un engagement communautaire à Brooklyn, symbolise une avancée majeure pour la représentation politique des minorités aux États-Unis.",
           "sources": [
-            "Le Figaro",
-            "Libération",
             "Le Monde",
+            "France Info",
             "France 24",
-            "France Info"
+            "BBC"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/les-images-de-la-poignee-de-main-entre-donald-trump-et-vladimir-poutine-en-chine-sous-le-regard-de-xi-jinping-20261118"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/asie-pacifique/rencontre-entre-donald-trump-xi-jinping-et-vladimir-poutine-en-chine-le-president-americain-est-arrive-a-shenzen-20261118_XT6AUM6DRFCVZESPNO5D7BQBWQ/"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-les-chefs-d-%C3%A9tat-trump-poutine-et-jinping-r%C3%A9unis-en-chine"
+              "url": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/hakeem-jeffries-designe-par-les-democrates-devrait-devenir-le-premier-president-noir-de-la-chambre-des-representants-americaine_8288528.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-%C3%A9tats-unis-jeffries-bient%C3%B4t-le-premier-pr%C3%A9sident-noir-de-la-chambre-des-repr%C3%A9sentants"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "headline": "Victoire démocrate en Alaska renforce majorité au Sénat",
-          "summary": "Mary Peltola, candidate démocrate autochtone, a remporté mardi 17 novembre le siège sénatorial de l’Alaska, traditionnellement républicain, offrant à son parti une majorité de 56 sièges contre 44. Ce résultat parachève le basculement du Sénat lors des élections de mi-mandat, un revers pour Donald Trump et son camp. Les médias soulignent son profil atypique et son ancrage local.",
+          "headline": "Opération israélienne à Gaza malgré le cessez-le-feu",
+          "summary": "L’armée israélienne a lancé une opération terrestre dans le centre de la bande de Gaza, contrôlée par le Hamas, en violation du cessez-le-feu. Cette incursion vise à éliminer une menace pesant sur les soldats israéliens, selon Tsahal, qui affirme agir en réponse à des violations de la trêve. Des familles palestiniennes ont été déplacées, et le Hamas condamne cette action comme une violation flagrante de l’accord. Les tensions persistent malgré les efforts diplomatiques pour stabiliser la région.",
           "sources": [
             "Libération",
-            "Le Figaro",
             "Le Monde",
-            "France 24",
-            "RFI"
+            "France Info",
+            "BBC"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/midterms-au-senat-les-democrates-soffrent-lalaska-et-leur-plus-large-majorite-depuis-barack-obama-20261118_RZMBH6R3HZEAXHWQZUJS7V6RKQ/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/senat-americain-les-democrates-remportent-l-alaska-et-etendent-leur-majorite-a-56-sieges-contre-44-20261118"
+              "url": "https://www.liberation.fr/international/moyen-orient/israel-lance-une-operation-militaire-terrestre-a-gaza-dans-une-zone-controlee-par-le-hamas-en-depit-du-cessez-le-feu-20261118_PAZCJLTBJNFMHJL7M4KCGEUPBU/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html"
+              "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/18/l-armee-israelienne-annonce-le-lancement-d-une-operation-dans-une-zone-de-la-bande-de-gaza-controlee-par-le-hamas_6813156_6325529.html"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-midterms-l-alaska-tourne-d%C3%A9mocrate-avec-l-%C3%A9lection-de-mary-peltola"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-armee-israelienne-annonce-le-lancement-d-une-operation-dans-une-zone-de-la-bande-de-gaza-controlee-par-le-hamas_8288417.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261118-s%C3%A9nat-am%C3%A9ricain-les-d%C3%A9mocrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorit%C3%A9-en-16-ans"
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
             }
-          ],
-          "angles": "Libération et Le Monde insistent sur l'impact politique de cette victoire, tandis que Le Figaro et France 24 mettent en avant le portrait de Mary Peltola comme figure clé de cette élection."
+          ]
         },
         {
-          "headline": "Condamnations de djihadistes français en Irak",
-          "summary": "Six Français, dont Thomas Barnouin, vétéran de la filière jihadiste d’Artigat, ont été condamnés à perpétuité par un tribunal irakien pour appartenance à l’État islamique (EI). Ils rejoignent dix autres déjà condamnés en octobre, dans le cadre du procès de 47 islamistes transférés de Syrie l’an dernier. Ces peines, théoriquement équivalentes à 20 ans en Irak, illustrent la coopération judiciaire entre Bagdad et Paris.",
+          "headline": "Colons israéliens s’installent à Jéricho, tension en Cisjordanie",
+          "summary": "Pour la première fois depuis les accords d’Oslo (1993), des colons israéliens liés au mouvement d’extrême droite Nachala se sont installés à la lisière de Jéricho, en Cisjordanie. Cet événement inédit a provoqué des affrontements violents avec des habitants palestiniens, dont une femme tuée par balle. Les autorités israéliennes n’ont pas démantelé le campement, alimentant les craintes d’une expansion coloniale accrue dans des zones jusqu’alors préservées. La communauté internationale observe avec inquiétude cette escalade.",
+          "sources": [
+            "France Info",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/palestine/face-a-face-violent-avec-des-colons-israeliens-a-jericho_8288540.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/apres-l-implantation-inedite-de-colons-israeliens-a-jericho-en-cisjordanie-la-crainte-gagne-les-habitants-des-villes-jusqu-ici-on-se-sentait-preserves_6813153_3210.html"
+            }
+          ],
+          "angles": "France Info et Le Monde décrivent les violences et l’impact sur les habitants, tandis que Le Monde ajoute une analyse historique sur la rupture avec les accords d’Oslo."
+        },
+        {
+          "headline": "Scandale à la Deutsche Bank : blanchiment et fraudes en Colombie",
+          "summary": "Une enquête conjointe du Monde et de partenaires révèle que la Deutsche Bank a fermé les yeux sur des transactions suspectes en Colombie, facilitant potentiellement le trafic de drogue ou l’exploitation sexuelle. Des documents internes fuités (15 millions de pages) montrent un manque de contrôles malgré la position dominante du géant allemand sur les paiements en euros dans le pays. Cette affaire soulève des questions sur la régulation des banques face aux flux financiers illicites en Amérique latine.",
           "sources": [
             "Le Monde",
-            "Libération",
             "France 24"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/irak-six-autres-djihadistes-francais-dont-thomas-barnouin-condamnes-a-perpetuite_6813126_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/lirak-condamne-six-jihadistes-francais-dont-thomas-barnouin-a-la-reclusion-a-perpetuite-20261118_ZTQ7ZLLIA5DFFNFRAOV3G35OOM/"
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-en-colombie-le-robinet-d-argent-coulait-sans-frein_6813141_4355770.html"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261118-irak-condamne-six-autres-fran%C3%A7ais-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-organisation-terroriste-etat-islamique"
-            }
-          ]
-        },
-        {
-          "headline": "Escalade militaire entre Iran et États-Unis",
-          "summary": "Les États-Unis ont frappé mardi 18 novembre un site de missiles iranien sur l’île de Qeshm, déclenchant une riposte iranienne contre des cibles au Bahreïn et au Koweït. Téhéran a utilisé des drones, tandis que Washington nie toute escalade. Ces attaques surviennent alors que Donald Trump participe à un sommet en Chine avec Xi Jinping et Poutine, dans un contexte de tensions régionales accrues.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "Le Monde",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/liran-frappe-bahrein-et-le-koweit-apres-une-offensive-americaine-sur-lile-de-qeshm-20261118_6TKVWAU3JRCMLBFI4K2OUSFX2U/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261118-l-iran-frappe-au-bahre%C3%AFn-et-au-kowe%C3%AFt-apr%C3%A8s-des-frappes-am%C3%A9ricaines-contre-l-%C3%AEle-de-qeshm"
+              "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261118-a-la-deutsche-bank-l-argent-n-a-pas-d-odeur"
             }
           ],
-          "angles": "Libération et Le Monde détaillent les modalités des frappes et leur chronologie, tandis que France Info adopte un ton plus analytique sur les risques d’escalade régionale."
+          "angles": "Le Monde et France 24 mettent l’accent sur les dysfonctionnements internes et les risques criminels, tandis que France 24 lie aussi cette affaire à la répression en Iran dans son chapô."
         },
         {
-          "headline": "Avancée des houthistes au Yémen vers Aden",
-          "summary": "Les rebelles houthistes, soutenus par l’Iran, progressent vers Aden, capitale provisoire du gouvernement yéménite pro-saoudien. Après avoir pris le contrôle du détroit de Bab al-Mandab, ils menacent désormais la ville, forçant les forces gouvernementales à se replier. Cette offensive s’inscrit dans un conflit régional où l’Arabie saoudite et l’Iran s’affrontent par procuration.",
+          "headline": "Rougeole : retour alarmant aux États-Unis",
+          "summary": "Les États-Unis, autrefois considérés comme ayant éradiqué la rougeole, connaissent une recrudescence de cas due à une baisse de la couverture vaccinale. Le pays a perdu son statut de territoire exempt de la maladie, avec des foyers épidémiques liés à des communautés refusant la vaccination. Les autorités sanitaires appellent à une mobilisation pour endiguer cette résurgence, tandis que les experts pointent les lacunes des campagnes de sensibilisation.",
           "sources": [
-            "Mediapart",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/181126/les-houthistes-menacent-aden-capitale-du-gouvernement-yemenite"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/tout-proches-d-aden-les-houthistes-intensifient-leur-pression-sur-le-gouvernement-pro-saoudien-au-yemen-20261117"
-            }
-          ]
-        },
-        {
-          "headline": "Pannes informatiques massives aux États-Unis",
-          "summary": "Depuis le 12 novembre, les États-Unis subissent des pannes informatiques en cascade affectant Microsoft, le contrôle aérien, des banques et des administrations fédérales. Les autorités, dont le secrétaire d’État Marco Rubio, excluent tout lien malveillant ou coordonné, évoquant des causes techniques. Ces défaillances révèlent la vulnérabilité croissante des infrastructures américaines, notamment sous l’effet de l’intelligence artificielle.",
-          "sources": [
-            "France 24",
-            "Le Figaro",
-            "Le Monde"
+            "France 24"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-des-pannes-informatiques-en-s%C3%A9rie-aux-%C3%A9tats-unis-aucune-preuve-de-malveillance-selon-rubio"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/les-etats-unis-touches-par-des-pannes-informatiques-massives-en-serie-20261118"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html"
+              "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261118-la-rougeole-de-retour-aux-%C3%A9tats-unis"
             }
-          ],
-          "angles": "Le Figaro et France 24 décrivent les faits avec un ton factuel, tandis que Le Monde analyse les risques systémiques liés à l’IA et aux cybermenaces."
+          ]
         }
       ]
     },
@@ -174,82 +120,20 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Enquête ouverte contre Julio Iglesias pour agressions sexuelles",
-          "summary": "La justice espagnole a lancé une enquête contre le chanteur Julio Iglesias, âgé de 83 ans, après les plaintes de deux anciennes employées accusant des agressions sexuelles et des mauvais traitements en 2021 aux Bahamas et en République dominicaine. Les faits sont qualifiés de « délits contre la liberté sexuelle, violences et traitements dégradants ». L’artiste dément les accusations, qualifiées de « fausses ».",
-          "sources": [
-            "Le Monde",
-            "France Info",
-            "Le Figaro",
-            "20 Minutes",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/culture/la-justice-espagnole-ouvre-une-enquete-contre-le-chanteur-julio-iglesias-accuse-d-agressions-sexuelles-par-deux-anciennes-employees_8288225.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/culture/ouverture-d-une-enquete-sur-le-chanteur-julio-iglesias-apres-des-plaintes-pour-agressions-sexuelles-en-espagne-20261118"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/arts-stars/people/4263831-20261118-julio-iglesias-apres-plaintes-agressions-sexuelles-enquete-ouverte-contre-chanteur?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/espagne-ouverture-dune-enquete-sur-le-chanteur-julio-iglesias-apres-des-plaintes-pour-agressions-sexuelles-20261118_7ZHJRU7YU5BPNJPGMRFTSODHEQ/"
-            }
-          ]
-        },
-        {
-          "headline": "Destruction partielle du pont de Crimée par l'Ukraine",
-          "summary": "L’Ukraine a infligé des dégâts majeurs au pont de Kertch reliant la Russie à la Crimée, dans la nuit du 17 novembre, avec des frappes qualifiées d'« opération sans précédent » par Volodymyr Zelensky. L’infrastructure stratégique, symbole de l’annexion de 2014, a vu une arche et une partie du tablier s’effondrer. Moscou accuse Kiev d’escalade, tandis que Kiev justifie l’attaque par les frappes russes sur ses infrastructures.",
+          "headline": "L’UE propose 45 milliards d’euros supplémentaires à l’Ukraine",
+          "summary": "La Commission européenne a proposé mercredi 18 novembre un prêt de 45 milliards d’euros à l’Ukraine pour 2027, afin de soutenir son effort de guerre et son déficit budgétaire. Ce prêt, conditionné au remboursement seulement après réparation des destructions russes, vise à renforcer la position ukrainienne dans les négociations. Quatre pays (Hongrie, République tchèque, Slovaquie, Bulgarie) refusent de participer, créant des tensions au sein de l’UE. L’objectif affiché est d’éviter une position de faiblesse face à la Russie.",
           "sources": [
             "Courrier International",
+            "RFI",
             "France Info",
             "France 24",
-            "Mediapart",
-            "Le Monde"
+            "20 Minutes"
           ],
           "links": [
             {
               "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/ukraine-pont-de-crimee-kiev-inflige-un-revers-symbolique-et-strategique-a-moscou_288324"
+              "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-commission-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-pour-kiev_288474"
             },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/le-pont-de-crimee-a-nouveau-vise-par-l-ukraine_8286692.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/181126/la-destruction-partielle-du-pont-de-crimee-une-avancee-majeure-pour-l-ukraine"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/video/2026/11/18/guerre-en-ukraine-pourquoi-l-armee-ukrainienne-a-vise-ce-pont-strategique-en-crimee_6813095_3210.html"
-            }
-          ],
-          "angles": "« Le Monde » et « France 24 » soulignent l’aspect symbolique et stratégique de l’attaque, tandis que « Courrier International » insiste sur son impact politique pour Vladimir Poutine lors de son déplacement en Chine. « Mediapart » met en avant l’avancée militaire ukrainienne, et « France Info » détaille les réactions immédiates de Zelensky."
-        },
-        {
-          "headline": "L'UE propose un prêt de 45 milliards d'euros à l'Ukraine",
-          "summary": "La Commission européenne a annoncé mercredi 18 novembre un prêt de 45 milliards d’euros pour l’Ukraine en 2027, destiné à combler son déficit budgétaire dans un contexte de guerre prolongée. Ursula von der Leyen a précisé que Kiev ne devra rembourser qu’après réparation des destructions causées par la Russie. L’aide vise aussi à renforcer la position ukrainienne dans les négociations avec Moscou.",
-          "sources": [
-            "RFI",
-            "France Info",
-            "Le Figaro",
-            "France 24"
-          ],
-          "links": [
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261118-l-ue-propose-un-nouveau-pr%C3%AAt-de-45-milliards-d-euros-%C3%A0-l-ukraine-pour-2027"
@@ -259,74 +143,61 @@
               "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-kiev-pour-2027-20261118"
-            },
-            {
               "source": "France 24",
               "url": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4263712-20261118-direct-guerre-ukraine-poutine-chine-rencontrer-xi?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Cinq pays européens envisagent des expulsions vers le Rwanda",
-          "summary": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas prévoient d’envoyer au Rwanda des demandeurs d’asile déboutés, un projet critiqué par la France et les ONG comme un « abandon de responsabilité ». Le Rwanda, partenaire de l’UE, accueillerait ces migrants dans le cadre d’un « hub de retour ». Le sujet influence la campagne présidentielle française, où la question migratoire est centrale.",
+          "headline": "Enquête pour agressions sexuelles contre Julio Iglesias en Espagne",
+          "summary": "L’Audience nationale espagnole a ouvert une enquête mercredi 18 novembre contre le chanteur Julio Iglesias, après des plaintes de deux anciennes employées (une kinésithérapeute et une femme de ménage) accusant l’artiste d’agressions sexuelles et de mauvais traitements en 2021 dans ses résidences aux Caraïbes. Iglesias dénonce des accusations « absolument fausses ». Les faits remontent à des plaintes déposées en septembre 2026, mais l’enquête n’avait pas abouti jusqu’à présent.",
           "sources": [
-            "France Info",
+            "RFI",
             "Le Monde",
-            "RFI"
+            "France Info",
+            "20 Minutes"
           ],
           "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/migrants/migrants-cinq-pays-europeens-envisagent-d-envoyer-au-rwanda-des-demandeurs-d-asile-deboutes_8287772.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/un-abandon-flagrant-de-responsabilite-et-d-humanite-hrw-denonce-le-projet-de-cinq-pays-europeens-d-expulser-des-migrants-vers-le-rwanda_6813055_3210.html"
-            },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261118-hubs-de-retour-pourquoi-les-europ%C3%A9ens-misent-sur-le-rwanda"
-            }
-          ],
-          "angles": "« Le Monde » et « HRW » dénoncent un manque d’humanité, tandis que « France Info » met en avant le contexte politique européen et français. Les angles divergent entre critique éthique (ONG) et justification sécuritaire (États membres)."
-        },
-        {
-          "headline": "Répression en Turquie : Sözcü TV sous tutelle étatique",
-          "summary": "La chaîne d’opposition turque Sözcü TV a été placée sous administration judiciaire après une perquisition policière à Istanbul, mardi 17 novembre. Ses dirigeants ont été arrêtés, et un administrateur nommé par le gouvernement a pris les rênes. Cette mesure s’inscrit dans une série de pressions sur les médias critiques, alors que le pouvoir d’Erdogan est fragilisé par un scandale financier.",
-          "sources": [
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-turquie-les-directeurs-d-une-cha%C3%AEne-d-opposition-arr%C3%AAt%C3%A9s-par-les-autorit%C3%A9s-turques"
+              "url": "https://www.rfi.fr/fr/europe/20261118-espagne-le-chanteur-julio-iglesias-vis%C3%A9-par-une-enqu%C3%AAte-pour-agressions-sexuelles"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/turquie-sozcu-tv-derniere-grande-chaine-d-opposition-mise-sous-tutelle-par-les-autorites-apres-une-perquisition_6812975_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/culture/la-justice-espagnole-ouvre-une-enquete-contre-le-chanteur-julio-iglesias-accuse-d-agressions-sexuelles-par-deux-anciennes-employees_8288225.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/arts-stars/people/4263831-20261118-julio-iglesias-apres-plaintes-agressions-sexuelles-enquete-ouverte-contre-chanteur?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Élections espagnoles : Sánchez face à un pays divisé",
-          "summary": "À moins de deux semaines du scrutin du 29 novembre, Pedro Sánchez cherche à obtenir une majorité plus large pour mener ses réformes sur le logement, l’immigration et l’économie. Le parti d’extrême droite Vox, en ascension, bouleverse l’équilibre politique, tandis que les tensions sociales et économiques dominent le débat. L’enjeu est crucial pour l’avenir de l’Espagne et de son rôle en Europe.",
+          "headline": "Loi italienne sur l’antisémitisme suscite polémique",
+          "summary": "L’Italie a définitivement adopté mardi 17 novembre une loi définissant l’antisémitisme, critiquée pour sa confusion entre haine envers les Juifs et critiques de la politique israélienne. Le texte, qui n’introduit pas de nouveaux délits, est dénoncé par les opposants comme une tentative de museler les débats sur Israël. Les défenseurs y voient un outil de lutte contre les discours haineux. La mesure divise la classe politique et la société civile.",
           "sources": [
-            "Toute l'Europe",
-            "EURACTIV"
+            "Le Monde",
+            "Courrier International"
           ],
           "links": [
             {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-generales-en-espagne-logement-immigration-economie-pedro-sanchez-face-a-un-pays-sous-tension/"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/en-italie-la-nouvelle-loi-contre-l-antisemitisme-fait-polemique_6813182_3210.html"
             },
             {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/a-lapproche-des-elections-vox-transforme-deja-le-paysage-politique-espagnol/"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/politique-en-italie-la-loi-controversee-sur-l-antisemitisme-est-definitivement-adoptee_288427"
             }
-          ]
+          ],
+          "angles": "Le Monde et Courrier International adoptent un angle juridique et sociétal, soulignant les débats sur la liberté d’expression et les risques de dérive. Courrier International insiste sur le contexte politique italien, tandis que Le Monde met l’accent sur les implications pour les associations juives et pro-palestiniennes."
         }
       ]
     },
@@ -335,138 +206,182 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Procès historique contre le masculinisme à Paris",
-          "summary": "Sept hommes comparaissent mercredi et jeudi devant le tribunal judiciaire de Paris pour des messages haineux, misogynes, racistes et antisémites diffusés sur Telegram dans le cadre du canal « Femmeblancherie ». Ils font partie des 34 poursuivis pour « injure publique » ou « apologie de crime ». Le procès, rare en son genre, s’étend jusqu’au 6 janvier 2027. Les propos incluaient des références nazies et des appels à la violence.",
+          "headline": "Présidentielle 2027 : Tondelier ouvre à une coalition avec Mélenchon",
+          "summary": "Marine Tondelier, candidate écologiste, s’est déclarée prête à travailler à une coalition autour de Jean-Luc Mélenchon pour l’élection présidentielle de 2027, estimant sa dynamique de campagne « indéniable ». Elle propose une semaine de discussions avec La France insoumise. Les sondages lui attribuent 2 à 4 % des intentions de vote. Cette ouverture survient alors que les écologistes peinent dans les enquêtes d’opinion.",
           "sources": [
-            "RFI",
+            "Le Figaro",
             "France 24",
+            "France Info",
+            "20 Minutes",
             "Libération"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261118-masculinisme-sept-hommes-jug%C3%A9s-%C3%A0-paris-pour-des-messages-haineux-sur-telegram"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-a-la-traine-dans-les-sondages-presente-son-projet-a-date-20261118"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261118-premier-proc%C3%A8s-ampleur-masculinisme-s-ouvre-paris-sept-hommes-jug%C3%A9s"
+              "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4263974-20261118-presidentielle-2026-ecologiste-tondelier-envisage-coalition-autour-melenchon?at_medium=display&at_campaign=149"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/ce-genre-daudience-est-rare-sept-hommes-juges-pour-leur-participation-au-canal-telegram-masculiniste-femmeblancherie-20261118_XYNPOLY4MBD2XHPUNBHO6MJ6WU/"
+              "url": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
             }
           ]
         },
         {
-          "headline": "Réforme des retraites de Le Pen critiquée sur toute la ligne politique",
-          "summary": "Marine Le Pen a présenté mardi son projet de réforme des retraites, prévoyant un retour à 62 ans (voire 60 ans) financé par plus de travail et une dose de capitalisation obligatoire. Le Medef juge les modalités de financement « contestables », tandis que Jean-Luc Mélenchon (LFI) dénonce une « maltraitance sociale ». Les Républicains et Renaissance restent également sceptiques, sans proposer d’alternative claire.",
+          "headline": "Présidentielle 2027 : Édouard Philippe durcit son programme malgré le refus de la primaire",
+          "summary": "Édouard Philippe a présenté mercredi un projet marqué à droite, qualifié de « révolution » et « radical », incluant des réformes ambitieuses pour relancer sa campagne. Il maintient son opposition à une primaire de la droite et du centre, malgré les pressions. Les sondages montrent un affaiblissement de sa position face au « bloc central ». Les débats sur le périmètre et le calendrier de cette primaire persistent entre les camps Lisnard, Retailleau et Attal.",
           "sources": [
-            "Libération",
+            "Le Figaro",
             "Le Monde",
-            "France 24"
+            "Libération",
+            "France 24",
+            "RFI"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/le-medef-pas-convaincu-par-le-projet-de-reforme-des-retraites-de-marine-le-pen-20261118_ZSMW73X5SZGKLMNVR7ZTZBTJBA/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-processus-d-une-primaire-s-enclenche-dans-la-cacophonie-en-maintenant-la-pression-sur-edouard-philippe-20261118"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/18/de-lfi-a-lr-en-passant-par-le-medef-le-projet-de-reforme-des-retraites-de-marine-le-pen-critique-de-tous-bords_6813010_823449.html"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/elections/presidentielle-sous-pression-philippe-presente-sa-severe-revolution-20261118_YU2WM3Y3DRARDH6KKUGCFOOMJY/"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261118-pr%C3%A9sidentielle-2027-en-france-%C3%A9douard-philippe-mise-sur-des-r%C3%A9formes-radicales"
             }
           ],
-          "angles": "Libération et Le Monde soulignent les divisions politiques et les critiques transversales, tandis que France 24 détaille les mécanismes du projet sans approfondir les réactions politiques."
+          "angles": "Libération et Le Monde soulignent le virage à droite du programme, tandis que Le Figaro et France 24 insistent sur le refus catégorique de la primaire et les divisions internes à la droite."
         },
         {
-          "headline": "Présidentielle 2027 : duel Le Pen-Mélenchon probable au second tour",
-          "summary": "À cinq mois du scrutin, les sondages dessinent un face-à-face entre Marine Le Pen (RN) et Jean-Luc Mélenchon (LFI) au second tour. Gérard Darmanin (Horizons) prédit la victoire de ce dernier en cas d’affrontement, tandis qu’Édouard Philippe refuse une primaire et mise sur une « rupture » pour relancer sa campagne. Les équipes d’Attal (Renaissance), Retailleau (LR) et Lisnard (Nouvelle Énergie) tentent de s’accorder sur une primaire commune en janvier.",
+          "headline": "Budget 2027 de la Sécurité sociale : adoption au Sénat, négociations tendues avec l’Assemblée",
+          "summary": "Le Sénat a adopté en première lecture le projet de budget 2027 de la Sécurité sociale, incluant le rétablissement de la réforme des retraites de 2023. Une commission mixte paritaire (CMP) doit désormais rapprocher les positions des deux chambres, après le rejet initial du texte par l’Assemblée nationale. Les désaccords portent notamment sur les mesures sociales et les équilibres financiers.",
           "sources": [
-            "Libération",
             "Toute l'Europe",
-            "Le Figaro",
-            "France 24",
+            "France Info",
+            "20 Minutes",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/budget/le-senat-adopte-en-premiere-lecture-le-projet-de-budget-de-la-securite-sociale-pour-2027_8288699.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4263952-20261118-budget-2027-secu-adopte-senat-faudra-convaincre-deputes?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/18/budget-de-la-secu-2027-le-projet-de-texte-adopte-au-senat-en-premiere-lecture_6813180_823448.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/le-projet-de-budget-de-la-securite-sociale-adopte-au-senat-en-premiere-lecture-apres-son-rejet-par-lassemblee-20261118_MKVIZRWYSZDHHJLPXQB44B6TBU/"
+            }
+          ]
+        },
+        {
+          "headline": "Affaire Caubère : le parquet requiert un procès pour viols et proxénétisme",
+          "summary": "Le parquet de Créteil a demandé le renvoi devant une cour criminelle de Philippe Caubère pour viols aggravés, agressions sexuelles, corruption de mineures et proxénétisme, ainsi que de son ex-avocate Marie Dosé pour complicité de dissimulation de preuves. Trois plaignantes, mineures au moment des faits, accusent l’artiste de 76 ans. Les deux mis en cause contestent les accusations.",
+          "sources": [
+            "20 Minutes",
+            "Le Monde",
+            "France Info",
+            "Libération",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4263924-20261118-proces-viols-proxenetisme-requis-contre-comedien-philippe-caubere?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/18/affaire-philippe-caubere-le-ministere-public-demande-le-renvoi-en-cour-criminelle-du-comedien-et-de-l-avocate-marie-dose_6813169_3224.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/accusations-de-viol-contre-philippe-caubere-le-parquet-demande-un-proces-contre-le-comedien-20261118_BZV4VAF3F5H5LHWONVR7PJY5A4/"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/181126/le-parquet-demande-un-proces-pour-le-comedien-philippe-caubere-et-son-ancienne-avocate-marie-dose"
+            }
+          ],
+          "angles": "Libération et Le Monde détaillent les accusations et le contexte judiciaire, tandis que France Info et 20 Minutes mettent en avant la gravité des faits et les réactions des victimes."
+        },
+        {
+          "headline": "Condamnation en appel du policier auteur du meurtre d’Olivio Gomes",
+          "summary": "Gilles Guilbert, policier condamné pour le meurtre d’Olivio Gomes en 2020, a été condamné en appel à huit ans de prison, contre dix ans en première instance. La cour a rejeté son argument de légitime défense, estimant que l’usage d’une arme n’était pas « nécessaire ». Trois coups de feu avaient été tirés lors de la filature de la victime par des agents de la BAC.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
+            "Le Monde",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_8288852.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4263960-20261118-policier-condamne-appel-huit-ans-prison-meurtre-olivio-gomes-2020?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/18/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_6813196_3224.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-la-mort-dolivio-gomes-lex-policier-gilles-guilbert-condamne-a-huit-ans-de-prison-20261118_4JW7NPC2FZCY7DKTY5FMWJHYCQ/"
+            }
+          ]
+        },
+        {
+          "headline": "Condamnations de trois « revenantes » françaises de l’EI",
+          "summary": "Trois femmes françaises, dont deux ex-épouses d’Adrien Guihal (haut cadre de l’État islamique ayant revendiqué les attentats de Nice et Magnanville en 2016), ont été condamnées à des peines de cinq à douze ans de prison par la cour d’assises spéciale de Paris. Une ancienne militaire a également été jugée dans cette affaire. Ces condamnations illustrent la poursuite judiciaire des retours de combattants étrangers en Europe, avec des peines reflétant leur implication dans des réseaux terroristes.",
+          "sources": [
+            "France Info",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/presidentielle-darmanin-predit-la-victoire-de-melenchon-en-cas-de-second-tour-face-a-le-pen-20261118_IJQIHTAPPBHZFFWQDCAXM5CV4I/"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-a-cinq-mois-du-scrutin-un-duel-le-pen-melenchon-au-second-tour-se-dessine-dans-les-sondages/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html"
-            }
-          ],
-          "angles": "Libération et Le Figaro insistent sur les dynamiques internes à la droite et les stratégies de contournement de la primaire, tandis que Toute l'Europe et France 24 se concentrent sur les projections électorales et les sondages. Le Monde analyse les propositions concrètes d’Édouard Philippe."
-        },
-        {
-          "headline": "Mobilisations lycéennes : 3 000 élèves sanctionnés depuis septembre",
-          "summary": "Le ministère de l’Éducation nationale annonce que 3 000 élèves ont été convoqués en conseil de discipline depuis le début des mobilisations, dont une quinzaine exclus définitivement à Paris. Ces mesures visent à répondre aux « violences » commises lors des manifestations devant les établissements. Le contexte reste tendu, avec des tensions persistantes entre élèves et autorités.",
-          "sources": [
-            "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelque-3-000-eleves-sont-passes-en-conseil-de-discipline-entre-septembre-et-debut-novembre-du-fait-de-violences-lors-de-la-mobilisation-lyceenne_8288273.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Policiers en colère : manifestations devant Beauvau s’intensifient",
-          "summary": "Des dizaines, voire plusieurs centaines de policiers ont manifesté spontanément devant le ministère de l’Intérieur ce mercredi, à l’appel du syndicat d’extrême droite Alliance. Ils réclament de meilleures conditions de travail, dans un contexte de mobilisations répétées pour encadrer les manifestations et d’élections professionnelles. Une délégation a été reçue par le ministre, mais les revendications restent sans réponse concrète.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/des-policiers-en-colere-manifestent-devant-le-ministere-de-linterieur-a-lappel-du-syndicat-dextreme-droite-alliance-20261118_HR5RSIDEKVDZ5I64L2EK57SU3A/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestation-des-policiers/des-dizaines-de-policiers-manifestent-devant-le-ministere-de-l-interieur-lors-d-une-action-surprise_8288123.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/colere-noire-une-delegation-de-policiers-lance-une-marche-surprise-vers-un-lieu-de-pouvoir-a-paris-20261118"
-            }
-          ],
-          "angles": "Libération et France Info mettent l’accent sur l’aspect « surprise » et l’ampleur du rassemblement, tandis que Le Figaro souligne la dimension symbolique de la marche et le ton des revendications (« colère noire »)."
-        },
-        {
-          "headline": "Affaire Touloub : mère et père condamnés pour torture et mort de l’enfant",
-          "summary": "La mère d’Inass Touloub, fillette de 4 ans retrouvée morte près de l’autoroute A10 en 1987, a été condamnée à 20 ans de réclusion criminelle pour actes de torture, tandis que son père écope de 15 ans pour complicité. Les deux accusés, déjà incarcérés, étaient jugés pour la première fois depuis l’ouverture de l’enquête en 2021. L’affaire avait marqué les esprits par son caractère sordide et les circonstances de la découverte du corps.",
-          "sources": [
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html"
             }
           ]
         }
