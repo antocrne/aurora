@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:37:20Z",
+  "generated_at": "2026-11-18T13:18:23Z",
   "edition": "18 novembre 2026",
   "categories": [
     {
@@ -7,154 +7,165 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Sommet Chine : Poutine, Trump et Xi en négociation historique",
-          "summary": "Vladimir Poutine est arrivé en Chine pour un sommet tripartite avec Donald Trump et Xi Jinping à Shenzhen, marquant une rencontre rare comparée à Yalta. Les États-Unis y apparaissent affaiblis face à la montée en puissance de la Chine. Le président russe a également été accueilli avec faste malgré des frappes ukrainiennes ayant endommagé le pont de Crimée. Les tensions géopolitiques et économiques dominent les discussions.",
+          "headline": "Sommet tripartite Trump-Poutine-Xi en Chine",
+          "summary": "Donald Trump, Vladimir Poutine et Xi Jinping se réunissent jeudi 19 novembre à Shenzhen, en marge du sommet de la Coopération économique Asie-Pacifique (APEC). Première rencontre entre les trois dirigeants depuis plus d’un an, ce sommet inédit intervient dans un contexte géopolitique tendu. Kim Jong-un pourrait également y assister. Les médias chinois dépeignent Trump et Poutine comme des figures opposées, reflétant les intérêts stratégiques de Pékin.",
           "sources": [
             "Le Figaro",
-            "Courrier International",
+            "Libération",
             "Le Monde",
-            "France Info",
-            "BBC"
+            "France 24",
+            "France Info"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/vladimir-poutine-est-arrive-en-chine-ou-il-doit-rencontrer-donald-trump-et-xi-jinping-20261117"
+              "url": "https://www.lefigaro.fr/international/les-images-de-la-poignee-de-main-entre-donald-trump-et-vladimir-poutine-en-chine-sous-le-regard-de-xi-jinping-20261118"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/vu-de-moscou-poutine-xi-et-trump-reunis-a-shenzhen-les-comparaisons-avec-yalta-sont-bonnes-pour-faire-le-buzz_288241"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-vladimir-poutine-est-arrive-en-chine-ou-il-doit-rencontrer-donald-trump-et-xi-jinping-selon-moscou_6810982_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/coree-du-nord/kim-jong-un/kim-jong-un-va-t-il-rencontrer-donald-trump-en-chine_8286974.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Le Figaro insiste sur l'affaiblissement des États-Unis et les comparaisons avec Yalta, tandis que Courrier International nuance en soulignant que ces comparaisons relèvent davantage du buzz médiatique."
-        },
-        {
-          "headline": "Israël : Kahana élu président de la Knesset, victoire pour Eisenkot",
-          "summary": "Matan Kahana, allié du centriste Gadi Eisenkot et opposant à Benyamin Nétanyahou, a été élu président de la Knesset avec 66 voix sur 120. Ce résultat marque un coup dur pour le Premier ministre israélien, dont les accusations de fraude électorale contre les partis arabes sont remises en question. Les tensions politiques persistent en Israël après les législatives du 1er novembre.",
-          "sources": [
-            "France Info",
-            "Le Monde",
-            "RFI",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/asie-pacifique/rencontre-entre-donald-trump-xi-jinping-et-vladimir-poutine-en-chine-le-president-americain-est-arrive-a-shenzen-20261118_XT6AUM6DRFCVZESPNO5D7BQBWQ/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-alli%C3%A9-d-eisenkot-et-opposant-%C3%A0-netanyahu-%C3%A9lu-pr%C3%A9sident-de-la-knesset"
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p..."
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-les-chefs-d-%C3%A9tat-trump-poutine-et-jinping-r%C3%A9unis-en-chine"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-%5Bmonde%5D"
             }
           ]
         },
         {
-          "headline": "Rougeole : les États-Unis perdent leur statut d'élimination",
-          "summary": "Les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, après une résurgence de cas liée à une baisse de la couverture vaccinale et aux discours antivaccins de l'administration Trump. Depuis janvier, 12 décès ont été recensés, dont des enfants. Le Mexique et la Bolivie ont subi le même sort, un an après le Canada. L'Organisation panaméricaine de la Santé alerte sur cette crise sanitaire.",
+          "headline": "Victoire démocrate en Alaska renforce majorité au Sénat",
+          "summary": "Mary Peltola, candidate démocrate autochtone, a remporté mardi 17 novembre le siège sénatorial de l’Alaska, traditionnellement républicain, offrant à son parti une majorité de 56 sièges contre 44. Ce résultat parachève le basculement du Sénat lors des élections de mi-mandat, un revers pour Donald Trump et son camp. Les médias soulignent son profil atypique et son ancrage local.",
           "sources": [
             "Libération",
-            "France Info",
+            "Le Figaro",
             "Le Monde",
-            "France 24",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-20261117_NOO3PV3TINFC3MY5MVWJ6MAZ4U/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-les-%C3%A9tats-unis-perdent-leur-statut-de-pays-qui-a-%C3%A9limin%C3%A9-la-rougeole"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Libération met l'accent sur la responsabilité de l'administration Trump dans la crise, tandis que France Info et Le Monde soulignent davantage les conséquences sanitaires et les chiffres records."
-        },
-        {
-          "headline": "CAN 2027 : qualifications en cascade en Afrique",
-          "summary": "Plusieurs équipes africaines se sont qualifiées pour la CAN 2027 lors de la quatrième journée des éliminatoires. Le Mali, le Burkina Faso, le Bénin, le Cameroun et le Sénégal ont décroché leur billet. Le Maroc attend le verdict du TAS après sa victoire contre le Niger. L'Algérie et la Tunisie, en difficulté, n'ont pas réussi à se qualifier lors de cette journée.",
-          "sources": [
             "France 24",
             "RFI"
           ],
           "links": [
             {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/midterms-au-senat-les-democrates-soffrent-lalaska-et-leur-plus-large-majorite-depuis-barack-obama-20261118_RZMBH6R3HZEAXHWQZUJS7V6RKQ/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/senat-americain-les-democrates-remportent-l-alaska-et-etendent-leur-majorite-a-56-sieges-contre-44-20261118"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/sports/20261117-can-2027-le-burkina-faso-valide-son-billet-et-celui-du-b%C3%A9nin-le-mali-et-le-cameroun-qualifi%C3%A9s-%C3%A9galement"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-midterms-l-alaska-tourne-d%C3%A9mocrate-avec-l-%C3%A9lection-de-mary-peltola"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique-foot/20261117-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-d%C3%A9j%C3%A0-qualifi%C3%A9-r%C3%A9sultats-et-bilan-%C3%A0-l-issue-de-la-quatri%C3%A8me-journ%C3%A9e"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261118-s%C3%A9nat-am%C3%A9ricain-les-d%C3%A9mocrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorit%C3%A9-en-16-ans"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde insistent sur l'impact politique de cette victoire, tandis que Le Figaro et France 24 mettent en avant le portrait de Mary Peltola comme figure clé de cette élection."
         },
         {
-          "headline": "Crise en Haïti : le Salvador déploie des troupes sous mandat onusien",
-          "summary": "Plus de 2 000 soldats salvadoriens ont été déployés en Haïti fin octobre pour une mission de sauvetage d'aviateurs, dans le cadre d'une force internationale. Les Nations unies appellent à prioriser la protection de la population haïtienne, alors que le pays sombre dans le chaos. Ce déploiement s'inscrit dans un contexte de montée des violences et d'effondrement des institutions.",
+          "headline": "Condamnations de djihadistes français en Irak",
+          "summary": "Six Français, dont Thomas Barnouin, vétéran de la filière jihadiste d’Artigat, ont été condamnés à perpétuité par un tribunal irakien pour appartenance à l’État islamique (EI). Ils rejoignent dix autres déjà condamnés en octobre, dans le cadre du procès de 47 islamistes transférés de Syrie l’an dernier. Ces peines, théoriquement équivalentes à 20 ans en Irak, illustrent la coopération judiciaire entre Bagdad et Paris.",
           "sources": [
+            "Le Monde",
+            "Libération",
             "France 24"
           ],
           "links": [
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/irak-six-autres-djihadistes-francais-dont-thomas-barnouin-condamnes-a-perpetuite_6813126_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/lirak-condamne-six-jihadistes-francais-dont-thomas-barnouin-a-la-reclusion-a-perpetuite-20261118_ZTQ7ZLLIA5DFFNFRAOV3G35OOM/"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-que-fait-le-salvador-en-ha%C3%AFti"
+              "url": "https://www.france24.com/fr/moyen-orient/20261118-irak-condamne-six-autres-fran%C3%A7ais-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-organisation-terroriste-etat-islamique"
             }
           ]
         },
         {
-          "headline": "Conflit Israël-Palestine : sanctions britanniques et tensions en Cisjordanie",
-          "summary": "Le Royaume-Uni a sanctionné huit entreprises israéliennes impliquées dans la colonisation de la Cisjordanie, dont un projet immobilier majeur près de Jérusalem. Israël a menacé de « mesures de rétorsion ». Parallèlement, une Palestinienne de 72 ans a été tuée par des colons israéliens dans la bande de Gaza, selon le ministère de la Santé palestinien, tandis qu'Israël évoque une attaque préalable.",
+          "headline": "Escalade militaire entre Iran et États-Unis",
+          "summary": "Les États-Unis ont frappé mardi 18 novembre un site de missiles iranien sur l’île de Qeshm, déclenchant une riposte iranienne contre des cibles au Bahreïn et au Koweït. Téhéran a utilisé des drones, tandis que Washington nie toute escalade. Ces attaques surviennent alors que Donald Trump participe à un sommet en Chine avec Xi Jinping et Poutine, dans un contexte de tensions régionales accrues.",
           "sources": [
-            "RFI",
-            "BBC",
+            "France Info",
+            "Libération",
+            "Le Monde",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/liran-frappe-bahrein-et-le-koweit-apres-une-offensive-americaine-sur-lile-de-qeshm-20261118_6TKVWAU3JRCMLBFI4K2OUSFX2U/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261118-l-iran-frappe-au-bahre%C3%AFn-et-au-kowe%C3%AFt-apr%C3%A8s-des-frappes-am%C3%A9ricaines-contre-l-%C3%AEle-de-qeshm"
+            }
+          ],
+          "angles": "Libération et Le Monde détaillent les modalités des frappes et leur chronologie, tandis que France Info adopte un ton plus analytique sur les risques d’escalade régionale."
+        },
+        {
+          "headline": "Avancée des houthistes au Yémen vers Aden",
+          "summary": "Les rebelles houthistes, soutenus par l’Iran, progressent vers Aden, capitale provisoire du gouvernement yéménite pro-saoudien. Après avoir pris le contrôle du détroit de Bab al-Mandab, ils menacent désormais la ville, forçant les forces gouvernementales à se replier. Cette offensive s’inscrit dans un conflit régional où l’Arabie saoudite et l’Iran s’affrontent par procuration.",
+          "sources": [
+            "Mediapart",
+            "Le Figaro"
+          ],
+          "links": [
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/181126/les-houthistes-menacent-aden-capitale-du-gouvernement-yemenite"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/tout-proches-d-aden-les-houthistes-intensifient-leur-pression-sur-le-gouvernement-pro-saoudien-au-yemen-20261117"
+            }
+          ]
+        },
+        {
+          "headline": "Pannes informatiques massives aux États-Unis",
+          "summary": "Depuis le 12 novembre, les États-Unis subissent des pannes informatiques en cascade affectant Microsoft, le contrôle aérien, des banques et des administrations fédérales. Les autorités, dont le secrétaire d’État Marco Rubio, excluent tout lien malveillant ou coordonné, évoquant des causes techniques. Ces défaillances révèlent la vulnérabilité croissante des infrastructures américaines, notamment sous l’effet de l’intelligence artificielle.",
+          "sources": [
+            "France 24",
+            "Le Figaro",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261117-le-royaume-uni-sanctionne-huit-entreprises-isra%C3%A9liennes-impliqu%C3%A9es-dans-la-colonisation-de-la-cisjordanie"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-des-pannes-informatiques-en-s%C3%A9rie-aux-%C3%A9tats-unis-aucune-preuve-de-malveillance-selon-rubio"
             },
             {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/les-etats-unis-touches-par-des-pannes-informatiques-massives-en-serie-20261118"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-des-sanctions-britanniques-contre-des-entreprises-impliquees-dans-la-construction-de-colonies-israel-menace-de-mesures-de-retorsion_6813040_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html"
             }
-          ]
+          ],
+          "angles": "Le Figaro et France 24 décrivent les faits avec un ton factuel, tandis que Le Monde analyse les risques systémiques liés à l’IA et aux cybermenaces."
         }
       ]
     },
@@ -163,164 +174,157 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Pont de Crimée : frappe ukrainienne majeure",
-          "summary": "L’Ukraine a ciblé et endommagé le pont de Crimée, reliant la Russie à la péninsule annexée, lors d’une attaque nocturne qualifiée d'« opération sans précédent » par Volodymyr Zelensky. L’ouvrage, partiellement détruit, a suspendu la circulation. Kiev justifie cette frappe par les frappes russes sur ses infrastructures. Moscou a riposté en bombardant des ponts stratégiques à Kiev. L’attaque a nécessité des semaines de préparation.",
+          "headline": "Enquête ouverte contre Julio Iglesias pour agressions sexuelles",
+          "summary": "La justice espagnole a lancé une enquête contre le chanteur Julio Iglesias, âgé de 83 ans, après les plaintes de deux anciennes employées accusant des agressions sexuelles et des mauvais traitements en 2021 aux Bahamas et en République dominicaine. Les faits sont qualifiés de « délits contre la liberté sexuelle, violences et traitements dégradants ». L’artiste dément les accusations, qualifiées de « fausses ».",
           "sources": [
-            "Libération",
-            "France 24",
-            "Le Figaro",
             "Le Monde",
-            "BBC"
+            "France Info",
+            "Le Figaro",
+            "20 Minutes",
+            "Libération"
           ],
           "links": [
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/culture/la-justice-espagnole-ouvre-une-enquete-contre-le-chanteur-julio-iglesias-accuse-d-agressions-sexuelles-par-deux-anciennes-employees_8288225.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/culture/ouverture-d-une-enquete-sur-le-chanteur-julio-iglesias-apres-des-plaintes-pour-agressions-sexuelles-en-espagne-20261118"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/arts-stars/people/4263831-20261118-julio-iglesias-apres-plaintes-agressions-sexuelles-enquete-ouverte-contre-chanteur?at_medium=display&at_campaign=149"
+            },
+            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/mobilisation-sociale-soldats-francais-en-ukraine-pont-de-crimee-lactu-de-ce-mardi-17-novembre-20261117_COFKJTGAEBA5ZONZCCWP345L5I/"
+              "url": "https://www.liberation.fr/societe/police-justice/espagne-ouverture-dune-enquete-sur-le-chanteur-julio-iglesias-apres-des-plaintes-pour-agressions-sexuelles-20261118_7ZHJRU7YU5BPNJPGMRFTSODHEQ/"
+            }
+          ]
+        },
+        {
+          "headline": "Destruction partielle du pont de Crimée par l'Ukraine",
+          "summary": "L’Ukraine a infligé des dégâts majeurs au pont de Kertch reliant la Russie à la Crimée, dans la nuit du 17 novembre, avec des frappes qualifiées d'« opération sans précédent » par Volodymyr Zelensky. L’infrastructure stratégique, symbole de l’annexion de 2014, a vu une arche et une partie du tablier s’effondrer. Moscou accuse Kiev d’escalade, tandis que Kiev justifie l’attaque par les frappes russes sur ses infrastructures.",
+          "sources": [
+            "Courrier International",
+            "France Info",
+            "France 24",
+            "Mediapart",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/ukraine-pont-de-crimee-kiev-inflige-un-revers-symbolique-et-strategique-a-moscou_288324"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/le-pont-de-crimee-a-nouveau-vise-par-l-ukraine_8286692.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/une-operation-sans-precedent-l-ukraine-inflige-de-serieux-dommages-au-pont-de-kertch-reliant-la-russie-a-la-crimee-20261117"
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/181126/la-destruction-partielle-du-pont-de-crimee-une-avancee-majeure-pour-l-ukraine"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/le-pont-de-crimee-endommage-par-les-forces-ukrainiennes_6812962_3210.html"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.lemonde.fr/international/video/2026/11/18/guerre-en-ukraine-pourquoi-l-armee-ukrainienne-a-vise-ce-pont-strategique-en-crimee_6813095_3210.html"
             }
           ],
-          "angles": "Libération et France 24 soulignent l’aspect stratégique et symbolique de l’attaque, tandis que Le Figaro et Le Monde détaillent les modalités techniques (drones, missiles) et les conséquences logistiques. La BBC insiste sur le témoignage de civils près des zones frappées à Kiev."
+          "angles": "« Le Monde » et « France 24 » soulignent l’aspect symbolique et stratégique de l’attaque, tandis que « Courrier International » insiste sur son impact politique pour Vladimir Poutine lors de son déplacement en Chine. « Mediapart » met en avant l’avancée militaire ukrainienne, et « France Info » détaille les réactions immédiates de Zelensky."
         },
         {
-          "headline": "France en Ukraine : Moscou accuse Paris de « cobelligérance »",
-          "summary": "Des soldats français, déployés en Ukraine pour des missions de formation et de maintenance, ont été révélés par RFI. Le Kremlin a qualifié cette présence de « participation directe » à la guerre, une accusation rejetée par Paris. Le ministre Jean-Noël Barrot a affirmé que la France n’est « pas cobelligérante » et n’a « pas l’intention de l’être ». Jean-Luc Mélenchon a critiqué cette situation, évoquant un risque de basculement dans le conflit.",
+          "headline": "L'UE propose un prêt de 45 milliards d'euros à l'Ukraine",
+          "summary": "La Commission européenne a annoncé mercredi 18 novembre un prêt de 45 milliards d’euros pour l’Ukraine en 2027, destiné à combler son déficit budgétaire dans un contexte de guerre prolongée. Ursula von der Leyen a précisé que Kiev ne devra rembourser qu’après réparation des destructions causées par la Russie. L’aide vise aussi à renforcer la position ukrainienne dans les négociations avec Moscou.",
           "sources": [
             "RFI",
             "France Info",
-            "20 Minutes",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261117-soldats-fran%C3%A7ais-d%C3%A9ploy%C3%A9s-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-des-soldats-francais-deployes-en-ukraine_8286080.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4263668-20261117-guerre-ukraine-pont-symbolique-attaque-russie-menace-france-pentagone-critique?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/soldats-francais-deployes-en-ukraine-moscou-y-voit-une-participation-directe-au-conflit-20261117_2CANBP4NJJGFRNFF6IMDWBYWJE/"
-            }
-          ],
-          "angles": "France Info et RFI mettent en avant la réaction russe et les dénégations françaises, tandis que 20 Minutes lie ce sujet à l’attaque du pont de Crimée pour contextualiser l’escalade."
-        },
-        {
-          "headline": "Rwanda : cinq pays de l’UE signent un accord controversé",
-          "summary": "L’Allemagne, le Danemark, la Grèce, l’Autriche et les Pays-Bas ont signé un accord avec le Rwanda pour créer un centre de rétention de migrants expulsés de l’UE, prévu pour 2027. La France refuse ce projet, estimant qu’il « rompt avec les valeurs européennes ». L’opposition critique une externalisation des politiques migratoires, tandis que les pays signataires justifient cette mesure par la gestion des flux migratoires.",
-          "sources": [
-            "France Info",
-            "Toute l'Europe",
-            "EURACTIV",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/un-centre-au-rwanda-pour-les-migrants-expulses-d-europe_8286497.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/une-rupture-avec-les-valeurs-europeennes-cinq-pays-de-l-union-europeenne-s-accordent-avec-le-rwanda-sur-un-projet-de-centre-de-retour-pour-migrants/"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/centres-de-retour-au-rwanda-cinq-pays-de-lue-passent-a-la-vitesse-superieure/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/cela-ne-correspond-pas-aux-principes-qui-sont-les-notres-la-france-rejette-le-projet-de-centre-de-retour-pour-migrants-au-rwanda-20261116"
-            }
-          ],
-          "angles": "France Info et Le Figaro opposent le positionnement français (refus) à celui des cinq pays signataires, sans approfondir les détails opérationnels du centre. Toute l'Europe et EURACTIV soulignent le caractère inédit et politique de l’accord, évoquant un retour à une « solution rwandaise » déjà rejetée par le Royaume-Uni."
-        },
-        {
-          "headline": "Serbie : la liste étudiante prend le pouvoir",
-          "summary": "Les 140 députés de la liste étudiante serbe, élus le 25 octobre, ont pris leurs fonctions au Parlement, reprenant la majorité absolue à l’ancien président nationaliste Aleksandar Vučić. Leur priorité sera une purge de l’administration, accusée de corruption, et l’annulation de contrats jugés opaques avec des groupes européens et chinois. Les élus de Vučić ont été hués lors de leur entrée.",
-          "sources": [
-            "France Info",
-            "Le Monde",
+            "Le Figaro",
             "France 24"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/serbie-la-liste-etudiante-entre-au-parlement_8286926.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261118-l-ue-propose-un-nouveau-pr%C3%AAt-de-45-milliards-d-euros-%C3%A0-l-ukraine-pour-2027"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-kiev-pour-2027-20261118"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261117-serbie-la-majorit%C3%A9-issue-du-mouvement-%C3%A9tudiant-a-pr%C3%AAt%C3%A9-serment-au-parlement"
-            }
-          ],
-          "angles": "Le Monde et France 24 insistent sur le tournant politique et les promesses de transparence, tandis que France Info se concentre sur l’aspect symbolique et émotionnel de l’événement."
-        },
-        {
-          "headline": "Exercice militaire « Koalicja » en Pologne : 2 800 soldats mobilisés",
-          "summary": "Un exercice inédit nommé « Koalicja », dirigé par la France et le Royaume-Uni, rassemble 2 800 soldats de 11 pays en Pologne jusqu’au 22 novembre. Cette coalition multinationale vise à préparer une éventuelle intervention pour défendre l’Ukraine en cas de cessation des combats. Près de la moitié des participants sont français, et l’opération vise à améliorer la réactivité des forces engagées.",
-          "sources": [
-            "Le Monde",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-a-besoin-de-s-entrainer-en-pologne-un-exercice-inedit-mobilise-des-militaires-de-la-coalition-des-volontaires-pour-defendre-l-ukraine_8286437.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+              "url": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine"
             }
           ]
         },
         {
-          "headline": "Allemagne : scandale à la Deutsche Bank sur l’argent sale",
-          "summary": "Une fuite de 15 millions de documents internes révèle les pratiques douteuses de la Deutsche Bank, notamment son lien avec des clients sulfureux comme Donald Trump et des réseaux criminels. L’enquête, menée par un consortium international de médias, met en lumière des transferts d’argent liés à l’Azerbaïdjan et à des affaires de pédocriminalité. La banque se défend en affirmant avoir changé ses méthodes.",
+          "headline": "Cinq pays européens envisagent des expulsions vers le Rwanda",
+          "summary": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas prévoient d’envoyer au Rwanda des demandeurs d’asile déboutés, un projet critiqué par la France et les ONG comme un « abandon de responsabilité ». Le Rwanda, partenaire de l’UE, accueillerait ces migrants dans le cadre d’un « hub de retour ». Le sujet influence la campagne présidentielle française, où la question migratoire est centrale.",
           "sources": [
+            "France Info",
             "Le Monde",
-            "Courrier International",
-            "RFI",
-            "France Info"
+            "RFI"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-documents-secrets-qui-lient-donald-trump-a-l-argent-sale-azerbaidjanais_6812989_4355770.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/migrants/migrants-cinq-pays-europeens-envisagent-d-envoyer-au-rwanda-des-demandeurs-d-asile-deboutes_8287772.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/enquete-inside-deutsche-bank-les-sombres-secrets-de-la-banque-la-plus-puissante-d-allemagne_288227"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/18/un-abandon-flagrant-de-responsabilite-et-d-humanite-hrw-denonce-le-projet-de-cinq-pays-europeens-d-expulser-des-migrants-vers-le-rwanda_6813055_3210.html"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261117-allemagne-la-deutsche-bank-au-c%C5%93ur-d-un-nouveau-scandale-de-pratiques-douteuses"
+              "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261118-hubs-de-retour-pourquoi-les-europ%C3%A9ens-misent-sur-le-rwanda"
+            }
+          ],
+          "angles": "« Le Monde » et « HRW » dénoncent un manque d’humanité, tandis que « France Info » met en avant le contexte politique européen et français. Les angles divergent entre critique éthique (ONG) et justification sécuritaire (États membres)."
+        },
+        {
+          "headline": "Répression en Turquie : Sözcü TV sous tutelle étatique",
+          "summary": "La chaîne d’opposition turque Sözcü TV a été placée sous administration judiciaire après une perquisition policière à Istanbul, mardi 17 novembre. Ses dirigeants ont été arrêtés, et un administrateur nommé par le gouvernement a pris les rênes. Cette mesure s’inscrit dans une série de pressions sur les médias critiques, alors que le pouvoir d’Erdogan est fragilisé par un scandale financier.",
+          "sources": [
+            "France 24",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-turquie-les-directeurs-d-une-cha%C3%AEne-d-opposition-arr%C3%AAt%C3%A9s-par-les-autorit%C3%A9s-turques"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/allemagne/operations-en-russie-liens-avec-jeffrey-epstein-et-donald-trump-les-pratiques-de-la-deutsche-bank-revelees-par-une-enquete-internationale_8286254.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/turquie-sozcu-tv-derniere-grande-chaine-d-opposition-mise-sous-tutelle-par-les-autorites-apres-une-perquisition_6812975_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Élections espagnoles : Sánchez face à un pays divisé",
+          "summary": "À moins de deux semaines du scrutin du 29 novembre, Pedro Sánchez cherche à obtenir une majorité plus large pour mener ses réformes sur le logement, l’immigration et l’économie. Le parti d’extrême droite Vox, en ascension, bouleverse l’équilibre politique, tandis que les tensions sociales et économiques dominent le débat. L’enjeu est crucial pour l’avenir de l’Espagne et de son rôle en Europe.",
+          "sources": [
+            "Toute l'Europe",
+            "EURACTIV"
+          ],
+          "links": [
+            {
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-generales-en-espagne-logement-immigration-economie-pedro-sanchez-face-a-un-pays-sous-tension/"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/a-lapproche-des-elections-vox-transforme-deja-le-paysage-politique-espagnol/"
             }
           ]
         }
@@ -331,153 +335,138 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Grèves et manifestations : 500 000 manifestants selon la CGT",
-          "summary": "La France a connu une nouvelle journée de mobilisation sociale le 17 novembre 2026, avec des manifestations dans plusieurs villes. La CGT a recensé plus de 500 000 participants, tandis que le ministère de l'Intérieur en a compté 146 000. Les syndicats, notamment de la fonction publique, appelaient à une mobilisation massive pour réclamer des hausses de salaires et de meilleures conditions de travail. Les cortèges, bien que moins fournis qu'en octobre, restent revendicatifs et s'inscrivent dans une dynamique pré-électorale avant la présidentielle de 2027.",
+          "headline": "Procès historique contre le masculinisme à Paris",
+          "summary": "Sept hommes comparaissent mercredi et jeudi devant le tribunal judiciaire de Paris pour des messages haineux, misogynes, racistes et antisémites diffusés sur Telegram dans le cadre du canal « Femmeblancherie ». Ils font partie des 34 poursuivis pour « injure publique » ou « apologie de crime ». Le procès, rare en son genre, s’étend jusqu’au 6 janvier 2027. Les propos incluaient des références nazies et des appels à la violence.",
           "sources": [
-            "France Info",
-            "Libération",
+            "RFI",
             "France 24",
-            "Mediapart",
-            "20 Minutes"
+            "Libération"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261118-masculinisme-sept-hommes-jug%C3%A9s-%C3%A0-paris-pour-des-messages-haineux-sur-telegram"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens"
+              "url": "https://www.france24.com/fr/france/20261118-premier-proc%C3%A8s-ampleur-masculinisme-s-ouvre-paris-sept-hommes-jug%C3%A9s"
             },
             {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/171126/manifestations-du-17-novembre-entre-146-000-et-500-000-personnes-ont-defile-en-france"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4263432-20261117-direct-mobilisation-17-novembre-fonctionnaires-nouveau-rue-hausses-salaires?at_medium=display&at_campaign=149"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/ce-genre-daudience-est-rare-sept-hommes-juges-pour-leur-participation-au-canal-telegram-masculiniste-femmeblancherie-20261118_XYNPOLY4MBD2XHPUNBHO6MJ6WU/"
             }
-          ],
-          "angles": "Libération et Le Monde soulignent l'aspect revendicatif et la dimension pré-électorale des manifestations, tandis que France Info et 20 Minutes insistent sur le décalage entre les chiffres des syndicats et ceux du ministère de l'Intérieur. Mediapart et France 24 mettent en avant le contexte historique et la persistance du mouvement malgré un essoufflement progressif."
+          ]
         },
         {
-          "headline": "Réforme des retraites : Le Pen propose un âge légal à 60 ou 62 ans",
-          "summary": "Marine Le Pen a dévoilé le 17 novembre 2026 son projet de réforme des retraites, prévoyant un retour à un âge légal de départ à 60 ou 62 ans, financé par une dose de capitalisation obligatoire et des conditions de travail durcies. Ce projet, présenté comme une priorité dès son arrivée au pouvoir, suscite des critiques unanimes sur l'ensemble du spectre politique, jugé contradictoire ou antisocial. Les détails incluent des annuités et des aménagements pour les métiers pénibles ou les travailleurs non diplômés.",
+          "headline": "Réforme des retraites de Le Pen critiquée sur toute la ligne politique",
+          "summary": "Marine Le Pen a présenté mardi son projet de réforme des retraites, prévoyant un retour à 62 ans (voire 60 ans) financé par plus de travail et une dose de capitalisation obligatoire. Le Medef juge les modalités de financement « contestables », tandis que Jean-Luc Mélenchon (LFI) dénonce une « maltraitance sociale ». Les Républicains et Renaissance restent également sceptiques, sans proposer d’alternative claire.",
           "sources": [
-            "Le Figaro",
-            "RFI",
+            "Libération",
             "Le Monde",
-            "20 Minutes",
             "France 24"
           ],
           "links": [
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/reforme-des-retraites-de-marine-le-pen-un-depart-a-62-ans-en-trompe-l-oeil-20261117"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261117-pr%C3%A9sidentielle-2027-marine-le-pen-d%C3%A9voile-sa-r%C3%A9forme-des-retraites-qu-elle-veut-engager-d%C3%A8s-son-arriv%C3%A9e-au-pouvoir"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/social/le-medef-pas-convaincu-par-le-projet-de-reforme-des-retraites-de-marine-le-pen-20261118_ZSMW73X5SZGKLMNVR7ZTZBTJBA/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4263586-20261117-presidentielle-2027-pourquoi-marine-pen-fait-encore-evoluer-reforme-retraites?at_medium=display&at_campaign=149"
+              "url": "https://www.lemonde.fr/politique/article/2026/11/18/de-lfi-a-lr-en-passant-par-le-medef-le-projet-de-reforme-des-retraites-de-marine-le-pen-critique-de-tous-bords_6813010_823449.html"
             },
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies"
             }
           ],
-          "angles": "Le Figaro et RFI analysent les mesures techniques et leur cohérence économique, tandis que Le Monde et 20 Minutes mettent en avant les réactions politiques et les contradictions du projet. France 24 adopte un ton factuel, détaillant les mécanismes sans les commenter."
+          "angles": "Libération et Le Monde soulignent les divisions politiques et les critiques transversales, tandis que France 24 détaille les mécanismes du projet sans approfondir les réactions politiques."
         },
         {
-          "headline": "Affaire de l'A10 : les parents d'Inass condamnés à 20 et 15 ans",
-          "summary": "La cour d'assises du Loir-et-Cher a condamné le 17 novembre 2026 Halima El Bakhti à 20 ans de réclusion et Ahmed Touloub à 15 ans pour la mort de leur fille Inass Touloub, retrouvée martyrisée en 1987. Ce procès, l'un des plus anciens cold cases de France, s'est conclu après onze jours de débats. Les deux accusés, âgés de 72 et 74 ans, ont été incarcérés immédiatement. L'affaire avait marqué les esprits et inspiré plusieurs œuvres culturelles.",
+          "headline": "Présidentielle 2027 : duel Le Pen-Mélenchon probable au second tour",
+          "summary": "À cinq mois du scrutin, les sondages dessinent un face-à-face entre Marine Le Pen (RN) et Jean-Luc Mélenchon (LFI) au second tour. Gérard Darmanin (Horizons) prédit la victoire de ce dernier en cas d’affrontement, tandis qu’Édouard Philippe refuse une primaire et mise sur une « rupture » pour relancer sa campagne. Les équipes d’Attal (Renaissance), Retailleau (LR) et Lisnard (Nouvelle Énergie) tentent de s’accorder sur une primaire commune en janvier.",
           "sources": [
-            "Le Monde",
             "Libération",
-            "France Info",
+            "Toute l'Europe",
             "Le Figaro",
-            "20 Minutes"
+            "France 24",
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html"
-            },
-            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/affaire-de-la-petite-inconnue-de-la10-la-mere-et-le-pere-condamnes-a-20-ans-et-15-ans-de-reclusion-criminelle-20261117_FLR7DAUR6NCA5DKMHSTC24FLKQ/"
+              "url": "https://www.liberation.fr/politique/presidentielle-darmanin-predit-la-victoire-de-melenchon-en-cas-de-second-tour-face-a-le-pen-20261118_IJQIHTAPPBHZFFWQDCAXM5CV4I/"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/proces-des-parents-de-la-petite-martyre-de-l-a10-la-mere-d-inass-touloub-est-condamnee-a-vingt-ans-de-reclusion-son-pere-a-quinze-ans_8286656.html#xtor=RSS-3-[lestitres]"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-a-cinq-mois-du-scrutin-un-duel-le-pen-melenchon-au-second-tour-se-dessine-dans-les-sondages/"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/la-mere-de-la-martyre-de-l-a10-condamnee-a-20-ans-de-reclusion-criminelle-le-pere-a-15-ans-dans-ce-proces-l-horreur-a-une-place-immense-20261117"
+              "url": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4263568-20261117-martyre-a10-parents-inass-condamnes-20-15-ans-reclusion-mort-fillette?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html"
+            }
+          ],
+          "angles": "Libération et Le Figaro insistent sur les dynamiques internes à la droite et les stratégies de contournement de la primaire, tandis que Toute l'Europe et France 24 se concentrent sur les projections électorales et les sondages. Le Monde analyse les propositions concrètes d’Édouard Philippe."
+        },
+        {
+          "headline": "Mobilisations lycéennes : 3 000 élèves sanctionnés depuis septembre",
+          "summary": "Le ministère de l’Éducation nationale annonce que 3 000 élèves ont été convoqués en conseil de discipline depuis le début des mobilisations, dont une quinzaine exclus définitivement à Paris. Ces mesures visent à répondre aux « violences » commises lors des manifestations devant les établissements. Le contexte reste tendu, avec des tensions persistantes entre élèves et autorités.",
+          "sources": [
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelque-3-000-eleves-sont-passes-en-conseil-de-discipline-entre-septembre-et-debut-novembre-du-fait-de-violences-lors-de-la-mobilisation-lyceenne_8288273.html#xtor=RSS-3-[lestitres]"
             }
           ]
         },
         {
-          "headline": "Présidentielle 2027 : Darmanin prédit une victoire de Mélenchon sur Le Pen",
-          "summary": "Gérald Darmanin a affirmé le 17 novembre 2026 que Jean-Luc Mélenchon pourrait battre Marine Le Pen au second tour de la présidentielle de 2027, appelant la droite et le centre à éviter une primaire pour se rallier à Édouard Philippe. Cette prise de position, jugée minoritaire, intervient alors que les camps Attal, Retailleau et Lisnard préparent une primaire fin janvier en l'absence de Philippe. Les débats entre candidats ont porté sur les enjeux économiques et sociaux, avec une absence notable d'Édouard Philippe.",
+          "headline": "Policiers en colère : manifestations devant Beauvau s’intensifient",
+          "summary": "Des dizaines, voire plusieurs centaines de policiers ont manifesté spontanément devant le ministère de l’Intérieur ce mercredi, à l’appel du syndicat d’extrême droite Alliance. Ils réclament de meilleures conditions de travail, dans un contexte de mobilisations répétées pour encadrer les manifestations et d’élections professionnelles. Une délégation a été reçue par le ministre, mais les revendications restent sans réponse concrète.",
           "sources": [
-            "20 Minutes",
+            "Libération",
+            "France Info",
             "Le Figaro"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4263688-20261117-presidentielle-2027-darmanin-affirme-melenchon-gagnera-election-face-pen?at_medium=display&at_campaign=149"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/des-policiers-en-colere-manifestent-devant-le-ministere-de-linterieur-a-lappel-du-syndicat-dextreme-droite-alliance-20261118_HR5RSIDEKVDZ5I64L2EK57SU3A/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/manifestation-des-policiers/des-dizaines-de-policiers-manifestent-devant-le-ministere-de-l-interieur-lors-d-une-action-surprise_8288123.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-detaille-ce-mardi-son-projet-de-reforme-des-retraites-20261117"
+              "url": "https://www.lefigaro.fr/actualite-france/colere-noire-une-delegation-de-policiers-lance-une-marche-surprise-vers-un-lieu-de-pouvoir-a-paris-20261118"
             }
           ],
-          "angles": "Le Figaro insiste sur la division de la droite et les enjeux stratégiques, tandis que 20 Minutes met en avant la déclaration de Darmanin comme élément de surprise dans le paysage politique."
+          "angles": "Libération et France Info mettent l’accent sur l’aspect « surprise » et l’ampleur du rassemblement, tandis que Le Figaro souligne la dimension symbolique de la marche et le ton des revendications (« colère noire »)."
         },
         {
-          "headline": "Proposition de loi : interdire les gaz lacrymogènes contre les manifestants",
-          "summary": "Les députés de La France insoumise préparent une proposition de loi pour interdire l'usage des gaz lacrymogènes lors des manifestations, en raison des risques sanitaires accrus pour les femmes. Ce texte s'inscrit dans un contexte de mobilisations sociales persistantes et de débats sur les méthodes de maintien de l'ordre. Les députés soulignent les effets néfastes des gaz irritants, notamment sur la santé reproductive.",
+          "headline": "Affaire Touloub : mère et père condamnés pour torture et mort de l’enfant",
+          "summary": "La mère d’Inass Touloub, fillette de 4 ans retrouvée morte près de l’autoroute A10 en 1987, a été condamnée à 20 ans de réclusion criminelle pour actes de torture, tandis que son père écope de 15 ans pour complicité. Les deux accusés, déjà incarcérés, étaient jugés pour la première fois depuis l’ouverture de l’enquête en 2021. L’affaire avait marqué les esprits par son caractère sordide et les circonstances de la découverte du corps.",
           "sources": [
-            "Libération"
+            "France 24"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/sante/une-proposition-de-loi-bientot-deposee-pour-interdire-lusage-des-gaz-lacrymogenes-contre-les-manifestants-20261117_GOLYCDTSQJA2PG7CGPZ27ECB5A/"
-            }
-          ]
-        },
-        {
-          "headline": "Suppression des interdictions de location pour les passoires thermiques",
-          "summary": "L'Assemblée nationale a adopté le 17 novembre 2026 un amendement du Rassemblement national supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique (DPE). Ce vote va plus loin que le texte initial, qui prévoyait déjà un assouplissement des règles sur les passoires thermiques. La mesure suscite des critiques quant à son impact environnemental et social.",
-          "sources": [
-            "Le Monde",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4263677-20261117-logement-interdictions-louer-liees-diagnostic-energetique-supprimees-deputes?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case"
             }
           ]
         }
