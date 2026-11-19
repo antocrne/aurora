@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:42:54Z",
-  "edition": "19 novembre 2026",
+  "generated_at": "2026-11-19T23:10:16Z",
+  "edition": "20 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "CIJ reconnaît le génocide des Rohingyas en Birmanie",
-          "summary": "La Cour internationale de justice (CIJ) a statué jeudi 19 novembre que la Birmanie a commis un génocide contre la minorité musulmane rohingya en 2017, avec des milliers de civils tués et des violences systématiques. Les témoignages évoquent viols collectifs et exécutions de masse. Cette décision pourrait influencer d’autres conflits, comme en Ukraine ou à Gaza. Le Bangladesh, où plus d’un million de Rohingyas sont réfugiés, voit leur situation se dégrader en raison d’une crise de financement.",
+          "headline": "Birmanie : la CIJ reconnaît le génocide des Rohingyas",
+          "summary": "La Cour internationale de justice (CIJ) a statué jeudi 19 novembre que la Birmanie a commis un génocide contre la minorité musulmane rohingya en 2017, ordonnant des réparations et le retour sécurisé des réfugiés. Environ 10 000 Rohingyas ont été tués, et des actes de violence sexuelle systématiques ont été documentés. La décision, historique, pourrait influencer d'autres conflits comme ceux de Gaza ou d'Ukraine. Plus d'un million de Rohingyas vivent toujours dans des camps au Bangladesh.",
           "sources": [
-            "France Info",
-            "France 24",
             "Le Monde",
+            "Courrier International",
+            "France 24",
             "RFI",
             "Libération"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/droits-humains-la-birmanie-a-commis-un-genocide-contre-les-rohingyas-selon-la-cour-internationale-de-justice_288689"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-%C3%A0-l-encontre-des-rohingyas-d%C3%A9clare-la-cij"
             },
             {
               "source": "RFI",
@@ -35,138 +35,20 @@
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U/"
+              "url": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-en-birmanie-une-reconnaissance-historique-aux-resonances-internationales-20261119_SMD5LGHKP5FNFLOWYVCVUQWBPU/"
             }
           ],
-          "angles": "Le Monde et RFI insistent sur la portée juridique et humanitaire du verdict, tandis que France 24 et Libération soulignent ses répercussions géopolitiques potentielles (Ukraine, Gaza). France Info met en avant le chiffre de 10 000 morts confirmés."
+          "angles": "Le Monde et Libération soulignent les résonances internationales et les détails juridiques de l'arrêt, tandis que France 24 et RFI insistent sur l'aspect historique et les conséquences pour les réfugiés. Courrier International met en avant l'impact potentiel sur les politiques internationales."
         },
         {
-          "headline": "Sommet Trump-Xi-Poutine : symbolique plus que résultats",
-          "summary": "Les présidents américain, chinois et russe se sont réunis jeudi 19 novembre à Shenzhen pour un sommet trilatéral inédit, marquant un basculement géopolitique. Ils ont adopté une « déclaration de paix » non contraignante, évoquant la stabilité stratégique et l’opposition à la guerre nucléaire, sans avancer sur des engagements concrets. La rencontre, d’une durée d’environ 80 minutes, a été perçue comme un signal de coordination entre les trois puissances, au détriment de l’Europe et des alliés traditionnels des États-Unis.",
+          "headline": "Sommet Trump-Xi-Poutine : une déclaration sans réorganisation mondiale",
+          "summary": "Donald Trump, Vladimir Poutine et Xi Jinping se sont rencontrés jeudi 19 novembre à Shenzhen pour une première trilatérale, adoptant une « déclaration de paix » et appelant à la « stabilité stratégique ». Macron a rejeté l'idée d'une réorganisation géopolitique, tandis que Poutine semble avoir été marginalisé dans le protocole. Les engagements restent vagues, sans accord contraignant. La rencontre intervient dans un contexte de tensions accrues en Ukraine et en Asie.",
           "sources": [
             "Le Figaro",
+            "Libération",
+            "France Info",
             "France 24",
-            "Le Monde",
-            "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261119-sommet-entre-xi-jinping-donald-trump-et-vladimir-poutine-poker-mondial"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-les-coulisses-d-une-rencontre-historique-entre-xi-jinping-vladimir-poutine-et-donald-trump_6813276_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/rencontre-trump-xi-poutine-a-shenzhen-tondelier-tend-la-main-a-melenchon-tableau-de-van-gogh-vendu-1904-millions-de-dollars-lactu-de-ce-jeudi-19-novembre-au-matin-20261119_QJZHRT26DFCIRH7WHW3WXUJPOE/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/a-suivre-alban-mikoczy-trump-poutine-xi-un-nouvel-ordre-mondial_8289467.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ],
-          "angles": "Le Figaro et Le Monde analysent la dimension historique et les enjeux de pouvoir, tandis que France 24 et France Info adoptent un ton plus interrogatif, évoquant un « poker mondial » et une possible exclusion de l’Europe. Libération intègre ce sujet dans une compilation d’actualités sans approfondissement spécifique."
-        },
-        {
-          "headline": "Anthropic entre en Bourse avec une valorisation record",
-          "summary": "La start-up californienne Anthropic, spécialisée en intelligence artificielle et créatrice du modèle Claude, a réalisé une introduction en Bourse (IPO) jeudi 19 novembre sur le Nasdaq, levant 81 milliards de dollars. Cette opération en fait l’une des entreprises les plus valorisées au monde. Anthropic se positionne comme un rival d’OpenAI, avec un modèle perçu comme plus sécurisé et performant. L’argent levé servira à financer ses coûts de recherche et développement, notamment dans l’IA générative.",
-          "sources": [
-            "Courrier International",
-            "Le Monde",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/explainer/tout-s-explique-ipo-d-anthropic-qu-est-ce-qu-une-introduction-en-bourse_244721_1"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-comment-anthropic-a-detrone-openai_6813227_3234.html"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "headline": "Arabie saoudite : attaque houthiste sur Riyad",
-          "summary": "Un missile lancé par les rebelles houthis a frappé jeudi 19 novembre le quartier financier de Riyad, endommageant la tour du fonds souverain saoudien. La coalition menée par l’Arabie saoudite a intercepté une première salve de missiles plus tôt dans la journée. Les Houthis, soutenus par l’Iran, ont nié la responsabilité et accusé Riyad d’avoir bombardé Sanaa. Cette escalade s’inscrit dans le conflit au Yémen, où les tensions entre l’Arabie saoudite et ses rivaux régionaux persistent.",
-          "sources": [
-            "Le Monde",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/arabie-saoudite-le-quartier-financier-de-riyad-de-nouveau-attaque-la-tour-du-fonds-souverain-endommagee_6813250_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261119-arabie-saoudite-riyad-vis%C3%A9e-missile-houthi-tour-aramco-endommag%C3%A9e"
-            }
-          ]
-        },
-        {
-          "headline": "Hakeem Jeffries devient premier président noir de la Chambre des représentants",
-          "summary": "Le démocrate Hakeem Jeffries a été désigné jeudi 18 novembre comme futur président de la Chambre des représentants des États-Unis, devenant le premier Afro-Américain à occuper ce poste. Il prendra ses fonctions le 3 janvier 2027, après la victoire écrasante des démocrates aux élections de mi-mandat. Bien soutenu par son parti, il reste contesté par l’aile gauche, critique envers sa modération politique.",
-          "sources": [
-            "Courrier International",
-            "RFI",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/politique-hakeem-jeffries-devrait-devenir-le-premier-president-noir-de-la-chambre-des-representants-aux-etats-unis_288489"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261118-%C3%A9tats-unis-le-d%C3%A9mocrate-hakeem-jeffries-bient%C3%B4t-%C3%A0-la-pr%C3%A9sidence-de-la-chambre-des-repr%C3%A9sentants"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/etats-unis-pas-maga-et-un-peu-idiot-musk-regrette-les-centaines-de-millions-depenses-en-vain-pour-le-parti-republicain-20261119_TNZ6OH624ZFM7ILJCFJFKD5XAI/"
-            }
-          ],
-          "angles": "Courrier International et RFI soulignent la portée symbolique et les divisions internes au Parti démocrate, tandis que Libération intègre cette information dans un contexte plus large de résultats électoraux."
-        },
-        {
-          "headline": "Kenya : consortium américain remporte un contrat minier géant face à la Chine",
-          "summary": "Un consortium américain a remporté jeudi 19 novembre un contrat pour exploiter le gisement de Mrima Hill au Kenya, estimé à plus de 60 milliards de dollars en minerais critiques. Ce succès marque un recul pour les entreprises chinoises, traditionnellement dominantes dans ce secteur en Afrique. Le projet pourrait renforcer la dépendance du Kenya aux investissements occidentaux dans les ressources stratégiques.",
-          "sources": [
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "europe",
-      "label": "Europe",
-      "topics": [
-        {
-          "headline": "Sommet Chine-Russie-USA : une déclaration de paix controversée",
-          "summary": "Donald Trump, Vladimir Poutine et Xi Jinping ont adopté jeudi 19 novembre à Shenzhen une «déclaration de paix» lors d’un sommet trilatéral inédit. Poutine y a évoqué une possible implication d’Européens dans des pourparlers sur l’Ukraine, tandis que la Russie a exhibé sa valise nucléaire lors de la rencontre. Les craintes portent sur des arrangements géopolitiques au détriment de l’Ukraine et de l’Europe. La réunion s’est tenue parallèlement à une réunion de la coalition des alliés ukrainiens à Berlin.",
-          "sources": [
-            "Le Figaro",
-            "Libération",
-            "RFI",
-            "Le Monde",
-            "France 24"
+            "Le Monde"
           ],
           "links": [
             {
@@ -178,34 +60,186 @@
               "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-trump-poutine-et-xi-suivez-la-rencontre-au-sommet-a-shenzhen-20261119_NCAHEZDLBNFVXBZWTWEWFRCJTQ/"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-shenzen-trump-estime-%C3%A9crire-l-histoire-c%C3%B4t%C3%A9s-poutine-xi-rencontre-tripartite"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-etats-unis-chine-et-russie-dans-une-position-unique-pour-reduire-les-arsenaux-nucleaires-affirme-donald-tump_6810982_3210.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/chine/trump-poutine-xi-le-bilan-d-un-sommet-historique_8290289.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-replay-la-r%C3%A9union-tripartite-entre-trump-poutine-et-xi-d%C3%A9bute"
+              "url": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-shenzhen-vladimir-poutine-grand-humili%C3%A9-xi-jinping-trump-apec"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-les-coulisses-d-une-rencontre-historique-entre-xi-jinping-vladimir-poutine-et-donald-trump_6813276_3210.html"
             }
           ],
-          "angles": "Libération et Le Monde soulignent les risques pour l’Ukraine et l’Europe, tandis que Le Figaro et France 24 insistent sur le symbolisme de la valise nucléaire et les tensions entre les blocs. RFI met en avant le contexte des crises multiples et les craintes d’isolation de l’Europe."
+          "angles": "Le Figaro et France 24 analysent la dynamique de pouvoir entre les trois dirigeants, tandis que Libération et Le Monde se concentrent sur les réactions internationales et les limites de la déclaration. France Info adopte un ton factuel, décrivant les engagements sans interprétation."
         },
         {
-          "headline": "Cyberattaque contre la Commission européenne : des données personnelles potentiellement compromises",
-          "summary": "La Commission européenne a confirmé jeudi 19 novembre avoir subi une cyberattaque assistée par l’intelligence artificielle fin octobre. L’incident, détecté le 22 octobre, a perturbé plusieurs systèmes internes pendant près de dix jours. Aucune preuve de vol de données personnelles n’a été établie, mais l’ampleur de l’attaque reste floue. Politico évoque une campagne de piratage d’envergure.",
+          "headline": "Anthropic : l'IA entre en Bourse avec une valorisation record",
+          "summary": "Anthropic, entreprise derrière l'IA Claude, a fait son entrée en Bourse jeudi 19 novembre avec une valorisation de 1750 milliards de dollars, devenant l'une des entreprises les plus valorisées au monde. Les employés sont devenus multimillionnaires, reflétant l'engouement pour le secteur. Cette opération pourrait précéder une introduction en Bourse d'OpenAI. Les marchés semblent redonner confiance à l'IA après une période de turbulences.",
+          "sources": [
+            "France 24",
+            "Courrier International",
+            "RFI",
+            "France Info",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261119-anthropic-fait-son-entr%C3%A9%C3%A9-en-bourse"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/tech-avec-l-entree-en-bourse-d-anthropic-des-employes-soudainement-multimillionnaires_288703"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261119-anthropic-entr%C3%A9e-bourse-r%C3%A9alisant-la-plus-importante-lev%C3%A9e-de-fonds-de-l-histoire"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/bourse/l-entreprise-americaine-d-intelligence-artificielle-anthropic-signe-une-entree-en-bourse-historique-en-detronant-spacex_8290763.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "France 24 et RFI analysent l'impact sur les investisseurs et le secteur, tandis que Courrier International met en avant les conséquences sociales pour San Francisco. Les angles financiers et technologiques dominent, avec peu de divergence entre les médias."
+        },
+        {
+          "headline": "23 % des enfants vivent en zone de conflit : un record",
+          "summary": "Un rapport de Save the Children révèle que 589 millions d'enfants, soit un quart de la population mondiale, vivent dans des zones de conflit en 2026. Les régions les plus touchées incluent l'Afrique subsaharienne, le Yémen, l'Ukraine, la Birmanie et l'Afghanistan. Ce chiffre a plus que doublé depuis les années 1990, reflétant une aggravation des crises humanitaires. L'ONG alerte sur les conséquences dramatiques pour les générations futures.",
           "sources": [
             "France Info",
-            "Libération",
-            "20 Minutes",
-            "Le Figaro",
-            "Toute l'Europe"
+            "Le Monde",
+            "RFI",
+            "France 24"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/pres-d-un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-selon-l-ong-save-the-children_6813367_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/monde/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-accentuant-la-pr%C3%A9sence-militaire-am%C3%A9ricaine-au-groenland"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-avec-les-%C3%A9tats-unis-et-le-groenland"
+            }
+          ]
+        },
+        {
+          "headline": "Groenland : le Danemark renforce la présence militaire américaine",
+          "summary": "Le Parlement danois a ratifié jeudi 19 novembre un accord permettant aux États-Unis d'étendre leur présence militaire au Groenland, incluant la construction de deux nouvelles bases et l'installation d'un système de défense antimissile. Cet accord, signé en septembre, vise à sécuriser la région stratégique dans un contexte de tensions géopolitiques accrues. Il s'inscrit dans la stratégie de Donald Trump pour contrer les influences chinoises et russes.",
+          "sources": [
+            "RFI",
+            "France 24",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/monde/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-accentuant-la-pr%C3%A9sence-militaire-am%C3%A9ricaine-au-groenland"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-avec-les-%C3%A9tats-unis-et-le-groenland"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ]
+        },
+        {
+          "headline": "Moyen-Orient : la guerre pèse durablement sur les marchés énergétiques",
+          "summary": "L'Agence internationale de l'énergie (AIE) prévoit un impact durable sur le secteur énergétique mondial, avec un pic pétrolier attendu vers 2030 et une accélération des énergies renouvelables. La fermeture du détroit d'Ormuz, liée aux tensions entre les États-Unis et l'Iran, a réduit les exportations irakiennes de pétrole à un tiers. Malgré une transition vers l'électrification, les émissions de gaz à effet de serre restent insuffisamment maîtrisées pour limiter le réchauffement climatique.",
+          "sources": [
+            "RFI",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261119-%C3%A9nergie-apr%C3%A8s-un-choc-immense-la-guerre-au-moyen-orient-laissera-un-impacte-durable-selon-l-aie"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html#xtor=RSS-3-%5Bmonde%5D"
+            }
+          ],
+          "angles": "France Info adopte une approche globale, incluant les enjeux climatiques, tandis que RFI se concentre sur les conséquences immédiates pour l'Irak et les travailleurs pétroliers."
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "label": "Europe",
+      "topics": [
+        {
+          "headline": "Macron relance l’adhésion ukrainienne à l’OTAN",
+          "summary": "Emmanuel Macron a appelé les alliés de l’Ukraine, réunis à Berlin, à rouvrir la question de son adhésion à l’OTAN, tout en exigeant des livraisons immédiates de systèmes de défense antiaériens. La réunion de la « coalition des volontaires » visait aussi à contrer l’influence du sommet tripartite Trump-Poutine-Xi en Chine. L’Ukraine, sous pression militaire, a intensifié ses frappes en Crimée, provoquant des représailles russes. Les États-Unis ont évoqué une protection de type OTAN pour Kiev.",
+          "sources": [
+            "France 24",
+            "20 Minutes",
+            "Le Figaro",
+            "RFI",
+            "Courrier International"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261119-macron-demande-alli%C3%A9s-ukraine-rouvrir-question-son-adh%C3%A9sion-otan"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4264171-20261119-guerre-ukraine-poutine-menace-repliquer-durement-macron-demande-allies-maximum?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/a-berlin-la-coalition-des-volontaires-repose-la-question-de-l-adhesion-de-l-ukraine-a-l-otan-20261119"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261119-guerre-en-ukraine-la-coalition-des-volontaires-r%C3%A9unie-%C3%A0-berlin-pour-r%C3%A9affirmer-son-soutien-%C3%A0-kiev"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/vu-d-allemagne-la-coalition-des-volontaires-reunie-a-berlin-pour-contrer-le-spectacle-de-poutine-en-chine_288659"
+            }
+          ],
+          "angles": "France 24 et Le Figaro soulignent l’initiative française et son contexte géopolitique, tandis que 20 Minutes et RFI insistent sur les menaces russes et les actions militaires ukrainiennes. Courrier International analyse cette réunion comme une réponse directe au sommet sino-russo-américain."
+        },
+        {
+          "headline": "Cyberattaque par IA contre la Commission européenne",
+          "summary": "La Commission européenne a confirmé une cyberattaque assistée par l’intelligence artificielle en octobre, utilisant un outil chinois open source détourné (Artex). Aucune violation de données n’a été prouvée, mais l’incident révèle une vulnérabilité croissante des institutions face aux attaques automatisées. Les détails sur l’ampleur et l’origine restent flous. La presse évoque un usage abusif d’outils d’IA sans préciser les responsables.",
+          "sources": [
+            "Le Monde",
+            "EURACTIV",
+            "France Info",
+            "Libération",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/pixels/article/2026/11/19/une-cyberattaque-assistee-par-l-ia-a-cible-la-commission-europeenne-en-octobre_6813314_4408996.html"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/une-cyberattaque-boostee-par-lia-confirmee-par-la-commission-europeenne/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "Libération",
@@ -213,48 +247,71 @@
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4264137-20261119-commission-europeenne-ciblee-cyberattaque-assistee-ia?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-visee-par-une-cyberattaque-assistee-par-l-ia-des-donnees-personnelles-potentiellement-compromises-20261119"
-            },
-            {
-              "source": "Toute l'Europe",
-              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/ukraine-la-commission-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-dans-un-contexte-budgetaire-tendu/"
+              "url": "https://www.20minutes.fr/high-tech/by-the-web/4264183-20261119-quoi-artex-logiciel-ia-chinois-utilise-pirater-commission-europeenne?at_medium=display&at_campaign=149"
             }
           ],
-          "angles": "Libération et 20 Minutes se concentrent sur la nature de l’attaque et son lien avec l’IA, tandis que Le Figaro et France Info ajoutent des détails sur les perturbations opérationnelles et les risques pour les données. Aucun angle éditorial distinct n’apparaît."
+          "angles": "Libération et Le Monde adoptent un ton factuel sur les risques technologiques, tandis que EURACTIV et France Info mettent l’accent sur l’aspect opérationnel et les incertitudes persistantes."
         },
         {
-          "headline": "Danemark : la Première ministre adopte la théorie du « grand remplacement »",
-          "summary": "Mette Frederiksen, Première ministre danoise, a réaffirmé mardi 17 novembre dans un podcast sa crainte d’un « grand remplacement » de la population, une théorie complotiste identitaire. Ses propos, salués par l’extrême droite européenne, marquent un glissement supplémentaire vers des positions nationalistes sur l’immigration. Le Danemark reste le seul pays européen à appliquer des quotas de logement pour les migrants.",
+          "headline": "L’UE reporte sa loi contre les fuites de méthane",
+          "summary": "L’Union européenne a convenu d’un report de deux ans pour l’application de sa loi contre les émissions de méthane, initialement prévue pour 2027. Ce compromis, négocié entre la Commission, les États membres et le Parlement, vise à concilier urgences climatiques et sécurité énergétique. Les États-Unis et le secteur pétrogazier avaient exercé des pressions pour assouplir le texte. La décision intervient alors que l’UE appelle à des actions fortes lors de la COP31.",
           "sources": [
-            "RFI",
-            "Le Monde",
-            "Libération"
+            "EURACTIV",
+            "Le Monde"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261119-danemark-la-premi%C3%A8re-ministre-reprend-%C3%A0-son-compte-la-th%C3%A8se-raciste-du-grand-remplacement"
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/un-report-de-deux-ans-convenu-pour-la-loi-europeenne-contre-les-fuites-de-methane/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/au-royaume-uni-andy-burnham-en-pleine-offensive-pro-europeenne-20261119_TFZZU6AYABF2RBBUB6VI5PMHRI/"
+              "url": "https://www.lemonde.fr/planete/article/2026/11/19/loi-contre-le-methane-accord-au-sein-de-l-union-europeenne-pour-un-report-de-deux-ans-de-son-application_6813272_3244.html"
             }
-          ]
+          ],
+          "angles": "Le Monde et EURACTIV détaillent les enjeux climatiques et géopolitiques, tandis que les autres sources se limitent à un résumé factuel des négociations."
         },
         {
-          "headline": "UE : prêt de 45 milliards d’euros proposé à l’Ukraine malgré les tensions budgétaires",
-          "summary": "La Commission européenne a proposé mercredi 18 novembre un prêt de 45 milliards d’euros à l’Ukraine pour combler son déficit de guerre, dans un contexte budgétaire tendu. Ce soutien vise à renforcer la défense ukrainienne et son intégration industrielle avec l’Europe. Les discussions incluent aussi un volet de 25 milliards d’euros pour la défense, avec des espoirs de relance industrielle post-conflit.",
+          "headline": "Rapprochement UE-Royaume-Uni : entre promesses et réticences",
+          "summary": "Un sommet UE-Royaume-Uni se tient à Bruxelles pour concrétiser un rapprochement économique et politique, six ans après le Brexit. Des Britanniques, y compris des pro-Brexit, expriment des regrets sur leur choix initial, tandis que le Premier ministre Andy Burnham tente de négocier des accords sans évoquer une réadhésion. Les secteurs douaniers et énergétiques restent des sujets de tension. Des initiatives comme des tombolas immobilières au Royaume-Uni illustrent les difficultés économiques post-Brexit.",
+          "sources": [
+            "Libération",
+            "Le Monde",
+            "RFI",
+            "France Info",
+            "Courrier International"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/sommet-ue-royaume-uni-bruxelles-veut-transformer-le-rapprochement-en-engagements-concrets-20261119_G2RU4OUK55DORB4EEDRKV6STBI/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/19/entre-le-royaume-uni-et-l-union-europeenne-des-retrouvailles-complexes_6813267_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261119-au-royaume-uni-des-tombolas-pour-gagner-des-maisons-face-%C3%A0-la-crise-du-logement"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-sommet-londres-bruxelles-pourquoi-les-pro-brexit-crient-a-la-trahison_288671"
+            }
+          ],
+          "angles": "Libération et Le Monde analysent les dynamiques politiques et économiques, tandis que RFI et France Info mettent en avant les témoignages de citoyens et les symboles du désenchantement post-Brexit."
+        },
+        {
+          "headline": "L’UE propose un prêt de 45 milliards à l’Ukraine",
+          "summary": "La Commission européenne a proposé un prêt de 45 milliards d’euros à l’Ukraine pour combler son déficit de guerre, dont 25 milliards dédiés à la défense. Ce soutien vise aussi à renforcer l’intégration industrielle entre l’Ukraine et l’Europe. Kiev, malgré les aides, manque cruellement de liquidités. La mesure s’inscrit dans une stratégie plus large pour soutenir Kiev face à la Russie, alors que les négociations sur une éventuelle adhésion à l’OTAN progressent.",
           "sources": [
             "Toute l'Europe",
-            "EURACTIV"
+            "EURACTIV",
+            "Le Monde"
           ],
           "links": [
             {
@@ -264,29 +321,10 @@
             {
               "source": "EURACTIV",
               "url": "https://www.rapporteur.com/fr/news/pret-defense-de-25-milliards-deuros-a-lukraine-lue-espere-un-retour-industriel/"
-            }
-          ]
-        },
-        {
-          "headline": "Royaume-Uni : Burnham relance les discussions avec l’UE après des années de Brexit",
-          "summary": "Andy Burnham, Premier ministre britannique, prépare un sommet avec l’UE vendredi 20 novembre à Bruxelles pour renforcer les liens post-Brexit. Ses critiques du Brexit et ses propositions de rapprochement économique contrastent avec les réticences européennes sur des dossiers sensibles. Les attentes portent sur des engagements concrets, bien que des désaccords persistent sur les modalités.",
-          "sources": [
-            "Libération",
-            "Le Monde",
-            "EURACTIV"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/au-royaume-uni-andy-burnham-en-pleine-offensive-pro-europeenne-20261119_TFZZU6AYABF2RBBUB6VI5PMHRI/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/19/entre-le-royaume-uni-et-l-union-europeenne-des-retrouvailles-complexes_6813267_3210.html"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/le-depart-de-sanchez-serait-un-nouveau-coup-dur-pour-la-gauche-europeenne/"
+              "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-les-europeens-reaffirment-leur-soutien-a-kiev-et-evoquent-leur-participation-a-de-futures-negociations-avec-les-russes-et-les-americains_6810982_3210.html"
             }
           ]
         }
@@ -297,166 +335,165 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Procès Zecler : peines fermes requises contre trois policiers",
-          "summary": "La cour a requis des peines de quatre à six ans de prison ferme contre les trois policiers jugés pour avoir roué de coups Michel Zecler en 2020, avec une circonstance aggravante de racisme. Le verdict est attendu vendredi. Les avocats des parties civiles ont insisté sur la dimension raciste de l’agression. Les policiers sont aussi accusés de faux en écriture publique. Le Sénat examine parallèlement un texte instaurant une présomption de légitime défense pour les forces de l’ordre, critiqué par Zecler.",
-          "sources": [
-            "France Info",
-            "20 Minutes",
-            "Le Monde",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4264136-20261119-proces-zecler-peines-quatre-cinq-six-ans-prison-requises-contre-trois-policiers?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/19/proces-de-l-interpellation-violente-de-michel-zecler-jusqu-a-cinq-ans-de-prison-ferme-requis-contre-les-trois-policiers-assortis-d-une-interdiction-definitive-d-exercer_6813291_3224.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-le-parquet-affirme-le-caractere-raciste-et-requiert-de-la-prison-ferme-contre-les-trois-policiers-20261119_HEPSB4YL65GM5AKHEWTRRXEGQU/"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent le caractère raciste et la gravité des violences, tandis que France Info et 20 Minutes insistent sur les peines requises et les accusations de faux. Aucun angle éditorial marqué."
-        },
-        {
-          "headline": "Violences urbaines du 17 octobre : 207 millions d’euros de dégâts",
-          "summary": "Les émeutes et pillages survenus les 17 et 18 octobre en marge des manifestations contre la vie chère ont causé 207 millions d’euros de dégâts, selon France Assureurs. Ce montant, qualifié de « particulièrement élevé », reflète l’ampleur des destructions en très peu de temps. Les commerçants parisiens, un mois après, tentent de se reconstruire mais attendent toujours des indemnisations.",
-          "sources": [
-            "20 Minutes",
-            "Le Figaro",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4264151-20261119-violences-17-octobre-facture-207-millions-euros-selon-assureurs?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/conjoncture/un-montant-particulierement-eleve-les-violences-du-17-octobre-ont-coute-207-millions-d-euros-selon-france-assureurs-20261119"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/france-assureurs-estime-a-plus-de-200-millions-d-euros-le-cout-des-degats-engendres-par-les-violences-urbaines-et-les-pillages-des-17-et-18-octobre_8290007.html#xtor=RSS-3-[lestitres]"
-            }
-          ]
-        },
-        {
-          "headline": "Décès de Bertrand Méheut, ancien patron emblématique de Canal+",
-          "summary": "Bertrand Méheut, qui a redressé Canal+ entre 2002 et 2015, est décédé à 75 ans le 18 novembre lors d’un voyage à l’étranger. Son héritage, marqué par la reconquête des abonnés et une gestion stratégique, est salué par d’anciens collaborateurs. Il avait quitté le groupe en 2015 après des tensions avec Vincent Bolloré.",
+          "headline": "Crise politique aux Écologistes : Jadot et Iordanoff quittent le parti",
+          "summary": "Yannick Jadot et Jérémie Iordanoff ont annoncé leur départ des Écologistes après la proposition de Marine Tondelier de soutenir Jean-Luc Mélenchon pour la présidentielle 2027. Ils dénoncent une trahison de l’histoire du mouvement écologiste. Les partisans de Raphaël Glucksmann critiquent aussi cette alliance. Les militants écologistes devront trancher en décembre.",
           "sources": [
             "Le Monde",
-            "20 Minutes",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/disparitions/article/2026/11/19/bertrand-meheut-le-dirigeant-analytique-et-strategique-qui-avait-redresse-canal_6813297_3382.html"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/societe/4264030-20261119-bertrand-meheut-ancien-patron-canal-mort-75-ans?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/economie/medias/bertrand-meheut-ancien-patron-de-canal-est-mort-a-75-ans-20261119_WF2MMNP6GNEETLSKX2IYGERBQA/"
-            }
-          ]
-        },
-        {
-          "headline": "Laure Lavalette (RN) accusée d’avoir cautionné des écrits antisémites dans les années 1990",
-          "summary": "La députée RN Laure Lavalette, porte-parole de Marine Le Pen, est pointée du doigt pour avoir signé des articles et une caricature antisémites dans une revue étudiante affiliée au FN entre 1996 et 1998. Elle invoque un « climat différent » et refuse de s’expliquer sur ces faits vieux de trente ans. Les révélations proviennent du média Les Jours.",
-          "sources": [
-            "Le Monde",
-            "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/19/la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-l-elue-invoque-des-faits-vieux-de-trente-ans_6813278_823448.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/accusee-davoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-ne-veut-pas-se-justifier-de-ce-quil-sest-passe-il-y-a-trente-ans-dans-un-climat-different-20261119_EXQSCHFTAVGMJKIJLDDOHURAWY/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/accusee-d-avoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-invoque-des-faits-vieux-de-30-ans_8289503.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et France Info relaient les accusations avec des citations précises de Lavalette, tandis que Le Monde ajoute une dimension historique sur le contexte du Renouveau étudiant."
-        },
-        {
-          "headline": "Présidentielle 2027 : tensions entre écologistes après le rapprochement de Tondelier avec LFI",
-          "summary": "Marine Tondelier, secrétaire nationale des Écologistes, envisage une coalition avec Jean-Luc Mélenchon pour 2027, suscitant des divisions au sein de son parti. Raphaël Glucksmann et ses partisans critiquent ce choix, estimant qu’elle « tourne le dos » à la tradition pro-européenne du parti. Manuel Bompard (RN) salue l’initiative, tandis que les socialistes réagissent avec réserve. Le programme de Glucksmann est par ailleurs accusé d’emprunts au texte de LFI.",
-          "sources": [
             "Le Figaro",
             "France Info",
             "Libération",
-            "20 Minutes"
+            "France 24"
           ],
           "links": [
             {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/yannick-jadot-et-jeremie-iordanoff-quittent-les-ecologistes-apres-l-approche-de-marine-tondelier-vers-jean-luc-melenchon-pour-la-presidentielle_6813385_6205049.html"
+            },
+            {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119"
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-yannick-jadot-annonce-quitter-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-20261119"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-camp-glucksmann-fustige-tondelier-apres-sa-main-tendue-a-melenchon-20261119_QXGD6TJSA5AULJOBZZRXL4QIBA/"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4263770-20261119-presidentielle-2027-glucksmann-pompe-programme-melenchon?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann"
             }
           ],
-          "angles": "Le Figaro met en avant les réactions politiques (Bompard, Glucksmann), tandis que France Info et Libération analysent les clivages internes aux écologistes et les enjeux stratégiques pour 2027."
+          "angles": "Libération et Le Monde soulignent les divisions internes et la rupture idéologique, tandis que Le Figaro et France Info insistent sur la dimension stratégique de la présidentielle 2027."
         },
         {
-          "headline": "Sortie de GTA VI : succès critique et polémiques politiques",
-          "summary": "Le jeu vidéo Grand Theft Auto VI, sorti ce 19 novembre, bat des records de notation (99/100) et génère un engouement mondial. En France, des politiques comme Jordan Bardella ou Éric Ciotti tentent d’en tirer parti, entre détournements et références à son univers. Des analyses soulignent aussi une satire ambiguë de l’Amérique, mêlant ironie et conformisme. La sortie coïncide avec une couverture médiatique exceptionnelle, incluant des streams en direct.",
+          "headline": "Plainte pour violences sexuelles contre Depardieu et Houellebecq",
+          "summary": "Une actrice a porté plainte contre Gérard Depardieu et Michel Houellebecq pour viol et agressions sexuelles lors du tournage du film Thalasso en 2018. Une information judiciaire a été ouverte. Guillaume Nicloux, réalisateur, est aussi visé. Aucun des trois hommes n’a répondu aux demandes de commentaires.",
           "sources": [
-            "Le Monde",
-            "RFI",
-            "Le Figaro",
+            "20 Minutes",
+            "France Info",
+            "Libération",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/faits_divers/4264281-20261119-gerard-depardieu-vise-nouvelle-plainte-viol-michel-houellbecq-concerne?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-vise-par-une-nouvelle-plainte-pour-viol-et-agressions-sexuelles-en-reunion-michel-houellebecq-pour-complicite_8290478.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI/"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/191126/gerard-depardieu-vise-par-une-plainte-pour-viol-en-reunion-et-michel-houellebecq-pour-complicite"
+            }
+          ]
+        },
+        {
+          "headline": "Procès Zecler : peines lourdes requises contre les policiers",
+          "summary": "La cour criminelle de Paris a requis des peines de 4 à 6 ans de prison ferme contre les trois policiers jugés pour avoir tabassé Michel Zecler en 2020. Le parquet a demandé la reconnaissance d’un mobile raciste. Les parties civiles ont salué une avancée contre les violences policières.",
+          "sources": [
             "France 24",
+            "RFI",
+            "20 Minutes",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261119-france-quatre-%C3%A0-six-ans-de-prison-ferme-requis-contre-les-policiers-jug%C3%A9s-pour-l-agression-de-michel-zecler"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4264136-20261119-proces-zecler-peines-quatre-cinq-six-ans-prison-requises-contre-trois-policiers?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/191126/affaire-michel-zecler-aujourd-hui-nous-avons-evite-une-erreur-judiciaire"
+            }
+          ]
+        },
+        {
+          "headline": "Cybermenaces : Lecornu alerte sur un niveau « grave et inédit »",
+          "summary": "Le Premier ministre Sébastien Lecornu a qualifié la situation cyber de « menace particulièrement grave et inédite », évoquant des cas de sabotage. L’Anssi confirme une intensification des attaques. La France et plusieurs pays européens sont touchés.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
             "Libération"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/pixels/live/2026/11/19/en-direct-sortie-de-gta-vi-les-premieres-impressions-et-reactions_6813247_4408996.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-le-niveau-de-menace-est-sans-precedent-et-va-s-intensifier-previennent-sebastien-lecornu-et-vincent-strubel-le-directeur-de-l-anssi_8290514.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261118-sortie-de-gta-vi-la-subversion-n-emp%C3%AAchent-pas-d-incarner-le-syst%C3%A8me"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/gta-vi-bardella-ciotti-zemmour-entre-attente-et-detournement-les-politiques-aussi-guettent-la-sortie-du-jeu-video-20261118"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-jeux-vid%C3%A9o-dernier-jour-d-attente-avant-la-sortie-de-gta-vi-en-france"
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4264242-20261119-cyberattaques-menace-atteint-niveau-grave-inedit-alarme-premier-ministre-pessimiste?at_medium=display&at_campaign=149"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/culture/jeux-video/gta-vi-ce-quen-disent-les-premiers-joueurs-francais-apres-une-nuit-aux-manettes-20261119_ZOJ2L7CRZVCCHC64WUCL6WSBQU/"
+              "url": "https://www.liberation.fr/economie/economie-numerique/les-cybermenaces-sur-la-france-sont-a-un-niveau-grave-et-inedit-alerte-sebastien-lecornu-20261119_GH3XXD7OJJA3ZLEE6SLAWEIBBE/"
             }
           ],
-          "angles": "Le Monde et RFI analysent la dimension critique du jeu, tandis que Le Figaro et France 24 insistent sur son impact culturel et ses détournements politiques."
+          "angles": "Libération et 20 Minutes soulignent l’ampleur du danger et son caractère inédit, tandis que France Info ajoute des précisions sur les méthodes des cybercriminels (vol de données + sabotage)."
+        },
+        {
+          "headline": "Présidentielle 2027 : l’Arcom étend les règles de pluralisme aux influenceurs",
+          "summary": "Les créateurs de contenu et influenceurs devront respecter les règles de pluralisme et de déontologie pendant la campagne présidentielle 2027, comme les médias traditionnels. L’Arcom justifie cette décision par l’influence croissante de ces acteurs. Les sanctions en cas de non-respect restent floues.",
+          "sources": [
+            "Le Monde",
+            "France Info",
+            "RFI",
+            "Libération",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/internet/les-principaux-createurs-de-contenus-devront-desormais-respecter-le-pluralisme-dans-leur-traitement-de-l-election-presidentielle_8290187.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261119-pr%C3%A9sidentielle-2027-les-cr%C3%A9ateurs-de-contenus-devront-respecter-les-r%C3%A8gles-de-pluralisme-de-l-arcom"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom"
+            }
+          ],
+          "angles": "Le Monde et RFI détaillent le cadre juridique, tandis que Libération et France Info insistent sur l’impact politique et les exemples concrets (HugoDécrypte, Guillaume Pley)."
+        },
+        {
+          "headline": "Inondations catastrophiques dans la Somme : un mois et demi de pluie en trois jours",
+          "summary": "La Somme compte 17 communes sinistrées après des pluies exceptionnelles. Les routes sont submergées, et les habitants évacués par endroits. Météo Climat Pro évoque l’équivalent d’un mois et demi de précipitations en trois jours. Aucune victime n’est signalée pour l’instant.",
+          "sources": [
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/dans-la-somme-il-est-tombe-l-equivalent-d-un-mois-et-demi-de-pluie-en-trois-jours-selon-le-directeur-de-meteo-climat-pro_8290751.html#xtor=RSS-3-[lestitres]"
+            }
+          ]
         }
       ]
     }
