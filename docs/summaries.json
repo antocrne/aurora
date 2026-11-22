@@ -1,133 +1,114 @@
 {
-  "generated_at": "2026-11-21T21:48:54Z",
-  "edition": "21 novembre 2026",
+  "generated_at": "2026-11-22T12:46:43Z",
+  "edition": "22 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Mexique : arrestation du baron de la drogue Chapo Isidro",
-          "summary": "Fausto Isidro Meza, alias « Chapo Isidro », l'un des dix criminels les plus recherchés par le FBI, a été arrêté vendredi 20 novembre au Mexique dans l'État de Sinaloa. Son interpellation a provoqué des affrontements violents avec des membres de son cartel. Les États-Unis offraient une récompense de 5 millions de dollars pour sa capture. Les autorités mexicaines ont confirmé l'opération, déclenchant des représailles armées.",
+          "headline": "Scandale de tricherie à l'IA en Corée du Sud",
+          "summary": "Le ministre de l'Éducation sud-coréen a démissionné dimanche 22 novembre après des révélations sur l'utilisation de l'intelligence artificielle pour tricher lors des examens d'entrée à l'université (Suneung), un concours crucial pour les jeunes. Les soupçons ont éclaté quelques jours avant l'épreuve, déclenchant une crise politique.",
           "sources": [
             "RFI",
-            "France 24",
+            "Libération",
             "Le Monde",
-            "BBC",
-            "Courrier International"
+            "BBC"
           ],
           "links": [
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi"
+              "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-cor%C3%A9e-du-sud-le-ministre-de-l-%C3%A9ducation-d%C3%A9missionne-sur-fond-de-scandale-de-triche-aux-examens"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/am%C3%A9riques/20261121-le-baron-de-la-drogue-el-chapo-isidro-recherch%C3%A9-par-le-fb0-a-%C3%A9t%C3%A9-arr%C3%AAt%C3%A9-au-mexique"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/asie-pacifique/en-coree-du-sud-le-ministre-de-leducation-demissionne-apres-un-scandale-de-triche-a-lia-20261122_5E2WCX4TZFET5A4VHN7AYHW5MQ/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "Libération et Le Monde soulignent l'impact sociétal sur les jeunes Sud-Coréens, tandis que RFI met en avant la démission comme réponse gouvernementale aux pressions."
+        },
+        {
+          "headline": "Incendie meurtrier dans une usine indonésienne",
+          "summary": "Un incendie dans une usine de confiseries près de Jakarta samedi 21 novembre a fait au moins trois morts et laisse 36 personnes disparues. Les secours peinent à localiser les ouvriers piégés dans les décombres, tandis que quatre blessés ont été hospitalisés. Les causes de l'incendie restent indéterminées.",
+          "sources": [
+            "France Info",
+            "RFI",
+            "20 Minutes",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/narcotrafic-mexique-l-arrestation-d-un-chef-de-cartel-provoque-de-violents-affrontements-au-sinaloa_289017"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-indon%C3%A9sie-un-incendie-dans-une-usine-fait-au-moins-trois-morts-et-36-disparus-pr%C3%A8s-de-jakarta"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/4264734-20261122-dizaines-disparus-incendie-usine-bonbons-indonesie?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "headline": "Israël : Eisenkot tente de former une coalition",
-          "summary": "Gadi Eisenkot, chargé de former le prochain gouvernement israélien après les législatives d'octobre, a invité le parti de Benjamin Netanyahu à des négociations pour une coalition. Il dispose d'un délai jusqu'au 6 décembre pour parvenir à un accord, faute de majorité absolue. Les tractations restent tendues, avec des risques de gouvernement minoritaire.",
+          "headline": "Arrestation du baron de la drogue Chapo Isidro",
+          "summary": "Le Mexique a arrêté samedi 21 novembre Fausto Isidro Meza, alias 'Chapo Isidro', l'un des dix criminels les plus recherchés par le FBI. L'opération, qui a fait 11 morts, a été saluée par les États-Unis comme une victoire majeure contre les cartels. Chapo Isidro, âgé de 44 ans, était traqué depuis des années pour trafic de drogue.",
           "sources": [
             "France 24",
-            "Le Monde",
+            "France Info",
             "RFI"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-le-mexique-arr%C3%AAte-un-baron-de-la-drogue-recherch%C3%A9-par-les-%C3%A9tats-unis"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/moyen-orient/20261121-en-isra%C3%ABl-les-n%C3%A9gociations-patinent-autour-de-la-formation-du-gouvernement"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi"
             }
           ]
         },
         {
-          "headline": "Brésil : Bolsonaro hospitalisé en soins intensifs",
-          "summary": "L'ex-président Jair Bolsonaro, condamné pour tentative de coup d'État, est hospitalisé en soins intensifs pour une occlusion intestinale. Ses problèmes de santé sont liés à un coup de couteau subi pendant la campagne électorale de 2018. Son état suscite des inquiétudes politiques et médicales, alors qu'il est sous résidence surveillée.",
+          "headline": "Tensions accrues au Moyen-Orient : frappes et accusations",
+          "summary": "Bahreïn accuse l'Iran d'avoir frappé un site industriel samedi 21 novembre, dans un contexte d'escalade militaire. Téhéran affirme riposter à des tirs américains, tandis que les Gardiens de la révolution ont ciblé des installations américaines à Bahreïn cette semaine. Le détroit d'Ormuz reste un point de tension majeur entre les États-Unis et l'Iran.",
           "sources": [
-            "France Info",
+            "France 24",
+            "RFI",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-bahre%C3%AFn-accuse-l-iran-d-avoir-men%C3%A9-une-frappe-contre-un-de-ses-sites-industriels"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261121-bahre%C3%AFn-accuse-l-iran-d-avoir-men%C3%A9-une-frappe-contre-un-de-ses-sites-industriels"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html"
+              "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html"
             }
-          ]
-        },
-        {
-          "headline": "COP31 : blocage persistant sur les énergies fossiles",
-          "summary": "Les négociations de la 31e conférence climatique (COP31) à Antalya sont enlisées, avec des désaccords persistants sur les énergies fossiles et les financements. Les pays participants, près de 200, peinent à trouver un compromis, malgré les appels à un accord urgent. Certains ministres ont déjà quitté les discussions sans aboutir.",
-          "sources": [
-            "BBC",
-            "France 24"
           ],
-          "links": [
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-cop31-%C3%A0-antalya-bras-de-fer-autour-des-%C3%A9nergies-fossiles-et-des-financements"
-            }
-          ]
-        },
-        {
-          "headline": "ONU : accord sur l'encadrement des armes autonomes",
-          "summary": "128 États réunis à l'ONU ont adopté un texte encadrant les armes autonomes, mais sans interdiction totale. La Russie, les États-Unis et Israël ont bloqué une prohibition, limitant ainsi les avancées. Ce compromis vise à réguler l'usage de ces technologies, tout en évitant une opposition frontale.",
-          "sources": [
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/robots-tueurs-un-accord-trouve-a-lonu-mais-pas-dinterdiction-20261121_5WLRNTYQY5GIZGCNZCFTCJVFZM/"
-            }
-          ]
-        },
-        {
-          "headline": "Birmanie : la CIJ reconnaît le génocide des Rohingyas",
-          "summary": "La Cour internationale de justice (CIJ) a statué que la Birmanie a commis un génocide contre la minorité musulmane rohingya en 2017. L'ONU exige désormais le retour des réfugiés, tandis que l'UE se contente de « prendre note » de la décision. Les réactions internationales contrastent entre condamnation et prudence diplomatique.",
-          "sources": [
-            "Libération",
-            "Courrier International"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M/"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/tribune-plus-jamais-ca-comment-s-assurer-que-le-genocide-des-rohingyas-par-la-birmanie-ne-se-reproduira-pas_288868"
-            }
-          ]
+          "angles": "France 24 et RFI insistent sur la riposte iranienne aux actions américaines, tandis que Le Monde met en avant le contexte géopolitique plus large du conflit au Moyen-Orient."
         }
       ]
     },
@@ -136,145 +117,152 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Attaque de drone contre cargo russe en mer Baltique",
-          "summary": "Un cargo russe a été ciblé par un drone dans le golfe de Finlande samedi 21 novembre, selon les autorités finlandaises. L’attaque a forcé le navire à dériver dans les eaux territoriales finlandaises. La Finlande, qui suspecte une origine ukrainienne, a informé ses alliés de l’OTAN. Un hélicoptère russe aurait également violé l’espace aérien finlandais peu après, selon Helsinki. L’Ukraine n’a pas revendiqué l’attaque.",
+          "headline": "COP31 : échec des négociations climatiques",
+          "summary": "La 31e conférence des Nations unies sur le climat s'est conclue sans accord final à Antalya, en Turquie, après le rejet par l'Union européenne d'une proposition ne mentionnant pas la sortie des énergies fossiles. La présidence turque a annoncé dimanche le rejet de la décision finale, faute de consensus. Les États membres de l'UE, dont l'Irlande, ont critiqué l'absence de référence aux combustibles fossiles, principaux responsables du changement climatique. Les négociations se sont prolongées sur deux jours sans aboutir.",
           "sources": [
+            "France 24",
+            "RFI",
             "Le Monde",
             "France Info",
-            "France 24",
-            "Libération",
-            "Courrier International"
+            "Libération"
           ],
           "links": [
             {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/environnement/20261122-cop31-faute-de-consensus-la-pr%C3%A9sidence-turque-annonce-le-rejet-de-la-proposition-d-accord-final"
+            },
+            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html"
+              "url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/"
+            }
+          ],
+          "angles": "France 24 et Le Monde soulignent l'opposition de l'UE et l'absence de mention des énergies fossiles, tandis que RFI insiste sur le manque de consensus et l'annonce officielle du rejet par la Turquie."
+        },
+        {
+          "headline": "Incidents militaires en mer Baltique",
+          "summary": "La Finlande a détecté samedi une attaque de drone ukrainien contre un cargo russe en mer Baltique, provoquant un incendie. Le Premier ministre finlandais a affirmé que l'Ukraine avait le droit de se défendre. Par ailleurs, un hélicoptère russe a violé l'espace aérien finlandais, selon les autorités locales, dans un contexte de tensions croissantes. Ces incidents alimentent les craintes d'une extension du conflit en Europe du Nord.",
+          "sources": [
+            "Le Figaro",
+            "France 24",
+            "Libération",
+            "France Info",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261121-une-attaque-de-drone-contre-un-cargo-russe-d%C3%A9tect%C3%A9e-dans-le-golfe-de-finlande"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-finlande-fait-%C3%A9tat-d-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique"
             },
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/international/europe/la-guerre-setend-jusqua-nos-portes-une-attaque-de-drone-detectee-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121_IBIBYATSGVC5TKHIW7MAULCT5U/"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/geopolitique-attaque-par-des-drones-un-cargo-russe-a-derive-dans-les-eaux-territoriales-finlandaises_289050"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent le contexte géopolitique et la réponse finlandaise via l'OTAN, tandis que France Info et France 24 insistent sur les détails techniques (distance de violation, type d’appareil). Courrier International met en avant les tensions accrues en mer Baltique."
-        },
-        {
-          "headline": "Budget UE : la France bloque les économies proposées",
-          "summary": "Le président du Conseil européen, Antonio Costa, a proposé samedi 21 novembre un budget UE réduit de 204 milliards d’euros, incluant une taxe sur les géants du numérique. La France a immédiatement rejeté cette proposition, jugeant les coupes trop sévères. Le sommet des dirigeants européens prévu jeudi-vendredi à Bruxelles doit trancher. Berlin soutient partiellement la position française.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "Le Monde",
-            "RFI",
-            "Mediapart"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/avant-le-sommet-de-lue-consacre-a-son-budget-la-france-soppose-a-la-baisse-de-204-milliards-proposes-par-le-conseil-europeen-20261121_WO3IZVG2DZEUNIT5XYNT56C6RA/"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html"
+              "url": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261121-budget-ue-plus-de-200-milliards-d-euros-d-%C3%A9conomie-propos%C3%A9es-paris-et-berlin-font-la-moue"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/211126/les-discretes-representations-du-choregraphe-mourad-merzouki-dans-la-russie-de-vladimir-poutine"
+              "url": "https://www.rfi.fr/fr/europe/20261121-cargo-russe-cibl%C3%A9-et-survol-d-h%C3%A9licopt%C3%A8re-la-finlande-signale-une-s%C3%A9rie-d-incidents"
             }
           ],
-          "angles": "Libération et Le Monde insistent sur l’opposition franco-allemande et le risque de blocage, tandis que France Info ajoute la dimension de la taxe numérique comme compromis possible. RFI résume les réactions sans approfondir les enjeux sectoriels."
+          "angles": "Le Figaro met l'accent sur les risques d'escalade et la proximité géographique, tandis que France 24 et Libération détaillent les actions ukrainiennes et les réactions finlandaises. France Info et RFI soulignent les violations de souveraineté et les réponses officielles."
         },
         {
-          "headline": "Frappe russe à Kryvyï Rih : deux morts, dont un enfant",
-          "summary": "La Russie a frappé samedi 21 novembre la ville ukrainienne de Kryvyï Rih, tuant deux civils, dont un garçon de 7 ans, et blessant 58 personnes, dont six enfants. Zelensky a dénoncé ces attaques ciblant des zones peuplées. La ville, natale du président ukrainien, est régulièrement visée depuis le début de la guerre. Moscou nie toute responsabilité.",
+          "headline": "Suicide de l'ex-chef de police italienne De Gennaro",
+          "summary": "Gianni De Gennaro, ancien chef de la police italienne, s'est donné la mort samedi à 78 ans, quelques jours après sa mise en examen pour détournement d'enquête dans l'assassinat du juge antimafia Paolo Borsellino en 1992. Son suicide intervient dans un contexte d'enquêtes judiciaires sur des affaires liées à la mafia et des accusations de brouillage des pistes. L'écrivain Roberto Saviano a qualifié cet événement de 'choc immense'.",
           "sources": [
             "France 24",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-guerre-en-ukraine-deux-personnes-tu%C3%A9es-%C3%A0-kryvy%C3%AF-rih"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ]
-        },
-        {
-          "headline": "Manifestations européennes contre la guerre et le coût de la vie",
-          "summary": "Des dizaines de milliers de personnes ont manifesté vendredi et samedi dans plusieurs capitales européennes (Milan, Londres, Amsterdam, Lausanne) contre la militarisation et pour dénoncer la précarité des jeunes. Les syndicats de sept pays appellent à des mobilisations coordonnées jusqu’à dimanche. En Italie et au Portugal, les cortèges dénoncent aussi la hausse des dépenses militaires et l’aide à l’Ukraine.",
-          "sources": [
-            "France 24",
-            "France Info",
             "Le Monde"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestations-%C3%A0-travers-l-europe-contre-la-guerre-et-pour-la-jeunesse"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-italie-d%C3%A9c%C3%A8s-de-gianni-de-gennaro-ex-chef-de-la-police"
             },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html"
-            }
-          ],
-          "angles": "France 24 et France Info relient les mouvements à la colère sociale et générationnelle, tandis que Le Monde analyse les dimensions politiques et transnationales dans un entretien avec des philosophes."
-        },
-        {
-          "headline": "Tentative d’assassinat d’un rappeur ukrainien au Danemark",
-          "summary": "Le Danemark accuse la Russie d’avoir tenté d’assassiner un rappeur ukrainien sur son sol. En représailles, Copenhague expulse l’attaché de défense de l’ambassade russe. Cet incident s’ajoute aux tensions récentes, comme la chute de missiles russes en Pologne. L’OTAN renforce sa présence en Lituanie avec 5 000 soldats allemands en exercice.",
-          "sources": [
-            "France 24",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ]
-        },
-        {
-          "headline": "Suicide de l’ex-chef de la police italienne De Gennaro",
-          "summary": "Gianni De Gennaro, ancien chef de la police italienne, s’est suicidé samedi 21 novembre après sa mise en examen pour « détournement d’enquête » dans l’affaire Borsellino (assassinat du juge antimafia en 1992). L’écrivain Roberto Saviano qualifie cet acte d’« immense choc ». L’enquête porte sur des soupçons de protection des mafieux dans les années 1990.",
-          "sources": [
-            "Le Monde"
-          ],
-          "links": [
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html"
             }
           ]
+        },
+        {
+          "headline": "Attaque russe en Ukraine : 14 disparus près de Kiev",
+          "summary": "Un immeuble d'habitation de cinq étages a été endommagé par un drone russe dans la nuit de samedi à dimanche près de Kiev, provoquant un incendie et 14 disparus. L'attaque a eu lieu dans le raïon de Vychhorod, non loin de la capitale ukrainienne. Parallèlement, des frappes russes ont fait deux morts et 58 blessés à Kryvyï Rih, dont un enfant de sept ans, selon le président ukrainien Volodymyr Zelensky.",
+          "sources": [
+            "France 24",
+            "Le Monde",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
+            }
+          ],
+          "angles": "France 24 et Le Monde rapportent les détails de l'attaque près de Kiev, tandis que France Info et Le Monde soulignent les frappes à Kryvyï Rih, avec un focus sur les victimes civiles, dont des enfants."
+        },
+        {
+          "headline": "Soutien britannique à l'Ukraine après sommet Trump-Xi-Poutine",
+          "summary": "Le Royaume-Uni a réaffirmé son soutien à l'Ukraine samedi, avec la visite du secrétaire d'État à la Défense, Wes Streeting, à Kiev. Cette démarche intervient après le sommet trilatéral entre Donald Trump, Vladimir Poutine et Xi Jinping, où une déclaration de paix avait été évoquée. Zelensky a justifié les frappes ukrainiennes sur le pont de Crimée comme une 'réponse équitable' à 109 attaques russes sur des ponts en Ukraine.",
+          "sources": [
+            "RFI",
+            "BBC"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261122-trois-jours-apr%C3%A8s-la-rencontre-trump-xi-poutine-les-britanniques-r%C3%A9affirment-leur-soutien-%C3%A0-l-ukraine"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "RFI met en avant le contexte diplomatique post-sommet, tandis que la BBC souligne les déclarations de Zelensky sur les frappes et la légitimité de la réponse ukrainienne."
+        },
+        {
+          "headline": "Tensions en Europe de l'Est : l'Otan sur le qui-vive",
+          "summary": "Les incidents militaires se multiplient entre la Russie et les pays de l'Otan, notamment en Finlande et en Pologne. L'alliance a réaffirmé sa détermination à défendre chaque pouce de territoire polonais, tandis qu'une brigade allemande de 5 000 soldats s'apprête à mener des exercices en Lituanie. Ces mouvements s'inscrivent dans un contexte de craintes croissantes d'escalade, après des violations répétées de l'espace aérien et des attaques navales.",
+          "sources": [
+            "France Info",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4264699-20261121-guerre-ukraine-otan-defendra-chaque-pouce-territoire-polonais?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France Info et 20 Minutes insistent sur les réactions de l'Otan et les exercices militaires, tandis que France Info souligne aussi les risques d'escalade en Europe de l'Est."
         }
       ]
     },
@@ -283,88 +271,113 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Préfet Moutouh demande sa mise à l'écart dans l'affaire de fuites vers le RN",
-          "summary": "Le préfet de Centre-Val de Loire Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au Rassemblement national, a demandé à être relevé de ses fonctions. L'enquête, déclenchée après la découverte d'un email compromettant, vise à identifier les fuites au sein de Beauvau. Le préfet dénonce une instrumentalisation politique. Les soupçons pèsent sur son rôle dans des affaires impliquant le RN. Le ministre de l'Intérieur Laurent Nuñez est saisi du dossier.",
+          "headline": "Affaire de fuites au ministère de l’Intérieur vers le RN",
+          "summary": "Le préfet Hugues Moutouh, ancien secrétaire général du ministère de l’Intérieur, est soupçonné d’avoir transmis des informations confidentielles au Rassemblement national. Un courriel émanant de son service a été retrouvé chez Frédéric Chatillon, proche de Marine Le Pen. Moutouh a demandé à être relevé de ses fonctions en Centre-Val de Loire. La présidente du RN nie toute connaissance personnelle avec lui et affirme n’avoir reçu aucune information confidentielle.",
           "sources": [
-            "RFI",
-            "France Info",
             "Le Figaro",
             "Libération",
-            "Le Monde"
+            "Le Monde",
+            "RFI",
+            "20 Minutes"
           ],
           "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/soupcons-de-fuites-au-profit-du-rn-un-mail-du-service-du-prefet-hugues-moutouh-decouvert-en-perquisition-chez-un-proche-de-marine-le-pen-20261122"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/fuites-au-ministere-de-linterieur-un-mail-du-service-du-prefet-moutouh-decouvert-chez-un-proche-de-marine-le-pen-20261122_35OXDYGGVRFFXGEIYX72YKYHGM/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
+            },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/france/20261121-france-soup%C3%A7onn%C3%A9-de-fuites-li%C3%A9es-au-rn-le-pr%C3%A9fet-moutouh-demande-%C3%A0-%C3%AAtre-relev%C3%A9-de-ses-fonctions"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/enquete-visant-le-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/suspecte-detre-une-taupe-du-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121_LUXHW7N52BELTCNJHZ6VHWMFHU/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
-            }
-          ],
-          "angles": "Libération et Le Monde insistent sur les soupçons de complicité avec le RN et les détails de l'enquête, tandis que Le Figaro et France Info mettent en avant la demande de mise à l'écart et les déclarations du préfet. RFI et Libération évoquent explicitement une 'taupe' ou une 'source proche du RN'."
-        },
-        {
-          "headline": "François Ruffin retire sa candidature à la présidentielle 2027",
-          "summary": "François Ruffin a annoncé samedi son retrait de la course à l'élection présidentielle, invoquant une « impasse » liée à l'échec de sa demande d'une primaire unissant toute la gauche. Il ne soutient aucun candidat restant en lice. Son départ intervient cinq mois avant le scrutin et pourrait influencer la dynamique des primaires. Les candidats communistes et socialistes réagissent en soulignant des convergences thématiques avec sa campagne. Les sondages placent le RN en tête, renforçant les craintes d'une extrême droite au pouvoir.",
-          "sources": [
-            "RFI",
-            "Le Figaro",
-            "France 24",
-            "Libération",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261121-pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-jette-l-%C3%A9ponge-faute-de-primaire-de-toute-la-gauche"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-francois-ruffin-retire-sa-candidature-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice-20261121"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
-            },
-            {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4264605-20261121-direct-presidentielle-2027-villepin-candidat-pen-toujours-tete-sondages?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149"
             }
           ],
-          "angles": "Libération et Le Monde soulignent le contexte politique et le risque d'une victoire du RN, tandis que Le Figaro et France 24 se concentrent sur la stratégie de Ruffin et ses déclarations. RFI et 20 Minutes adoptent un ton plus neutre, décrivant les faits sans analyse approfondie."
+          "angles": "Libération et Le Monde insistent sur les éléments factuels de l’enquête et le contexte politique, tandis que Le Figaro et RFI mettent davantage en avant la réaction de Moutouh et son statut de fonctionnaire visé par une 'chasse à l’homme'."
         },
         {
-          "headline": "Mobilisations sociales : 82 500 manifestants en France, 144 interpellations",
-          "summary": "La sixième journée de mobilisation contre la vie chère a rassemblé 82 500 personnes selon le ministère de l'Intérieur, contre 150 000 selon la CGT. Des incidents ont été recensés à Paris et Marseille, avec 144 interpellations. Les manifestants dénoncent aussi la loi « sécurité globale » et la précarité. La CGT appelle à maintenir la pression pour des hausses de salaires. Les cortèges restent moins fournis qu'en octobre, signe d'un essoufflement progressif.",
+          "headline": "Inondations et vigilances orange en France",
+          "summary": "Les départements de l’Ain et du Jura sont placés en vigilance orange pour pluies-inondations, avec des cumuls de précipitations exceptionnels attendus. Dans le Pas-de-Calais, la Canche reste en vigilance orange crues, bien que la décrue soit en cours. Météo-France alerte sur une nouvelle perturbation traversant le pays. Les autorités locales évoquent une situation stabilisée mais toujours sous surveillance.",
           "sources": [
             "France Info",
             "Libération",
-            "France 24",
-            "Le Figaro",
-            "Mediapart"
+            "Le Monde"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]"
             },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/lain-et-le-jura-en-vigilance-orange-pluies-inondations-ce-dimanche-le-pas-de-calais-toujours-en-alerte-aux-crues-20261122_6QGNPQ7OBNDKVJ2IXG4JKZR5BA/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html"
+            }
+          ]
+        },
+        {
+          "headline": "Présidentielle 2027 : David Lisnard exclut une alliance avec Le Pen",
+          "summary": "Le candidat de droite libérale David Lisnard considère une primaire de la droite et du centre comme un moyen d’écarter les macronistes avant le premier tour de l’élection présidentielle. Il rejette toute participation à un gouvernement dirigé par Marine Le Pen, estimant des divergences économiques majeures. Ses déclarations relancent les débats sur la faisabilité d’une primaire, déjà fragilisée.",
+          "sources": [
+            "Le Figaro",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/politique/pour-david-lisnard-la-primaire-de-la-droite-et-du-centre-est-un-moyen-deliminer-les-macronistes-20261122_WJGV3ANEVZECXAV225UMW4JK4Q/"
+            }
+          ],
+          "angles": "Le Figaro et Libération adoptent un ton factuel, mais Le Figaro ajoute une dimension stratégique en soulignant l’impact sur la dynamique politique."
+        },
+        {
+          "headline": "Blessure grave de Désiré Doué : fin de saison pour le PSG",
+          "summary": "L’attaquant parisien Désiré Doué, 21 ans, souffre d’une rupture du ligament croisé antérieur du genou droit après une blessure lors du match du PSG à Nice. Il devra subir une opération chirurgicale d’ici fin novembre, entraînant une longue indisponibilité. Le club parisien, leader de Ligue 1, voit ainsi partir un joueur clé pour la saison.",
+          "sources": [
+            "France Info",
+            "Le Figaro",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/foot/psg/desire-doue-souffre-d-une-rupture-du-ligament-croise-anterieur-du-genou-droit-et-devra-etre-opere-d-ici-la-fin-du-mois_8294843.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-le-verdict-est-tombe-pour-desire-doue-arrete-pour-de-longs-mois-20261122"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261122-ligue-1-le-paris-saint-germain-encha%C3%AEne-%C3%A0-nice-3-2-mais-perd-d%C3%A9sir%C3%A9-dou%C3%A9"
+            }
+          ],
+          "angles": "Le Figaro ajoute une analyse sur l’impact sportif et symbolique pour Doué et le PSG, tandis que France Info et France 24 se concentrent sur les aspects médicaux et la réaction du club."
+        },
+        {
+          "headline": "Mobilisation sociale : 82 500 à 150 000 manifestants en France",
+          "summary": "Le 21 novembre, entre 82 500 et 150 000 personnes ont participé aux manifestations en France, selon les estimations de Beauvau et de la CGT. Les organisateurs et autorités notent une baisse par rapport aux semaines précédentes. Le mouvement social reste actif, avec des revendications centrées sur les conditions de travail et le pouvoir d’achat.",
+          "sources": [
+            "Libération",
+            "France 24"
+          ],
+          "links": [
             {
               "source": "Libération",
               "url": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/"
@@ -372,91 +385,26 @@
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/france/211126/ne-veut-pas-abandonner-paris-les-manifestants-refusent-l-essoufflement"
             }
           ]
         },
         {
-          "headline": "Cargo échoué dans les Landes : remorquage reporté par mauvais temps",
-          "summary": "Le cargo échoué sur la plage du Cap de l'Homy, contenant 100 tonnes de gazole, a légèrement bougé en raison de la marée. Onze membres d'équipage ont été hélitreuillés par mesure de sécurité en prévision d'un fort coup de vent. Le remorquage, initialement prévu, pourrait prendre plusieurs jours en raison des conditions météo. Les autorités surveillent les risques de pollution. Les opérations restent complexes selon la préfecture maritime.",
+          "headline": "Projet de règle d’or budgétaire : Macron relance le débat",
+          "summary": "Emmanuel Macron envisage de convoquer le Congrès pour inscrire une règle d’or budgétaire dans la Constitution, une mesure déjà proposée en 2011. La droite et le RN, bien que favorables au principe, accusent le président d’avoir contribué à l’explosion de la dette publique. Les discussions pourraient s’engager début 2027, mais le projet divise sur sa faisabilité.",
           "sources": [
-            "France Info",
-            "Libération",
-            "20 Minutes",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/cargo-echoue-dans-les-landes-des-membres-dequipage-helitreuilles-le-remorquage-pas-pour-tout-de-suite-20261121_DV52LGLHC5CCLKUPOAJ5PC3TAQ/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/faits_divers/4264660-20261121-landes-remorquage-cargo-echoue-pourrait-prendre-plusieurs-jours-voire-davantage?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/sport/live/2026/11/21/en-direct-france-argentine-suivez-le-match-du-championnat-des-nations-de-rugby_6814058_3242.html"
-            }
-          ]
-        },
-        {
-          "headline": "Blessure grave de Désiré Doué au genou avec le PSG",
-          "summary": "L'attaquant français Désiré Doué est sorti sur civière en larmes lors du match Nice-PSG (victoire 3-2), touché au genou droit à la 38e minute. Son état inquiète avant le match crucial contre l'AS Rome en Ligue des champions. Le PSG conserve la tête du championnat. Les images de sa sortie ont marqué les supporters. Les médecins évaluent l'ampleur de la blessure, susceptible d'affecter sa participation aux prochains matchs.",
-          "sources": [
-            "Libération",
-            "France Info",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/football/lattaquant-du-psg-desire-doue-sort-sur-une-civiere-en-larmes-grosse-inquietude-pour-son-genou-20261121_OYIOL5QERRF75LIR7QODAG2QVY/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/foot/ligue-1/grosse-inquietude-pour-desire-doue-blesse-au-genou-droit-avec-le-psg-et-sorti-sur-civiere-face-a-nice-en-ligue-1_8294027.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/football/4264224-20261121-direct-nice-psg-retour-affaires-leader-chez-gym-ambitieux-suivez-match?at_medium=display&at_campaign=149"
-            }
-          ]
-        },
-        {
-          "headline": "Enquête ouverte contre des policiers pour violences lors d'une manifestation",
-          "summary": "Une enquête a été ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre. Deux manifestants, accusés d'avoir frappé des policiers, ont porté plainte contre ces derniers. Les faits, filmés, montrent des échanges violents. La justice doit déterminer les responsabilités dans ce contexte de tensions récurrentes entre forces de l'ordre et manifestants. Les plaignants contestent les accusations qui leur sont reprochées.",
-          "sources": [
-            "France Info",
             "Le Figaro",
-            "Libération"
+            "RFI"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html#xtor=RSS-3-[lestitres]"
-            },
-            {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/faits-divers/ca-va-etre-fun-y-a-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-d-une-manifestation-20261121"
+              "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-reflechirait-a-convoquer-le-congres-pour-instaurer-une-regle-d-or-20261122"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/ca-va-etre-fun-ya-pas-de-camera-dans-la-bagnole-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-de-la-manifestation-du-31-octobre-20261121_35KT4DY2BZBM3GHXH7Y7YYUQ6Q/"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261122-france-emmanuel-macron-pense-%C3%A0-une-r%C3%A8gle-d-or-budg%C3%A9taire-la-droite-et-le-rn-lui-emboitent-le-pas"
             }
-          ],
-          "angles": "Le Figaro et Libération citent des propos attribués aux policiers ('Ça va être fun, y’a pas de caméra dans la bagnole'), ajoutant une dimension choc à leur traitement, tandis que France Info reste factuelle sans reproduire ces déclarations."
+          ]
         }
       ]
     }
