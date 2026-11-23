@@ -1,138 +1,146 @@
 {
-  "generated_at": "2026-11-22T21:56:32Z",
-  "edition": "22 novembre 2026",
+  "generated_at": "2026-11-23T15:08:59Z",
+  "edition": "23 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "Turquie : répression contre les médias d'opposition",
-          "summary": "Des milliers de manifestants ont défilé à Istanbul dimanche 22 novembre contre la mise sous tutelle de la chaîne d'opposition Sözcü TV, dont les locaux ont été perquisitionnés et dont des dirigeants ont été arrêtés. Le gouvernement turc a nommé un administrateur pro-État, alimentant les craintes pour la liberté de la presse dans le pays. La manifestation a été organisée par le principal parti d'opposition, le Yeni Parti. Cette mesure s'inscrit dans une tendance à la restriction des médias critiques depuis une décennie.",
+          "headline": "Nvidia : retour de Huang malgré le scandale d'espionnage",
+          "summary": "Jensen Huang, PDG de Nvidia, a été réintégré à son poste par le conseil d’administration, deux semaines après sa démission liée à une liaison avec une femme soupçonnée d’espionnage pour la Chine. L’action du groupe a bondi de 25 % à l’annonce, tandis que Donald Trump a salué cette décision. Une enquête interne se poursuit, et des sources américaines confirment les liens de sa maîtresse avec le renseignement chinois. Le Congrès américain doit l’auditionner le 1er décembre.",
           "sources": [
             "Le Figaro",
-            "France Info",
             "Le Monde",
+            "Euronews",
+            "RFI",
             "Libération"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/notre-presse-a-ete-reduite-au-silence-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition-20261122"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html"
+              "url": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/en-turquie-le-pouvoir-sattaque-aux-derniers-medias-dopposition-20261122_M5FWN344FNBOHJBS25MN6QO7NA/"
-            }
-          ]
-        },
-        {
-          "headline": "Corée du Sud : démission du ministre de l'Éducation après scandale de triche à l'IA",
-          "summary": "Le ministre de l'Éducation sud-coréen a démissionné dimanche 22 novembre, après des révélations sur l'utilisation de l'intelligence artificielle pour tricher lors des examens d'entrée à l'université, le Suneung. Ces soupçons ont éclaté alors que des milliers de lycéens passaient ces épreuves décisives. Le gouvernement avait lancé une enquête après qu'un candidat ait admis avoir utilisé l'IA. Cette affaire soulève des questions sur l'intégrité des concours et la régulation technologique.",
-          "sources": [
-            "France 24",
-            "RFI",
-            "Libération",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-cor%C3%A9e-du-sud-d%C3%A9mission-du-ministre-de-l-%C3%A9ducation-apr%C3%A8s-un-scandale-de-triche-%C3%A0-l-ia"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/nvidia-retablit-jensen-huang-comme-pdg-moins-de-deux-semaines-apres-sa-demission"
             },
             {
               "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-cor%C3%A9e-du-sud-le-ministre-de-l-%C3%A9ducation-d%C3%A9missionne-sur-fond-de-scandale-de-triche-aux-examens"
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261123-nvidia-annonce-la-r%C3%A9int%C3%A9gration-de-jensen-huang-comme-pdg-deux-semaines-apr%C3%A8s-son-d%C3%A9part"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/asie-pacifique/en-coree-du-sud-le-ministre-de-leducation-demissionne-apres-un-scandale-de-triche-a-lia-20261122_5E2WCX4TZFET5A4VHN7AYHW5MQ/"
+              "url": "https://www.liberation.fr/international/amerique/nvidia-la-maitresse-chinoise-de-jensen-huang-etait-bien-en-contact-avec-pekin-selon-le-new-york-times-20261123_L27VXVFW7ZG2DOKSPE7GDTN3DU/"
+            }
+          ],
+          "angles": "Le Monde et Euronews soulignent les pressions politiques américaines (Trump, enquête) et les risques géopolitiques liés à la Chine, tandis que Le Figaro et Libération insistent sur les détails du scandale (espionnage, enquête) et ses conséquences financières (hausse de l’action). RFI met en avant le retour rapide de Huang et les réactions institutionnelles."
+        },
+        {
+          "headline": "États-Unis : victoire démocrate historique aux midterms",
+          "summary": "Les démocrates ont remporté la plus large majorité à la Chambre des représentants depuis 1992, avec 258 sièges contre 173 pour les républicains, après la victoire de Chuck Hubbard en Caroline du Nord. Cette avancée marque un rejet du gouvernement Trump et de ses alliés, selon des analystes. Le Sénat comptera désormais 56 démocrates contre 44 républicains, une majorité inédite depuis deux décennies. Les observateurs y voient aussi une réponse à l’extrême droite.",
+          "sources": [
+            "Libération",
+            "Le Monde",
+            "Le Figaro",
+            "Courrier International",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/midterms-les-democrates-obtiennent-la-plus-large-majorite-depuis-1992-et-larrivee-de-bill-clinton-au-pouvoir-20261123_HPQIG7ZFXZFODFJ2K5U2TVR6IA/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/23/avec-258-sieges-remportes-les-democrates-decrochent-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_6814364_3210.html"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/midterms-2026-les-derniers-depouillements-confirment-la-victoire-historique-du-parti-democrate-20261122"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/opinion-la-victoire-democrate-aux-midterms-est-une-lecon-d-antifascisme_288271"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/apres-les-elections-de-mi-mandat-aux-etats-unis-les-democrates-auront-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_8295608.html#xtor=RSS-3-%5Bmonde%5D"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde mettent en avant le contexte politique (rejet de Trump, antifascisme) et les chiffres clés, tandis que Le Figaro et Courrier International analysent les implications pour le paysage politique américain et les dynamiques partisanes. Courrier International ajoute une dimension idéologique (lutte contre l’extrême droite)."
         },
         {
-          "headline": "Indonésie : incendie meurtrier dans une usine de confiseries près de Jakarta",
-          "summary": "Un incendie dans une usine de confiseries près de Jakarta a fait au moins trois morts et laisse 36 ouvriers portés disparus, selon les premiers bilans. Les secours peinent à localiser les victimes dans les décombres. Quatre blessés ont été évacués vers des centres de santé. Les causes de l'incendie n'ont pas encore été déterminées. La situation reste critique avec des recherches toujours en cours.",
+          "headline": "COP31 : échec des négociations climatiques sans accord final",
+          "summary": "La 31e Conférence de l’ONU sur le climat s’est achevée sans texte final après 15 jours de discussions, faute de consensus sur les énergies fossiles et les engagements financiers. Les critiques pointent un modèle basé sur le consensus, jugé trop lent face à l’urgence climatique. La coprésidence turco-australienne est remise en question. Les observateurs s’interrogent sur l’avenir des COP dans leur format actuel.",
           "sources": [
             "France Info",
-            "RFI",
-            "20 Minutes",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-indon%C3%A9sie-un-incendie-dans-une-usine-fait-au-moins-trois-morts-et-36-disparus-pr%C3%A8s-de-jakarta"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/4264734-20261122-dizaines-disparus-incendie-usine-bonbons-indonesie?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "RFI et 20 Minutes insistent sur le bilan humain et les disparus, tandis que France Info met en avant le contexte industriel et les difficultés des secours."
-        },
-        {
-          "headline": "États-Unis : critiques contre l'ICE après arrestations controversées",
-          "summary": "L'agence américaine de l'immigration (ICE) est de nouveau sous le feu des critiques après des arrestations musclées à l'aéroport de Seattle. Parallèlement, une enquête de ProPublica révèle que plus de 500 citoyens américains ont été détenus illégalement par l'ICE depuis 2025. Ces affaires soulèvent des questions sur les pratiques de l'agence et ses failles de gestion. Aucune réaction officielle n'a été enregistrée pour l'instant.",
-          "sources": [
-            "RFI",
-            "Le Monde",
+            "Courrier International",
             "France 24"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261122-%C3%A9tats-unis-l-ice-%C3%A0-nouveau-sous-le-feu-des-critiques-apr%C3%A8s-une-arrestation-muscl%C3%A9e-%C3%A0-seattle"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html"
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/climat-la-cop31-severement-critiquee-apres-l-echec-des-negociations_289248"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261122-caroline-toby-sans-vid%C3%A9osurveillance-michel-zecler-aurait-%C3%A9t%C3%A9-victime-d-une-erreur-judiciaire"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-quel-avenir-pour-les-discussions-climatiques-apr%C3%A8s-l-%C3%A9chec-de-la-cop31"
             }
           ],
-          "angles": "Le Monde adopte un angle documentaire avec des témoignages de détenus, tandis que RFI se concentre sur l'aspect opérationnel et les critiques institutionnelles."
+          "angles": "France Info et Courrier International analysent l’échec comme un symptôme des blocages géopolitiques et de l’inefficacité du processus, tandis que France 24 insiste sur les conséquences pratiques (absence de déclaration, prolongations sans résultat). Courrier International ajoute une critique structurelle du modèle des COP."
         },
         {
-          "headline": "Soudan : frappes de drones sur Khartoum, l'Éthiopie pointée du doigt",
-          "summary": "Des frappes de drones ont visé dimanche 22 novembre des zones résidentielles et un bâtiment de l'ONU à Khartoum, sans bilan humain immédiat. Le Soudan accuse l'Éthiopie de soutenir les Forces de soutien rapide (FSR), en guerre contre l'armée soudanaise depuis 2023. Le pays avait saisi le Conseil de sécurité de l'ONU et l'Union africaine en novembre dernier. Les tensions persistent dans un contexte de conflit prolongé.",
+          "headline": "Turquie : manifestations contre la répression des médias",
+          "summary": "Des milliers de personnes ont manifesté à Istanbul pour dénoncer la fermeture et la mise sous tutelle des médias d’opposition par l’État turc. La chaîne Sözcü TV a vu ses bureaux perquisitionnés et ses dirigeants arrêtés, remplacés par un administrateur nommé par le gouvernement. Ces mesures s’inscrivent dans une tendance croissante de contrôle des médias indépendants.",
           "sources": [
-            "RFI",
+            "France 24",
             "Le Monde"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/afrique/20261122-soudan-frappes-de-drones-%C3%A0-khartoum-sur-des-habitations-et-un-b%C3%A2timent-de-l-onu"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-turquie-manifestations-%C3%A0-istanbul-contre-la-fermeture-des-m%C3%A9dias-d-opposition"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html"
             }
+          ]
+        },
+        {
+          "headline": "Yémen : resurface d’une photo controversée de la guerre du Golfe",
+          "summary": "Une photo tristement célèbre, initialement liée à la guerre du Golfe, resurgit dans le contexte des combats au Yémen entre les rebelles houthis (soutenus par l’Iran) et les forces gouvernementales (appuyées par l’Arabie saoudite). Cette image, sortie de son contexte, circule sur les réseaux sociaux et alimente les débats sur la désinformation dans les conflits armés.",
+          "sources": [
+            "RFI"
           ],
-          "angles": "RFI met l'accent sur l'aspect militaire et les accusations, tandis que Le Monde développe le contexte géopolitique et les réactions internationales."
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261123-y%C3%A9men-comment-une-photo-tristement-c%C3%A9l%C3%A8bre-de-la-guerre-du-golfe-a-refait-surface"
+            }
+          ]
+        },
+        {
+          "headline": "Corée du Sud-Chine : élargissement de l’accord de libre-échange",
+          "summary": "La Corée du Sud et la Chine ont élargi leur accord de libre-échange aux secteurs des services et du divertissement, malgré des tensions persistantes depuis un différend sur un système américain de défense en 2016. Les entreprises sud-coréennes du divertissement (K-pop, cinéma) pourraient bénéficier d’un meilleur accès au marché chinois, bien que des restrictions (contrôles des films, interdiction des concerts) subsistent.",
+          "sources": [
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/coree-du-sud-et-chine-elargissent-leur-accord-de-libre-echange-aux-services-et-au-divertis"
+            }
+          ]
         }
       ]
     },
@@ -141,135 +149,135 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Suicide de l’ex-chef de la police italienne De Gennaro",
-          "summary": "Gianni De Gennaro, ancien chef de la police italienne et figure historique de la lutte contre la mafia, s'est suicidé par arme à feu le 21 novembre. Il était mis en examen pour entrave à l'enquête sur l'assassinat du juge Paolo Borsellino en 1992. Ses proches et ses anciens collègues expriment leur choc, saluant son rôle dans la chute de parrains mafieux. Son décès survient dans un contexte de réouverture des dossiers sur la collusion entre État et mafia dans les années 1990.",
+          "headline": "Ukraine attaque navires russes en Libye",
+          "summary": "L'Ukraine a revendiqué lundi 23 novembre l'attaque de deux navires russes, dont une corvette, au large de Benghazi en Libye, à l'aide de sept drones navals. Un navire a été coulé, un autre endommagé. Le président Volodymyr Zelensky a salué cette opération, filmée par des caméras embarquées, tandis que la Russie met en garde contre une escalade. Cette attaque marque une extension inédite du conflit en Méditerranée.",
           "sources": [
             "Le Monde",
-            "France 24"
+            "France Info",
+            "France 24",
+            "Libération",
+            "BBC"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html"
+              "url": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/l-ukraine-attaque-deux-navires-russes-en-libye_8296079.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-italie-d%C3%A9c%C3%A8s-de-gianni-de-gennaro-ex-chef-de-la-police"
-            }
-          ]
-        },
-        {
-          "headline": "Missiles russes en Pologne : incidents militaires en hausse",
-          "summary": "La Pologne a confirmé que les objets tombés vendredi sur son territoire étaient des missiles de croisière russes, sans faire de victimes. Ces incidents s'ajoutent à des alertes aériennes en Finlande et en mer Baltique, alimentant les tensions entre la Russie et l'Otan. Varsovie demande des mesures de protection supplémentaires à l'alliance, tandis que Moscou nie toute responsabilité. Le Quai d'Orsay appelle à la prudence et au renforcement de la pression sur Moscou.",
-          "sources": [
-            "France Info",
-            "20 Minutes",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4264815-20261122-guerre-ukraine-missiles-russes-bien-tombes-pologne-ukraine-peine-front-energie?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/pourquoi-les-russes-nous-tourmentent-ils-ainsi-la-pologne-compte-sur-le-soutien-de-l-otan-apres-une-nouvelle-incursion-de-missiles-sur-son-territoire-20261122"
-            }
-          ]
-        },
-        {
-          "headline": "Législatives espagnoles : Vox en position de faiseur de roi",
-          "summary": "À trois jours des élections législatives anticipées du 29 novembre, le parti d'extrême droite Vox, dirigé par Santiago Abascal, capitalise sur les faiblesses des partis traditionnels. Son discours anti-immigration et son refus de participer à un débat télévisé avec un youtubeur catalan (Jordi Wild) renforcent son image de contestation. Les sondages le placent comme acteur clé pour former une majorité, malgré des divisions internes sur sa stratégie.",
-          "sources": [
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-la-tete-de-vox-santiago-abascal-en-position-de-faiseur-de-roi-aux-elections-legislatives-en-espagne_8250499.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-ukraine-russie-kiev-revendique-l-attaque-de-deux-navires-russes-en-libye"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/legislatives-espagnoles-vox-lextreme-droite-en-campagne-contre-linvasion-migratoire-20261122_3NKCB75PWFGJZC2K2QKXSPJYVE/"
+              "url": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
             }
-          ]
+          ],
+          "angles": "Libération et Le Monde soulignent l'aspect stratégique et symbolique de l'attaque (ciblage d'un navire récent, extension du conflit), tandis que France Info et France 24 insistent sur la dimension opérationnelle et les réactions diplomatiques immédiates. La BBC ajoute une perspective géopolitique régionale avec la réaction du Kremlin."
         },
         {
-          "headline": "Guerre en Ukraine : frappes russes en Pologne et à Kiev",
-          "summary": "Six morts et des dizaines de blessés ont été recensés en Ukraine après des frappes russes par drones et missiles, dont une attaque contre un immeuble résidentiel à Kiev. Parallèlement, des missiles russes ont atterri en Pologne, sans faire de victimes, et un cargo russe a été visé par des drones près de Benghazi (Libye). L'Otan et la Finlande accusent Moscou de déstabilisation, tandis que Kiev renforce ses défenses électroniques contre les drones.",
+          "headline": "Frappe russe en Ukraine : 15 morts près de Kiev",
+          "summary": "Des bombardements russes ont fait au moins 15 morts dans la région de Kiev dans la nuit du 22 au 23 novembre, touchant des zones civiles. Les frappes, intensifiées ces derniers mois, visent des infrastructures résidentielles et commerciales. L'OTAN et l'ONU doivent examiner les conséquences du conflit, notamment après des attaques en Pologne vendredi. L'hiver aggrave les craintes d'une crise humanitaire.",
           "sources": [
+            "Euronews",
+            "Libération",
+            "France Info",
             "RFI",
-            "France 24",
-            "Le Monde",
-            "Le Figaro",
-            "20 Minutes"
+            "Le Monde"
           ],
           "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/nouvelles-frappes-russes-meurtrieres-dans-la-region-de-kyiv"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/ukraine-au-moins-15-morts-lors-de-frappes-russes-dans-la-region-de-kyiv-le-conseil-de-securite-de-lonu-se-reunit-20261123_S7QSYHJ5HZFVJFMWFJMBDMWXGM/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html#xtor=RSS-3-%5Bmonde%5D"
+            },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/europe/20261122-ukraine-six-morts-lors-de-frappes-russes-dans-la-r%C3%A9gion-de-kiev"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/ukraine/4264035-20261122-guerre-ukraine-comment-fonctionne-dome-guerre-electronique-cense-proteger-kiev-drones-russes?at_medium=display&at_campaign=149"
+              "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-un-cargo-russe-pris-pour-cible-dans-le-golfe-de-finlande-le-kremlin-denonce-l-expansion-de-l-activite-terroriste-en-mer-baltique_6814183_3210.html"
             }
-          ]
-        },
-        {
-          "headline": "Mobilisations européennes : jeunesse et pouvoir d'achat en première ligne",
-          "summary": "Des manifestations ont eu lieu dans plusieurs pays européens ce week-end, portées par des syndicats et des mouvements de jeunesse contre la vie chère et pour un avenir meilleur. En Espagne, les législatives anticipées du 29 novembre s'inscrivent dans ce contexte de mécontentement, tandis qu'au Portugal, des protestations contre les salaires et les prix de l'immobilier ont rassemblé des milliers de personnes. L'UE, quant à elle, se penche sur les politiques d'égalité femmes-hommes lors d'une réunion en Irlande.",
-          "sources": [
-            "Le Monde",
-            "RFI"
           ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261122-egalit%C3%A9-femmes-hommes-l-objectif-est-d-acter-des-politiques-communes-au-sein-de-l-ue"
-            }
-          ]
+          "angles": "Libération et France Info détaillent le bilan humain et les cibles précises (immeuble, supermarché), tandis que RFI minimise initialement le nombre de victimes (6 morts) avant correction. Euronews met l'accent sur le contexte diplomatique (réunions OTAN/ONU). Le Monde lie ces frappes à une stratégie russe de pression avant l'hiver."
         },
         {
-          "headline": "Moyen-Orient : nageur britannique dénonce les dégâts écologiques de la guerre",
-          "summary": "Lewis Pugh, nageur britannique connu pour ses actions environnementales, a traversé le détroit d'Ormuz en trois jours, malgré les tensions militaires et la présence de pétroliers, pour alerter sur les conséquences écologiques de la guerre au Moyen-Orient. Son action, qualifiée de 'diplomatie du maillot de bain', vise à attirer l'attention sur les risques pour la biodiversité dans une zone stratégique. Aucune réaction politique n'a été enregistrée pour l'instant.",
+          "headline": "Alerte à la bombe dans 450 écoles en Allemagne",
+          "summary": "Plus de 450 écoles allemandes ont reçu des menaces de bombe par email lundi 23 novembre, sans danger concret selon la police. Le Danemark a aussi été touché par des alertes similaires. Ces incidents s'inscrivent dans une vague de fausses alertes en Europe ces dernières semaines. Les autorités excluent un lien avec des événements récents ou une menace terroriste avérée.",
           "sources": [
-            "France Info",
             "France 24",
+            "Euronews",
+            "Le Monde",
+            "Libération",
             "20 Minutes"
           ],
           "links": [
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/trois-jours-de-nage-dans-le-detroit-d-ormuz-le-britannique-lewis-pugh-denonce-les-consequences-environnementales-de-la-guerre-en-iran_8294930.html#xtor=RSS-3-%5Bmonde%5D"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-allemagne-alertes-%C3%A0-la-bombe-contre-plus-de-450-%C3%A9coles-pas-de-menace-concr%C3%A8te-selon-la-police"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-guerre-au-moyen-orient-un-nageur-britannique-traverse-le-d%C3%A9troit-d-ormuz"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/des-centaines-dalertes-a-la-bombe-dans-des-ecoles-en-allemagne-et-au-danemark"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/23/en-allemagne-et-au-danemark-des-alertes-a-la-bombe-dans-des-etablissements-scolaires-sans-menace-concrete-ou-jugees-infondees-par-les-autorites_6814378_3210.html"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/europe/allemagne-des-alertes-a-la-bombe-contre-plus-de-450-ecoles-dans-plusieurs-regions-20261123_BERLKHVTY5BXTONWDAXJHBNUEY/"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4264735-20261122-guerre-moyen-orient-nature-britannique-nage-detroit-ormuz-plein-conflit?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/monde/4265064-20261123-allemagne-alertes-bombe-contre-plus-450-ecoles-menace-concrete-selon-police?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France 24 et Euronews soulignent le caractère massif et coordonné des alertes, tandis que Le Monde et Libération insistent sur l'absence de menace réelle et le contexte de tensions post-conflit. 20 Minutes ajoute une dimension pratique (modalités des vérifications)."
+        },
+        {
+          "headline": "Enquête de l'UE contre Coca-Cola pour pratiques anticoncurrentielles",
+          "summary": "La Commission européenne enquête sur Coca-Cola Europacific Partners pour des soupçons de comportement anticoncurrentiel visant à maintenir des prix élevés. Bruxelles accuse l'embouteilleur de dissuader les clients de s'approvisionner dans des pays où les tarifs sont plus bas, fragmentant ainsi le marché unique. Cette enquête s'inscrit dans une série de contrôles sur les pratiques des géants mondiaux en Europe.",
+          "sources": [
+            "EURACTIV",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/lue-enquete-sur-un-embouteilleur-de-coca-cola-pour-comportement-anticoncurrentiel/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Grèves en Allemagne : Mercedes et BMW paralysés",
+          "summary": "Le syndicat IG Metall a organisé une grève de 24 heures touchant 23 000 salariés dans 19 sites du nord de l'Allemagne, incluant Mercedes-Benz, BMW et Siemens Gamesa. Ce mouvement s'inscrit dans un conflit salarial plus large, avec des revendications sur les conditions de travail et les rémunérations. Les perturbations affectent la production automobile et énergétique.",
+          "sources": [
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/mercedes-benz-et-bmw-touches-par-des-greves-de-24-h-liees-au-conflit-salarial-en-allemagne"
             }
           ]
         }
@@ -280,187 +288,171 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Alcaraz sacré aux Finales ATP, Arribagé-Olivetti triomphent en double",
-          "summary": "Carlos Alcaraz a remporté son premier Masters ATP en battant Alexander Zverev (6-2, 7-6) à Turin, devenant le quatrième joueur à compléter le Grand Chelem et le Masters. Parallèlement, le duo français Théo Arribagé et Albano Olivetti a remporté le titre en double, leur première participation à ce tournoi. Les deux victoires s’inscrivent dans une saison exceptionnelle pour le tennis français.",
+          "headline": "Macron explore une règle d’or budgétaire",
+          "summary": "Emmanuel Macron envisage d’inscrire une règle d’or budgétaire dans la Constitution pour limiter le déficit public, face à une dette dépassant 3 600 milliards d’euros. Il pourrait convoquer un Congrès en janvier pour adopter une loi constitutionnelle déjà votée en 2011 mais jamais finalisée. La droite et l’extrême droite soutiennent l’idée, tandis que la France insoumise s’y oppose. Le débat s’inscrit dans un contexte de tensions sur les marchés financiers et de hausse des taux d’intérêt.",
           "sources": [
             "RFI",
-            "Le Figaro",
-            "20 Minutes",
+            "Euronews",
             "Libération",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261122-tennis-carlos-alcaraz-domine-alexander-zverev-et-remporte-son-premier-masters-atp"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/tennis/tennis-alcaraz-fait-plier-zverev-et-remporte-son-premier-masters-atp-20261122"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/sport/tennis/4264817-20261122-finales-atp-carlos-alcaraz-vient-bout-alexander-zverev-offre-premier-masters?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/tennis/tennis-les-francais-theo-arribage-et-albano-olivetti-remportent-le-masters-atp-en-double-20261122_C3HTEJG3IBEPRDOGAN6ESMNUCE/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "RFI et Le Figaro soulignent la performance individuelle d'Alcaraz et son statut historique, tandis que Libération et 20 Minutes mettent en avant l’exploit improbable d’Arribagé et Olivetti, associés depuis un an seulement."
-        },
-        {
-          "headline": "Vigilances météo : vents violents en Corse, pluies-inondations en Ain et Jura",
-          "summary": "La Corse est placée en vigilance orange pour des vents dépassant 170 km/h à partir de lundi, tandis que l’Ain et le Jura restent en alerte orange pour des pluies-inondations, avec des cumuls pouvant atteindre 100 mm. Le Pas-de-Calais, toujours en vigilance orange pour crues, voit une timide décrue de la Canche. Ces intempéries s’inscrivent dans un contexte de sols déjà saturés.",
-          "sources": [
-            "Le Monde",
-            "France Info",
-            "Libération"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/lain-et-le-jura-en-vigilance-orange-pluies-inondations-ce-dimanche-le-pas-de-calais-toujours-en-alerte-aux-crues-20261122_6QGNPQ7OBNDKVJ2IXG4JKZR5BA/"
-            }
-          ]
-        },
-        {
-          "headline": "Blessure grave de Doué au PSG : rupture des ligaments et tentative de cambriolage",
-          "summary": "Désiré Doué, attaquant du Paris Saint-Germain, a subi une rupture du ligament croisé du genou droit lors du match contre Nice samedi, nécessitant une opération chirurgicale avant fin novembre. Il sera indisponible plusieurs mois. Par ailleurs, une tentative de cambriolage a été signalée à son domicile dans les Yvelines, où il réside.",
-          "sources": [
-            "RFI",
-            "Libération",
-            "Le Figaro",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/sports/football/lattaquant-du-psg-desire-doue-sort-sur-une-civiere-en-larmes-grosse-inquietude-pour-son-genou-20261121_OYIOL5QERRF75LIR7QODAG2QVY/"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-apres-sa-rupture-des-ligaments-croises-face-a-nice-doue-victime-d-une-tentative-de-cambriolage-dans-les-yvelines-20261122"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/foot/psg/desire-doue-souffre-d-une-rupture-du-ligament-croise-anterieur-du-genou-droit-et-devra-etre-opere-d-ici-la-fin-du-mois_8294843.html#xtor=RSS-3-[lestitres]"
-            }
-          ],
-          "angles": "Libération et RFI insistent sur la gravité de la blessure et son impact sportif, tandis que Le Figaro ajoute la dimension sécuritaire avec la tentative de cambriolage."
-        },
-        {
-          "headline": "Affaire Moutouh : fuites présumées vers le RN, la justice saisie",
-          "summary": "Un mail du ministère de l’Intérieur, lié à Hugues Moutouh (ancien préfet), a été retrouvé chez un proche de Marine Le Pen, dans le cadre d’une enquête sur des fuites présumées vers le Rassemblement national. Moutouh, soupçonné d’avoir renseigné le parti, a demandé à être relevé de ses fonctions. Marine Le Pen nie avoir reçu d’informations confidentielles mais ne peut exclure que son parti en ait bénéficié.",
-          "sources": [
-            "France Info",
-            "Libération",
-            "20 Minutes",
-            "RFI",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/front-national/un-mail-du-service-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn-decouvert-lors-d-une-perquisition-chez-un-proche-de-marine-le-pen_8294915.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/fuites-au-ministere-de-linterieur-un-mail-du-service-du-prefet-moutouh-decouvert-chez-un-proche-de-marine-le-pen-20261122_35OXDYGGVRFFXGEIYX72YKYHGM/"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261122-marine-le-pen-dit-n-avoir-jamais-re%C3%A7u-d-information-confidentielle-du-pr%C3%A9fet-moutouh"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html"
-            }
-          ],
-          "angles": "France Info et Libération soulignent le contexte politique et les déclarations de Le Pen, tandis que 20 Minutes met l’accent sur la démission de Moutouh et les soupçons de complicité institutionnelle."
-        },
-        {
-          "headline": "Présidentielle 2027 : Lisnard exclut une alliance avec Le Pen et conditionne sa primaire",
-          "summary": "David Lisnard, candidat de Nouvelle Énergie, a affirmé ne pas gouverner avec le RN, évoquant des divergences économiques. Il a aussi posé comme condition à sa participation à une primaire de droite l’exclusion d’Édouard Philippe. Ses propos s’inscrivent dans un contexte de tensions croissantes entre la droite et l’extrême droite avant l’élection de 2027.",
-          "sources": [
-            "Le Figaro",
-            "Libération",
-            "France Info",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/pour-david-lisnard-la-primaire-de-la-droite-et-du-centre-est-un-moyen-deliminer-les-macronistes-20261122_WJGV3ANEVZECXAV225UMW4JK4Q/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4264788-20261122-presidentielle-2027-guerre-ouverte-entre-lisnard-pen-macron-culotte-deficit?at_medium=display&at_campaign=149"
-            }
-          ],
-          "angles": "Le Figaro et Libération analysent sa stratégie comme un positionnement anti-macroniste et anti-Le Pen, tandis que 20 Minutes et France Info relaient ses déclarations sans approfondir le cadrage idéologique."
-        },
-        {
-          "headline": "Règle d’or budgétaire : Macron envisage une réforme constitutionnelle controversée",
-          "summary": "Emmanuel Macron réfléchit à convoquer un Congrès pour inscrire une « règle d’or » budgétaire dans la Constitution, limitant le déficit public. Cette mesure, plébiscitée par la droite et le RN, suscite des critiques sur sa faisabilité et son opportunité, alors que la dette publique atteint des niveaux records. L’initiative reste à confirmer officiellement.",
-          "sources": [
-            "Libération",
-            "RFI",
-            "Le Monde",
             "France Info",
             "Le Figaro"
           ],
           "links": [
             {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261123-une-r%C3%A8gle-d-or-budg%C3%A9taire-propos%C3%A9e-par-emmanuel-macron-n-a-aucun-sens-d%C3%A9plore-le-d%C3%A9put%C3%A9-lfi-aur%C3%A9lien-tach%C3%A9"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/emmanuel-macron-confirme-envisager-ladoption-dune-regle-dor-budgetaire"
+            },
+            {
               "source": "Libération",
               "url": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261122-france-emmanuel-macron-pense-%C3%A0-une-r%C3%A8gle-d-or-budg%C3%A9taire-la-droite-et-le-rn-lui-emboitent-le-pas"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html"
-            },
-            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/budget/toutes-les-solutions-meritent-d-etre-explorees-l-elysee-ne-confirme-pas-la-possible-inscription-de-la-regle-d-or-budgetaire-dans-la-constitution-debut-2027_8295083.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122"
             }
           ],
-          "angles": "Libération et Le Monde décryptent les enjeux constitutionnels et politiques, tandis que RFI et France Info relaient l’information sans analyse approfondie, se limitant aux réactions des partis."
+          "angles": "Libération et Le Figaro soulignent le soutien de la droite et du RN, tandis que RFI et Euronews mettent en avant la justification économique et constitutionnelle du projet. France Info et Libération insistent sur le risque de crise financière comme déclencheur."
+        },
+        {
+          "headline": "Enquêtes classées sans suite sur les voyages d’Anne Hidalgo",
+          "summary": "Le Parquet national financier (PNF) a classé sans suite deux enquêtes concernant les déplacements de l’ancienne maire de Paris en Nouvelle-Calédonie et en Polynésie française. Les investigations n’ont révélé aucune infraction, les voyages ayant été jugés conformes aux intérêts de la Ville de Paris. Les procédures avaient été ouvertes après des signalements et une plainte de l’association AC !! Anticorruption.",
+          "sources": [
+            "20 Minutes",
+            "Le Monde",
+            "France Info",
+            "Libération"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4265098-20261123-anne-hidalgo-tahiti-deux-enquetes-concernant-deplacements-ex-maire-paris-classees-suite?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/23/les-enquetes-sur-les-deplacements-d-anne-hidalgo-en-nouvelle-caledonie-et-en-polynesie-classees-sans-suite-par-le-pnf_6814384_3224.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/les-deux-enquetes-sur-les-deplacements-danne-hidalgo-dont-un-en-polynesie-classees-sans-suite-20261123_BQCC7LDJ5BEZTAFPQVRV4SWGKI/"
+            }
+          ]
+        },
+        {
+          "headline": "Cyberattaque majeure au CHU de Guadeloupe",
+          "summary": "Une cyberattaque d’ampleur a paralysé le Centre hospitalier universitaire (CHU) de Guadeloupe, déclenchant le plan blanc. Les systèmes informatiques et téléphoniques sont touchés, perturbant les activités non vitales jusqu’à la fin de la semaine. Le ministère de la Santé a activé une cellule de crise, tandis que l’hôpital fonctionne partiellement avec des moyens manuels.",
+          "sources": [
+            "France 24",
+            "Libération",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-le-chu-de-guadeloupe-victime-d-une-cyberattaque-de-grande-ampleur"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/on-revient-au-papier-et-au-crayon-le-chu-de-guadeloupe-victime-dune-cyberattaque-le-plan-blanc-declenche-20261123_CY3JELIW6BDVFPOYD5JMKWEAMY/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://la1ere.franceinfo.fr/guadeloupe/cyberattaque-au-chu-de-guadeloupe-plusieurs-jours-de-perturbations-a-prevoir-l-hopital-s-organise-1760535.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Libération et France Info détaillent les conséquences opérationnelles pour les patients, tandis que France 24 se concentre sur l’ampleur technique de l’attaque et son contexte (transfert vers un nouveau site)."
+        },
+        {
+          "headline": "Affaire Estrosi : renvoi au tribunal pour prise illégale d’intérêt",
+          "summary": "Christian Estrosi, son épouse Laura Tenoudji-Estrosi, France Télévisions et le média La Tribune sont renvoyés devant un tribunal correctionnel pour prise illégale d’intérêt et complicité. L’enquête porte sur l’organisation à Nice, en 2023, de l’Eurovision Junior et du Nice Climate Summit, deux événements médiatiques. Les poursuites interviennent après trois ans d’investigations.",
+          "sources": [
+            "Libération",
+            "Le Monde",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/organisation-devenements-a-nice-le-couple-estrosi-france-televisions-et-la-tribune-renvoyes-au-tribunal-20261123_SETFO5K7BRDWJLEB2B3EQJLFHI/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/23/nice-christian-estrosi-son-epouse-france-televisions-et-la-tribune-renvoyes-devant-le-tribunal-dans-le-cadre-d-une-enquete-portant-sur-l-organisation-d-evenements_6814376_3224.html"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/221126/eurovision-junior-nice-les-epoux-estrosi-et-france-tv-renvoyes-en-correctionnelle"
+            }
+          ],
+          "angles": "Libération et Le Monde insistent sur les liens entre pouvoirs publics et médias, tandis que Mediapart met l’accent sur les détails procéduraux et les trois ans d’enquête."
+        },
+        {
+          "headline": "Préfet Moutouh porte plainte pour fuites présumées vers le RN",
+          "summary": "Hugues Moutouh, préfet du Loiret, accuse d’être victime d’un « lynchage médiatique » et annonce déposer plainte pour violation du secret de l’enquête et recel. Il nie avoir transmis des éléments confidentiels au Rassemblement national (RN) et demande à être relevé de ses fonctions. L’affaire, révélée par des médias, suscite des tensions politiques et une couverture internationale.",
+          "sources": [
+            "France Info",
+            "20 Minutes",
+            "Libération",
+            "Courrier International"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-fuites-presumees-vers-le-rn-le-prefet-hugues-moutouh-annonce-vouloir-porter-plainte_8295833.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/politique/4265011-20261123-soupcons-fuites-profit-rn-prefet-moutouh-denonce-lynchage-mediatique-va-porter-plainte?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/le-prefet-hugues-moutouh-se-defend-davoir-jamais-fait-de-politique-dans-ses-fonctions-et-veut-porter-plainte-20261123_V52QBUXYDNF6VICYMAMS7WIA7Y/"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-l-embarrassante-affaire-hugues-moutouh-super-sherif-francais-accuse-d-etre-une-taupe-du-rn_289387"
+            }
+          ]
+        },
+        {
+          "headline": "Sommet Choose France : 42,5 milliards d’euros d’investissements annoncés",
+          "summary": "Le sommet Choose France a révélé des projets industriels représentant 42,5 milliards d’euros d’investissements, malgré un contexte économique difficile. Emmanuel Macron y a défendu le bilan de son quinquennat et annoncé des « zones industrielles à fort potentiel » pour simplifier les procédures d’implantation. Plus de 200 projets ont été présentés, avec des incertitudes persistantes sur leur concrétisation.",
+          "sources": [
+            "20 Minutes",
+            "Euronews",
+            "France 24",
+            "France Info"
+          ],
+          "links": [
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/economie/4264998-20261123-choose-france-pres-15-milliards-euros-investissements-annonces-deuxieme-sommet-franco-francais?at_medium=display&at_campaign=149"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/23/pres-de-15-milliards-deuros-dinvestissements-nouveaux-annonces-lors-du-sommet-choose-franc"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261122-choose-france-entreprises-fran%C3%A7aises-pr%C3%AAtent-investir-42-5-milliards-euros-emmanuel-macron-%C3%A9conomie-investissements-projet"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]"
+            }
+          ],
+          "angles": "Euronews et France 24 mettent en avant les chiffres et les incertitudes économiques, tandis que 20 Minutes insiste sur la dimension symbolique et politique de l’événement."
         }
       ]
     }
