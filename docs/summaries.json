@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:59:42Z",
+  "generated_at": "2026-11-24T15:06:37Z",
   "edition": "24 novembre 2026",
   "categories": [
     {
@@ -7,132 +7,168 @@
       "label": "Monde",
       "topics": [
         {
-          "headline": "Nvidia : Trump force le retour de Huang malgré scandale",
-          "summary": "Donald Trump a poussé le conseil d’administration de Nvidia à réintégrer Jensen Huang, démissionnaire après un scandale mêlant adultère, soupçons d’espionnage et contrebande. Le géant des puces, clé de l’IA, voit ses actions rebondir. Washington place aussi sur liste noire la société singapourienne Megaspeed, suspectée d’avoir fourni des puces Nvidia à la Chine. Les marchés saluent le retour de Huang, mais des critiques politiques émergent.",
+          "headline": "CAN 2025 : le Sénégal sacré champion après un an de contentieux",
+          "summary": "Le Tribunal arbitral du sport (TAS) a officiellement désigné le Sénégal vainqueur de la Coupe d'Afrique des nations 2025, annulant la décision controversée attribuant le titre au Maroc sur tapis vert. La finale, disputée le 18 janvier 2026, s'était terminée dans le chaos, déclenchant un litige juridique d'un an. Le Maroc, initialement déclaré vainqueur malgré une victoire 1-0 du Sénégal, conteste désormais la décision sans voie de recours évidente. Le TAS a statué à l'unanimité en faveur des Lions de la Teranga.",
           "sources": [
-            "BBC",
-            "Mediapart",
             "France 24",
-            "Libération",
-            "20 Minutes"
+            "Le Figaro",
+            "20 Minutes",
+            "Le Monde",
+            "RFI"
           ],
           "links": [
             {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Mediapart",
-              "url": "https://www.mediapart.fr/journal/international/231126/jensen-huang-de-retour-la-tete-de-nvidia-les-marches-euphoriques"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-jensen-huang-de-retour-%C3%A0-la-t%C3%AAte-de-nvidia-dans-un-volte-face-inattendu"
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-le-s%C3%A9n%C3%A9gal-officiellement-d%C3%A9sign%C3%A9-vainqueur-de-la-can-2025"
             },
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/le-sexe-fait-vendre-comment-donald-trump-a-pilote-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261123_HSZPXB34VFEGNE6IU5GN2OEZ4Y/"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sports/football/can-le-senegal-recupere-son-titre-de-2025-le-maroc-dechu-20261124"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/high-tech/4265126-20261123-nvidia-coup-theatre-jensen-huang-reintegre-comme-directeur-general-president?at_medium=display&at_campaign=149"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent l’ingérence politique de Trump et ses liens avec les géants technologiques. France 24 et BBC insistent sur les soupçons d’espionnage et les conséquences géopolitiques. Mediapart et 20 Minutes mettent en avant la réaction des marchés et les questions de gouvernance."
-        },
-        {
-          "headline": "Iran exige 290 milliards de dollars aux États-Unis",
-          "summary": "L’Iran a lancé des procédures judiciaires contre les États-Unis pour obtenir 290 milliards de dollars de dédommagements, couvrant les dommages de la guerre de 2026 et des actions américaines passées. Téhéran cible aussi les pays du Golfe pour leur soutien à Washington. Ces démarches s’inscrivent dans un contexte de tensions accrues après les frappes récentes.",
-          "sources": [
-            "France Info",
-            "France 24",
-            "Le Monde"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/l-iran-reclame-290-milliards-de-dollars-de-dedommagements-aux-etats-unis-apres-la-guerre-lancee-le-28-fevrier_8296214.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261123-t%C3%A9h%C3%A9ran-r%C3%A9clame-290-milliards-dollars-d%C3%A9dommagements-washington-guerre"
+              "url": "https://www.20minutes.fr/sport/football/4265419-20261124-can-2025-nouvelle-folie-senegal-recupere-finalement-titre-detriment-maroc?at_medium=display&at_campaign=149"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html"
+              "url": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport"
             }
           ]
         },
         {
-          "headline": "COP31 : échec des négociations climatiques",
-          "summary": "La COP31 s’est conclue sans accord final, les pays producteurs de pétrole ayant bloqué toute mention de sortie des énergies fossiles. Plus de 100 pays ont rejeté le texte, jugeant les engagements insuffisants. Les observateurs s’interrogent sur l’avenir de la diplomatie climatique, marquée par un fossé croissant entre les positions.",
+          "headline": "Nvidia : retour triomphal de Jensen Huang et rebond boursier mondial",
+          "summary": "Jensen Huang, fondateur de Nvidia, a été réintégré à la tête du géant des puces électroniques après sa démission forcée liée à un scandale impliquant une maîtresse soupçonnée d'espionnage pour la Chine. Son retour, soutenu par Donald Trump, a provoqué une flambée des marchés financiers, ajoutant 950 milliards de dollars à la valorisation de Nvidia en une journée. Les actions ont progressé, et les employés ont acclamé son arrivée. Le président américain aurait également bénéficié financièrement de cette décision.",
           "sources": [
+            "Libération",
             "France 24",
-            "Le Figaro",
-            "Le Monde"
+            "Le Monde",
+            "Courrier International",
+            "Euronews"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261123-apr%C3%A8s-l-%C3%A9chec-de-la-cop31-quel-avenir-pour-la-diplomatie-climatique"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/le-fosse-n-a-jamais-ete-aussi-grand-apres-l-echec-de-la-cop31-la-presse-internationale-s-interroge-sur-l-avenir-des-sommets-climatiques-20261123"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261124-les-places-boursi%C3%A8res-saluent-le-retour-de-jensen-huang-chez-nvidia"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/23/au-soudan-tensions-internationales-accrues-apres-une-frappe-de-drone-contre-un-batiment-de-l-onu_6814440_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/video/video-jensen-huang-accueilli-en-heros-chez-nvidia-avec-applaudissements-et-accolades_289863"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/24/le-retour-de-jensen-huang-a-la-tete-de-nvidia-declenche-un-rallye-boursier-mondial"
             }
           ],
-          "angles": "France 24 et Le Monde analysent l’impasse diplomatique, tandis que Le Figaro insiste sur le manque de résultats concrets et la perte de crédibilité des sommets climatiques."
+          "angles": "Libération et Le Monde soulignent l'impact financier sur Donald Trump et les marchés, tandis que France 24 et Euronews insistent sur la réaction des employés et des marchés asiatiques. Courrier International met en avant l'accueil triomphal de Huang par les salariés."
         },
         {
-          "headline": "Birmanie : 14 pays reconnaissent le génocide des Rohingya",
-          "summary": "Quatorze pays, dont le Royaume-Uni, l’Espagne et le Canada, ont reconnu la décision de la Cour internationale de justice (CIJ) qualifiant de génocide les exactions commises par la Birmanie contre les Rohingya en 2017. Ils exhortent Naypyidaw à se conformer à ses obligations internationales. Le Royaume-Uni a par ailleurs sanctionné des dirigeants militaires birmans.",
+          "headline": "Gaza : frappe israélienne tue le chef de la sécurité intérieure du Hamas",
+          "summary": "Naeem Abou Nahal, responsable de la sécurité intérieure du Hamas à Gaza, a été tué mardi par une frappe israélienne. L'armée israélienne a confirmé avoir ciblé un « terroriste de haut rang » sans préciser son identité. Sept autres personnes, dont un adolescent de 17 ans, ont péri dans des bombardements distincts. Les tensions persistent dans l'enclave palestinienne, où les services de secours palestiniens dénombrent six morts au total dans des attaques séparées.",
           "sources": [
+            "France Info",
+            "Le Monde",
             "France 24",
+            "Libération",
             "BBC"
           ],
           "links": [
             {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html"
+            },
+            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/asie-pacifique/20261123-birmanie-genocide-rohingya-14-pays-reconnaissent-decision-cij"
+              "url": "https://www.france24.com/fr/moyen-orient/20261124-chef-s%C3%A9curit%C3%A9-int%C3%A9rieure-hamas-tu%C3%A9-gaza-frappe-israel-netanyahu"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/moyen-orient/gaza-une-frappe-israelienne-fait-6-morts-le-responsable-de-la-securite-interieure-du-hamas-tue-20261124_EQIECSE2WNDRRAR52APIQFL34Q/"
             },
             {
               "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
             }
-          ]
+          ],
+          "angles": "France Info et Le Monde détaillent les victimes civiles et le contexte sécuritaire, tandis que France 24 et Libération insistent sur la légitimité de la cible israélienne sans remettre en cause les pertes collatérales."
         },
         {
-          "headline": "Trump durcit la peine de mort pour crimes graves",
-          "summary": "Donald Trump a ordonné aux procureurs fédéraux de requérir systématiquement la peine capitale pour les meurtriers d’enfants, violeurs et trafiquants d’êtres humains. Il a aussi demandé à accélérer les exécutions fédérales en cours. Cette mesure s’inscrit dans une politique pénale plus répressive, déjà critiquée par ses opposants.",
+          "headline": "Colombie : attentat et fragilité de l'accord de paix avec les FARC",
+          "summary": "Un attentat à la voiture piégée a fait au moins 25 blessés à Villavicencio, attribué au narcoterrorisme par le président colombien. Dix ans après la signature de l'accord de paix avec les FARC, le processus de réinsertion des ex-guérilleros reste précaire, avec une minorité refusant le désarmement. Les anciens combattants subissent des difficultés économiques et un manque de soutien de l'État. L'accord historique, signé le 24 novembre 2016, est aujourd'hui menacé par des violences persistantes.",
           "sources": [
-            "20 Minutes",
-            "Le Monde"
+            "Libération",
+            "Le Monde",
+            "RFI",
+            "BBC"
           ],
           "links": [
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/etats-unis/4265248-20261124-etats-unis-trump-veut-peine-mort-meurtriers-enfants-violeurs?at_medium=display&at_campaign=149"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/colombie-a-la-veille-des-dix-ans-de-laccord-de-paix-un-attentat-a-la-voiture-piegee-fait-au-moins-25-blesses-20261124_KRO74HKRPRGUBA3KWI64U6SKFI/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-dix-ans-apres-l-accord-de-paix-le-laborieux-retour-a-la-vie-civile-des-ex-farc_6814720_3210.html"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-colombie-dix-ans-apr%C3%A8s-sa-signature-l-accord-de-paix-avec-les-farc-menac%C3%A9"
+            },
+            {
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "angles": "Libération et Le Monde abordent la fragilité de l'accord et les conditions de vie des ex-FARC, tandis que RFI met l'accent sur les risques actuels pour la paix."
+        },
+        {
+          "headline": "Iran : 74 coups de fouet infligés à une chanteuse pour avoir chanté sans voile",
+          "summary": "Parastoo Ahmadi, figure du mouvement Femme Vie Liberté, a subi 74 coups de fouet pour avoir participé à un concert diffusé sur YouTube sans porter le hijab. Neuf autres personnes, dont des membres de son équipe, ont été condamnées à des peines similaires. Les autorités iraniennes maintiennent une répression stricte contre les violations des règles vestimentaires, malgré les protestations sociales. La chanteuse est une icône des mouvements contestataires en Iran.",
+          "sources": [
+            "RFI",
+            "France Info",
+            "Euronews"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/moyen-orient/20261124-l-iran-inflige-74-coups-de-fouet-%C3%A0-la-chanteuse-parastoo-ahmadi"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/iran/l-iran-a-inflige-74-coups-de-fouet-a-une-chanteuse-qui-s-est-produite-sur-youtube-sans-voile_8297238.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/24/iran-la-chanteuse-parastoo-ahmadi-fouettee-pour-avoir-chante-sans-hijab"
             }
           ]
         },
         {
-          "headline": "Soudan : frappe de drone contre bâtiment de l’ONU",
-          "summary": "L’armée soudanaise accuse les Forces de soutien rapide (FSR) d’avoir lancé une frappe de drone contre un bâtiment de l’ONU à Khartoum depuis l’Éthiopie. Cette attaque aggrave les tensions internationales dans un pays déjà déchiré par une guerre civile. Les Nations unies n’ont pas confirmé l’origine de la frappe.",
+          "headline": "Chine : enquête pour corruption contre un haut responsable du Parti communiste",
+          "summary": "Chen Jining, chef du Parti communiste à Shanghai et membre du bureau politique, fait l'objet d'une enquête pour soupçons de corruption. Il est le quatrième responsable de haut niveau visé depuis le début du mandat actuel du président chinois en 2022. Cette mesure s'inscrit dans la lutte continue du régime contre la corruption au sein de l'appareil d'État, malgré les risques politiques que cela comporte.",
           "sources": [
             "Le Monde"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/afrique/article/2026/11/23/au-soudan-tensions-internationales-accrues-apres-une-frappe-de-drone-contre-un-batiment-de-l-onu_6814440_3212.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/chine-a-shanghai-le-chef-du-parti-communiste-vise-par-une-enquete-pour-des-soupcons-de-corruption_6814768_3210.html"
             }
           ]
         }
@@ -143,139 +179,166 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Ukraine attaque navires russes en Libye",
-          "summary": "L'Ukraine a revendiqué l'attaque de deux navires russes, une corvette et un cargo, près de Benghazi en Libye, à plus de 2 000 km de ses bases. Les autorités libyennes de l'Est ont déposé plainte auprès de l'ONU, accusant Kiev de violation de souveraineté. Tripoli a réclamé des explications. Cette opération marque une extension géographique du conflit et vise la logistique russe. Les médias soulignent son caractère inédit et ses implications régionales.",
+          "headline": "Ukraine frappe navires russes en Libye et Baltique",
+          "summary": "L'Ukraine a revendiqué des attaques contre deux navires russes en Libye et un cargo en mer Baltique. Kiev affirme cibler uniquement la logistique russe, mais Moscou a riposté en frappant Zaporijjia, faisant deux morts et 40 blessés. Ces opérations visent à étendre la guerre hors des frontières ukrainiennes. Les frappes russes sur Zaporijjia ont touché des civils, dont des enfants.",
           "sources": [
-            "Le Monde",
-            "Libération",
+            "Toute l'Europe",
             "France Info",
+            "Le Monde",
             "France 24",
-            "RFI"
+            "Libération"
           ],
           "links": [
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-la-libye-reclame-des-explications-a-kiev-apres-les-attaques-contre-des-navires-russes-pres-de-benghazi_6814183_3210.html"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/"
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/guerre-en-ukraine-kiev-revendique-des-frappes-contre-deux-navires-russes-en-libye/"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-frappe-deux-bateaux-russes-en-mediterranee_8296680.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-le-hongrois-peter-magyar-va-rencontrer-volodymyr-zelensky-mardi-en-transcarpatie_6814183_3210.html"
             },
             {
               "source": "France 24",
               "url": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte"
             },
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261123-direct-l-ukraine-dit-avoir-attaqu%C3%A9-deux-bateaux-russes-pr%C3%A8s-des-c%C3%B4tes-de-la-libye"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/international/guerre-en-ukraine-plus-de-1-000-suicides-de-militaires-russes-recenses-depuis-le-debut-du-conflit-20261124_QFS54FAN2VG7BCD3QN2XIQUCQE/"
             }
           ],
-          "angles": "Libération et Le Monde insistent sur la réaction libyenne et les risques d'escalade régionale. France 24 et RFI mettent en avant la dimension stratégique de l'attaque pour l'Ukraine. Le Figaro et France Info soulignent l'aspect spectaculaire et la portée symbolique de l'opération."
+          "angles": "Toute l'Europe et France 24 soulignent l'aspect stratégique et symbolique des attaques ukrainiennes en dehors de l'Ukraine, tandis que Le Monde et France Info insistent sur la riposte russe et ses conséquences humanitaires. Libération et France Info mentionnent aussi le contexte des suicides militaires russes."
         },
         {
-          "headline": "Russie : projet d'arme nucléaire en orbite",
-          "summary": "La Russie pourrait placer une arme nucléaire en orbite à bord du satellite Spoutnik-S avant la fin 2026, selon des médias allemands (Süddeutsche Zeitung, NDR, WDR). L'Occident s'inquiète de cette militarisation de l'espace, jugée dangereuse. L'Otan a réagi en renforçant sa surveillance spatiale. Le projet, confirmé par des sources de renseignement occidental, suscite des craintes d'escalade.",
+          "headline": "UE interdit aux athlètes russes les compétitions sur son sol",
+          "summary": "La Commission européenne propose d'interdire aux sportifs russes de concourir sous leur bannière dans les compétitions se tenant sur le territoire de l'UE. Cette mesure fait partie d'un nouveau paquet de sanctions contre Moscou. Plusieurs pays membres, comme la Finlande, ont déjà adopté des restrictions similaires. Le Tribunal arbitral du sport a ordonné la réintégration de certains athlètes russes, mais certains États résistent.",
           "sources": [
-            "20 Minutes",
-            "Le Figaro",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/monde/russie/4265231-20261124-russie-apprete-mettre-arme-nucleaire-orbite?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/la-russie-s-appreterait-a-placer-une-arme-nucleaire-dans-l-espace-20261123"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/russie/l-otan-est-prete-a-se-defendre-sur-chaque-centimetre-apres-des-revelations-sur-un-projet-de-satellite-nucleaire-russe_8296413.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ],
-          "angles": "20 Minutes et Le Figaro adoptent un ton alarmiste en évoquant une 'menace directe' pour la sécurité mondiale. Les deux médias citent des sources occidentales sans nuance sur les intentions russes."
-        },
-        {
-          "headline": "UE durcit sanctions contre la Russie",
-          "summary": "L'Union européenne a présenté un 22e paquet de sanctions contre Moscou, ciblant banques, flotte fantôme et athlètes russes. La Commission propose aussi d'interdire aux athlètes russes de concourir sur le sol européen et d'empêcher les Européens de travailler dans des entreprises russes. Ces mesures visent à maintenir la pression sur la Russie pour mettre fin à la guerre en Ukraine. La proposition inclut aussi des restrictions sur les symboles russes dans les compétitions sportives.",
-          "sources": [
+            "Courrier International",
             "Le Monde",
-            "France Info"
+            "France Info",
+            "RFI"
           ],
           "links": [
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/sanctions-l-union-europeenne-veut-bannir-la-russie-des-competitions-sportives_289848"
+            },
             {
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html#xtor=RSS-3-%5Bmonde%5D"
-            }
-          ]
-        },
-        {
-          "headline": "Extrême droite espagnole en position de force",
-          "summary": "À six jours des élections législatives en Espagne (29 novembre), le parti d'extrême droite Vox pourrait permettre à la droite de former une majorité. Ses discours nationalistes séduisent une partie de l'électorat. Le Premier ministre Pedro Sánchez a convoqué ces élections en raison de la crise du logement, qui pousse des familles à quitter leur domicile. Les manifestations contre la vie chère et le réarmement militaire mobilisent aussi la jeunesse européenne.",
-          "sources": [
-            "France Info",
-            "France 24"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/espagne/cette-caravane-c-est-le-plus-digne-que-j-ai-trouve-en-espagne-le-logement-au-c-ur-d-une-crise-profonde_8296770.html#xtor=RSS-3-%5Bmonde%5D"
+              "url": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
             },
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261123-notre-avenir-plut%C3%B4t-guerres-europe-jeunesse-mobilise-contre-r%C3%A9armement"
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261124-l-union-europ%C3%A9enne-propose-d-interdire-de-comp%C3%A9tition-les-athl%C3%A8tes-russes-sur-son-territoire"
             }
-          ]
+          ],
+          "angles": "Courrier International et Le Monde mettent en avant le cadre juridique et politique des sanctions, tandis que France Info et RFI insistent sur l'aspect sportif et les réactions internationales. Le Monde analyse aussi les risques pour l'ordre sportif mondial."
         },
         {
-          "headline": "Incident frontalier en Pologne : missiles russes",
-          "summary": "Trois missiles russes ont frôlé la Pologne lors d'attaques contre l'Ukraine, déclenchant une réunion d'urgence de l'Otan à Bruxelles. Les forces polonaises avaient l'autorisation d'abattre un drone russe, mais ont renoncé pour éviter des risques pour les civils. L'Alliance renforce sa surveillance dans le flanc oriental, mais peine à répondre aux provocations russes sous le seuil du conflit. L'incident ravive les tensions et les craintes d'escalade.",
+          "headline": "Suicides militaires russes en hausse en Ukraine",
+          "summary": "Plus de 1 000 suicides de soldats russes ont été recensés depuis le début du conflit, selon des données piratées par des hackeurs biélorusses et ukrainiens. L'année 2026 détient le deuxième taux le plus élevé après 2025. Ces chiffres, sous-estimés selon le Guardian, révèlent une crise morale et psychologique dans les rangs de l'armée russe. La Russie intensifie ses frappes en réponse aux attaques ukrainiennes hors de ses frontières.",
           "sources": [
             "Le Figaro",
-            "Libération"
+            "Libération",
+            "France Info",
+            "EURACTIV",
+            "Euronews"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/un-drone-russe-viole-brievement-l-espace-aerien-polonais-lors-d-une-attaque-contre-l-ukraine-20261124"
+              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-1000-soldats-russes-se-seraient-suicides-depuis-le-debut-du-conflit-20261124"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/international/avec-le-tir-de-trois-missiles-sur-la-pologne-les-russes-jouent-avec-les-limites-20261123_GLOFZTS4EBBKDMQUVTWD3VJVWQ/"
+              "url": "https://www.liberation.fr/international/guerre-en-ukraine-plus-de-1-000-suicides-de-militaires-russes-recenses-depuis-le-debut-du-conflit-20261124_QFS54FAN2VG7BCD3QN2XIQUCQE/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-un-conflit-sans-frontieres_8297181.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/les-dirigeants-du-groupe-de-visegrad-et-de-lautriche-critiquent-vivement-le-budget-de-lue/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/24/budget-pluriannuel-de-lue-le-groupe-de-visegrad-complique-les-negociations"
             }
-          ]
+          ],
+          "angles": "Le Figaro et Libération partagent les mêmes faits mais Le Figaro insiste sur l'aspect chiffré et sous-estimé, tandis que Libération met en avant le contexte des piratages de données et leur origine."
         },
         {
-          "headline": "Enquête anticoncurrentielle contre Coca-Cola Europe",
-          "summary": "La Commission européenne a lancé une enquête approfondie contre Coca-Cola Europacific Partners pour des soupçons de pratiques anticoncurrentielles. Bruxelles accuse l'entreprise de maintenir des prix élevés en dissuadant ses clients de s'approvisionner dans des pays où ses tarifs sont plus bas. Cette enquête s'inscrit dans une série de mesures visant à protéger le marché unique européen contre les abus de position dominante.",
+          "headline": "Report du vote sur l’assouplissement des pesticides en UE",
+          "summary": "Le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir la réglementation des pesticides, initialement prévu en décembre. Ce report est dû à des blocages politiques et à un embouteillage dans l'approbation des produits utilisés. Le paquet législatif, appelé Omnibus X, prévoit des autorisations illimitées pour certains pesticides, suscitant des débats au sein des institutions européennes.",
           "sources": [
             "Libération",
             "Le Monde",
-            "Courrier International"
+            "Le Figaro"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/conso/concurrence-le-principal-producteur-europeen-de-coca-cola-dans-le-collimateur-de-lue-20261123_TLIKXZTAPFBCDCJXJGUTKHJZMQ/"
+              "url": "https://www.liberation.fr/environnement/agriculture/on-a-quand-meme-un-peu-despoir-le-vote-de-la-loi-sur-lextension-de-lusage-des-pesticides-reportee-a-2027-au-parlement-europeen-20261124_HV6RSCRYGFBCPB4QIAQBMIKN7E/"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html"
+              "url": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html"
             },
             {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/automobile-hors-de-l-ue-l-initiative-de-bruxelles-sur-le-made-in-europe-est-taxee-de-protectionnisme_288879"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/le-mi5-alerte-les-fournisseurs-de-l-armee-ukrainienne-au-royaume-uni-sur-le-risque-de-sabotage-russe-20261124"
             }
           ]
+        },
+        {
+          "headline": "Royaume-Uni alerte sur les risques de sabotage russe",
+          "summary": "Le MI5 et le gouvernement britannique alertent les fournisseurs de l'armée ukrainienne sur des risques accrus de sabotage par la Russie. Une alerte de sécurité indique que Moscou pourrait cibler des installations européennes liées à la défense. Le Royaume-Uni prévoit de briefer les dirigeants du secteur pour renforcer la sécurité. Ces mesures interviennent dans un contexte d'escalade des tensions autour de l'approvisionnement militaire de l'Ukraine.",
+          "sources": [
+            "Le Figaro",
+            "EURACTIV"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/le-mi5-alerte-les-fournisseurs-de-l-armee-ukrainienne-au-royaume-uni-sur-le-risque-de-sabotage-russe-20261124"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/menace-de-sabotage-russe-le-royaume-uni-va-briefer-les-pdg-du-secteur-de-la-defense/"
+            }
+          ]
+        },
+        {
+          "headline": "Budget de l’UE bloqué par le groupe de Visegrád",
+          "summary": "Les dirigeants du groupe de Visegrád et de l'Autriche critiquent fermement la proposition de budget pluriannuel de l'UE, jugée insuffisante. Ces pays estiment que la proposition ne constitue pas une base de négociation acceptable. Les tensions persistent alors que l'UE cherche à finaliser son budget pour 2027, crucial pour ses politiques et investissements futurs.",
+          "sources": [
+            "EURACTIV",
+            "Euronews",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/les-dirigeants-du-groupe-de-visegrad-et-de-lautriche-critiquent-vivement-le-budget-de-lue/"
+            },
+            {
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/24/budget-pluriannuel-de-lue-le-groupe-de-visegrad-complique-les-negociations"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-pologne-un-drone-russe-viole-l-espace-a%C3%A9rien"
+            }
+          ],
+          "angles": "EURACTIV et Euronews adoptent un ton factuel et politique, mais EURACTIV insiste sur les déclarations officielles des dirigeants, tandis qu'Euronews élargit le contexte aux enjeux économiques généraux."
         }
       ]
     },
@@ -284,127 +347,154 @@
       "label": "France",
       "topics": [
         {
-          "headline": "France crée des stocks stratégiques de minerais critiques",
-          "summary": "La France va se doter de réserves de terres rares et métaux prioritaires, inspirées du modèle des stocks pétroliers, pour réduire sa dépendance à la Chine. Le projet, annoncé par l'Élysée, sera piloté par la Caisse des dépôts et consulte les industriels concernés. Vingt des 34 matières premières critiques de l'UE sont visées, avec un objectif de mise en œuvre d’ici 2027. La mesure vise à sécuriser les approvisionnements pour les secteurs stratégiques.",
+          "headline": "Affaire Takieddine : Sarkozy et Carla Bruni renvoyés en procès",
+          "summary": "Nicolas Sarkozy, Carla Bruni-Sarkozy et Mimi Marchand seront jugés en 2027 pour leur rôle présumé dans la rétractation monnayée de Ziad Takieddine, intermédiaire dans l’affaire du financement libyen de la campagne présidentielle de 2007. Ils sont accusés d’association de malfaiteurs et de recel de subornation de témoin. La décision a été confirmée par les juges d’instruction parisiens.",
           "sources": [
-            "20 Minutes",
-            "France Info",
-            "RFI",
             "France 24",
-            "Le Monde"
+            "Le Figaro",
+            "Le Monde",
+            "France Info",
+            "Libération"
           ],
           "links": [
-            {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/economie/4265247-20261124-france-va-doter-stocks-strategiques-terres-rares-mineraux-prioritaires?at_medium=display&at_campaign=149"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques"
-            },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques"
+              "url": "https://www.france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/actualite-france/fausse-retractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces-apres-la-20261124"
             },
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html"
-            }
-          ]
-        },
-        {
-          "headline": "Menaces de mort contre six députés LFI",
-          "summary": "Six députés de la France insoumise (LFI) ont porté plainte pour menaces de mort anonymes, incluant des symboles nazis. Les courriers haineux, reçus récemment, soulèvent des questions sur l'inaction des autorités. Les élus concernés sont Éric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo. La plainte a été déposée au commissariat le 24 novembre.",
-          "sources": [
-            "Le Monde",
-            "France Info"
-          ],
-          "links": [
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/fausse-retractation-de-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces-en-2027-20261124_MVCMLYLVGBGMHPN4YEIXMXLYEY/"
             }
           ]
         },
         {
-          "headline": "Affaire des fuites au RN : Bardella interroge le timing de la perquisition",
-          "summary": "Jordan Bardella a jugé « étrange » le timing de la perquisition au siège du Rassemblement national (RN) le 9 novembre, évoquant un possible lien avec une enquête sur des fuites présumées. Il affirme ne pas avoir connaissance de bénéficiaires au sein du parti et demande des clarifications sur les motivations des enquêteurs. La perquisition avait été justifiée par une enquête distincte.",
+          "headline": "Mort de Nahel Merzouk : procès pour meurtre confirmé en appel",
+          "summary": "La cour d’appel de Versailles a ordonné que le policier ayant tué Nahel Merzouk en 2023 soit jugé pour meurtre devant la cour d’assises des Hauts-de-Seine. L’avocat du fonctionnaire a annoncé un pourvoi en cassation. Nahel, 17 ans, avait été abattu lors d’un contrôle routier à Nanterre.",
           "sources": [
+            "France 24",
             "France Info",
+            "Libération",
+            "RFI",
             "20 Minutes"
           ],
           "links": [
             {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-mort-de-nahel-la-justice-confirme-en-appel-le-renvoi-du-policier-pour-meurtre"
+            },
+            {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-affirme-qu-a-sa-connaissance-personne-au-rn-n-a-beneficie-de-fuites-et-juge-etrange-le-timing-de-la-perquisition-du-siege-de-son-parti_8296713.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/mort-de-nahel-merzouk-la-cour-dappel-de-versailles-ordonne-un-proces-pour-meurtre-contre-le-policier-qui-la-tue-20261124_HLTCW73RNRDUPJOWTA4ET4ZAEY/"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261124-mort-de-nahel-en-2023-en-appel-la-justice-fran%C3%A7aise-ordonne-un-proc%C3%A8s-pour-meurtre-%C3%A0-l-encontre-du-policier"
             },
             {
               "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/politique/4265225-20261123-fuites-presumees-profit-rn-jordan-bardella-trouve-timing-perquisition-etrange?at_medium=display&at_campaign=149"
+              "url": "https://www.20minutes.fr/justice/4265284-20261124-mort-nahel-merzouk-justice-ordonne-appel-proces-meurtre-encontre-policier?at_medium=display&at_campaign=149"
             }
           ]
         },
         {
-          "headline": "Écrits antisémites de Laure Lavalette : Bardella reconnaît une faute",
-          "summary": "Jordan Bardella a reconnu « une faute » concernant les écrits antisémites cautionnés par Laure Lavalette dans les années 1990, tout en lui apportant son « total soutien ». La porte-parole de campagne de Marine Le Pen avait minimisé ces faits, invoquant un « climat différent ». L’affaire resurgit dans un contexte de tensions autour des propos tenus par des figures du RN sur l’antisémitisme.",
+          "headline": "France : création de stocks stratégiques de minerais critiques",
+          "summary": "La France va se doter de réserves de terres rares et de métaux prioritaires, inspirées du modèle des stocks pétroliers, pour réduire sa dépendance à la Chine. L’annonce a été faite par Emmanuel Macron lors d’une réunion avec des industriels. Le calendrier et le financement restent à préciser.",
           "sources": [
-            "Libération",
-            "Le Figaro"
+            "France Info",
+            "Euronews",
+            "Libération"
           ],
           "links": [
             {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123_2UTAIIKFYNH4XM2N42RBJZFOJM/"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html#xtor=RSS-3-[lestitres]"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123"
+              "source": "Euronews",
+              "url": "https://fr.euronews.com/2026/11/24/la-france-va-constituer-des-stocks-strategiques-de-terres-rares-et-minerais-critiques"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/la-france-veut-se-doter-de-stocks-strategiques-de-terres-rares-et-minerais-critiques-20261124_VHWVQ5MQINAMDH2A66QQB4W3LU/"
             }
           ],
-          "angles": "Libération et Le Figaro soulignent tous deux les contradictions entre la reconnaissance de la faute et le soutien inconditionnel de Bardella, mais Le Figaro insiste davantage sur le contexte historique ('climat différent') pour atténuer la portée des propos."
+          "angles": "France Info et Euronews insistent sur la dimension géopolitique, tandis que Libération met l’accent sur les détails concrets et les incertitudes."
         },
         {
-          "headline": "Yannick Jadot lance un nouveau parti écologiste",
-          "summary": "Yannick Jadot et Jérémie Iordanoff ont fondé « Ecologistes et Démocrates », un nouveau parti écologiste, en rupture avec EELV et Marine Tondelier. Ce clivage intervient après le refus de cette dernière d’exclure un rapprochement avec Jean-Luc Mélenchon. Le nouveau mouvement vise à défendre une ligne écologiste « sans confusion des valeurs ». La création a été annoncée le 23 novembre.",
+          "headline": "Présidentielle 2027 : Bruno Retailleau promet une loi pour libérer les communes",
+          "summary": "Bruno Retailleau, candidat LR à l’élection présidentielle, a promis une « grande loi de liberté locale » pour réduire la bureaucratie pesant sur les maires lors du congrès de l’Association des maires de France. Ce rassemblement est aussi marqué par la course aux 500 parrainages nécessaires pour se présenter.",
           "sources": [
             "Le Figaro",
-            "Libération"
+            "RFI",
+            "France 24",
+            "Libération",
+            "Le Monde"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-francois-ruffin-edouard-philippe-candidature-marine-le-pen-20261123"
+              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-en-quete-de-parrainage-de-nombreux-candidats-attendus-au-congres-des-maires-de-france-20261124"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261124-pr%C3%A9sidentielle-2027-le-congr%C3%A8s-des-maires-de-france-march%C3%A9-aux-parrainages-des-candidats"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261124-ouverture-du-congr%C3%A8s-des-maires-sur-fond-de-bataille-pour-l-%C3%A9lys%C3%A9e"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/marine-tondelier-a-mene-les-ecologistes-dans-une-impasse-apres-leur-rupture-yannick-jadot-et-jeremie-iordanoff-annoncent-la-creation-dun-nouveau-parti-20261123_WAYO5QZHJ5DZJOGEXCTCM266LY/"
+              "url": "https://www.liberation.fr/politique/attal-retailleau-et-lisnard-annulent-leur-deuxieme-reunion-sur-la-primaire-en-attendant-la-rencontre-autour-de-larcher-20261124_A65DDJYCZFFQNN75YDHKX5CZ2M/"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html"
             }
           ],
-          "angles": "Libération met l’accent sur la rupture idéologique et la création d’une alternative, tandis que Le Figaro souligne davantage la scission interne au mouvement écologiste et les tensions avec Marine Tondelier."
+          "angles": "Le Figaro et France 24 mettent en avant les propositions politiques, tandis que Libération et RFI soulignent les enjeux stratégiques des parrainages et les tensions internes."
         },
         {
-          "headline": "Marche contre le racisme de Marseille à Trappes",
-          "summary": "Une marche citoyenne pour l’égalité a été lancée le 23 novembre à Marseille, en direction de Trappes, en réaction à l’attentat raciste du 27 octobre ayant fait un mort et sept blessés. Les organisateurs appellent à une démarche apolitique pour le vivre-ensemble. L’initiative rappelle la marche de 1983 contre le racisme, partie de Marseille vers Paris. La marche doit s’achever fin décembre.",
+          "headline": "Enquête pour détournement de fonds à l’agglomération du Havre",
+          "summary": "Une enquête a été ouverte après un signalement pour détournement de fonds publics à l’agglomération du Havre, présidée par Édouard Philippe. La procureure Soizic Guillaume a confirmé la transmission du dossier au commissariat du Havre, suite à une plainte de l’ex-directrice générale adjointe Cornelia Findeisen.",
           "sources": [
-            "RFI",
-            "Libération"
+            "Le Figaro",
+            "France Info",
+            "Libération",
+            "20 Minutes"
           ],
           "links": [
             {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261123-racisme-en-france-une-marche-pour-l-%C3%A9galit%C3%A9-s-%C3%A9lance-de-marseille-en-direction-de-trappes"
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-une-enquete-ouverte-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe-20261124"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/de-marseille-a-trappes-une-nouvelle-marche-contre-le-racisme-quarante-trois-ans-apres-on-essaie-de-reparer-quelque-chose-20261123_J74N53HD3VA5XFXDYOEZUCYNP4/"
+              "url": "https://www.liberation.fr/politique/detournement-de-fonds-publics-une-enquete-ouverte-a-lagglomeration-du-havre-presidee-par-edouard-philippe-20261124_YVGEWXKHJBE2JCNJ2GLT242A7E/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4265372-20261124-havre-enquete-ouverte-detournement-fonds-publics-agglomeration-presidee-edouard-philippe?at_medium=display&at_campaign=149"
             }
           ]
         }
