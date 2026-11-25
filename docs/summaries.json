@@ -1,174 +1,174 @@
 {
-  "generated_at": "2026-11-24T15:06:37Z",
-  "edition": "24 novembre 2026",
+  "generated_at": "2026-11-25T00:58:54Z",
+  "edition": "25 novembre 2026",
   "categories": [
     {
       "id": "monde",
       "label": "Monde",
       "topics": [
         {
-          "headline": "CAN 2025 : le Sénégal sacré champion après un an de contentieux",
-          "summary": "Le Tribunal arbitral du sport (TAS) a officiellement désigné le Sénégal vainqueur de la Coupe d'Afrique des nations 2025, annulant la décision controversée attribuant le titre au Maroc sur tapis vert. La finale, disputée le 18 janvier 2026, s'était terminée dans le chaos, déclenchant un litige juridique d'un an. Le Maroc, initialement déclaré vainqueur malgré une victoire 1-0 du Sénégal, conteste désormais la décision sans voie de recours évidente. Le TAS a statué à l'unanimité en faveur des Lions de la Teranga.",
+          "headline": "Nvidia : Trump et le retour controversé de Jensen Huang",
+          "summary": "Le président américain Donald Trump a fait pression pour le retour de Jensen Huang à la tête de Nvidia après sa démission forcée liée à une liaison avec une espionne présumée chinoise. L’action de l’entreprise a bondi de 30 % à son retour, suscitant des soupçons de conflits d’intérêts. Trump détenait 12 millions de dollars d’actions Nvidia fin 2025. Le Congrès américain doit auditionner Huang début décembre, tandis que des élus démocrates accusent Trump d’avoir profité de la situation. Le géant chinois Huawei, condamné aux États-Unis pour vol de secrets industriels, illustre aussi les tensions technologiques entre Washington et Pékin.",
+          "sources": [
+            "France Info",
+            "Libération",
+            "Le Figaro",
+            "RFI",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-est-il-enrichi-avec-le-retour-de-jensen-huang-a-la-tete-de-nvidia_8298372.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-l-intervention-de-donald-trump-en-faveur-de-jensen-huang-tourne-a-l-affaire-d-etat-20261124"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261124-retour-de-jensen-huang-%C3%A0-la-t%C3%AAte-de-nvidia-il-y-a-une-relation-d-int%C3%A9r%C3%AAts-crois%C3%A9s-avec-donald-trump"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html"
+            }
+          ],
+          "angles": "Libération et Le Figaro mettent l’accent sur les pressions politiques et les risques de corruption, tandis que France Info et RFI soulignent les implications financières pour Trump et les réactions des marchés. Le Monde et France 24 insistent sur les enjeux géopolitiques liés à l’IA et à la Chine."
+        },
+        {
+          "headline": "CAN 2025 : le Sénégal récupère son titre après un feuilleton judiciaire",
+          "summary": "Le Tribunal arbitral du sport (TAS) a rendu au Sénégal son titre de champion d’Afrique 2025, annulé sur tapis vert au profit du Maroc après une finale chaotique en janvier 2026. La décision, prise à l’unanimité, confirme la victoire 1-0 des Lions de la Teranga sur le terrain. Le Maroc a annoncé contester la décision par toutes les voies légales. L’affaire, marquée par des tensions diplomatiques, s’est étalée sur plus de dix mois. Le Sénégal célèbre, tandis que la CAF déclare respecter la décision.",
           "sources": [
             "France 24",
-            "Le Figaro",
-            "20 Minutes",
             "Le Monde",
+            "20 Minutes",
+            "France Info",
             "RFI"
           ],
           "links": [
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-le-s%C3%A9n%C3%A9gal-officiellement-d%C3%A9sign%C3%A9-vainqueur-de-la-can-2025"
+              "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261124-edition-sp%C3%A9ciale-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique"
             },
             {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/sports/football/can-le-senegal-recupere-son-titre-de-2025-le-maroc-dechu-20261124"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/video/2026/11/24/can-2025-le-senegal-champion-d-afrique-de-football-voici-la-decision-du-tribunal-arbitral-du-sport_6814845_3210.html"
             },
             {
               "source": "20 Minutes",
               "url": "https://www.20minutes.fr/sport/football/4265419-20261124-can-2025-nouvelle-folie-senegal-recupere-finalement-titre-detriment-maroc?at_medium=display&at_campaign=149"
             },
             {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html"
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport"
             }
-          ]
+          ],
+          "angles": "France 24 et Le Monde détaillent le contexte juridique et les réactions politiques, tandis que 20 Minutes adopte un ton plus émotionnel, mettant en avant la joie des supporters sénégalais. RFI et France Info insistent sur les implications sportives et les risques de nouvelles procédures."
         },
         {
-          "headline": "Nvidia : retour triomphal de Jensen Huang et rebond boursier mondial",
-          "summary": "Jensen Huang, fondateur de Nvidia, a été réintégré à la tête du géant des puces électroniques après sa démission forcée liée à un scandale impliquant une maîtresse soupçonnée d'espionnage pour la Chine. Son retour, soutenu par Donald Trump, a provoqué une flambée des marchés financiers, ajoutant 950 milliards de dollars à la valorisation de Nvidia en une journée. Les actions ont progressé, et les employés ont acclamé son arrivée. Le président américain aurait également bénéficié financièrement de cette décision.",
+          "headline": "Iran : flagellation de la chanteuse Parastoo Ahmadi condamnée par l’ONU",
+          "summary": "La chanteuse iranienne Parastoo Ahmadi, âgée de 29 ans, a subi 74 coups de fouet pour avoir chanté sans voile dans une vidéo virale. L’ONU et la France qualifient cet acte de « torture » et « cruel ». Son avocat dénonce une peine disproportionnée. L’Iran maintient sa position, malgré les critiques internationales. Parallèlement, deux sœurs jumelles iraniennes, Taraneh et Romina Rahimi, ont été condamnées à mort et à 25 ans de prison respectivement pour leur participation à des manifestations.",
           "sources": [
             "Libération",
             "France 24",
-            "Le Monde",
-            "Courrier International",
-            "Euronews"
+            "RFI",
+            "France Info"
           ],
           "links": [
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/"
+              "url": "https://www.liberation.fr/international/moyen-orient/une-forme-de-torture-lonu-denonce-la-flagellation-de-la-chanteuse-iranienne-parastoo-ahmadi-20261124_BPJ4X7D3SRFGTNX6ETN3GCC5RE/"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261124-les-places-boursi%C3%A8res-saluent-le-retour-de-jensen-huang-chez-nvidia"
+              "url": "https://www.france24.com/fr/moyen-orient/20261124-l-onu-et-la-france-condamnent-l-iran-pour-la-flagellation-de-la-chanteuse-parastoo-ahmadi"
             },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html"
-            },
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/video/video-jensen-huang-accueilli-en-heros-chez-nvidia-avec-applaudissements-et-accolades_289863"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/24/le-retour-de-jensen-huang-a-la-tete-de-nvidia-declenche-un-rallye-boursier-mondial"
-            }
-          ],
-          "angles": "Libération et Le Monde soulignent l'impact financier sur Donald Trump et les marchés, tandis que France 24 et Euronews insistent sur la réaction des employés et des marchés asiatiques. Courrier International met en avant l'accueil triomphal de Huang par les salariés."
-        },
-        {
-          "headline": "Gaza : frappe israélienne tue le chef de la sécurité intérieure du Hamas",
-          "summary": "Naeem Abou Nahal, responsable de la sécurité intérieure du Hamas à Gaza, a été tué mardi par une frappe israélienne. L'armée israélienne a confirmé avoir ciblé un « terroriste de haut rang » sans préciser son identité. Sept autres personnes, dont un adolescent de 17 ans, ont péri dans des bombardements distincts. Les tensions persistent dans l'enclave palestinienne, où les services de secours palestiniens dénombrent six morts au total dans des attaques séparées.",
-          "sources": [
-            "France Info",
-            "Le Monde",
-            "France 24",
-            "Libération",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/moyen-orient/20261124-chef-s%C3%A9curit%C3%A9-int%C3%A9rieure-hamas-tu%C3%A9-gaza-frappe-israel-netanyahu"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/moyen-orient/gaza-une-frappe-israelienne-fait-6-morts-le-responsable-de-la-securite-interieure-du-hamas-tue-20261124_EQIECSE2WNDRRAR52APIQFL34Q/"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "France Info et Le Monde détaillent les victimes civiles et le contexte sécuritaire, tandis que France 24 et Libération insistent sur la légitimité de la cible israélienne sans remettre en cause les pertes collatérales."
-        },
-        {
-          "headline": "Colombie : attentat et fragilité de l'accord de paix avec les FARC",
-          "summary": "Un attentat à la voiture piégée a fait au moins 25 blessés à Villavicencio, attribué au narcoterrorisme par le président colombien. Dix ans après la signature de l'accord de paix avec les FARC, le processus de réinsertion des ex-guérilleros reste précaire, avec une minorité refusant le désarmement. Les anciens combattants subissent des difficultés économiques et un manque de soutien de l'État. L'accord historique, signé le 24 novembre 2016, est aujourd'hui menacé par des violences persistantes.",
-          "sources": [
-            "Libération",
-            "Le Monde",
-            "RFI",
-            "BBC"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/amerique/colombie-a-la-veille-des-dix-ans-de-laccord-de-paix-un-attentat-a-la-voiture-piegee-fait-au-moins-25-blesses-20261124_KRO74HKRPRGUBA3KWI64U6SKFI/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-dix-ans-apres-l-accord-de-paix-le-laborieux-retour-a-la-vie-civile-des-ex-farc_6814720_3210.html"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261124-colombie-dix-ans-apr%C3%A8s-sa-signature-l-accord-de-paix-avec-les-farc-menac%C3%A9"
-            },
-            {
-              "source": "BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "angles": "Libération et Le Monde abordent la fragilité de l'accord et les conditions de vie des ex-FARC, tandis que RFI met l'accent sur les risques actuels pour la paix."
-        },
-        {
-          "headline": "Iran : 74 coups de fouet infligés à une chanteuse pour avoir chanté sans voile",
-          "summary": "Parastoo Ahmadi, figure du mouvement Femme Vie Liberté, a subi 74 coups de fouet pour avoir participé à un concert diffusé sur YouTube sans porter le hijab. Neuf autres personnes, dont des membres de son équipe, ont été condamnées à des peines similaires. Les autorités iraniennes maintiennent une répression stricte contre les violations des règles vestimentaires, malgré les protestations sociales. La chanteuse est une icône des mouvements contestataires en Iran.",
-          "sources": [
-            "RFI",
-            "France Info",
-            "Euronews"
-          ],
-          "links": [
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/moyen-orient/20261124-l-iran-inflige-74-coups-de-fouet-%C3%A0-la-chanteuse-parastoo-ahmadi"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/iran/l-iran-a-inflige-74-coups-de-fouet-a-une-chanteuse-qui-s-est-produite-sur-youtube-sans-voile_8297238.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/24/iran-la-chanteuse-parastoo-ahmadi-fouettee-pour-avoir-chante-sans-hijab"
+              "url": "https://www.franceinfo.fr/monde/iran/l-une-condamnee-a-mort-l-autre-a-de-la-prison-le-destin-brise-de-s-urs-jumelles-iraniennes_8298384.html#xtor=RSS-3-%5Bmonde%5D"
             }
-          ]
+          ],
+          "angles": "Libération et France 24 adoptent un angle humanitaire et critique envers les autorités iraniennes, tandis que RFI se concentre sur les détails juridiques et les réactions locales."
         },
         {
-          "headline": "Chine : enquête pour corruption contre un haut responsable du Parti communiste",
-          "summary": "Chen Jining, chef du Parti communiste à Shanghai et membre du bureau politique, fait l'objet d'une enquête pour soupçons de corruption. Il est le quatrième responsable de haut niveau visé depuis le début du mandat actuel du président chinois en 2022. Cette mesure s'inscrit dans la lutte continue du régime contre la corruption au sein de l'appareil d'État, malgré les risques politiques que cela comporte.",
+          "headline": "Colombie : prise d’otages et attentat dans un contexte post-conflit",
+          "summary": "Une trentaine de personnes ont été prises en otage dans un supermarché de Carthagène, en Colombie, par des assaillants armés. L’attaque survient un jour après un attentat à la voiture piégée à Villavicencio, faisant des morts. Ces événements interviennent dix ans après la signature d’un accord de paix historique entre l’État colombien et la guérilla des FARC. Les autorités ont déployé des forces spéciales pour tenter de libérer les otages. Le pays reste marqué par des violences persistantes malgré la fin officielle du conflit.",
           "sources": [
-            "Le Monde"
+            "Le Monde",
+            "France 24"
           ],
           "links": [
             {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/24/chine-a-shanghai-le-chef-du-parti-communiste-vise-par-une-enquete-pour-des-soupcons-de-corruption_6814768_3210.html"
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne"
+            }
+          ]
+        },
+        {
+          "headline": "Cisjordanie : écoles en alerte face à la violence des colons israéliens",
+          "summary": "En Cisjordanie occupée, plusieurs écoles, dont celle d’Al-Mughayyir, sont en état d’alerte en raison des attaques de colons israéliens. Cinq élèves ont été tués lors de l’année scolaire écoulée, dont un devant l’établissement. Les images de puits palestiniens scellés par des colons, bien que datées de 2023, illustrent la spoliation des ressources en eau. Amnesty International accuse Israël d’entraver les naissances à Gaza via des restrictions administratives. Le ministre de la Défense israélien affirme que l’Iran développe des armes chimiques, tandis que des tensions persistent sur un éventuel réarmement iranien.",
+          "sources": [
+            "Le Figaro",
+            "RFI",
+            "France 24",
+            "France Info",
+            "Mediapart"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/amnesty-international-accuse-israel-d-entraver-les-naissances-a-gaza-20261125"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261124-cisjordanie-occup%C3%A9e-les-%C3%A9coles-en-%C3%A9tat-d-alerte-face-%C3%A0-la-violence-des-colons-isra%C3%A9liens"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261124-cisjordanie-occup%C3%A9e-l-acc%C3%A8s-%C3%A0-l-eau-bloqu%C3%A9-pour-des-palestiniens"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-ministre-de-la-defense-israelien-affirme-que-l-iran-developpe-des-armes-chimiques_8298327.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/international/241126/en-cisjordanie-occupee-une-systematique-politique-israelienne-de-terreur-coloniale"
+            }
+          ]
+        },
+        {
+          "headline": "Chine : mission spatiale et crise du soja perturbent l’économie",
+          "summary": "La Chine a lancé avec succès la mission spatiale Shenzhou-24 depuis le centre de Jiuquan. Parallèlement, le pays fait face à une surproduction de soja, entraînant des blocages de cargaisons dans les ports pour éviter une saturation des infrastructures. Cette mesure vise à stabiliser les prix et à gérer les stocks. La Chine cherche ainsi à éviter une crise logistique dans le secteur agroalimentaire, crucial pour son économie.",
+          "sources": [
+            "Le Figaro",
+            "RFI"
+          ],
+          "links": [
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sciences/la-mission-spatiale-chinoise-shenzhou-24-a-decolle-20261125"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261124-la-chine-d%C3%A9bord%C3%A9e-par-son-soja-intervient-pour-limiter-la-baisse-des-prix"
             }
           ]
         }
@@ -179,166 +179,149 @@
       "label": "Europe",
       "topics": [
         {
-          "headline": "Ukraine frappe navires russes en Libye et Baltique",
-          "summary": "L'Ukraine a revendiqué des attaques contre deux navires russes en Libye et un cargo en mer Baltique. Kiev affirme cibler uniquement la logistique russe, mais Moscou a riposté en frappant Zaporijjia, faisant deux morts et 40 blessés. Ces opérations visent à étendre la guerre hors des frontières ukrainiennes. Les frappes russes sur Zaporijjia ont touché des civils, dont des enfants.",
+          "headline": "Ukraine étend la guerre en Libye et en mer Baltique",
+          "summary": "L'Ukraine a revendiqué des attaques contre deux navires russes en Libye et en mer Baltique, provoquant des réactions internationales. Kiev justifie ces opérations comme une extension du conflit, tandis que Moscou dément toute implication libyenne. Les frappes ont suscité des inquiétudes en Italie et dans l'Otan, et la Russie a riposté en bombardant Kiev, faisant au moins 15 morts. Les pays riverains de la Baltique, membres de l'Otan, sont embarrassés par ces opérations.",
           "sources": [
-            "Toute l'Europe",
             "France Info",
-            "Le Monde",
+            "Courrier International",
+            "Toute l'Europe",
             "France 24",
-            "Libération"
+            "Le Figaro"
           ],
           "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "Courrier International",
+              "url": "https://www.courrierinternational.com/article/guerre-l-italie-s-inquiete-apres-les-attaques-ukrainiennes-sur-des-navires-russes-en-libye_289866"
+            },
             {
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/guerre-en-ukraine-kiev-revendique-des-frappes-contre-deux-navires-russes-en-libye/"
             },
             {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-le-hongrois-peter-magyar-va-rencontrer-volodymyr-zelensky-mardi-en-transcarpatie_6814183_3210.html"
-            },
-            {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/guerre-en-ukraine-plus-de-1-000-suicides-de-militaires-russes-recenses-depuis-le-debut-du-conflit-20261124_QFS54FAN2VG7BCD3QN2XIQUCQE/"
-            }
-          ],
-          "angles": "Toute l'Europe et France 24 soulignent l'aspect stratégique et symbolique des attaques ukrainiennes en dehors de l'Ukraine, tandis que Le Monde et France Info insistent sur la riposte russe et ses conséquences humanitaires. Libération et France Info mentionnent aussi le contexte des suicides militaires russes."
-        },
-        {
-          "headline": "UE interdit aux athlètes russes les compétitions sur son sol",
-          "summary": "La Commission européenne propose d'interdire aux sportifs russes de concourir sous leur bannière dans les compétitions se tenant sur le territoire de l'UE. Cette mesure fait partie d'un nouveau paquet de sanctions contre Moscou. Plusieurs pays membres, comme la Finlande, ont déjà adopté des restrictions similaires. Le Tribunal arbitral du sport a ordonné la réintégration de certains athlètes russes, mais certains États résistent.",
-          "sources": [
-            "Courrier International",
-            "Le Monde",
-            "France Info",
-            "RFI"
-          ],
-          "links": [
-            {
-              "source": "Courrier International",
-              "url": "https://www.courrierinternational.com/article/sanctions-l-union-europeenne-veut-bannir-la-russie-des-competitions-sportives_289848"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html#xtor=RSS-3-%5Bmonde%2Feurope%5D"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/europe/20261124-l-union-europ%C3%A9enne-propose-d-interdire-de-comp%C3%A9tition-les-athl%C3%A8tes-russes-sur-son-territoire"
-            }
-          ],
-          "angles": "Courrier International et Le Monde mettent en avant le cadre juridique et politique des sanctions, tandis que France Info et RFI insistent sur l'aspect sportif et les réactions internationales. Le Monde analyse aussi les risques pour l'ordre sportif mondial."
-        },
-        {
-          "headline": "Suicides militaires russes en hausse en Ukraine",
-          "summary": "Plus de 1 000 suicides de soldats russes ont été recensés depuis le début du conflit, selon des données piratées par des hackeurs biélorusses et ukrainiens. L'année 2026 détient le deuxième taux le plus élevé après 2025. Ces chiffres, sous-estimés selon le Guardian, révèlent une crise morale et psychologique dans les rangs de l'armée russe. La Russie intensifie ses frappes en réponse aux attaques ukrainiennes hors de ses frontières.",
-          "sources": [
-            "Le Figaro",
-            "Libération",
-            "France Info",
-            "EURACTIV",
-            "Euronews"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-1000-soldats-russes-se-seraient-suicides-depuis-le-debut-du-conflit-20261124"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/international/guerre-en-ukraine-plus-de-1-000-suicides-de-militaires-russes-recenses-depuis-le-debut-du-conflit-20261124_QFS54FAN2VG7BCD3QN2XIQUCQE/"
-            },
-            {
-              "source": "France Info",
-              "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-un-conflit-sans-frontieres_8297181.html#xtor=RSS-3-%5Bmonde%5D"
-            },
-            {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/les-dirigeants-du-groupe-de-visegrad-et-de-lautriche-critiquent-vivement-le-budget-de-lue/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/24/budget-pluriannuel-de-lue-le-groupe-de-visegrad-complique-les-negociations"
-            }
-          ],
-          "angles": "Le Figaro et Libération partagent les mêmes faits mais Le Figaro insiste sur l'aspect chiffré et sous-estimé, tandis que Libération met en avant le contexte des piratages de données et leur origine."
-        },
-        {
-          "headline": "Report du vote sur l’assouplissement des pesticides en UE",
-          "summary": "Le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir la réglementation des pesticides, initialement prévu en décembre. Ce report est dû à des blocages politiques et à un embouteillage dans l'approbation des produits utilisés. Le paquet législatif, appelé Omnibus X, prévoit des autorisations illimitées pour certains pesticides, suscitant des débats au sein des institutions européennes.",
-          "sources": [
-            "Libération",
-            "Le Monde",
-            "Le Figaro"
-          ],
-          "links": [
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/environnement/agriculture/on-a-quand-meme-un-peu-despoir-le-vote-de-la-loi-sur-lextension-de-lusage-des-pesticides-reportee-a-2027-au-parlement-europeen-20261124_HV6RSCRYGFBCPB4QIAQBMIKN7E/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html"
+              "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261124-ukraine-une-guerre-sans-fronti%C3%A8res"
             },
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/le-mi5-alerte-les-fournisseurs-de-l-armee-ukrainienne-au-royaume-uni-sur-le-risque-de-sabotage-russe-20261124"
+              "url": "https://www.lefigaro.fr/international/attaques-de-drones-flotte-fantome-la-mer-baltique-nouveau-theatre-du-conflit-entre-l-ukraine-et-la-russie-20261124"
             }
           ]
         },
         {
-          "headline": "Royaume-Uni alerte sur les risques de sabotage russe",
-          "summary": "Le MI5 et le gouvernement britannique alertent les fournisseurs de l'armée ukrainienne sur des risques accrus de sabotage par la Russie. Une alerte de sécurité indique que Moscou pourrait cibler des installations européennes liées à la défense. Le Royaume-Uni prévoit de briefer les dirigeants du secteur pour renforcer la sécurité. Ces mesures interviennent dans un contexte d'escalade des tensions autour de l'approvisionnement militaire de l'Ukraine.",
+          "headline": "Bilan humain russe en Ukraine : 700 000 morts confirmés",
+          "summary": "Des données piratées par des hackers et analysées par des médias indépendants russes révèlent que plus de 700 000 soldats russes seraient morts depuis le début de la guerre en Ukraine en février 2022. Ces chiffres, confirmés par des analyses croisées, dépassent largement les estimations précédentes. Le Kremlin a toujours refusé de publier ces données, et cette révélation pourrait avoir un impact majeur sur l'opinion publique et la perception du conflit.",
+          "sources": [
+            "Libération",
+            "France 24",
+            "Le Monde"
+          ],
+          "links": [
+            {
+              "source": "Libération",
+              "url": "https://www.liberation.fr/checknews/guerre-en-ukraine-pourquoi-les-pertes-russes-pourraient-selever-a-700-000-soldats-tues-20261124_Z3QV66Z26RFPZDQZSVADZFWJEY/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/europe/20261124-plus-700-000-soldats-russes-morts-ukraine-sait-cette-nouvelle-estimation"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nouveau train de sanctions de l'UE contre la Russie",
+          "summary": "La Commission européenne a proposé un nouveau paquet de sanctions contre la Russie, incluant l'exclusion des athlètes et militaires russes des compétitions et événements organisés sur le territoire européen. Ces mesures s'inscrivent dans une stratégie de pression accrue face à l'intensification de la guerre hybride. L'UE maintient sa position jusqu'à ce que Moscou fasse preuve d'une volonté de paix durable en Ukraine. Les décisions visent aussi à renforcer la cohésion interne face aux défis posés par le conflit.",
           "sources": [
             "Le Figaro",
+            "Le Monde",
             "EURACTIV"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/international/le-mi5-alerte-les-fournisseurs-de-l-armee-ukrainienne-au-royaume-uni-sur-le-risque-de-sabotage-russe-20261124"
+              "url": "https://www.lefigaro.fr/international/dans-son-dernier-train-de-sanctions-l-ue-entend-generaliser-l-exclusion-des-athletes-russes-des-competitions-sportives-organisees-sur-son-territoire-20261124"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/sport/article/2026/11/24/bloquer-les-visas-des-athletes-russes-une-decision-moralement-justifiable-mais-qui-cree-un-dangereux-precedent_6814775_3242.html"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/lue-vise-les-athletes-et-les-militaires-russes-dans-un-nouveau-train-de-sanctions/"
+            }
+          ],
+          "angles": "Le Figaro met l'accent sur l'aspect sportif et symbolique des sanctions, tandis que Le Monde analyse les implications juridiques et morales pour l'ordre sportif international."
+        },
+        {
+          "headline": "Risque de sabotage russe : le Royaume-Uni en alerte",
+          "summary": "Le Royaume-Uni a alerté ses entreprises fournissant l'Ukraine sur une menace accrue de sabotage attribuée à la Russie. Londres recommande de réduire l'exposition numérique et de renforcer la détection des activités hostiles. Cette mesure s'inscrit dans un contexte de tensions croissantes et de craintes d'escalade. L'Otan a également réagi en promettant de garantir la sécurité de ses membres, y compris dans l'espace, après des soupçons de placement d'une arme nucléaire russe en orbite.",
+          "sources": [
+            "France Info",
+            "EURACTIV",
+            "20 Minutes"
+          ],
+          "links": [
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-royaume-uni-alerte-ses-entreprises-fournissant-l-ukraine-sur-le-risque-de-sabotage-russe_8298273.html#xtor=RSS-3-%5Bmonde%5D"
             },
             {
               "source": "EURACTIV",
               "url": "https://www.rapporteur.com/fr/news/menace-de-sabotage-russe-le-royaume-uni-va-briefer-les-pdg-du-secteur-de-la-defense/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/monde/ukraine/4265350-20261124-espace-evidemment-interdit-russie-peut-vraiment-placer-arme-nucleaire-orbite?at_medium=display&at_campaign=149"
+            }
+          ],
+          "angles": "France Info et 20 Minutes soulignent les risques concrets pour les entreprises et la sécurité nationale. EURACTIV met en avant la dimension stratégique et la réponse coordonnée de l'Otan."
+        },
+        {
+          "headline": "Débat sur les pesticides en Europe : l'Omnibus X divise",
+          "summary": "Le projet européen de simplification des normes sur les pesticides, surnommé Omnibus X, suscite une vive opposition. Des manifestations ont eu lieu devant le Parlement européen, où les députés ont reporté le vote en raison des divisions internes. Les ONG et familles de malades dénoncent un texte qui sacrifierait la santé publique pour des intérêts économiques. Les conservateurs et socialistes s'affrontent sur ce dossier, retardant une décision déjà controversée.",
+          "sources": [
+            "RFI",
+            "France Info",
+            "EURACTIV"
+          ],
+          "links": [
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/europe/20261124-nouvelle-mobilisation-devant-le-parlement-europ%C3%A9en-contre-la-lev%C3%A9e-des-normes-de-certains-pesticides"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/on-sacrifie-la-sante-pour-les-profits-a-strasbourg-les-manifestants-denoncent-l-ominibus-x-le-projet-de-simplification-europeen-sur-les-pesticides_8297778.html#xtor=RSS-3-%5Bmonde%5D"
+            },
+            {
+              "source": "EURACTIV",
+              "url": "https://www.rapporteur.com/fr/news/dereglementation-environnementale-les-querelles-internes-au-parlement-europeen-font-derailler-le-vote/"
             }
           ]
         },
         {
-          "headline": "Budget de l’UE bloqué par le groupe de Visegrád",
-          "summary": "Les dirigeants du groupe de Visegrád et de l'Autriche critiquent fermement la proposition de budget pluriannuel de l'UE, jugée insuffisante. Ces pays estiment que la proposition ne constitue pas une base de négociation acceptable. Les tensions persistent alors que l'UE cherche à finaliser son budget pour 2027, crucial pour ses politiques et investissements futurs.",
+          "headline": "Crise politique en Suède : échec de la coalition de gauche",
+          "summary": "Les partis de gauche suédois (sociaux-démocrates, centristes, Verts et Parti de la gauche) ont échoué à former une coalition gouvernementale après les élections législatives. Le premier ministre sortant conservateur, Ulf Kristersson, se prépare à briguer un second mandat. Cette impasse politique survient dans un contexte de polarisation croissante en Europe, avec des répercussions possibles sur les alliances régionales et la politique étrangère du pays.",
           "sources": [
-            "EURACTIV",
-            "Euronews",
+            "Le Monde",
             "France 24"
           ],
           "links": [
             {
-              "source": "EURACTIV",
-              "url": "https://www.rapporteur.com/fr/news/les-dirigeants-du-groupe-de-visegrad-et-de-lautriche-critiquent-vivement-le-budget-de-lue/"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/24/budget-pluriannuel-de-lue-le-groupe-de-visegrad-complique-les-negociations"
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/24/suede-le-centre-gauche-echoue-a-former-un-gouvernement_6814817_3210.html"
             },
             {
               "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-pologne-un-drone-russe-viole-l-espace-a%C3%A9rien"
+              "url": "https://www.france24.com/fr/europe/20261124-visite-de-p%C3%A9ter-magyar-en-ukraine-kiev-et-budapest-ouvrent-un-nouveau-chapitre"
             }
-          ],
-          "angles": "EURACTIV et Euronews adoptent un ton factuel et politique, mais EURACTIV insiste sur les déclarations officielles des dirigeants, tandis qu'Euronews élargit le contexte aux enjeux économiques généraux."
+          ]
         }
       ]
     },
@@ -347,156 +330,176 @@
       "label": "France",
       "topics": [
         {
-          "headline": "Affaire Takieddine : Sarkozy et Carla Bruni renvoyés en procès",
-          "summary": "Nicolas Sarkozy, Carla Bruni-Sarkozy et Mimi Marchand seront jugés en 2027 pour leur rôle présumé dans la rétractation monnayée de Ziad Takieddine, intermédiaire dans l’affaire du financement libyen de la campagne présidentielle de 2007. Ils sont accusés d’association de malfaiteurs et de recel de subornation de témoin. La décision a été confirmée par les juges d’instruction parisiens.",
+          "headline": "Projet de loi logement : le RN obtient la fin des interdictions sur les passoires thermiques",
+          "summary": "L’Assemblée nationale a adopté en première lecture le projet de loi logement, avec le soutien de la droite et de l’extrême droite, incluant un amendement du Rassemblement national supprimant l’interdiction de louer les passoires thermiques. Le texte doit encore être finalisé lors d’une commission mixte paritaire en décembre. Le ministre du logement, Vincent Jeanbrun, espère une révision de cet amendement lors des négociations. Le vote final est prévu le 15 décembre.",
           "sources": [
-            "France 24",
-            "Le Figaro",
             "Le Monde",
+            "Mediapart",
             "France Info",
-            "Libération"
+            "Libération",
+            "Le Figaro"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni"
-            },
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/actualite-france/fausse-retractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces-apres-la-20261124"
-            },
-            {
               "source": "Le Monde",
-              "url": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html"
+              "url": "https://www.lemonde.fr/societe/article/2026/11/24/l-assemblee-nationale-adopte-le-projet-de-loi-sur-le-logement-avec-les-voix-du-rassemblement-national_6814849_3224.html"
+            },
+            {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/ecologie/241126/le-projet-de-loi-logement-du-gouvernement-adopte-avec-les-voix-de-l-extreme-droite"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/fausse-retractation-de-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces-en-2027-20261124_MVCMLYLVGBGMHPN4YEIXMXLYEY/"
+              "url": "https://www.liberation.fr/societe/logement/lassemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-logement-20261124_I5ODNUGDAVB7DD5MXBTZCWV35Q/"
+            },
+            {
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-logement-20261124"
             }
           ]
         },
         {
-          "headline": "Mort de Nahel Merzouk : procès pour meurtre confirmé en appel",
-          "summary": "La cour d’appel de Versailles a ordonné que le policier ayant tué Nahel Merzouk en 2023 soit jugé pour meurtre devant la cour d’assises des Hauts-de-Seine. L’avocat du fonctionnaire a annoncé un pourvoi en cassation. Nahel, 17 ans, avait été abattu lors d’un contrôle routier à Nanterre.",
+          "headline": "Enquête ouverte pour tentative de meurtre sur un adolescent blessé par balle lors d’une manifestation",
+          "summary": "Un adolescent de 15 ans a été touché par une balle de plomb lors de la manifestation du 17 octobre à Paris, place de la Nation, avant l’arrivée du cortège. Une enquête pour tentative de meurtre a été ouverte, sans que l’origine du tir (police ou autre) soit confirmée. Le projectile a perforé son poumon. Les investigations sont en cours pour identifier l’auteur.",
           "sources": [
-            "France 24",
-            "France Info",
             "Libération",
-            "RFI",
-            "20 Minutes"
+            "20 Minutes",
+            "France Info",
+            "Mediapart"
           ],
           "links": [
             {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-mort-de-nahel-la-justice-confirme-en-appel-le-renvoi-du-policier-pour-meurtre"
+              "source": "Libération",
+              "url": "https://www.liberation.fr/societe/police-justice/manifestation-du-17-octobre-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-20261124_6Q73CJPK2RAHNH3DH36MDQJUFM/"
+            },
+            {
+              "source": "20 Minutes",
+              "url": "https://www.20minutes.fr/justice/4265512-20261124-paris-ado-15-ans-vise-balle-plomb-17-octobre-enquete-tentative-meurtre-ouverte?at_medium=display&at_campaign=149"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-lors-de-la-manifestation-du-17-octobre_8298381.html#xtor=RSS-3-[lestitres]"
             },
             {
+              "source": "Mediapart",
+              "url": "https://www.mediapart.fr/journal/france/241126/manifestation-du-17-octobre-un-adolescent-blesse-par-balle-place-de-la-nation-une-enquete-ouverte-pour-ten"
+            }
+          ]
+        },
+        {
+          "headline": "Affaire Nahel Merzouk : procès pour meurtre ordonné contre le policier auteur des tirs",
+          "summary": "La cour d’appel de Versailles a confirmé le renvoi devant une cour d’assises pour meurtre du policier ayant tué Nahel Merzouk en juin 2023. La mère du jeune homme, Mounia Merzouk, s’est dite « soulagée » mais a souligné que le combat judiciaire n’est pas terminé. Le procès devrait se tenir prochainement. L’affaire avait provoqué des émeutes en France.",
+          "sources": [
+            "Libération",
+            "France Info",
+            "RFI",
+            "France 24"
+          ],
+          "links": [
+            {
               "source": "Libération",
-              "url": "https://www.liberation.fr/societe/police-justice/mort-de-nahel-merzouk-la-cour-dappel-de-versailles-ordonne-un-proces-pour-meurtre-contre-le-policier-qui-la-tue-20261124_HLTCW73RNRDUPJOWTA4ET4ZAEY/"
+              "url": "https://www.liberation.fr/societe/police-justice/cest-une-victoire-importante-la-mere-de-nahel-merzouk-soulagee-des-poursuites-pour-meurtre-contre-le-policier-a-lorigine-des-tirs-20261124_REQX5SS6RNEBNNGY4FTTO23K7M/"
+            },
+            {
+              "source": "France Info",
+              "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/la-mere-de-nahel-merzouk-se-dit-soulagee-et-contente-alors-que-la-justice-confirme-en-appel-le-renvoi-du-policier-pour-meurtre_8297925.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "RFI",
               "url": "https://www.rfi.fr/fr/france/20261124-mort-de-nahel-en-2023-en-appel-la-justice-fran%C3%A7aise-ordonne-un-proc%C3%A8s-pour-meurtre-%C3%A0-l-encontre-du-policier"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4265284-20261124-mort-nahel-merzouk-justice-ordonne-appel-proces-meurtre-encontre-policier?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261124-mort-nahel-merzouk-justice-ordonne-proc%C3%A8s-pour-meurtre-policier"
             }
-          ]
+          ],
+          "angles": "Libération et France Info insistent sur la réaction émotionnelle de Mounia Merzouk, tandis que RFI et France 24 mettent en avant la décision juridique et son contexte historique."
         },
         {
-          "headline": "France : création de stocks stratégiques de minerais critiques",
-          "summary": "La France va se doter de réserves de terres rares et de métaux prioritaires, inspirées du modèle des stocks pétroliers, pour réduire sa dépendance à la Chine. L’annonce a été faite par Emmanuel Macron lors d’une réunion avec des industriels. Le calendrier et le financement restent à préciser.",
+          "headline": "Affaire Takieddine : Sarkozy, Carla Bruni et Mimi Marchand renvoyés en correctionnelle",
+          "summary": "Nicolas Sarkozy, son épouse Carla Bruni et la communicante Mimi Marchand sont renvoyés devant le tribunal correctionnel pour leur rôle dans l’affaire de la rétractation monnayée de Ziad Takieddine. Ils sont accusés d’association de malfaiteurs et de recel de subornation de témoin. Leur procès est prévu en 2027. L’opération visait à faire lever l’immunité de Sarkozy dans l’affaire des financements libyens.",
           "sources": [
             "France Info",
-            "Euronews",
-            "Libération"
+            "Libération",
+            "France 24",
+            "RFI"
           ],
           "links": [
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html#xtor=RSS-3-[lestitres]"
-            },
-            {
-              "source": "Euronews",
-              "url": "https://fr.euronews.com/2026/11/24/la-france-va-constituer-des-stocks-strategiques-de-terres-rares-et-minerais-critiques"
+              "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/economie/la-france-veut-se-doter-de-stocks-strategiques-de-terres-rares-et-minerais-critiques-20261124_VHWVQ5MQINAMDH2A66QQB4W3LU/"
+              "url": "https://www.liberation.fr/societe/police-justice/fausse-retractation-de-takieddine-pourquoi-nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-correctionnelle-20261124_MTQVYR2TCRGC3BSJX3ROGEOPHA/"
+            },
+            {
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni"
+            },
+            {
+              "source": "RFI",
+              "url": "https://www.rfi.fr/fr/france/20261124-fausse-r%C3%A9tractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoy%C3%A9s-en-proc%C3%A8s"
             }
           ],
-          "angles": "France Info et Euronews insistent sur la dimension géopolitique, tandis que Libération met l’accent sur les détails concrets et les incertitudes."
+          "angles": "France Info et Libération détaillent les charges précises, tandis que France 24 et RFI soulignent l’aspect médiatique et politique de l’affaire."
         },
         {
-          "headline": "Présidentielle 2027 : Bruno Retailleau promet une loi pour libérer les communes",
-          "summary": "Bruno Retailleau, candidat LR à l’élection présidentielle, a promis une « grande loi de liberté locale » pour réduire la bureaucratie pesant sur les maires lors du congrès de l’Association des maires de France. Ce rassemblement est aussi marqué par la course aux 500 parrainages nécessaires pour se présenter.",
+          "headline": "Présidentielle 2027 : tensions entre Édouard Philippe et David Lisnard sur l’extrême droite",
+          "summary": "Édouard Philippe a proposé un débat télévisé à David Lisnard, qu’il accuse de ne pas être « étanche » avec l’extrême droite. Lisnard, maire de Cannes, rejette ces accusations et défend une ligne centrée sur les maires. Philippe considère aussi qu’il a plus de points communs avec Gabriel Attal et Bruno Retailleau. Les débats sur la primaire présidentielle s’intensifient.",
           "sources": [
             "Le Figaro",
-            "RFI",
-            "France 24",
-            "Libération",
+            "France Info",
             "Le Monde"
           ],
           "links": [
             {
               "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-en-quete-de-parrainage-de-nombreux-candidats-attendus-au-congres-des-maires-de-france-20261124"
-            },
-            {
-              "source": "RFI",
-              "url": "https://www.rfi.fr/fr/france/20261124-pr%C3%A9sidentielle-2027-le-congr%C3%A8s-des-maires-de-france-march%C3%A9-aux-parrainages-des-candidats"
-            },
-            {
-              "source": "France 24",
-              "url": "https://www.france24.com/fr/france/20261124-ouverture-du-congr%C3%A8s-des-maires-sur-fond-de-bataille-pour-l-%C3%A9lys%C3%A9e"
-            },
-            {
-              "source": "Libération",
-              "url": "https://www.liberation.fr/politique/attal-retailleau-et-lisnard-annulent-leur-deuxieme-reunion-sur-la-primaire-en-attendant-la-rencontre-autour-de-larcher-20261124_A65DDJYCZFFQNN75YDHKX5CZ2M/"
-            },
-            {
-              "source": "Le Monde",
-              "url": "https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html"
-            }
-          ],
-          "angles": "Le Figaro et France 24 mettent en avant les propositions politiques, tandis que Libération et RFI soulignent les enjeux stratégiques des parrainages et les tensions internes."
-        },
-        {
-          "headline": "Enquête pour détournement de fonds à l’agglomération du Havre",
-          "summary": "Une enquête a été ouverte après un signalement pour détournement de fonds publics à l’agglomération du Havre, présidée par Édouard Philippe. La procureure Soizic Guillaume a confirmé la transmission du dossier au commissariat du Havre, suite à une plainte de l’ex-directrice générale adjointe Cornelia Findeisen.",
-          "sources": [
-            "Le Figaro",
-            "France Info",
-            "Libération",
-            "20 Minutes"
-          ],
-          "links": [
-            {
-              "source": "Le Figaro",
-              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-une-enquete-ouverte-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe-20261124"
+              "url": "https://www.lefigaro.fr/elections/presidentielles/un-desaccord-manifeste-sur-la-ligne-politique-plutot-qu-une-primaire-edouard-philippe-propose-un-debat-a-david-lisnard-20261124"
             },
             {
               "source": "France Info",
-              "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-[lestitres]"
+              "url": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-[lestitres]"
+            },
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html"
+            }
+          ],
+          "angles": "Le Monde et France Info mettent l’accent sur le clivage politique, tandis que Le Figaro souligne davantage la dimension stratégique et médiatique du débat proposé."
+        },
+        {
+          "headline": "BYD s’installe en France : rachat de l’usine Ineos d’Hambach en Moselle",
+          "summary": "Le constructeur chinois BYD, leader mondial des véhicules électriques, a lancé des négociations exclusives pour racheter l’usine Ineos Automotive d’Hambach (Moselle), produisant actuellement le SUV Grenadier. Ce choix vise à contourner les droits de douane européens et à renforcer sa production locale. L’annonce intervient dans un contexte de tensions commerciales et de préférence européenne.",
+          "sources": [
+            "Le Monde",
+            "France Info",
+            "Libération",
+            "France 24"
+          ],
+          "links": [
+            {
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-constructeur-automobile-chinois-byd-va-s-implanter-en-france_6814850_3234.html"
+            },
+            {
+              "source": "France Info",
+              "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/le-constructeur-chinois-byd-annonce-etre-entre-en-negociations-exclusives-pour-l-acquisition-de-l-usine-ineos-automotive-d-hambach-en-moselle-3455360.html#xtor=RSS-3-[lestitres]"
             },
             {
               "source": "Libération",
-              "url": "https://www.liberation.fr/politique/detournement-de-fonds-publics-une-enquete-ouverte-a-lagglomeration-du-havre-presidee-par-edouard-philippe-20261124_YVGEWXKHJBE2JCNJ2GLT242A7E/"
+              "url": "https://www.liberation.fr/economie/transports/le-leader-chinois-des-voitures-electriques-byd-en-passe-de-racheter-lancienne-usine-smart-en-moselle-20261124_KHO3BPXMONE47BALWT6HATAXPQ/"
             },
             {
-              "source": "20 Minutes",
-              "url": "https://www.20minutes.fr/justice/4265372-20261124-havre-enquete-ouverte-detournement-fonds-publics-agglomeration-presidee-edouard-philippe?at_medium=display&at_campaign=149"
+              "source": "France 24",
+              "url": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-constructeur-automobile-chinois-byd-choisit-la-france-pour-sa-premi%C3%A8re-usine-d-europe-de-l-ouest"
             }
-          ]
+          ],
+          "angles": "Le Monde et France Info insistent sur l’impact économique et stratégique, tandis que Libération met en avant les enjeux géopolitiques et environnementaux liés à la production locale."
         }
       ]
     }
